@@ -1,8 +1,7 @@
-import React from "react";
-type Props = {
+import React, { ReactNode } from "react";
+interface IconComponentProps extends React.HTMLAttributes<HTMLDivElement> {
     iconName: string;
-    className?: string;
-};
-export default function IconComponent(props: Props): React.JSX.Element;
+}
+export default function IconComponent({ iconName, className, ...props }: IconComponentProps): ReactNode;
 export {};
 //# sourceMappingURL=IconComponent.d.ts.map
