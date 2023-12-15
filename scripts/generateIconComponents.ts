@@ -15,7 +15,7 @@ type Icon = {
 
 let indexHeader = `
 import React from "react";
-import IconComponent, { IconComponentProps } from "./IconComponent";
+import IconComponent from "./IconComponent";
 `;
 
 function toCamelCase(str: string): string {

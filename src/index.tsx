@@ -1,5 +1,5 @@
 import React from "react";
-import IconComponent, { IconComponentProps } from "./IconComponent";
+import IconComponent from "./IconComponent";
 const TenK = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="10k" {...props} />
 );
