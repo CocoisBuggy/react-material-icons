@@ -1,0 +1,33 @@
+{
+  "name": "@cocobugs/react-material-icons",
+  "version": "1.0.0",
+  "description": "An expression of all material icons in React components without the need for MUI",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "generator": "ts-node ./scripts/generateIconComponents.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "google icons",
+    "material icons",
+    "react icons"
+  ],
+  "author": "CocoIsBuggy",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "number-to-words": "^1.2.4",
+    "prettier": "^3.1.1",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  }
+}

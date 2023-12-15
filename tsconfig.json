@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2016" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "jsx": "react" /* Specify what JSX code is generated. */,
+    "module": "commonjs" /* Specify what module code is generated. */,
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
+    "strict": true /* Enable all strict type-checking options. */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+
+    "outDir": "./dist", // The output directory for all emitted files.
+    "declaration": true, // Generates corresponding '.d.ts' file.
+    "declarationMap": true, // Generates a sourcemap for each corresponding '.d.ts' file.
+    "sourceMap": true, // Generates corresponding '.map' file.
+    "rootDir": "./src", // Specifies the root directory of input files.
+    "moduleResolution": "node", // Helps TypeScript understand modules.
+    "esModuleInterop": true // Enables emit interoperability between CommonJS and ES Modules.
+  },
+  "exclude": ["./scripts"]
+}
