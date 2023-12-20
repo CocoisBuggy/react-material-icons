@@ -1,12 +1,9 @@
 {
   "name": "@cocobugs/react-material-icons",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An expression of all material icons in React components without the need for MUI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "publishConfig": {
-    "access": "restricted"
-  },
   "scripts": {
     "generator": "ts-node ./scripts/generateIconComponents.ts",
     "build": "rm -R ./dist ; npm run generator && tsc"
