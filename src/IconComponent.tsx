@@ -12,7 +12,7 @@ export default function IconComponent({
   return (
     <i
       aria-label={`icon: ${iconName}`}
-      className={`material-icons-outlined ${className}`}
+      className={`material-symbols-outlined ${className}`}
       {...props}
     >
       {iconName}
