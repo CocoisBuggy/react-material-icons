@@ -38,7 +38,7 @@ function nameToComponentName(str: string): string {
 
 function generateComponent(icon: Icon): string {
   const name = nameToComponentName(icon.name);
-  return `const ${name} = (props: React.HTMLAttributes<HTMLDivElement>) => <IconComponent iconName="${icon.name}" {...props} />;\n`;
+  return `const ${name} = (props: React.HTMLAttributes<HTMLDivElement>): React.ReactElement => <IconComponent iconName="${icon.name}" {...props} />;\n`;
 }
 
 async function main() {

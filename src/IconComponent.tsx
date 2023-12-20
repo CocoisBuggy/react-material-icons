@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React, { ReactElement, ReactNode } from "react";
 
 interface IconComponentProps extends React.HTMLAttributes<HTMLDivElement> {
   iconName: string;
@@ -8,7 +8,7 @@ export default function IconComponent({
   iconName,
   className,
   ...props
-}: IconComponentProps): ReactNode {
+}: IconComponentProps): ReactElement {
   return (
     <i
       aria-label={`icon: ${iconName}`}

@@ -1,1 +1,0 @@
-{"version":3,"file":"IconComponent.d.ts","sourceRoot":"","sources":["../src/IconComponent.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAE,SAAS,EAAE,MAAM,OAAO,CAAC;AAEzC,UAAU,kBAAmB,SAAQ,KAAK,CAAC,cAAc,CAAC,cAAc,CAAC;IACvE,QAAQ,EAAE,MAAM,CAAC;CAClB;AAED,MAAM,CAAC,OAAO,UAAU,aAAa,CAAC,EACpC,QAAQ,EACR,SAAS,EACT,GAAG,KAAK,EACT,EAAE,kBAAkB,GAAG,SAAS,CAUhC"}
