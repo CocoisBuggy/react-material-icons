@@ -52,7 +52,7 @@ function generateComponent(icon: Icon): string {
    *
    * popularity: ${icon.popularity}
   */
-  const ${name} = (props: React.HTMLAttributes<HTMLDivElement>): React.ReactElement => <IconComponent iconName="${
+  const ${name} = (props: React.HTMLAttributes<HTMLDivElement>) => <IconComponent iconName="${
     icon.name
   }" {...props} />;\n`;
 }
