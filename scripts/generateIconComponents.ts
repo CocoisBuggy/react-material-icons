@@ -23,22 +23,38 @@ function toCamelCase(str: string): string {
   return camel.charAt(0).toUpperCase() + camel.slice(1);
 }
 
+/** If the first word in the sequence is a number, replace it with words. */
 function replaceNumbersWithWords(str: string): string {
-  return str.replace(/\d+/g, (match) => {
-    // Convert the matched number to words
-    const words = converter.toWords(parseInt(match)) + "_";
-    // Capitalize the first letter and replace spaces with underscores
-    return words.charAt(0).toUpperCase() + words.slice(1).replace(/ /g, "_");
-  });
+  if (parseInt(str.split("_")[0])) {
+    const words = converter.toWords(parseInt(str.split("_")[0]));
+    // replace spaces with underscores and return the string
+    return words.replace(/ /g, "_") + str.split("_").slice(0).join("_");
+  } else {
+    return str;
+  }
 }
 
 function nameToComponentName(str: string): string {
-  return toCamelCase(replaceNumbersWithWords(str));
+  // First replace numbers with words, then convert to camel case
+  const withWords = replaceNumbersWithWords(str);
+  return toCamelCase(withWords).replace(/_/g, "");
 }
 
 function generateComponent(icon: Icon): string {
   const name = nameToComponentName(icon.name);
-  return `const ${name} = (props: React.HTMLAttributes<HTMLDivElement>): React.ReactElement => <IconComponent iconName="${icon.name}" {...props} />;\n`;
+  return `
+  /**
+   * icon name: ${icon.name}
+   *
+   * categroies: ${icon.categories.join(", ")}
+   *
+   * tags: ${icon.tags.join(", ")}
+   *
+   * popularity: ${icon.popularity}
+  */
+  const ${name} = (props: React.HTMLAttributes<HTMLDivElement>): React.ReactElement => <IconComponent iconName="${
+    icon.name
+  }" {...props} />;\n`;
 }
 
 async function main() {
