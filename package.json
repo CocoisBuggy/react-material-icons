@@ -1,6 +1,6 @@
 {
   "name": "@cocobugs/react-material-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An expression of all material icons in React components without the need for MUI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,6 +14,14 @@
     "react icons"
   ],
   "author": "CocoIsBuggy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CocoisBuggy/react-material-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CocoisBuggy/react-material-icons/issues"
+  },
+  "homepage": "https://github.com/CocoisBuggy/react-material-icons",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.2.45",
