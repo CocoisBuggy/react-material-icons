@@ -8,7 +8,7 @@ import IconComponent from "./IconComponent";
  *
  * tags: 10000, 10K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 1184
+ * popularity: 1187
  */
 const Ten10k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="10k" {...props} />
@@ -21,7 +21,7 @@ const Ten10k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 609
+ * popularity: 610
  */
 const Ten10mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="10mp" {...props} />
@@ -34,7 +34,7 @@ const Ten10mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 11, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 559
+ * popularity: 561
  */
 const Eleven11mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="11mp" {...props} />
@@ -47,7 +47,7 @@ const Eleven11mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, 2, 3, digit, number, symbol
  *
- * popularity: 5241
+ * popularity: 5254
  */
 const OneHundredTwentyThree123 = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -60,7 +60,7 @@ const OneHundredTwentyThree123 = (
  *
  * tags: 12, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 699
+ * popularity: 703
  */
 const Twelve12mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="12mp" {...props} />
@@ -73,7 +73,7 @@ const Twelve12mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 13, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 529
+ * popularity: 531
  */
 const Thirteen13mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="13mp" {...props} />
@@ -86,7 +86,7 @@ const Thirteen13mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 14, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 509
+ * popularity: 512
  */
 const Fourteen14mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="14mp" {...props} />
@@ -99,7 +99,7 @@ const Fourteen14mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 15, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 527
+ * popularity: 528
  */
 const Fifteen15mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="15mp" {...props} />
@@ -112,7 +112,7 @@ const Fifteen15mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 16, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 530
+ * popularity: 532
  */
 const Sixteen16mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="16mp" {...props} />
@@ -125,7 +125,7 @@ const Sixteen16mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 17, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 518
+ * popularity: 519
  */
 const Seventeen17mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="17mp" {...props} />
@@ -138,7 +138,7 @@ const Seventeen17mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 631
+ * popularity: 632
  */
 const Eighteen18UpRating = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="18_up_rating" {...props} />
@@ -151,7 +151,7 @@ const Eighteen18UpRating = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 18, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 618
+ * popularity: 619
  */
 const Eighteen18mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="18mp" {...props} />
@@ -164,7 +164,7 @@ const Eighteen18mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 19, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 504
+ * popularity: 506
  */
 const Nineteen19mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="19mp" {...props} />
@@ -177,7 +177,7 @@ const Nineteen19mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1000, 1K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 826
+ * popularity: 830
  */
 const One1k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="1k" {...props} />
@@ -190,7 +190,7 @@ const One1k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 1000, 1K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 753
+ * popularity: 756
  */
 const One1kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="1k_plus" {...props} />
@@ -203,7 +203,7 @@ const One1kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1x, alphabet, cellular, character, digit, font, letter, mobile, mobiledata, network, number, phone, signal, speed, symbol, text, type, wifi
  *
- * popularity: 1630
+ * popularity: 1631
  */
 const One1xMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="1x_mobiledata" {...props} />
@@ -216,7 +216,7 @@ const One1xMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 20, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 556
+ * popularity: 559
  */
 const Twenty20mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="20mp" {...props} />
@@ -229,7 +229,7 @@ const Twenty20mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 21, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 528
+ * popularity: 529
  */
 const TwentyOne21mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="21mp" {...props} />
@@ -242,7 +242,7 @@ const TwentyOne21mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 22, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 507
+ * popularity: 510
  */
 const TwentyTwo22mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="22mp" {...props} />
@@ -255,7 +255,7 @@ const TwentyTwo22mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 23, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 602
+ * popularity: 604
  */
 const TwentyThree23mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="23mp" {...props} />
@@ -268,7 +268,7 @@ const TwentyThree23mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 24, camera, digits, font, image, letters, megapixel, megapixels, mp, numbers, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 930
+ * popularity: 933
  */
 const TwentyFour24mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="24mp" {...props} />
@@ -281,7 +281,7 @@ const TwentyFour24mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2000, 2K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 781
+ * popularity: 782
  */
 const Two2k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="2k" {...props} />
@@ -294,7 +294,7 @@ const Two2k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 2k, alphabet, character, digit, font, letter, number, plus, symbol, text, type
  *
- * popularity: 588
+ * popularity: 589
  */
 const Two2kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="2k_plus" {...props} />
@@ -307,7 +307,7 @@ const Two2kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 522
+ * popularity: 524
  */
 const Two2mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="2mp" {...props} />
@@ -320,7 +320,7 @@ const Two2mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 30fps, alphabet, camera, character, digit, font, fps, frames, letter, number, symbol, text, type, video
  *
- * popularity: 1235
+ * popularity: 1238
  */
 const Thirty30fps = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="30fps" {...props} />
@@ -333,7 +333,7 @@ const Thirty30fps = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 30, camera, digits, fps, frame, frequency, image, numbers, per, rate, second, seconds, select, video
  *
- * popularity: 1028
+ * popularity: 1030
  */
 const Thirty30fpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="30fps_select" {...props} />
@@ -346,7 +346,7 @@ const Thirty30fpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 360, arrow, av, camera, direction, rotate, rotation, vr
  *
- * popularity: 8642
+ * popularity: 8651
  */
 const ThreeHundredSixty360 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="360" {...props} />
@@ -359,7 +359,7 @@ const ThreeHundredSixty360 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, 3d, D, alphabet, arrow, arrows, av, camera, character, digit, font, letter, number, rotation, symbol, text, type, vr
  *
- * popularity: 14469
+ * popularity: 14476
  */
 const Three3dRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3d_rotation" {...props} />
@@ -372,7 +372,7 @@ const Three3dRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3g, alphabet, cellular, character, digit, font, letter, mobile, mobiledata, network, number, phone, signal, speed, symbol, text, type, wifi
  *
- * popularity: 1074
+ * popularity: 1077
  */
 const Three3gMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3g_mobiledata" {...props} />
@@ -385,7 +385,7 @@ const Three3gMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3000, 3K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 641
+ * popularity: 642
  */
 const Three3k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3k" {...props} />
@@ -398,7 +398,7 @@ const Three3k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 3000, 3K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 585
+ * popularity: 588
  */
 const Three3kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3k_plus" {...props} />
@@ -411,7 +411,7 @@ const Three3kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 543
+ * popularity: 546
  */
 const Three3mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3mp" {...props} />
@@ -424,7 +424,7 @@ const Three3mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, 3p, account, avatar, bubble, chat, comment, communicate, face, human, message, party, people, person, profile, speech, user
  *
- * popularity: 7425
+ * popularity: 7431
  */
 const Three3p = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="3p" {...props} />
@@ -437,7 +437,7 @@ const Three3p = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4g, alphabet, cellular, character, digit, font, letter, mobile, mobiledata, network, number, phone, signal, speed, symbol, text, type, wifi
  *
- * popularity: 1896
+ * popularity: 1898
  */
 const Four4gMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="4g_mobiledata" {...props} />
@@ -450,7 +450,7 @@ const Four4gMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4g, alphabet, cellular, character, digit, font, letter, mobile, mobiledata, network, number, phone, plus, signal, speed, symbol, text, type, wifi
  *
- * popularity: 1270
+ * popularity: 1272
  */
 const Four4gPlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="4g_plus_mobiledata" {...props} />
@@ -463,7 +463,7 @@ const Four4gPlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4000, 4K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 1827
+ * popularity: 1829
  */
 const Four4k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="4k" {...props} />
@@ -476,7 +476,7 @@ const Four4k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 4000, 4K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 874
+ * popularity: 876
  */
 const Four4kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="4k_plus" {...props} />
@@ -489,7 +489,7 @@ const Four4kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 497
+ * popularity: 498
  */
 const Four4mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="4mp" {...props} />
@@ -502,7 +502,7 @@ const Four4mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5g, alphabet, cellular, character, data, digit, font, letter, mobile, network, number, phone, signal, speed, symbol, text, type, wifi
  *
- * popularity: 2445
+ * popularity: 2447
  */
 const Five5g = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="5g" {...props} />
@@ -515,7 +515,7 @@ const Five5g = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5000, 5K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 656
+ * popularity: 658
  */
 const Five5k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="5k" {...props} />
@@ -528,7 +528,7 @@ const Five5k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 5000, 5K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 617
+ * popularity: 618
  */
 const Five5kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="5k_plus" {...props} />
@@ -541,7 +541,7 @@ const Five5kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 531
+ * popularity: 532
  */
 const Five5mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="5mp" {...props} />
@@ -554,7 +554,7 @@ const Five5mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 60fps, camera, digit, fps, frames, number, symbol, video
  *
- * popularity: 1033
+ * popularity: 1035
  */
 const Sixty60fps = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="60fps" {...props} />
@@ -567,7 +567,7 @@ const Sixty60fps = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 60, camera, digits, fps, frame, frequency, numbers, per, rate, second, seconds, select, video
  *
- * popularity: 955
+ * popularity: 958
  */
 const Sixty60fpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="60fps_select" {...props} />
@@ -580,7 +580,7 @@ const Sixty60fpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, apart, body, covid, distance, feet, ft, human, people, person, social
  *
- * popularity: 2328
+ * popularity: 2330
  */
 const Six6FtApart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="6_ft_apart" {...props} />
@@ -593,7 +593,7 @@ const Six6FtApart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6000, 6K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 587
+ * popularity: 588
  */
 const Six6k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="6k" {...props} />
@@ -606,7 +606,7 @@ const Six6k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 6000, 6K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 587
+ * popularity: 588
  */
 const Six6kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="6k_plus" {...props} />
@@ -619,7 +619,7 @@ const Six6kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 493
+ * popularity: 494
  */
 const Six6mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="6mp" {...props} />
@@ -632,7 +632,7 @@ const Six6mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 7000, 7K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 584
+ * popularity: 585
  */
 const Seven7k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="7k" {...props} />
@@ -645,7 +645,7 @@ const Seven7k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 7000, 7K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 584
+ * popularity: 585
  */
 const Seven7kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="7k_plus" {...props} />
@@ -658,7 +658,7 @@ const Seven7kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 7, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 495
+ * popularity: 496
  */
 const Seven7mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="7mp" {...props} />
@@ -671,7 +671,7 @@ const Seven7mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 8000, 8K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 718
+ * popularity: 719
  */
 const Eight8k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="8k" {...props} />
@@ -684,7 +684,7 @@ const Eight8k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 7000, 8K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 656
+ * popularity: 657
  */
 const Eight8kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="8k_plus" {...props} />
@@ -697,7 +697,7 @@ const Eight8kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 8, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 497
+ * popularity: 498
  */
 const Eight8mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="8mp" {...props} />
@@ -710,7 +710,7 @@ const Eight8mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 9000, 9K, alphabet, character, digit, display, font, letter, number, pixel, pixels, resolution, symbol, text, type, video
  *
- * popularity: 595
+ * popularity: 596
  */
 const Nine9k = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="9k" {...props} />
@@ -723,7 +723,7 @@ const Nine9k = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 9000, 9K, alphabet, character, digit, display, font, letter, number, pixel, pixels, plus, resolution, symbol, text, type, video
  *
- * popularity: 659
+ * popularity: 660
  */
 const Nine9kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="9k_plus" {...props} />
@@ -736,7 +736,7 @@ const Nine9kPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 9, camera, digit, font, image, letters, megapixel, megapixels, mp, number, pixel, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 496
+ * popularity: 497
  */
 const Nine9mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="9mp" {...props} />
@@ -749,7 +749,7 @@ const Nine9mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, font, letter, symbol, text, type
  *
- * popularity: 3105
+ * popularity: 3109
  */
 const Abc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="abc" {...props} />
@@ -762,7 +762,7 @@ const Abc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ac, air, cold, conditioner, flake, snow, snowflake, temperature, unit, weather, winter
  *
- * popularity: 17730
+ * popularity: 17752
  */
 const AcUnit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ac_unit" {...props} />
@@ -775,7 +775,7 @@ const AcUnit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 2099
+ * popularity: 2101
  */
 const AccessAlarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="access_alarm" {...props} />
@@ -788,7 +788,7 @@ const AccessAlarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 2294
+ * popularity: 2296
  */
 const AccessAlarms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="access_alarms" {...props} />
@@ -801,7 +801,7 @@ const AccessAlarms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 10004
+ * popularity: 10008
  */
 const AccessTime = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="access_time" {...props} />
@@ -814,7 +814,7 @@ const AccessTime = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 4701
+ * popularity: 4702
  */
 const AccessTimeFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="access_time_filled" {...props} />
@@ -827,7 +827,7 @@ const AccessTimeFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, handicap, help, human, people, person
  *
- * popularity: 26361
+ * popularity: 26376
  */
 const Accessibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="accessibility" {...props} />
@@ -840,7 +840,7 @@ const Accessibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, handicap, help, human, new, people, person
  *
- * popularity: 24364
+ * popularity: 24385
  */
 const AccessibilityNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="accessibility_new" {...props} />
@@ -853,7 +853,7 @@ const AccessibilityNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, handicap, help, human, people, person, wheelchair
  *
- * popularity: 13616
+ * popularity: 13629
  */
 const Accessible = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="accessible" {...props} />
@@ -866,7 +866,7 @@ const Accessible = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, forward, handicap, help, human, people, person, wheelchair
  *
- * popularity: 6684
+ * popularity: 6691
  */
 const AccessibleForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="accessible_forward" {...props} />
@@ -879,7 +879,7 @@ const AccessibleForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, balance, bank, bill, building, card, cash, coin, commerce, credit, currency, dollars, finance, government, money, online, pay, payment
  *
- * popularity: 83958
+ * popularity: 84034
  */
 const AccountBalance = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="account_balance" {...props} />
@@ -892,7 +892,7 @@ const AccountBalance = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, balance, bank, bill, card, cash, coin, commerce, credit, currency, dollars, finance, money, online, pay, payment, wallet
  *
- * popularity: 68836
+ * popularity: 68878
  */
 const AccountBalanceWallet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="account_balance_wallet" {...props} />
@@ -905,7 +905,7 @@ const AccountBalanceWallet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, box, face, human, people, person, profile, square, thumbnail, user
  *
- * popularity: 45640
+ * popularity: 45694
  */
 const AccountBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="account_box" {...props} />
@@ -918,7 +918,7 @@ const AccountBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, circle, face, human, people, person, profile, thumbnail, user
  *
- * popularity: 584333
+ * popularity: 584878
  */
 const AccountCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="account_circle" {...props} />
@@ -931,7 +931,7 @@ const AccountCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, analytics, chart, connect, data, diagram, flow, graph, infographic, measure, metrics, process, square, statistics, structure, tracking, tree
  *
- * popularity: 43656
+ * popularity: 43685
  */
 const AccountTree = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="account_tree" {...props} />
@@ -944,7 +944,7 @@ const AccountTree = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, ad, banner, cell, device, hardware, iOS, mobile, notification, notifications, phone, tablet, top, units
  *
- * popularity: 2816
+ * popularity: 2820
  */
 const AdUnits = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ad_units" {...props} />
@@ -957,7 +957,7 @@ const AdUnits = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adb, android, bridge, debug
  *
- * popularity: 4481
+ * popularity: 4486
  */
 const Adb = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="adb" {...props} />
@@ -970,7 +970,7 @@ const Adb = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, new symbol, plus, symbol
  *
- * popularity: 327052
+ * popularity: 327277
  */
 const Add = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add" {...props} />
@@ -983,7 +983,7 @@ const Add = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, a photo, add, camera, lens, new, photography, picture, plus, symbol
  *
- * popularity: 34580
+ * popularity: 34614
  */
 const AddAPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_a_photo" {...props} />
@@ -996,7 +996,7 @@ const AddAPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 1231
+ * popularity: 1232
  */
 const AddAlarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_alarm" {...props} />
@@ -1009,7 +1009,7 @@ const AddAlarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, active, add, alarm, alert, bell, chime, new, notifications, notify, plus, reminder, ring, sound, symbol
  *
- * popularity: 6422
+ * popularity: 6429
  */
 const AddAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_alert" {...props} />
@@ -1022,7 +1022,7 @@ const AddAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, box, new square, plus, symbol
  *
- * popularity: 41234
+ * popularity: 41267
  */
 const AddBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_box" {...props} />
@@ -1035,7 +1035,7 @@ const AddBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, bill, building, business, card, cash, coin, commerce, company, credit, currency, dollars, market, money, new, online, pay, payment, plus, shop, shopping, store, storefront, symbol
  *
- * popularity: 9868
+ * popularity: 9890
  */
 const AddBusiness = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_business" {...props} />
@@ -1048,7 +1048,7 @@ const AddBusiness = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, new, online, pay, payment, plus, price, shopping, symbol
  *
- * popularity: 5775
+ * popularity: 5789
  */
 const AddCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_card" {...props} />
@@ -1061,7 +1061,7 @@ const AddCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, analytics, bar, bars, chart, data, diagram, graph, infographic, measure, metrics, new, plus, statistics, symbol, tracking
  *
- * popularity: 4422
+ * popularity: 4428
  */
 const AddChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_chart" {...props} />
@@ -1074,7 +1074,7 @@ const AddChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, circle, counter, create, new, plus
  *
- * popularity: 123672
+ * popularity: 123781
  */
 const AddCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_circle" {...props} />
@@ -1087,7 +1087,7 @@ const AddCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, circle, create, new, outline, plus
  *
- * popularity: 139556
+ * popularity: 139652
  */
 const AddCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_circle_outline" {...props} />
@@ -1100,7 +1100,7 @@ const AddCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, bubble, chat, comment, communicate, feedback, message, new, plus, speech, symbol
  *
- * popularity: 8898
+ * popularity: 8905
  */
 const AddComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_comment" {...props} />
@@ -1113,7 +1113,7 @@ const AddComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 1281
+ * popularity: 1286
  */
 const AddHome = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_home" {...props} />
@@ -1126,7 +1126,7 @@ const AddHome = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 1219
+ * popularity: 1225
  */
 const AddHomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_home_work" {...props} />
@@ -1139,7 +1139,7 @@ const AddHomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, call, cell, contact, device, hardware, mobile, new, phone, plus, symbol, telephone
  *
- * popularity: 4746
+ * popularity: 4752
  */
 const AddIcCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_ic_call" {...props} />
@@ -1152,7 +1152,7 @@ const AddIcCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, attach, clip, link, new, plus, symbol
  *
- * popularity: 9336
+ * popularity: 9343
  */
 const AddLink = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_link" {...props} />
@@ -1165,7 +1165,7 @@ const AddLink = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, destination, direction, location, maps, new, pin, place, plus, stop, symbol
  *
- * popularity: 6091
+ * popularity: 6092
  */
 const AddLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_location" {...props} />
@@ -1178,7 +1178,7 @@ const AddLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, alt, destination, direction, location, maps, new, pin, place, plus, stop, symbol
  *
- * popularity: 7483
+ * popularity: 7489
  */
 const AddLocationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_location_alt" {...props} />
@@ -1191,7 +1191,7 @@ const AddLocationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, certified, moderator, new, plus, privacy, private, protect, protection, security, shield, symbol, verified
  *
- * popularity: 5470
+ * popularity: 5480
  */
 const AddModerator = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_moderator" {...props} />
@@ -1204,7 +1204,7 @@ const AddModerator = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, alternate, image, landscape, mountain, mountains, new, photo, photography, picture, plus, symbol
  *
- * popularity: 23135
+ * popularity: 23154
  */
 const AddPhotoAlternate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_photo_alternate" {...props} />
@@ -1217,7 +1217,7 @@ const AddPhotoAlternate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, emoji, emotions, expressions, face, feelings, glad, happiness, happy, icon, icons, insert, like, mood, new, person, pleased, plus, smile, smiling, social, survey, symbol
  *
- * popularity: 5383
+ * popularity: 5391
  */
 const AddReaction = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_reaction" {...props} />
@@ -1230,7 +1230,7 @@ const AddReaction = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, destination, direction, highway, maps, new, plus, road, stop, street, symbol, traffic
  *
- * popularity: 4735
+ * popularity: 4739
  */
 const AddRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_road" {...props} />
@@ -1243,7 +1243,7 @@ const AddRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, card, cart, cash, checkout, coin, commerce, credit, currency, dollars, money, online, pay, payment, plus, shopping
  *
- * popularity: 54399
+ * popularity: 54466
  */
 const AddShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_shopping_cart" {...props} />
@@ -1256,7 +1256,7 @@ const AddShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, approve, check, circle, completed, increase, mark, ok, plus, select, task, tick, yes
  *
- * popularity: 25429
+ * popularity: 25452
  */
 const AddTask = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_task" {...props} />
@@ -1269,7 +1269,7 @@ const AddTask = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, app, application, backup, cloud, drive, files, folders, gdrive, google, recovery, shortcut, storage
  *
- * popularity: 6425
+ * popularity: 6430
  */
 const AddToDrive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_to_drive" {...props} />
@@ -1282,7 +1282,7 @@ const AddToDrive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, add to, arrow, cell, device, hardware, home, iOS, mobile, phone, screen, tablet, up
  *
- * popularity: 2070
+ * popularity: 2074
  */
 const AddToHomeScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_to_home_screen" {...props} />
@@ -1295,7 +1295,7 @@ const AddToHomeScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, collection, image, landscape, mountain, mountains, photo, photography, photos, picture, plus, to
  *
- * popularity: 4346
+ * popularity: 4348
  */
 const AddToPhotos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_to_photos" {...props} />
@@ -1308,7 +1308,7 @@ const AddToPhotos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, Android, OS, add, chrome, desktop, device, display, hardware, iOS, mac, monitor, new, plus, queue, screen, symbol, to, web, window
  *
- * popularity: 3559
+ * popularity: 3560
  */
 const AddToQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="add_to_queue" {...props} />
@@ -1321,7 +1321,7 @@ const AddToQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, addchart, analytics, bar, bars, chart, data, diagram, graph, infographic, measure, metrics, new, plus, statistics, symbol, tracking
  *
- * popularity: 10137
+ * popularity: 10146
  */
 const Addchart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="addchart" {...props} />
@@ -1334,7 +1334,7 @@ const Addchart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adf, document, feeder, machine, office, scan, scanner
  *
- * popularity: 1070
+ * popularity: 1073
  */
 const AdfScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="adf_scanner" {...props} />
@@ -1347,7 +1347,7 @@ const AdfScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, alter, auto click, center, circle, circles, dot, fix, focus, image, move, target
  *
- * popularity: 14756
+ * popularity: 14763
  */
 const Adjust = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="adjust" {...props} />
@@ -1360,7 +1360,7 @@ const Adjust = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, admin, avatar, certified, face, human, panel, people, person, privacy, private, profile, protect, protection, security, settings, shield, user, verified
  *
- * popularity: 60737
+ * popularity: 60782
  */
 const AdminPanelSettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="admin_panel_settings" {...props} />
@@ -1373,7 +1373,7 @@ const AdminPanelSettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ads, browser, click, clicks, cursor, internet, target, traffic, web
  *
- * popularity: 22487
+ * popularity: 22513
  */
 const AdsClick = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ads_click" {...props} />
@@ -1386,7 +1386,7 @@ const AdsClick = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agriculture, automobile, car, cars, cultivation, farm, harvest, maps, tractor, transport, travel, truck, vehicle
  *
- * popularity: 8955
+ * popularity: 8962
  */
 const Agriculture = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="agriculture" {...props} />
@@ -1399,7 +1399,7 @@ const Agriculture = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, blowing, breeze, flow, wave, weather, wind
  *
- * popularity: 13138
+ * popularity: 13151
  */
 const Air = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="air" {...props} />
@@ -1412,7 +1412,7 @@ const Air = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airline, body, business, class, first, flat, human, people, person, rest, seat, sleep, travel
  *
- * popularity: 1317
+ * popularity: 1320
  */
 const AirlineSeatFlat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airline_seat_flat" {...props} />
@@ -1425,7 +1425,7 @@ const AirlineSeatFlat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airline, angled, body, business, class, first, flat, human, people, person, rest, seat, sleep, travel
  *
- * popularity: 1053
+ * popularity: 1056
  */
 const AirlineSeatFlatAngled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airline_seat_flat_angled" {...props} />
@@ -1438,7 +1438,7 @@ const AirlineSeatFlatAngled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airline, body, business, class, first, human, individual, people, person, rest, seat, sleep, suite, travel
  *
- * popularity: 1468
+ * popularity: 1473
  */
 const AirlineSeatIndividualSuite = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1451,7 +1451,7 @@ const AirlineSeatIndividualSuite = (
  *
  * tags: airline, body, extra, feet, human, leg, legroom, people, person, seat, sitting, space, travel
  *
- * popularity: 888
+ * popularity: 892
  */
 const AirlineSeatLegroomExtra = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1464,7 +1464,7 @@ const AirlineSeatLegroomExtra = (
  *
  * tags: airline, body, feet, human, leg, legroom, normal, people, person, seat, sitting, space, travel
  *
- * popularity: 952
+ * popularity: 953
  */
 const AirlineSeatLegroomNormal = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1477,7 +1477,7 @@ const AirlineSeatLegroomNormal = (
  *
  * tags: airline, body, feet, human, leg, legroom, people, person, reduced, seat, sitting, space, travel
  *
- * popularity: 857
+ * popularity: 859
  */
 const AirlineSeatLegroomReduced = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1490,7 +1490,7 @@ const AirlineSeatLegroomReduced = (
  *
  * tags: airline, body, extra, feet, human, leg, legroom, people, person, seat, sitting, space, travel
  *
- * popularity: 2445
+ * popularity: 2447
  */
 const AirlineSeatReclineExtra = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1503,7 +1503,7 @@ const AirlineSeatReclineExtra = (
  *
  * tags: airline, body, extra, feet, human, leg, legroom, normal, people, person, recline, seat, sitting, space, travel
  *
- * popularity: 3650
+ * popularity: 3653
  */
 const AirlineSeatReclineNormal = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -1516,7 +1516,7 @@ const AirlineSeatReclineNormal = (
  *
  * tags: airline, arrow, destination, direction, layover, location, maps, place, stops, transportation, travel, trip
  *
- * popularity: 1697
+ * popularity: 1702
  */
 const AirlineStops = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airline_stops" {...props} />
@@ -1529,7 +1529,7 @@ const AirlineStops = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airlines, airplane, airport, flight, plane, transportation, travel, trip
  *
- * popularity: 1322
+ * popularity: 1325
  */
 const Airlines = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airlines" {...props} />
@@ -1542,7 +1542,7 @@ const Airlines = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplane, airport, boarding, flight, fly, maps, pass, ticket, transportation, travel
  *
- * popularity: 7326
+ * popularity: 7339
  */
 const AirplaneTicket = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airplane_ticket" {...props} />
@@ -1555,7 +1555,7 @@ const AirplaneTicket = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, airplane, airplanemode, flight, mode, on, signal
  *
- * popularity: 4688
+ * popularity: 4696
  */
 const AirplanemodeActive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airplanemode_active" {...props} />
@@ -1568,7 +1568,7 @@ const AirplanemodeActive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplane, airplanemode, airport, disabled, enabled, flight, fly, inactive, maps, mode, off, offline, on, slash, transportation, travel
  *
- * popularity: 1659
+ * popularity: 1664
  */
 const AirplanemodeInactive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airplanemode_inactive" {...props} />
@@ -1581,7 +1581,7 @@ const AirplanemodeInactive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplay, arrow, connect, control, desktop, device, display, monitor, screen, signal
  *
- * popularity: 3316
+ * popularity: 3318
  */
 const Airplay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airplay" {...props} />
@@ -1594,7 +1594,7 @@ const Airplay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airport, automobile, car, cars, commercial, delivery, direction, maps, mini, public, shuttle, transport, transportation, travel, truck, van, vehicle
  *
- * popularity: 10561
+ * popularity: 10577
  */
 const AirportShuttle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="airport_shuttle" {...props} />
@@ -1607,7 +1607,7 @@ const AirportShuttle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, clock, countdown, date, notification, schedule, time
  *
- * popularity: 29035
+ * popularity: 29058
  */
 const Alarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alarm" {...props} />
@@ -1620,7 +1620,7 @@ const Alarm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, alarm, alert, bell, clock, countdown, date, new, notification, plus, schedule, symbol, time
  *
- * popularity: 5560
+ * popularity: 5564
  */
 const AlarmAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alarm_add" {...props} />
@@ -1633,7 +1633,7 @@ const AlarmAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, clock, disabled, duration, enabled, notification, off, on, slash, time, timer, watch
  *
- * popularity: 3636
+ * popularity: 3641
  */
 const AlarmOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alarm_off" {...props} />
@@ -1646,7 +1646,7 @@ const AlarmOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, clock, disabled, duration, enabled, notification, off, on, slash, time, timer, watch
  *
- * popularity: 11705
+ * popularity: 11719
  */
 const AlarmOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alarm_on" {...props} />
@@ -1659,7 +1659,7 @@ const AlarmOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, artist, audio, bvb, cd, computer, data, disk, file, music, record, sound, storage, track
  *
- * popularity: 7369
+ * popularity: 7375
  */
 const Album = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="album" {...props} />
@@ -1672,7 +1672,7 @@ const Album = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, center, format, horizontal, layout, lines, paragraph, rule, rules, style, text
  *
- * popularity: 2065
+ * popularity: 2071
  */
 const AlignHorizontalCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_horizontal_center" {...props} />
@@ -1685,7 +1685,7 @@ const AlignHorizontalCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, format, horizontal, layout, left, lines, paragraph, rule, rules, style, text
  *
- * popularity: 3132
+ * popularity: 3135
  */
 const AlignHorizontalLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_horizontal_left" {...props} />
@@ -1698,7 +1698,7 @@ const AlignHorizontalLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, format, horizontal, layout, lines, paragraph, right, rule, rules, style, text
  *
- * popularity: 1950
+ * popularity: 1953
  */
 const AlignHorizontalRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_horizontal_right" {...props} />
@@ -1711,7 +1711,7 @@ const AlignHorizontalRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, bottom, format, layout, lines, paragraph, rule, rules, style, text, vertical
  *
- * popularity: 2150
+ * popularity: 2155
  */
 const AlignVerticalBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_vertical_bottom" {...props} />
@@ -1724,7 +1724,7 @@ const AlignVerticalBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, center, format, layout, lines, paragraph, rule, rules, style, text, vertical
  *
- * popularity: 1579
+ * popularity: 1581
  */
 const AlignVerticalCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_vertical_center" {...props} />
@@ -1737,7 +1737,7 @@ const AlignVerticalCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, format, layout, lines, paragraph, rule, rules, style, text, top, vertical
  *
- * popularity: 1597
+ * popularity: 1600
  */
 const AlignVerticalTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="align_vertical_top" {...props} />
@@ -1750,7 +1750,7 @@ const AlignVerticalTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Inbox, all, delivered, delivery, email, mail, message, send
  *
- * popularity: 8172
+ * popularity: 8179
  */
 const AllInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="all_inbox" {...props} />
@@ -1763,7 +1763,7 @@ const AllInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, endless, forever, inclusive, infinity, loop, mobius, neverending, strip, sustainability, sustainable
  *
- * popularity: 10860
+ * popularity: 10867
  */
 const AllInclusive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="all_inclusive" {...props} />
@@ -1776,7 +1776,7 @@ const AllInclusive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, circle, out, shape
  *
- * popularity: 2566
+ * popularity: 2568
  */
 const AllOut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="all_out" {...props} />
@@ -1789,7 +1789,7 @@ const AllOut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, alternate, alternative, arrows, dash, dashed, direction, maps, navigation, options, other, route, routes, split, symbol
  *
- * popularity: 9175
+ * popularity: 9179
  */
 const AltRoute = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alt_route" {...props} />
@@ -1802,7 +1802,7 @@ const AltRoute = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: @, address, alternate, contact, email, tag
  *
- * popularity: 37111
+ * popularity: 37150
  */
 const AlternateEmail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="alternate_email" {...props} />
@@ -1815,7 +1815,7 @@ const AlternateEmail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, assessment, bar, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 63876
+ * popularity: 63929
  */
 const Analytics = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="analytics" {...props} />
@@ -1828,7 +1828,7 @@ const Analytics = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: anchor, google, logo
  *
- * popularity: 8184
+ * popularity: 8190
  */
 const Anchor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="anchor" {...props} />
@@ -1841,7 +1841,7 @@ const Anchor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: android, character, logo, mascot, toy
  *
- * popularity: 26361
+ * popularity: 26382
  */
 const Android = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="android" {...props} />
@@ -1854,7 +1854,7 @@ const Android = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animation, circles, film, motion, movement, sequence, video
  *
- * popularity: 4188
+ * popularity: 4189
  */
 const Animation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="animation" {...props} />
@@ -1867,7 +1867,7 @@ const Animation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, announcement, attention, bubble, caution, chat, comment, communicate, danger, error, exclamation, feedback, important, mark, message, notification, speech, symbol, warning
  *
- * popularity: 21573
+ * popularity: 21585
  */
 const Announcement = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="announcement" {...props} />
@@ -1880,7 +1880,7 @@ const Announcement = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, always, aod, device, display, hardware, homescreen, iOS, mobile, on, phone, tablet
  *
- * popularity: 2104
+ * popularity: 2106
  */
 const Aod = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="aod" {...props} />
@@ -1893,7 +1893,7 @@ const Aod = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accommodation, apartment, architecture, building, city, company, estate, flat, home, house, office, places, real, residence, residential, shelter, units, workplace
  *
- * popularity: 42806
+ * popularity: 42833
  */
 const Apartment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="apartment" {...props} />
@@ -1906,7 +1906,7 @@ const Apartment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: api, developer, development, enterprise, software
  *
- * popularity: 17405
+ * popularity: 17432
  */
 const Api = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="api" {...props} />
@@ -1919,7 +1919,7 @@ const Api = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, app, application, block, blocking, cancel, cell, device, hardware, iOS, mobile, phone, stop, stopped, tablet
  *
- * popularity: 3425
+ * popularity: 3426
  */
 const AppBlocking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="app_blocking" {...props} />
@@ -1932,7 +1932,7 @@ const AppBlocking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, apps, edit, pencil, register, registration
  *
- * popularity: 18439
+ * popularity: 18458
  */
 const AppRegistration = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="app_registration" {...props} />
@@ -1945,7 +1945,7 @@ const AppRegistration = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, app, applications, cell, device, gear, hardware, iOS, mobile, phone, setting, settings, tablet
  *
- * popularity: 5385
+ * popularity: 5390
  */
 const AppSettingsAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="app_settings_alt" {...props} />
@@ -1958,7 +1958,7 @@ const AppSettingsAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, bookmarked, favorite, highlight, important, marked, mobile, save, saved, shortcut, software, special, star
  *
- * popularity: 3158
+ * popularity: 3162
  */
 const AppShortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="app_shortcut" {...props} />
@@ -1971,7 +1971,7 @@ const AppShortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apply, approval, approvals, approve, certificate, certification, disapproval, drive, file, impression, ink, mark, postage, stamp
  *
- * popularity: 9124
+ * popularity: 9131
  */
 const Approval = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="approval" {...props} />
@@ -1984,7 +1984,7 @@ const Approval = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, applications, apps, circles, collection, components, dots, grid, interface, squares, ui, ux
  *
- * popularity: 71125
+ * popularity: 71170
  */
 const Apps = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="apps" {...props} />
@@ -1997,7 +1997,7 @@ const Apps = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, applications, apps, circles, collection, components, dots, grid, interface, outage, squares, ui, ux
  *
- * popularity: 3011
+ * popularity: 3015
  */
 const AppsOutage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="apps_outage" {...props} />
@@ -2010,7 +2010,7 @@ const AppsOutage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, art, compass, design, draw, drawing, engineering, geometric, tool
  *
- * popularity: 10630
+ * popularity: 10637
  */
 const Architecture = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="architecture" {...props} />
@@ -2023,7 +2023,7 @@ const Architecture = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, inbox, mail, store
  *
- * popularity: 22742
+ * popularity: 22757
  */
 const Archive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="archive" {...props} />
@@ -2036,7 +2036,7 @@ const Archive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, area, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 5945
+ * popularity: 5950
  */
 const AreaChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="area_chart" {...props} />
@@ -2049,7 +2049,7 @@ const AreaChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, app, application, arrow, back, components, direction, disable_ios, interface, left, navigation, previous, screen, site, ui, ux, web, website
  *
- * popularity: 232967
+ * popularity: 233133
  */
 const ArrowBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_back" {...props} />
@@ -2062,7 +2062,7 @@ const ArrowBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, app, application, arrow, back, chevron, components, direction, disable_ios, interface, ios, left, navigation, previous, screen, site, ui, ux, web, website
  *
- * popularity: 165605
+ * popularity: 165722
  */
 const ArrowBackIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_back_ios" {...props} />
@@ -2075,7 +2075,7 @@ const ArrowBackIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, app, application, arrow, back, chevron, components, direction, disable_ios, interface, ios, left, navigation, new, previous, screen, site, ui, ux, web, website
  *
- * popularity: 50114
+ * popularity: 50144
  */
 const ArrowBackIosNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_back_ios_new" {...props} />
@@ -2088,7 +2088,7 @@ const ArrowBackIosNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, direction, down, navigation
  *
- * popularity: 15127
+ * popularity: 15137
  */
 const ArrowCircleDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_circle_down" {...props} />
@@ -2101,7 +2101,7 @@ const ArrowCircleDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, direction, left, navigation
  *
- * popularity: 12868
+ * popularity: 12882
  */
 const ArrowCircleLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_circle_left" {...props} />
@@ -2114,7 +2114,7 @@ const ArrowCircleLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, direction, navigation, right
  *
- * popularity: 21395
+ * popularity: 21411
  */
 const ArrowCircleRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_circle_right" {...props} />
@@ -2127,7 +2127,7 @@ const ArrowCircleRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, direction, navigation, up
  *
- * popularity: 17857
+ * popularity: 17867
  */
 const ArrowCircleUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_circle_up" {...props} />
@@ -2140,7 +2140,7 @@ const ArrowCircleUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, down, downward, interface, navigation, screen, site, ui, ux, web, website
  *
- * popularity: 46791
+ * popularity: 46829
  */
 const ArrowDownward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_downward" {...props} />
@@ -2153,7 +2153,7 @@ const ArrowDownward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, down, drop, interface, navigation, screen, site, ui, ux, web, website
  *
- * popularity: 154220
+ * popularity: 154320
  */
 const ArrowDropDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_drop_down" {...props} />
@@ -2166,7 +2166,7 @@ const ArrowDropDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, circle, components, direction, down, drop, interface, navigation, screen, site, ui, ux, web, website
  *
- * popularity: 13638
+ * popularity: 13649
  */
 const ArrowDropDownCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_drop_down_circle" {...props} />
@@ -2179,7 +2179,7 @@ const ArrowDropDownCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, drop, interface, navigation, screen, site, ui, up, ux, web, website
  *
- * popularity: 32964
+ * popularity: 32992
  */
 const ArrowDropUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_drop_up" {...props} />
@@ -2192,7 +2192,7 @@ const ArrowDropUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, arrows, components, direction, forward, interface, navigation, right, screen, site, ui, ux, web, website
  *
- * popularity: 120432
+ * popularity: 120527
  */
 const ArrowForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_forward" {...props} />
@@ -2205,7 +2205,7 @@ const ArrowForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, chevron, components, direction, forward, interface, ios, navigation, next, right, screen, site, ui, ux, web, website
  *
- * popularity: 167527
+ * popularity: 167618
  */
 const ArrowForwardIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_forward_ios" {...props} />
@@ -2218,7 +2218,7 @@ const ArrowForwardIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, interface, left, navigation, screen, site, ui, ux, web, website
  *
- * popularity: 19277
+ * popularity: 19289
  */
 const ArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_left" {...props} />
@@ -2231,7 +2231,7 @@ const ArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, arrows, components, direction, forward, interface, navigation, right, screen, site, ui, ux, web, website
  *
- * popularity: 2374
+ * popularity: 2383
  */
 const ArrowOutward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_outward" {...props} />
@@ -2244,7 +2244,7 @@ const ArrowOutward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, interface, navigation, right, screen, site, ui, ux, web, website
  *
- * popularity: 44516
+ * popularity: 44546
  */
 const ArrowRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_right" {...props} />
@@ -2257,7 +2257,7 @@ const ArrowRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrow, arrows, direction, east, navigation, pointing, right
  *
- * popularity: 70080
+ * popularity: 70132
  */
 const ArrowRightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_right_alt" {...props} />
@@ -2270,7 +2270,7 @@ const ArrowRightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, direction, interface, navigation, screen, site, ui, up, upward, ux, web, website
  *
- * popularity: 61860
+ * popularity: 61914
  */
 const ArrowUpward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="arrow_upward" {...props} />
@@ -2283,7 +2283,7 @@ const ArrowUpward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, art, artist, audio, image, music, photo, photography, picture, sound, track, tracks
  *
- * popularity: 2137
+ * popularity: 2141
  */
 const ArtTrack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="art_track" {...props} />
@@ -2296,7 +2296,7 @@ const ArtTrack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, doc, document, file, page, paper, text, writing
  *
- * popularity: 99249
+ * popularity: 99317
  */
 const Article = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="article" {...props} />
@@ -2309,7 +2309,7 @@ const Article = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aspect, dash, dashed, expand, image, ratio, resize, scale, size, square
  *
- * popularity: 12516
+ * popularity: 12522
  */
 const AspectRatio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="aspect_ratio" {...props} />
@@ -2322,7 +2322,7 @@ const AspectRatio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, assessment, bar, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 39782
+ * popularity: 39830
  */
 const Assessment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assessment" {...props} />
@@ -2335,7 +2335,7 @@ const Assessment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assignment, clipboard, doc, document, text, writing
  *
- * popularity: 78098
+ * popularity: 78175
  */
 const Assignment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment" {...props} />
@@ -2348,7 +2348,7 @@ const Assignment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, assignment, clipboard, doc, document, face, ind, people, person, profile, user
  *
- * popularity: 35619
+ * popularity: 35647
  */
 const AssignmentInd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment_ind" {...props} />
@@ -2361,7 +2361,7 @@ const AssignmentInd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, assignment, attention, caution, clipboard, danger, doc, document, error, exclamation, important, late, mark, notification, symbol, warning
  *
- * popularity: 8612
+ * popularity: 8618
  */
 const AssignmentLate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment_late" {...props} />
@@ -2374,7 +2374,7 @@ const AssignmentLate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, assignment, back, clipboard, doc, document, left, retun
  *
- * popularity: 8667
+ * popularity: 8682
  */
 const AssignmentReturn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment_return" {...props} />
@@ -2387,7 +2387,7 @@ const AssignmentReturn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, assignment, clipboard, doc, document, down, returned
  *
- * popularity: 5803
+ * popularity: 5810
  */
 const AssignmentReturned = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment_returned" {...props} />
@@ -2400,7 +2400,7 @@ const AssignmentReturned = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, assignment, check, clipboard, complete, doc, document, done, in, mark, ok, select, tick, turn, validate, verified, yes
  *
- * popularity: 31517
+ * popularity: 31552
  */
 const AssignmentTurnedIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assignment_turned_in" {...props} />
@@ -2413,7 +2413,7 @@ const AssignmentTurnedIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, assist, body, disability, handicap, help, human, injured, injury, mobility, person, walk, walker
  *
- * popularity: 704
+ * popularity: 707
  */
 const AssistWalker = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assist_walker" {...props} />
@@ -2426,7 +2426,7 @@ const AssistWalker = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, assistant, automatic, automation, bubble, chat, comment, communicate, custom, feedback, genai, intelligence, magic, message, recommendation, smart, spark, sparkle, speech, star, suggestion, twinkle
  *
- * popularity: 6280
+ * popularity: 6289
  */
 const Assistant = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assistant" {...props} />
@@ -2439,7 +2439,7 @@ const Assistant = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assistant, destination, direction, location, maps, navigate, navigation, pin, place, right, stop
  *
- * popularity: 5284
+ * popularity: 5290
  */
 const AssistantDirection = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assistant_direction" {...props} />
@@ -2452,7 +2452,7 @@ const AssistantDirection = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assistant, flag, photo, recommendation, smart, star, suggestion
  *
- * popularity: 2864
+ * popularity: 2866
  */
 const AssistantPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assistant_photo" {...props} />
@@ -2465,7 +2465,7 @@ const AssistantPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assured, compliance, confidential, federal, government, secure, sensitive regulatory, workload
  *
- * popularity: 4885
+ * popularity: 4896
  */
 const AssuredWorkload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="assured_workload" {...props} />
@@ -2478,7 +2478,7 @@ const AssuredWorkload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, atm, automated, bill, card, cart, cash, character, coin, commerce, credit, currency, dollars, font, letter, machine, money, online, pay, payment, shopping, symbol, teller, text, type
  *
- * popularity: 2852
+ * popularity: 2857
  */
 const Atm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="atm" {...props} />
@@ -2491,7 +2491,7 @@ const Atm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attach, attachment, clip, compose, email, envelop, letter, link, mail, message, send
  *
- * popularity: 5640
+ * popularity: 5642
  */
 const AttachEmail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attach_email" {...props} />
@@ -2504,7 +2504,7 @@ const AttachEmail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, attach, attachment, clip, file, link, mail, media
  *
- * popularity: 46263
+ * popularity: 46306
  */
 const AttachFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attach_file" {...props} />
@@ -2517,7 +2517,7 @@ const AttachFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attach, attachment, bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, symbol
  *
- * popularity: 83415
+ * popularity: 83497
  */
 const AttachMoney = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attach_money" {...props} />
@@ -2530,7 +2530,7 @@ const AttachMoney = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attach, attachment, clip, compose, file, image, link
  *
- * popularity: 22329
+ * popularity: 22343
  */
 const Attachment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attachment" {...props} />
@@ -2543,7 +2543,7 @@ const Attachment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: amusement, attractions, entertainment, ferris, fun, maps, park, places, wheel
  *
- * popularity: 4046
+ * popularity: 4052
  */
 const Attractions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attractions" {...props} />
@@ -2556,7 +2556,7 @@ const Attractions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attribute, attribution, body, copyright, copywriter, human, people, person
  *
- * popularity: 5136
+ * popularity: 5141
  */
 const Attribution = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="attribution" {...props} />
@@ -2569,7 +2569,7 @@ const Attribution = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, doc, document, key, music, note, sound, track
  *
- * popularity: 2411
+ * popularity: 2417
  */
 const AudioFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="audio_file" {...props} />
@@ -2582,7 +2582,7 @@ const AudioFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, audiotrack, key, music, note, sound, track
  *
- * popularity: 11993
+ * popularity: 12006
  */
 const Audiotrack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="audiotrack" {...props} />
@@ -2595,7 +2595,7 @@ const Audiotrack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, ai, artificial, automatic, automation, custom, edit, editing, enhance, genai, intelligence, magic, smart, spark, sparkle, star, stars
  *
- * popularity: 35879
+ * popularity: 35949
  */
 const AutoAwesome = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_awesome" {...props} />
@@ -2608,7 +2608,7 @@ const AutoAwesome = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, auto, awesome, collage, edit, editing, enhance, image, mosaic, photo
  *
- * popularity: 5409
+ * popularity: 5414
  */
 const AutoAwesomeMosaic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_awesome_mosaic" {...props} />
@@ -2621,7 +2621,7 @@ const AutoAwesomeMosaic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, auto, awesome, collage, edit, editing, enhance, image, motion, photo, video
  *
- * popularity: 6997
+ * popularity: 7000
  */
 const AutoAwesomeMotion = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_awesome_motion" {...props} />
@@ -2634,7 +2634,7 @@ const AutoAwesomeMotion = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, bin, can, clock, date, delete, garbage, remove, schedule, time, trash
  *
- * popularity: 6332
+ * popularity: 6335
  */
 const AutoDelete = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_delete" {...props} />
@@ -2647,7 +2647,7 @@ const AutoDelete = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, ai, artificial, auto, automatic, automation, custom, edit, editing, enhance, erase, fix, genai, high, intelligence, magic, modify, pen, smart, spark, sparkle, star, tool, wand
  *
- * popularity: 16153
+ * popularity: 16186
  */
 const AutoFixHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_fix_high" {...props} />
@@ -2660,7 +2660,7 @@ const AutoFixHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, auto, automatic, automation, custom, edit, erase, fix, genai, intelligence, magic, modify, smart, spark, sparkle, star, wand
  *
- * popularity: 5896
+ * popularity: 5901
  */
 const AutoFixNormal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_fix_normal" {...props} />
@@ -2673,7 +2673,7 @@ const AutoFixNormal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, auto, automatic, automation, custom, disabled, edit, enabled, erase, fix, genai, intelligence, magic, modify, off, on, slash, smart, spark, sparkle, star, wand
  *
- * popularity: 1354
+ * popularity: 1357
  */
 const AutoFixOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_fix_off" {...props} />
@@ -2686,7 +2686,7 @@ const AutoFixOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, auto, chart, data, diagram, graph, infographic, line, measure, metrics, stars, statistics, tracking
  *
- * popularity: 13083
+ * popularity: 13104
  */
 const AutoGraph = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_graph" {...props} />
@@ -2699,7 +2699,7 @@ const AutoGraph = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, around, arrow, arrows, artificial, auto, automatic, automation, custom, direction, genai, inprogress, intelligence, load, loading refresh, magic, mode, navigation, nest, renew, rotate, smart, spark, sparkle, star, turn
  *
- * popularity: 2882
+ * popularity: 2890
  */
 const AutoMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_mode" {...props} />
@@ -2712,7 +2712,7 @@ const AutoMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, book, flipping, pages, stories
  *
- * popularity: 37888
+ * popularity: 37911
  */
 const AutoStories = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="auto_stories" {...props} />
@@ -2725,7 +2725,7 @@ const AutoStories = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, auto, character, font, fps, frame, frequency, letter, per, rate, second, seconds, select, symbol, text, type
  *
- * popularity: 847
+ * popularity: 849
  */
 const AutofpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="autofps_select" {...props} />
@@ -2738,7 +2738,7 @@ const AutofpsSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, arrows, autorenew, cache, cached, direction, inprogress, load, loading refresh, navigation, renew, rotate, turn
  *
- * popularity: 66006
+ * popularity: 66052
  */
 const Autorenew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="autorenew" {...props} />
@@ -2751,7 +2751,7 @@ const Autorenew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: av, clock, countdown, duration, minutes, seconds, time, timer, watch
  *
- * popularity: 7397
+ * popularity: 7403
  */
 const AvTimer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="av_timer" {...props} />
@@ -2764,7 +2764,7 @@ const AvTimer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: babies, baby, bathroom, body, changing, child, children, father, human, infant, kids, mother, newborn, people, person, station, toddler, wc, young
  *
- * popularity: 2837
+ * popularity: 2840
  */
 const BabyChangingStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="baby_changing_station" {...props} />
@@ -2777,7 +2777,7 @@ const BabyChangingStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, fingers, gesture, hand, raised
  *
- * popularity: 10748
+ * popularity: 10757
  */
 const BackHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="back_hand" {...props} />
@@ -2790,7 +2790,7 @@ const BackHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, backpack, bag, book, bookbag, knapsack, pack, storage, travel
  *
- * popularity: 3766
+ * popularity: 3769
  */
 const Backpack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="backpack" {...props} />
@@ -2803,7 +2803,7 @@ const Backpack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backspace, cancel, clear, correct, delete, erase, remove
  *
- * popularity: 26327
+ * popularity: 26342
  */
 const Backspace = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="backspace" {...props} />
@@ -2816,7 +2816,7 @@ const Backspace = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, backup, cloud, data, drive, files folders, storage, up, upload
  *
- * popularity: 16009
+ * popularity: 16023
  */
 const Backup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="backup" {...props} />
@@ -2829,7 +2829,7 @@ const Backup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backup, drive, files folders, format, layout, stack, storage, table
  *
- * popularity: 5539
+ * popularity: 5547
  */
 const BackupTable = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="backup_table" {...props} />
@@ -2842,7 +2842,7 @@ const BackupTable = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, badge, card, certified, employee, face, human, identification, name, people, person, profile, security, user, work
  *
- * popularity: 56420
+ * popularity: 56466
  */
 const Badge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="badge" {...props} />
@@ -2855,7 +2855,7 @@ const Badge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bakery, bread, breakfast, brunch, croissant, dining, food
  *
- * popularity: 5954
+ * popularity: 5958
  */
 const BakeryDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bakery_dining" {...props} />
@@ -2868,7 +2868,7 @@ const BakeryDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, equal, equity, impartiality, justice, parity, stability. equilibrium, steadiness, symmetry
  *
- * popularity: 8510
+ * popularity: 8524
  */
 const Balance = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="balance" {...props} />
@@ -2881,7 +2881,7 @@ const Balance = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, balcony, doors, estate, home, house, maps, out, outside, place, real, residence, residential, stay, terrace, window
  *
- * popularity: 2261
+ * popularity: 2266
  */
 const Balcony = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="balcony" {...props} />
@@ -2894,7 +2894,7 @@ const Balcony = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ballot, bullet, election, list, point, poll, vote
  *
- * popularity: 13681
+ * popularity: 13692
  */
 const Ballot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ballot" {...props} />
@@ -2907,7 +2907,7 @@ const Ballot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 36555
+ * popularity: 36577
  */
 const BarChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bar_chart" {...props} />
@@ -2920,7 +2920,7 @@ const BarChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: batch, bulb, idea, light, prediction
  *
- * popularity: 4483
+ * popularity: 4491
  */
 const BatchPrediction = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="batch_prediction" {...props} />
@@ -2933,7 +2933,7 @@ const BatchPrediction = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bath, bathroom, closet, home, house, place, plumbing, room, shower, sprinkler, wash, water, wc
  *
- * popularity: 3450
+ * popularity: 3456
  */
 const Bathroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bathroom" {...props} />
@@ -2946,7 +2946,7 @@ const Bathroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bath, bathing, bathroom, bathtub, home, hotel, human, person, shower, travel, tub
  *
- * popularity: 6248
+ * popularity: 6253
  */
 const Bathtub = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bathtub" {...props} />
@@ -2959,7 +2959,7 @@ const Bathtub = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 0, bar, battery, cell, charge, full, mobile, power
  *
- * popularity: 2546
+ * popularity: 2557
  */
 const Battery0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_0_bar" {...props} />
@@ -2972,7 +2972,7 @@ const Battery0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, bar, battery, cell, charge, mobile, power
  *
- * popularity: 1935
+ * popularity: 1941
  */
 const Battery1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_1_bar" {...props} />
@@ -2985,7 +2985,7 @@ const Battery1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, bar, battery, cell, charge, mobile, power
  *
- * popularity: 1621
+ * popularity: 1628
  */
 const Battery2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_2_bar" {...props} />
@@ -2998,7 +2998,7 @@ const Battery2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, bar, battery, cell, charge, mobile, power
  *
- * popularity: 2242
+ * popularity: 2246
  */
 const Battery3Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_3_bar" {...props} />
@@ -3011,7 +3011,7 @@ const Battery3Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, bar, battery, cell, charge, mobile, power
  *
- * popularity: 2672
+ * popularity: 2675
  */
 const Battery4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_4_bar" {...props} />
@@ -3024,7 +3024,7 @@ const Battery4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, bar, battery, cell, charge, mobile, power
  *
- * popularity: 3282
+ * popularity: 3289
  */
 const Battery5Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_5_bar" {...props} />
@@ -3037,7 +3037,7 @@ const Battery5Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, bar, battery, cell, charge, mobile, power
  *
- * popularity: 2379
+ * popularity: 2385
  */
 const Battery6Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_6_bar" {...props} />
@@ -3050,7 +3050,7 @@ const Battery6Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, battery, caution, cell, charge, danger, error, exclamation, important, mark, mobile, notification, power, symbol, warning
  *
- * popularity: 4406
+ * popularity: 4411
  */
 const BatteryAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_alert" {...props} />
@@ -3063,7 +3063,7 @@ const BatteryAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: battery, bolt, cell, charge, charging, electric, energy, full, instant, lightening, mobile, power, thunderbolt
  *
- * popularity: 14770
+ * popularity: 14787
  */
 const BatteryChargingFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_charging_full" {...props} />
@@ -3076,7 +3076,7 @@ const BatteryChargingFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 0, bar, battery, cell, charge, full, mobile, power
  *
- * popularity: 19988
+ * popularity: 19999
  */
 const BatteryFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_full" {...props} />
@@ -3089,7 +3089,7 @@ const BatteryFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, battery, charge, charging, new, plus, power, saver, symbol
  *
- * popularity: 3155
+ * popularity: 3160
  */
 const BatterySaver = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_saver" {...props} />
@@ -3102,7 +3102,7 @@ const BatterySaver = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: battery, cell, charge, mobile, plus, power, standard, std
  *
- * popularity: 6053
+ * popularity: 6061
  */
 const BatteryStd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_std" {...props} />
@@ -3115,7 +3115,7 @@ const BatteryStd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, battery, cell, charge, help, info, information, mobile, power, punctuation, question mark, support, symbol, unknown
  *
- * popularity: 2597
+ * popularity: 2600
  */
 const BatteryUnknown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="battery_unknown" {...props} />
@@ -3128,7 +3128,7 @@ const BatteryUnknown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, beach, places, summer, sunny, umbrella
  *
- * popularity: 9384
+ * popularity: 9398
  */
 const BeachAccess = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="beach_access" {...props} />
@@ -3141,7 +3141,7 @@ const BeachAccess = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bed, bedroom, double, full, furniture, home, hotel, house, king, night, pillows, queen, rest, room, size, sleep
  *
- * popularity: 13775
+ * popularity: 13788
  */
 const Bed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bed" {...props} />
@@ -3154,7 +3154,7 @@ const Bed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: babies, baby, bedroom, child, children, home, horse, house, infant, kid, newborn, rocking, room, toddler, young
  *
- * popularity: 3502
+ * popularity: 3508
  */
 const BedroomBaby = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bedroom_baby" {...props} />
@@ -3167,7 +3167,7 @@ const BedroomBaby = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bed, bedroom, child, children, furniture, home, hotel, house, kid, night, pillows, rest, room, size, sleep, twin, young
  *
- * popularity: 2883
+ * popularity: 2887
  */
 const BedroomChild = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bedroom_child" {...props} />
@@ -3180,7 +3180,7 @@ const BedroomChild = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bed, bedroom, double, full, furniture, home, hotel, house, king, night, parent, pillows, queen, rest, room, sizem master, sleep
  *
- * popularity: 3597
+ * popularity: 3601
  */
 const BedroomParent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bedroom_parent" {...props} />
@@ -3193,7 +3193,7 @@ const BedroomParent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bedtime, nightime, sleep
  *
- * popularity: 4277
+ * popularity: 4289
  */
 const Bedtime = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bedtime" {...props} />
@@ -3206,7 +3206,7 @@ const Bedtime = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bedtime, disabled, lunar, moon, night, nightime, off, offline, slash, sleep
  *
- * popularity: 596
+ * popularity: 600
  */
 const BedtimeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bedtime_off" {...props} />
@@ -3219,7 +3219,7 @@ const BedtimeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, archive, beenhere, bookmark, check, complete, done, favorite, label, library, mark, ok, read, reading, remember, ribbon, save, select, tag, tick, validate, verified, yes
  *
- * popularity: 8957
+ * popularity: 8968
  */
 const Beenhere = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="beenhere" {...props} />
@@ -3232,7 +3232,7 @@ const Beenhere = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bento, box, dinner, food, lunch, meal, restaurant, takeout
  *
- * popularity: 2094
+ * popularity: 2098
  */
 const Bento = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bento" {...props} />
@@ -3245,7 +3245,7 @@ const Bento = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bike, car, cars, maps, scooter, transportation, vehicle, vespa
  *
- * popularity: 1335
+ * popularity: 1336
  */
 const BikeScooter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bike_scooter" {...props} />
@@ -3258,7 +3258,7 @@ const BikeScooter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: biotech, chemistry, laboratory, microscope, research, science, technology
  *
- * popularity: 13531
+ * popularity: 13545
  */
 const Biotech = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="biotech" {...props} />
@@ -3271,7 +3271,7 @@ const Biotech = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appliance, blender, cook, cooking, electric, juicer, kitchen, machine, vitamix
  *
- * popularity: 3996
+ * popularity: 3999
  */
 const Blender = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blender" {...props} />
@@ -3284,7 +3284,7 @@ const Blender = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, assist, blind, body, cane, disability, handicap, help, human, mobility, person, walk, walker
  *
- * popularity: 630
+ * popularity: 632
  */
 const Blind = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blind" {...props} />
@@ -3297,7 +3297,7 @@ const Blind = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, cover, curtains, nest, open, shade, shutter, sunshade
  *
- * popularity: 628
+ * popularity: 630
  */
 const Blinds = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blinds" {...props} />
@@ -3310,7 +3310,7 @@ const Blinds = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, closed, cover, curtains, nest, shade, shutter, sunshade
  *
- * popularity: 586
+ * popularity: 591
  */
 const BlindsClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blinds_closed" {...props} />
@@ -3323,7 +3323,7 @@ const BlindsClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: avoid, block, cancel, close, entry, exit, no, prohibited, quit, remove, stop
  *
- * popularity: 39179
+ * popularity: 39216
  */
 const Block = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="block" {...props} />
@@ -3336,7 +3336,7 @@ const Block = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blood, bloodtype, donate, droplet, emergency, hospital, medicine, negative, positive, type, water
  *
- * popularity: 6022
+ * popularity: 6025
  */
 const Bloodtype = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bloodtype" {...props} />
@@ -3349,7 +3349,7 @@ const Bloodtype = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, cast, connect, connection, device, paring, streaming, symbol, wireless
  *
- * popularity: 11811
+ * popularity: 11827
  */
 const Bluetooth = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth" {...props} />
@@ -3362,7 +3362,7 @@ const Bluetooth = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, bluetooth, connect, connection, device, music, signal, sound, symbol
  *
- * popularity: 1641
+ * popularity: 1644
  */
 const BluetoothAudio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth_audio" {...props} />
@@ -3375,7 +3375,7 @@ const BluetoothAudio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, cast, connect, connection, device, paring, streaming, symbol, wireless
  *
- * popularity: 3494
+ * popularity: 3497
  */
 const BluetoothConnected = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth_connected" {...props} />
@@ -3388,7 +3388,7 @@ const BluetoothConnected = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, cast, connect, connection, device, disabled, enabled, off, offline, on, paring, slash, streaming, symbol, wireless
  *
- * popularity: 2775
+ * popularity: 2780
  */
 const BluetoothDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth_disabled" {...props} />
@@ -3401,7 +3401,7 @@ const BluetoothDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bluetooth, car, cars, cast, connect, connection, device, drive, maps, paring, streaming, symbol, transportation, travel, vehicle, wireless
  *
- * popularity: 1206
+ * popularity: 1208
  */
 const BluetoothDrive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth_drive" {...props} />
@@ -3414,7 +3414,7 @@ const BluetoothDrive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connection, device, paring, search, searching, symbol
  *
- * popularity: 2922
+ * popularity: 2923
  */
 const BluetoothSearching = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bluetooth_searching" {...props} />
@@ -3427,7 +3427,7 @@ const BluetoothSearching = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, circle, circular, dots, edit, editing, effect, enhance, filter
  *
- * popularity: 2390
+ * popularity: 2395
  */
 const BlurCircular = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blur_circular" {...props} />
@@ -3440,7 +3440,7 @@ const BlurCircular = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, dots, edit, editing, effect, enhance, filter, linear
  *
- * popularity: 1694
+ * popularity: 1695
  */
 const BlurLinear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blur_linear" {...props} />
@@ -3453,7 +3453,7 @@ const BlurLinear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, disabled, dots, edit, editing, effect, enabled, enhance, off, on, slash
  *
- * popularity: 1117
+ * popularity: 1118
  */
 const BlurOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blur_off" {...props} />
@@ -3466,7 +3466,7 @@ const BlurOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, disabled, dots, edit, editing, effect, enabled, enhance, filter, off, on, slash
  *
- * popularity: 6791
+ * popularity: 6800
  */
 const BlurOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="blur_on" {...props} />
@@ -3479,7 +3479,7 @@ const BlurOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, electric, energy, fast, flash, instant, lightning, power, thunderbolt
  *
- * popularity: 47605
+ * popularity: 47649
  */
 const Bolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bolt" {...props} />
@@ -3492,7 +3492,7 @@ const Bolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: book, bookmark, favorite, label, library, read, reading, remember, ribbon, save, tag
  *
- * popularity: 29162
+ * popularity: 29187
  */
 const Book = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="book" {...props} />
@@ -3505,7 +3505,7 @@ const Book = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, admission, appointment, book, cell, device, event, hardware, iOS, mobile, online, pass, phone, reservation, tablet, ticket
  *
- * popularity: 15403
+ * popularity: 15413
  */
 const BookOnline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="book_online" {...props} />
@@ -3518,7 +3518,7 @@ const BookOnline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, bookmark, favorite, label, library, read, reading, remember, ribbon, save, tag
  *
- * popularity: 46620
+ * popularity: 46652
  */
 const Bookmark = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmark" {...props} />
@@ -3531,7 +3531,7 @@ const Bookmark = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, bookmark, favorite, plus, remember, ribbon, save, symbol
  *
- * popularity: 11457
+ * popularity: 11472
  */
 const BookmarkAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmark_add" {...props} />
@@ -3544,7 +3544,7 @@ const BookmarkAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: added, approve, bookmark, check, complete, done, favorite, mark, ok, remember, save, select, tick, validate, verified, yes
  *
- * popularity: 9157
+ * popularity: 9163
  */
 const BookmarkAdded = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmark_added" {...props} />
@@ -3557,7 +3557,7 @@ const BookmarkAdded = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, bookmark, border, favorite, label, library, read, reading, remember, ribbon, save, tag
  *
- * popularity: 44592
+ * popularity: 44620
  */
 const BookmarkBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmark_border" {...props} />
@@ -3570,7 +3570,7 @@ const BookmarkBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, delete, favorite, minus, remember, remove, ribbon, save, subtract
  *
- * popularity: 4310
+ * popularity: 4314
  */
 const BookmarkRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmark_remove" {...props} />
@@ -3583,7 +3583,7 @@ const BookmarkRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, bookmarks, favorite, label, layers, library, multiple, read, reading, remember, ribbon, save, stack, tag
  *
- * popularity: 17864
+ * popularity: 17877
  */
 const Bookmarks = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bookmarks" {...props} />
@@ -3596,7 +3596,7 @@ const Bookmarks = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, border, doc, edit, editing, editor, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 2561
+ * popularity: 2564
  */
 const BorderAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_all" {...props} />
@@ -3609,7 +3609,7 @@ const BorderAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, bottom, dash, dashed, doc, edit, editing, editor, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 831
+ * popularity: 832
  */
 const BorderBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_bottom" {...props} />
@@ -3622,7 +3622,7 @@ const BorderBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, clear, dash, dashed, doc, edit, editing, editor, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 1590
+ * popularity: 1591
  */
 const BorderClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_clear" {...props} />
@@ -3635,7 +3635,7 @@ const BorderClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, border, doc, edit, editing, editor, pen, pencil, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 19596
+ * popularity: 19619
  */
 const BorderColor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_color" {...props} />
@@ -3648,7 +3648,7 @@ const BorderColor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, horizontal, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 790
+ * popularity: 791
  */
 const BorderHorizontal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_horizontal" {...props} />
@@ -3661,7 +3661,7 @@ const BorderHorizontal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, inner, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 872
+ * popularity: 874
  */
 const BorderInner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_inner" {...props} />
@@ -3674,7 +3674,7 @@ const BorderInner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, left, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 860
+ * popularity: 861
  */
 const BorderLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_left" {...props} />
@@ -3687,7 +3687,7 @@ const BorderLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, outer, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 1312
+ * popularity: 1313
  */
 const BorderOuter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_outer" {...props} />
@@ -3700,7 +3700,7 @@ const BorderOuter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, right, sheet, spreadsheet, stroke, text, type, writing
  *
- * popularity: 743
+ * popularity: 745
  */
 const BorderRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_right" {...props} />
@@ -3713,7 +3713,7 @@ const BorderRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, color, dash, dashed, doc, edit, editing, editor, sheet, spreadsheet, stroke, style, text, type, writing
  *
- * popularity: 1433
+ * popularity: 1435
  */
 const BorderStyle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_style" {...props} />
@@ -3726,7 +3726,7 @@ const BorderStyle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, sheet, spreadsheet, stroke, text, top, type, writing
  *
- * popularity: 761
+ * popularity: 763
  */
 const BorderTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_top" {...props} />
@@ -3739,7 +3739,7 @@ const BorderTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, dash, dashed, doc, edit, editing, editor, sheet, spreadsheet, stroke, text, type, vertical, writing
  *
- * popularity: 806
+ * popularity: 807
  */
 const BorderVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="border_vertical" {...props} />
@@ -3752,7 +3752,7 @@ const BorderVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, boy, gender, human, male, man, people, person, social, symbol
  *
- * popularity: 3172
+ * popularity: 3177
  */
 const Boy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="boy" {...props} />
@@ -3765,7 +3765,7 @@ const Boy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: branding, components, copyright, design, emblem, format, identity, interface, layout, logo, screen, site, stamp, ui, ux, watermark, web, website, window
  *
- * popularity: 6610
+ * popularity: 6615
  */
 const BrandingWatermark = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="branding_watermark" {...props} />
@@ -3778,7 +3778,7 @@ const BrandingWatermark = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bakery, bread, breakfast, butter, dining, food, toast
  *
- * popularity: 3004
+ * popularity: 3008
  */
 const BreakfastDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="breakfast_dining" {...props} />
@@ -3791,7 +3791,7 @@ const BreakfastDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, brightness, circle, control, crescent, level, moon, screen
  *
- * popularity: 5108
+ * popularity: 5112
  */
 const Brightness1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_1" {...props} />
@@ -3804,7 +3804,7 @@ const Brightness1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, brightness, circle, control, crescent, level, moon, screen
  *
- * popularity: 2226
+ * popularity: 2227
  */
 const Brightness2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_2" {...props} />
@@ -3817,7 +3817,7 @@ const Brightness2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, brightness, circle, control, crescent, level, moon, screen
  *
- * popularity: 2428
+ * popularity: 2429
  */
 const Brightness3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_3" {...props} />
@@ -3830,7 +3830,7 @@ const Brightness3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, brightness, circle, control, crescent, level, moon, screen, sun
  *
- * popularity: 5945
+ * popularity: 5949
  */
 const Brightness4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_4" {...props} />
@@ -3843,7 +3843,7 @@ const Brightness4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, brightness, circle, control, crescent, level, moon, screen, sun
  *
- * popularity: 5214
+ * popularity: 5222
  */
 const Brightness5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_5" {...props} />
@@ -3856,7 +3856,7 @@ const Brightness5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, brightness, circle, control, crescent, level, moon, screen, sun
  *
- * popularity: 5305
+ * popularity: 5311
  */
 const Brightness6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_6" {...props} />
@@ -3869,7 +3869,7 @@ const Brightness6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 7, brightness, circle, control, crescent, level, moon, screen, sun
  *
- * popularity: 3758
+ * popularity: 3764
  */
 const Brightness7 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_7" {...props} />
@@ -3882,7 +3882,7 @@ const Brightness7 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, auto, brightness, control, display, level, mobile, monitor, phone, screen, sun
  *
- * popularity: 1807
+ * popularity: 1810
  */
 const BrightnessAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_auto" {...props} />
@@ -3895,7 +3895,7 @@ const BrightnessAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, brightness, control, high, mobile, monitor, phone, sun
  *
- * popularity: 3259
+ * popularity: 3265
  */
 const BrightnessHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_high" {...props} />
@@ -3908,7 +3908,7 @@ const BrightnessHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, brightness, control, low, mobile, monitor, phone, sun
  *
- * popularity: 2925
+ * popularity: 2928
  */
 const BrightnessLow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_low" {...props} />
@@ -3921,7 +3921,7 @@ const BrightnessLow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, brightness, control, medium, mobile, monitor, phone, sun
  *
- * popularity: 2964
+ * popularity: 2969
  */
 const BrightnessMedium = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brightness_medium" {...props} />
@@ -3934,7 +3934,7 @@ const BrightnessMedium = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 548
+ * popularity: 553
  */
 const BroadcastOnHome = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="broadcast_on_home" {...props} />
@@ -3947,7 +3947,7 @@ const BroadcastOnHome = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 643
+ * popularity: 647
  */
 const BroadcastOnPersonal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="broadcast_on_personal" {...props} />
@@ -3960,7 +3960,7 @@ const BroadcastOnPersonal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: broken, corrupt, error, image, landscape, mountain, mountains, photo, photography, picture, torn
  *
- * popularity: 6225
+ * popularity: 6230
  */
 const BrokenImage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="broken_image" {...props} />
@@ -3973,7 +3973,7 @@ const BrokenImage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, collection, gallery, library, stack, watch
  *
- * popularity: 1501
+ * popularity: 1504
  */
 const BrowseGallery = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="browse_gallery" {...props} />
@@ -3986,7 +3986,7 @@ const BrowseGallery = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: browser, disabled, enabled, internet, not, off, on, page, screen, site, slash, supported, web, website, www
  *
- * popularity: 1305
+ * popularity: 1306
  */
 const BrowserNotSupported = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="browser_not_supported" {...props} />
@@ -3999,7 +3999,7 @@ const BrowserNotSupported = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, browser, chrome, desktop, device, display, download, hardware, iOS, mac, monitor, screen, updated, web, window
  *
- * popularity: 2845
+ * popularity: 2854
  */
 const BrowserUpdated = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="browser_updated" {...props} />
@@ -4012,7 +4012,7 @@ const BrowserUpdated = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, brunch, champagne, dining, drink, food, lunch, meal
  *
- * popularity: 2678
+ * popularity: 2680
  */
 const BrunchDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brunch_dining" {...props} />
@@ -4025,7 +4025,7 @@ const BrunchDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: art, brush, design, draw, edit, editing, paint, painting, tool
  *
- * popularity: 19752
+ * popularity: 19774
  */
 const Brush = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="brush" {...props} />
@@ -4038,7 +4038,7 @@ const Brush = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, bubble, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 7509
+ * popularity: 7511
  */
 const BubbleChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bubble_chart" {...props} />
@@ -4051,7 +4051,7 @@ const BubbleChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animal, bug, fix, insect, issue, problem, report, testing, virus, warning
  *
- * popularity: 28986
+ * popularity: 29002
  */
 const BugReport = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bug_report" {...props} />
@@ -4064,7 +4064,7 @@ const BugReport = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, build, fix, home, nest, repair, tool, tools, wrench
  *
- * popularity: 65385
+ * popularity: 65455
  */
 const Build = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="build" {...props} />
@@ -4077,7 +4077,7 @@ const Build = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, build, circle, fix, repair, tool, wrench
  *
- * popularity: 16932
+ * popularity: 16943
  */
 const BuildCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="build_circle" {...props} />
@@ -4090,7 +4090,7 @@ const BuildCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, bungalow, cottage, estate, home, house, maps, place, real, residence, residential, stay, traveling
  *
- * popularity: 2013
+ * popularity: 2015
  */
 const Bungalow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bungalow" {...props} />
@@ -4103,7 +4103,7 @@ const Bungalow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: burst, image, landscape, mode, mountain, mountains, multiple, photo, photography, picture
  *
- * popularity: 1864
+ * popularity: 1870
  */
 const BurstMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="burst_mode" {...props} />
@@ -4116,7 +4116,7 @@ const BurstMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, automobile, bus, car, cars, caution, danger, error, exclamation, important, maps, mark, notification, symbol, transportation, vehicle, warning
  *
- * popularity: 2321
+ * popularity: 2323
  */
 const BusAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="bus_alert" {...props} />
@@ -4129,7 +4129,7 @@ const BusAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apartment, architecture, building, business, company, estate, home, place, real, residence, residential, shelter
  *
- * popularity: 71371
+ * popularity: 71438
  */
 const Business = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="business" {...props} />
@@ -4142,7 +4142,7 @@ const Business = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, briefcase, business, case, center, places, purse, suitcase, work
  *
- * popularity: 22707
+ * popularity: 22722
  */
 const BusinessCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="business_center" {...props} />
@@ -4155,7 +4155,7 @@ const BusinessCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, cabin, camping, cottage, estate, home, house, log, maps, place, real, residence, residential, stay, traveling, wood
  *
- * popularity: 3243
+ * popularity: 3246
  */
 const Cabin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cabin" {...props} />
@@ -4168,7 +4168,7 @@ const Cabin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cable, connect, connection, device, electronics, usb, wire
  *
- * popularity: 7827
+ * popularity: 7842
  */
 const Cable = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cable" {...props} />
@@ -4181,7 +4181,7 @@ const Cable = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrows, cache, cached, inprogress, load, loading refresh, renew, rotate
  *
- * popularity: 28905
+ * popularity: 28934
  */
 const Cached = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cached" {...props} />
@@ -4194,7 +4194,7 @@ const Cached = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, baked, birthday, cake, candles, celebration, dessert, food, frosting, new, party, pastries, pastry, plus, social, sweet, symbol
  *
- * popularity: 22595
+ * popularity: 22615
  */
 const Cake = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cake" {...props} />
@@ -4207,7 +4207,7 @@ const Cake = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, -, =, calculate, count, finance calculator, math
  *
- * popularity: 37458
+ * popularity: 37496
  */
 const Calculate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calculate" {...props} />
@@ -4220,7 +4220,7 @@ const Calculate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, month, schedule, today
  *
- * popularity: 62990
+ * popularity: 63121
  */
 const CalendarMonth = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calendar_month" {...props} />
@@ -4233,7 +4233,7 @@ const CalendarMonth = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, month, schedule, today
  *
- * popularity: 120044
+ * popularity: 120140
  */
 const CalendarToday = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calendar_today" {...props} />
@@ -4246,7 +4246,7 @@ const CalendarToday = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, format, grid, layout, month, schedule, today, view, week
  *
- * popularity: 5901
+ * popularity: 5906
  */
 const CalendarViewDay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calendar_view_day" {...props} />
@@ -4259,7 +4259,7 @@ const CalendarViewDay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, format, grid, layout, month, schedule, today, view
  *
- * popularity: 11921
+ * popularity: 11925
  */
 const CalendarViewMonth = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calendar_view_month" {...props} />
@@ -4272,7 +4272,7 @@ const CalendarViewMonth = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, format, grid, layout, month, schedule, today, view, week
  *
- * popularity: 6825
+ * popularity: 6827
  */
 const CalendarViewWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="calendar_view_week" {...props} />
@@ -4285,7 +4285,7 @@ const CalendarViewWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, hardware, mobile, phone, telephone
  *
- * popularity: 174607
+ * popularity: 174782
  */
 const Call = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call" {...props} />
@@ -4298,7 +4298,7 @@ const Call = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, end, hardware, mobile, phone, telephone
  *
- * popularity: 11007
+ * popularity: 11011
  */
 const CallEnd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_end" {...props} />
@@ -4311,7 +4311,7 @@ const CallEnd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, made, mobile
  *
- * popularity: 7082
+ * popularity: 7098
  */
 const CallMade = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_made" {...props} />
@@ -4324,7 +4324,7 @@ const CallMade = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, merge, mobile
  *
- * popularity: 2747
+ * popularity: 2749
  */
 const CallMerge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_merge" {...props} />
@@ -4337,7 +4337,7 @@ const CallMerge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, missed, mobile
  *
- * popularity: 1996
+ * popularity: 1999
  */
 const CallMissed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_missed" {...props} />
@@ -4350,7 +4350,7 @@ const CallMissed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, missed, mobile, outgoing
  *
- * popularity: 2267
+ * popularity: 2271
  */
 const CallMissedOutgoing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_missed_outgoing" {...props} />
@@ -4363,7 +4363,7 @@ const CallMissedOutgoing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, mobile, received
  *
- * popularity: 4445
+ * popularity: 4449
  */
 const CallReceived = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_received" {...props} />
@@ -4376,7 +4376,7 @@ const CallReceived = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, device, mobile, split
  *
- * popularity: 6408
+ * popularity: 6412
  */
 const CallSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_split" {...props} />
@@ -4389,7 +4389,7 @@ const CallSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, alert, bar, call, components, cta, design, info, information, interface, layout, message, notification, screen, site, to, ui, ux, web, website, window
  *
- * popularity: 3189
+ * popularity: 3191
  */
 const CallToAction = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="call_to_action" {...props} />
@@ -4402,7 +4402,7 @@ const CallToAction = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aperture, camera, lens, photo, photography, picture, shutter
  *
- * popularity: 12815
+ * popularity: 12824
  */
 const Camera = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera" {...props} />
@@ -4415,7 +4415,7 @@ const Camera = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, camera, image, photo, photography, picture
  *
- * popularity: 11993
+ * popularity: 12008
  */
 const CameraAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_alt" {...props} />
@@ -4428,7 +4428,7 @@ const CameraAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, automatic, automation, camera, custom, enhance, genai, important, intelligence, lens, magic, photo, photography, picture, quality, smart, spark, sparkle, special, star
  *
- * popularity: 7008
+ * popularity: 7012
  */
 const CameraEnhance = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_enhance" {...props} />
@@ -4441,7 +4441,7 @@ const CameraEnhance = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, camera, front, human, lens, mobile, person, phone, photography, portrait, selfie
  *
- * popularity: 1982
+ * popularity: 1986
  */
 const CameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_front" {...props} />
@@ -4454,7 +4454,7 @@ const CameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, camera, estate, film, filming, home, house, image, indoor, inside, motion, nest, picture, place, real, residence, residential, shelter, video, videography
  *
- * popularity: 3546
+ * popularity: 3551
  */
 const CameraIndoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_indoor" {...props} />
@@ -4467,7 +4467,7 @@ const CameraIndoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, camera, estate, film, filming, home, house, image, motion, nest, outdoor, outside, picture, place, real, residence, residential, shelter, video, videography
  *
- * popularity: 3239
+ * popularity: 3243
  */
 const CameraOutdoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_outdoor" {...props} />
@@ -4480,7 +4480,7 @@ const CameraOutdoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, front, lens, mobile, phone, photo, photography, picture, portrait, rear, selfie
  *
- * popularity: 993
+ * popularity: 996
  */
 const CameraRear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_rear" {...props} />
@@ -4493,7 +4493,7 @@ const CameraRear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, film, image, library, photo, photography, roll
  *
- * popularity: 1784
+ * popularity: 1785
  */
 const CameraRoll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="camera_roll" {...props} />
@@ -4506,7 +4506,7 @@ const CameraRoll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, camera, cameraswitch, flip, rotate, swap, switch, view
  *
- * popularity: 7631
+ * popularity: 7636
  */
 const Cameraswitch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cameraswitch" {...props} />
@@ -4519,7 +4519,7 @@ const Cameraswitch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, campaign, loud, megaphone, microphone, notification, speaker
  *
- * popularity: 52347
+ * popularity: 52390
  */
 const Campaign = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="campaign" {...props} />
@@ -4532,7 +4532,7 @@ const Campaign = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, circle, clear, close, exit, remove, stop, x
  *
- * popularity: 160076
+ * popularity: 160218
  */
 const Cancel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cancel" {...props} />
@@ -4545,7 +4545,7 @@ const Cancel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, device, exit, no, present, presentation, quit, remove, screen, slide, stop, website, window, x
  *
- * popularity: 7425
+ * popularity: 7438
  */
 const CancelPresentation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cancel_presentation" {...props} />
@@ -4558,7 +4558,7 @@ const CancelPresentation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, email, mail, no, quit, remove, schedule, send, share, stop, x
  *
- * popularity: 4901
+ * popularity: 4911
  */
 const CancelScheduleSend = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cancel_schedule_send" {...props} />
@@ -4571,7 +4571,7 @@ const CancelScheduleSend = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, candlestick, chart, data, diagram, finance, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 2118
+ * popularity: 2121
  */
 const CandlestickChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="candlestick_chart" {...props} />
@@ -4584,7 +4584,7 @@ const CandlestickChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accident, automobile, car, cars, collision, crash, direction, maps, public, transportation, vehicle
  *
- * popularity: 1885
+ * popularity: 1888
  */
 const CarCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="car_crash" {...props} />
@@ -4597,7 +4597,7 @@ const CarCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, automobile, car, cars, entry, key, lock, maps, password, rental, transportation, unlock, vehicle
  *
- * popularity: 4100
+ * popularity: 4109
  */
 const CarRental = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="car_rental" {...props} />
@@ -4610,7 +4610,7 @@ const CarRental = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, maps, repair, transportation, vehicle
  *
- * popularity: 3370
+ * popularity: 3374
  */
 const CarRepair = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="car_repair" {...props} />
@@ -4623,7 +4623,7 @@ const CarRepair = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, balance, bill, card, cart, cash, certificate, coin, commerce, credit, currency, dollars, gift, giftcard, money, online, pay, payment, present, shopping
  *
- * popularity: 34766
+ * popularity: 34799
  */
 const CardGiftcard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="card_giftcard" {...props} />
@@ -4636,7 +4636,7 @@ const CardGiftcard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, bookmark, card, cash, certificate, coin, commerce, cost, credit, currency, dollars, finance, loyalty, membership, money, online, pay, payment, shopping, subscription
  *
- * popularity: 15292
+ * popularity: 15303
  */
 const CardMembership = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="card_membership" {...props} />
@@ -4649,7 +4649,7 @@ const CardMembership = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, membership, miles, money, online, pay, payment, travel, trip
  *
- * popularity: 6150
+ * popularity: 6153
  */
 const CardTravel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="card_travel" {...props} />
@@ -4662,7 +4662,7 @@ const CardTravel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: building, carpenter, construction, cutting, handyman, repair, saw, tool
  *
- * popularity: 2889
+ * popularity: 2892
  */
 const Carpenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="carpenter" {...props} />
@@ -4675,7 +4675,7 @@ const Carpenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, briefcase, business, case, cases, purse, suitcase
  *
- * popularity: 6198
+ * popularity: 6203
  */
 const Cases = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cases" {...props} />
@@ -4688,7 +4688,7 @@ const Cases = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: casino, dice, dots, entertainment, gamble, gambling, game, games, luck, places
  *
- * popularity: 8321
+ * popularity: 8341
  */
 const Casino = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="casino" {...props} />
@@ -4701,7 +4701,7 @@ const Casino = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, airplay, cast, chrome, connect, desktop, device, display, hardware, iOS, mac, monitor, screen, screencast, streaming, television, tv, web, window, wireless
  *
- * popularity: 6943
+ * popularity: 6952
  */
 const Cast = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cast" {...props} />
@@ -4714,7 +4714,7 @@ const Cast = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, airplay, cast, chrome, connect, connected, desktop, device, display, hardware, iOS, mac, monitor, screen, screencast, streaming, television, tv, web, window, wireless
  *
- * popularity: 3140
+ * popularity: 3143
  */
 const CastConnected = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cast_connected" {...props} />
@@ -4727,7 +4727,7 @@ const CastConnected = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, airplay, cast, chrome, connect, desktop, device, display, education, for, hardware, iOS, learning, lessons teaching, mac, monitor, screen, screencast, streaming, television, tv, web, window, wireless
  *
- * popularity: 7666
+ * popularity: 7673
  */
 const CastForEducation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cast_for_education" {...props} />
@@ -4740,7 +4740,7 @@ const CastForEducation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: castle, fort, fortress, mansion, palace
  *
- * popularity: 2144
+ * popularity: 2149
  */
 const Castle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="castle" {...props} />
@@ -4753,7 +4753,7 @@ const Castle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: catching, go, pokemon, pokestop, travel
  *
- * popularity: 7873
+ * popularity: 7877
  */
 const CatchingPokemon = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="catching_pokemon" {...props} />
@@ -4766,7 +4766,7 @@ const CatchingPokemon = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: categories, category, circle, collection, items, product, sort, square, triangle
  *
- * popularity: 53704
+ * popularity: 53758
  */
 const Category = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="category" {...props} />
@@ -4779,7 +4779,7 @@ const Category = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activity, birthday, celebration, event, fun, party
  *
- * popularity: 18979
+ * popularity: 19001
  */
 const Celebration = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="celebration" {...props} />
@@ -4792,7 +4792,7 @@ const Celebration = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: broadcast, casting, cell, network, signal, tower, transmitting, wireless
  *
- * popularity: 3614
+ * popularity: 3624
  */
 const CellTower = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cell_tower" {...props} />
@@ -4805,7 +4805,7 @@ const CellTower = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, connection, data, internet, mobile, network, phone, service, signal, wifi, wireless
  *
- * popularity: 2203
+ * popularity: 2204
  */
 const CellWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cell_wifi" {...props} />
@@ -4818,7 +4818,7 @@ const CellWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, center, focus, image, lens, photo, photography, strong, zoom
  *
- * popularity: 6909
+ * popularity: 6916
  */
 const CenterFocusStrong = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="center_focus_strong" {...props} />
@@ -4831,7 +4831,7 @@ const CenterFocusStrong = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, center, focus, image, lens, photo, photography, weak, zoom
  *
- * popularity: 4162
+ * popularity: 4167
  */
 const CenterFocusWeak = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="center_focus_weak" {...props} />
@@ -4844,7 +4844,7 @@ const CenterFocusWeak = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chair, comfort, couch, decoration, furniture, home, house, living, lounging, loveseat, room, seat, seating, sofa
  *
- * popularity: 14560
+ * popularity: 14571
  */
 const Chair = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chair" {...props} />
@@ -4857,7 +4857,7 @@ const Chair = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cahir, furniture, home, house, kitchen, lounging, seating, table
  *
- * popularity: 3336
+ * popularity: 3338
  */
 const ChairAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chair_alt" {...props} />
@@ -4870,7 +4870,7 @@ const ChairAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, chalet, cottage, estate, home, house, maps, place, real, residence, residential, stay, traveling
  *
- * popularity: 1814
+ * popularity: 1818
  */
 const Chalet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chalet" {...props} />
@@ -4883,7 +4883,7 @@ const Chalet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrows, change, circle, direction, navigation, rotate
  *
- * popularity: 19175
+ * popularity: 19186
  */
 const ChangeCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="change_circle" {...props} />
@@ -4896,7 +4896,7 @@ const ChangeCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: change, history, shape, triangle
  *
- * popularity: 14154
+ * popularity: 14158
  */
 const ChangeHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="change_history" {...props} />
@@ -4909,7 +4909,7 @@ const ChangeHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, battery, bolt, cell, charging, device, electric, energy, hardware, iOS, instant, lightning, mobile, phone, station, tablet, thunderbolt
  *
- * popularity: 2889
+ * popularity: 2893
  */
 const ChargingStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="charging_station" {...props} />
@@ -4922,7 +4922,7 @@ const ChargingStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, speech
  *
- * popularity: 69078
+ * popularity: 69145
  */
 const Chat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chat" {...props} />
@@ -4935,7 +4935,7 @@ const Chat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, speech
  *
- * popularity: 31001
+ * popularity: 31028
  */
 const ChatBubble = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chat_bubble" {...props} />
@@ -4948,7 +4948,7 @@ const ChatBubble = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, outline, speech
  *
- * popularity: 39504
+ * popularity: 39526
  */
 const ChatBubbleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chat_bubble_outline" {...props} />
@@ -4961,7 +4961,7 @@ const ChatBubbleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, check, confirm, correct, disable_ios, done, enter, mark, ok, okay, select, tick, yes
  *
- * popularity: 102692
+ * popularity: 102764
  */
 const Check = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="check" {...props} />
@@ -4974,7 +4974,7 @@ const Check = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approved, box, button, check, component, control, form, mark, ok, select, selected, selection, tick, toggle, ui, yes
  *
- * popularity: 117536
+ * popularity: 117633
  */
 const CheckBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="check_box" {...props} />
@@ -4987,7 +4987,7 @@ const CheckBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blank, box, button, check, component, control, dash, dashed, deselected, empty, form, outline, select, selection, square, tick, toggle, ui
  *
- * popularity: 95824
+ * popularity: 95888
  */
 const CheckBoxOutlineBlank = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="check_box_outline_blank" {...props} />
@@ -5000,7 +5000,7 @@ const CheckBoxOutlineBlank = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, circle, complete, done, mark, ok, select, tick, validate, verified, yes
  *
- * popularity: 382126
+ * popularity: 382432
  */
 const CheckCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="check_circle" {...props} />
@@ -5013,7 +5013,7 @@ const CheckCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, circle, complete, done, finished, mark, ok, outline, select, tick, validate, verified, yes
  *
- * popularity: 122611
+ * popularity: 122737
  */
 const CheckCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="check_circle_outline" {...props} />
@@ -5026,7 +5026,7 @@ const CheckCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, approve, check, checklist, complete, doc, done, edit, editing, editor, format, list, mark, notes, ok, select, sheet, spreadsheet, text, tick, type, validate, verified, writing, yes
  *
- * popularity: 34674
+ * popularity: 34721
  */
 const Checklist = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="checklist" {...props} />
@@ -5039,7 +5039,7 @@ const Checklist = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, approve, check, checklist, complete, doc, done, edit, editing, editor, format, list, mark, notes, ok, rtl, select, sheet, spreadsheet, text, tick, type, validate, verified, writing, yes
  *
- * popularity: 13746
+ * popularity: 13763
  */
 const ChecklistRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="checklist_rtl" {...props} />
@@ -5052,7 +5052,7 @@ const ChecklistRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: checkroom, closet, clothes, coat check, hanger
  *
- * popularity: 12366
+ * popularity: 12381
  */
 const Checkroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="checkroom" {...props} />
@@ -5065,7 +5065,7 @@ const Checkroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, arrow, arrows, chevron, direction, disable_ios, left
  *
- * popularity: 120435
+ * popularity: 120527
  */
 const ChevronLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chevron_left" {...props} />
@@ -5078,7 +5078,7 @@ const ChevronLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, direction, right
  *
- * popularity: 209471
+ * popularity: 209620
  */
 const ChevronRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chevron_right" {...props} />
@@ -5091,7 +5091,7 @@ const ChevronRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: babies, baby, care, child, children, face, infant, kids, newborn, toddler, young
  *
- * popularity: 10143
+ * popularity: 10146
  */
 const ChildCare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="child_care" {...props} />
@@ -5104,7 +5104,7 @@ const ChildCare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: baby, care, carriage, child, children, friendly, infant, kid, newborn, stroller, toddler, young
  *
- * popularity: 6016
+ * popularity: 6019
  */
 const ChildFriendly = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="child_friendly" {...props} />
@@ -5117,7 +5117,7 @@ const ChildFriendly = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chrome, mode, read, reader, text
  *
- * popularity: 5843
+ * popularity: 5846
  */
 const ChromeReaderMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="chrome_reader_mode" {...props} />
@@ -5130,7 +5130,7 @@ const ChromeReaderMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: christian, christianity, ideology, religion, spiritual, worship
  *
- * popularity: 3583
+ * popularity: 3586
  */
 const Church = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="church" {...props} />
@@ -5143,7 +5143,7 @@ const Church = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, full, geometry, moon
  *
- * popularity: 55088
+ * popularity: 55135
  */
 const Circle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="circle" {...props} />
@@ -5156,7 +5156,7 @@ const Circle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, circle, notifications, notify, reminder, ring, sound
  *
- * popularity: 15725
+ * popularity: 15739
  */
 const CircleNotifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="circle_notifications" {...props} />
@@ -5169,7 +5169,7 @@ const CircleNotifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, book, bookmark, class, favorite, label, library, read, reading, remember, ribbon, save, tag
  *
- * popularity: 13665
+ * popularity: 13673
  */
 const Class = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="class" {...props} />
@@ -5182,7 +5182,7 @@ const Class = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bacteria, clean, disinfect, germs, gesture, hand, hands, sanitize, sanitizer
  *
- * popularity: 4795
+ * popularity: 4798
  */
 const CleanHands = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="clean_hands" {...props} />
@@ -5195,7 +5195,7 @@ const CleanHands = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clean, cleaning, dust, services, sweep
  *
- * popularity: 13339
+ * popularity: 13359
  */
 const CleaningServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cleaning_services" {...props} />
@@ -5208,7 +5208,7 @@ const CleaningServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, cancel, clear, correct, delete, erase, exit, remove, x
  *
- * popularity: 101470
+ * popularity: 101550
  */
 const Clear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="clear" {...props} />
@@ -5221,7 +5221,7 @@ const Clear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, clear, doc, document, format, lines, list
  *
- * popularity: 10454
+ * popularity: 10464
  */
 const ClearAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="clear_all" {...props} />
@@ -5234,7 +5234,7 @@ const ClearAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, exit, remove, stop, x
  *
- * popularity: 404480
+ * popularity: 404729
  */
 const Close = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="close" {...props} />
@@ -5247,7 +5247,7 @@ const Close = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, arrow, arrows, close, collapse, direction, full, fullscreen, minimize, screen
  *
- * popularity: 21939
+ * popularity: 21945
  */
 const CloseFullscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="close_fullscreen" {...props} />
@@ -5260,7 +5260,7 @@ const CloseFullscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessible, alphabet, caption, cc, character, closed, decoder, font, language, letter, media, movies, subtitle, subtitles, symbol, text, tv, type
  *
- * popularity: 5121
+ * popularity: 5126
  */
 const ClosedCaption = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="closed_caption" {...props} />
@@ -5273,7 +5273,7 @@ const ClosedCaption = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessible, alphabet, caption, cc, character, closed, decoder, disabled, enabled, font, language, letter, media, movies, off, on, slash, subtitle, subtitles, symbol, text, tv, type
  *
- * popularity: 1514
+ * popularity: 1516
  */
 const ClosedCaptionDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="closed_caption_disabled" {...props} />
@@ -5286,7 +5286,7 @@ const ClosedCaptionDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessible, alphabet, caption, cc, character, closed, decoder, font, language, letter, media, movies, off, outline, subtitle, subtitles, symbol, text, tv, type
  *
- * popularity: 2893
+ * popularity: 2896
  */
 const ClosedCaptionOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="closed_caption_off" {...props} />
@@ -5299,7 +5299,7 @@ const ClosedCaptionOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: climate, cloud, connection, internet, network, queue, sky, temperature, upload, weather
  *
- * popularity: 30208
+ * popularity: 30243
  */
 const Cloud = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud" {...props} />
@@ -5312,7 +5312,7 @@ const Cloud = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, backup, circle, cloud, connection, drive, files, folders, internet, network, sky, storage, upload
  *
- * popularity: 4118
+ * popularity: 4125
  */
 const CloudCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_circle" {...props} />
@@ -5325,7 +5325,7 @@ const CloudCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, approve, backup, check, cloud, complete, connection, done, drive, files, folders, internet, mark, network, ok, select, sky, storage, tick, upload, validate, verified, yes
  *
- * popularity: 11266
+ * popularity: 11275
  */
 const CloudDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_done" {...props} />
@@ -5338,7 +5338,7 @@ const CloudDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, backup, cloud, connection, down, download, drive, files, folders, internet, network, sky, storage, upload
  *
- * popularity: 28200
+ * popularity: 28231
  */
 const CloudDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_download" {...props} />
@@ -5351,7 +5351,7 @@ const CloudDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, backup, cloud, connection, disabled, drive, enabled, files, folders, internet, network, off, offline, on, sky, slash, storage, upload
  *
- * popularity: 8774
+ * popularity: 8776
  */
 const CloudOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_off" {...props} />
@@ -5364,7 +5364,7 @@ const CloudOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: climate, cloud, connection, internet, network, queue, sky, temperature, upload, weather
  *
- * popularity: 10234
+ * popularity: 10245
  */
 const CloudQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_queue" {...props} />
@@ -5377,7 +5377,7 @@ const CloudQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, around, backup, cloud, connection, drive, files, folders, inprogress, internet, load, loading refresh, network, renew, rotate, sky, storage, turn, upload
  *
- * popularity: 6324
+ * popularity: 6335
  */
 const CloudSync = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_sync" {...props} />
@@ -5390,7 +5390,7 @@ const CloudSync = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, backup, cloud, connection, download, drive, files, folders, internet, network, sky, storage, up, upload
  *
- * popularity: 37139
+ * popularity: 37181
  */
 const CloudUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cloud_upload" {...props} />
@@ -5403,7 +5403,7 @@ const CloudUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: carbon, chemical, co2, dioxide, gas
  *
- * popularity: 3303
+ * popularity: 3309
  */
 const Co2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="co2" {...props} />
@@ -5416,7 +5416,7 @@ const Co2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, co-present, presentation, screen, share, site, slides, togather, web, website
  *
- * popularity: 4673
+ * popularity: 4682
  */
 const CoPresent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="co_present" {...props} />
@@ -5429,7 +5429,7 @@ const CoPresent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brackets, code, css, develop, developer, engineer, engineering, html, platform
  *
- * popularity: 56024
+ * popularity: 56060
  */
 const Code = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="code" {...props} />
@@ -5442,7 +5442,7 @@ const Code = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brackets, code, css, develop, developer, disabled, enabled, engineer, engineering, html, off, on, platform, slash
  *
- * popularity: 4354
+ * popularity: 4356
  */
 const CodeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="code_off" {...props} />
@@ -5455,7 +5455,7 @@ const CodeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beverage, coffee, cup, drink, mug, plate, set, tea
  *
- * popularity: 10129
+ * popularity: 10134
  */
 const Coffee = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="coffee" {...props} />
@@ -5468,7 +5468,7 @@ const Coffee = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appliances, beverage, coffee, cup, drink, machine, maker, mug
  *
- * popularity: 4213
+ * popularity: 4215
  */
 const CoffeeMaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="coffee_maker" {...props} />
@@ -5481,7 +5481,7 @@ const CoffeeMaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, collections, gallery, image, landscape, library, mountain, mountains, photo, photography, picture, stack
  *
- * popularity: 36203
+ * popularity: 36233
  */
 const Collections = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="collections" {...props} />
@@ -5494,7 +5494,7 @@ const Collections = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, archive, bookmark, collections, favorite, gallery, label, library, read, reading, remember, ribbon, save, stack, tag
  *
- * popularity: 9031
+ * popularity: 9034
  */
 const CollectionsBookmark = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="collections_bookmark" {...props} />
@@ -5507,7 +5507,7 @@ const CollectionsBookmark = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: art, color, lens, paint, pallet
  *
- * popularity: 10022
+ * popularity: 10037
  */
 const ColorLens = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="color_lens" {...props} />
@@ -5520,7 +5520,7 @@ const ColorLens = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: color, colorize, dropper, extract, eye, picker, tool
  *
- * popularity: 6136
+ * popularity: 6142
  */
 const Colorize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="colorize" {...props} />
@@ -5533,7 +5533,7 @@ const Colorize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, outline, speech
  *
- * popularity: 23390
+ * popularity: 23406
  */
 const Comment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="comment" {...props} />
@@ -5546,7 +5546,7 @@ const Comment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, bank, bookmark, bubble, cchat, comment, communicate, favorite, label, library, message, remember, ribbon, save, speech, tag
  *
- * popularity: 4830
+ * popularity: 4833
  */
 const CommentBank = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="comment_bank" {...props} />
@@ -5559,7 +5559,7 @@ const CommentBank = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, comments, communicate, disabled, enabled, feedback, message, off, offline, on, slash, speech
  *
- * popularity: 1754
+ * popularity: 1756
  */
 const CommentsDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="comments_disabled" {...props} />
@@ -5572,7 +5572,7 @@ const CommentsDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accomplish, bind, circle, commit, dedicate, execute, line, perform, pledge
  *
- * popularity: 2264
+ * popularity: 2268
  */
 const Commit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="commit" {...props} />
@@ -5585,7 +5585,7 @@ const Commit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, commute, direction, maps, public, train, transportation, trip, vehicle
  *
- * popularity: 10204
+ * popularity: 10211
  */
 const Commute = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="commute" {...props} />
@@ -5598,7 +5598,7 @@ const Commute = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustment, compare, edit, editing, edits, enhance, fix, image, images, photo, photography, photos, scan, settings
  *
- * popularity: 7526
+ * popularity: 7532
  */
 const Compare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="compare" {...props} />
@@ -5611,7 +5611,7 @@ const Compare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, collide, compare, direction, left, pressure, push, right, together
  *
- * popularity: 19397
+ * popularity: 19408
  */
 const CompareArrows = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="compare_arrows" {...props} />
@@ -5624,7 +5624,7 @@ const CompareArrows = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calibration, compass, connection, internet, location, maps, network, refresh, service, signal, wifi, wireless
  *
- * popularity: 1796
+ * popularity: 1800
  */
 const CompassCalibration = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="compass_calibration" {...props} />
@@ -5637,7 +5637,7 @@ const CompassCalibration = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bio, compost, compostable, decomposable, decompose, eco, green, leaf, leafs, nature, organic, plant, recycle, sustainability, sustainable
  *
- * popularity: 8037
+ * popularity: 8052
  */
 const Compost = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="compost" {...props} />
@@ -5650,7 +5650,7 @@ const Compost = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, collide, compress, pressure, push, together
  *
- * popularity: 5858
+ * popularity: 5864
  */
 const Compress = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="compress" {...props} />
@@ -5663,7 +5663,7 @@ const Compress = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, computer, desktop, device, hardware, iOS, mac, monitor, web, window
  *
- * popularity: 32238
+ * popularity: 32262
  */
 const Computer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="computer" {...props} />
@@ -5676,7 +5676,7 @@ const Computer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: admission, confirmation, entertainment, event, number, ticket
  *
- * popularity: 23344
+ * popularity: 23368
  */
 const ConfirmationNumber = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="confirmation_number" {...props} />
@@ -5689,7 +5689,7 @@ const ConfirmationNumber = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: communicating, connect, contact, distance, people, signal, social, socialize, without
  *
- * popularity: 11072
+ * popularity: 11078
  */
 const ConnectWithoutContact = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="connect_without_contact" {...props} />
@@ -5702,7 +5702,7 @@ const ConnectWithoutContact = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, airplay, chrome, connect, connected, desktop, device, display, hardware, iOS, mac, monitor, screen, screencast, streaming, television, tv, web, window, wireless
  *
- * popularity: 3482
+ * popularity: 3489
  */
 const ConnectedTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="connected_tv" {...props} />
@@ -5715,7 +5715,7 @@ const ConnectedTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplane, airplanes, airport, airports, connecting, flight, plane, transportation, travel, trip
  *
- * popularity: 2395
+ * popularity: 2402
  */
 const ConnectingAirports = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="connecting_airports" {...props} />
@@ -5728,7 +5728,7 @@ const ConnectingAirports = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: build, carpenter, construction, equipment, fix, hammer, improvement, industrial, industry, repair, tools, wrench
  *
- * popularity: 47191
+ * popularity: 47235
  */
 const Construction = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="construction" {...props} />
@@ -5741,7 +5741,7 @@ const Construction = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, call, cell, contacts, face, human, info, information, mobile, people, person, phone, profile, user
  *
- * popularity: 1811
+ * popularity: 1815
  */
 const ContactEmergency = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contact_emergency" {...props} />
@@ -5754,7 +5754,7 @@ const ContactEmergency = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, address, avatar, communicate, contact, email, face, human, info, information, mail, message, people, person, profile, user
  *
- * popularity: 28240
+ * popularity: 28264
  */
 const ContactMail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contact_mail" {...props} />
@@ -5767,7 +5767,7 @@ const ContactMail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, contact, data, doc, document, drive, face, file, folder, folders, human, page, people, person, profile, sheet, slide, storage, user, writing
  *
- * popularity: 29113
+ * popularity: 29140
  */
 const ContactPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contact_page" {...props} />
@@ -5780,7 +5780,7 @@ const ContactPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, call, communicate, contact, face, human, info, information, message, mobile, people, person, phone, profile, user
  *
- * popularity: 17693
+ * popularity: 17706
  */
 const ContactPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contact_phone" {...props} />
@@ -5793,7 +5793,7 @@ const ContactPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, bubble, chat, comment, communicate, contact, help, info, information, mark, message, punctuation, question, question mark, speech, support, symbol
  *
- * popularity: 54154
+ * popularity: 54217
  */
 const ContactSupport = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contact_support" {...props} />
@@ -5806,7 +5806,7 @@ const ContactSupport = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, cash, connect, connection, connectivity, contact, contactless, credit, device, finance, pay, payment, signal, transaction, wifi, wireless
  *
- * popularity: 8454
+ * popularity: 8462
  */
 const Contactless = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contactless" {...props} />
@@ -5819,7 +5819,7 @@ const Contactless = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, call, cell, contacts, face, human, info, information, mobile, people, person, phone, profile, user
  *
- * popularity: 23547
+ * popularity: 23568
  */
 const Contacts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contacts" {...props} />
@@ -5832,7 +5832,7 @@ const Contacts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: content, copy, cut, doc, document, duplicate, file, multiple, paste, stack
  *
- * popularity: 126874
+ * popularity: 126978
  */
 const ContentCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_copy" {...props} />
@@ -5845,7 +5845,7 @@ const ContentCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: content, copy, cut, doc, document, file, paste, scissors, trim
  *
- * popularity: 15953
+ * popularity: 15960
  */
 const ContentCut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_cut" {...props} />
@@ -5858,7 +5858,7 @@ const ContentCut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clipboard, content, copy, cut, doc, document, file, multiple, paste
  *
- * popularity: 30601
+ * popularity: 30629
  */
 const ContentPaste = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_paste" {...props} />
@@ -5871,7 +5871,7 @@ const ContentPaste = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clipboard, content, disabled, doc, document, enabled, file, go, on, paste, slash
  *
- * popularity: 4116
+ * popularity: 4119
  */
 const ContentPasteGo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_paste_go" {...props} />
@@ -5884,7 +5884,7 @@ const ContentPasteGo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clipboard, content, disabled, doc, document, enabled, file, off, on, paste, slash
  *
- * popularity: 2902
+ * popularity: 2910
  */
 const ContentPasteOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_paste_off" {...props} />
@@ -5897,7 +5897,7 @@ const ContentPasteOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clipboard, content, doc, document, file, find, paste, search, trace, track
  *
- * popularity: 7733
+ * popularity: 7748
  */
 const ContentPasteSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="content_paste_search" {...props} />
@@ -5910,7 +5910,7 @@ const ContentPasteSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: black, contrast, dark theme, edit, editing, effect, filter, grayscale, image, images, photography, picture, pictures, settings, white
  *
- * popularity: 2922
+ * popularity: 2929
  */
 const Contrast = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="contrast" {...props} />
@@ -5923,7 +5923,7 @@ const Contrast = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, arrow, arrows, camera, center, control, direction, left, move, reposition, right
  *
- * popularity: 3984
+ * popularity: 3988
  */
 const ControlCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="control_camera" {...props} />
@@ -5936,7 +5936,7 @@ const ControlCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, circle, control, plus, point
  *
- * popularity: 15744
+ * popularity: 15759
  */
 const ControlPoint = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="control_point" {...props} />
@@ -5949,7 +5949,7 @@ const ControlPoint = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, circle, control, duplicate, multiple, new, plus, point, symbol
  *
- * popularity: 3772
+ * popularity: 3776
  */
 const ControlPointDuplicate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="control_point_duplicate" {...props} />
@@ -5962,7 +5962,7 @@ const ControlPointDuplicate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: biscuit, cookies, data, dessert, wafer
  *
- * popularity: 5779
+ * popularity: 5784
  */
 const Cookie = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cookie" {...props} />
@@ -5975,7 +5975,7 @@ const Cookie = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, content, copy, cut, dash, dashed, doc, document, file, multiple, page, paper, past
  *
- * popularity: 8866
+ * popularity: 8869
  */
 const CopyAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="copy_all" {...props} />
@@ -5988,7 +5988,7 @@ const CopyAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, c, character, copyright, emblem, font, legal, letter, owner, symbol, text
  *
- * popularity: 17650
+ * popularity: 17662
  */
 const Copyright = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="copyright" {...props} />
@@ -6001,7 +6001,7 @@ const Copyright = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 19, bacteria, coronavirus, covid, disease, germs, illness, sick, social
  *
- * popularity: 17721
+ * popularity: 17729
  */
 const Coronavirus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="coronavirus" {...props} />
@@ -6014,7 +6014,7 @@ const Coronavirus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, business, corporate, estate, fare, organization, place, real, residence, residential, shelter
  *
- * popularity: 18171
+ * popularity: 18186
  */
 const CorporateFare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="corporate_fare" {...props} />
@@ -6027,7 +6027,7 @@ const CorporateFare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, beach, cottage, estate, home, house, lake, lodge, maps, place, real, residence, residential, stay, traveling
  *
- * popularity: 16385
+ * popularity: 16389
  */
 const Cottage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cottage" {...props} />
@@ -6040,7 +6040,7 @@ const Cottage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: counter, countertops, home, house, kitchen, sink, table, tops
  *
- * popularity: 3100
+ * popularity: 3102
  */
 const Countertops = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="countertops" {...props} />
@@ -6053,7 +6053,7 @@ const Countertops = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, edit, editing, input, new, pen, pencil, write, writing
  *
- * popularity: 36688
+ * popularity: 36702
  */
 const Create = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="create" {...props} />
@@ -6066,7 +6066,7 @@ const Create = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, create, data, doc, document, drive, file, folder, new, plus, sheet, slide, storage, symbol
  *
- * popularity: 15258
+ * popularity: 15271
  */
 const CreateNewFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="create_new_folder" {...props} />
@@ -6079,7 +6079,7 @@ const CreateNewFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 87887
+ * popularity: 87984
  */
 const CreditCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="credit_card" {...props} />
@@ -6092,7 +6092,7 @@ const CreditCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: card, charge, commerce, cost, credit, disabled, enabled, finance, money, off, online, pay, payment, slash
  *
- * popularity: 5442
+ * popularity: 5445
  */
 const CreditCardOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="credit_card_off" {...props} />
@@ -6105,7 +6105,7 @@ const CreditCardOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, bill, card, cash, check, coin, commerce, complete, cost, credit, currency, dollars, done, finance, loan, mark, money, ok, online, pay, payment, score, select, symbol, tick, validate, verified, yes
  *
- * popularity: 22348
+ * popularity: 22370
  */
 const CreditScore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="credit_score" {...props} />
@@ -6118,7 +6118,7 @@ const CreditScore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: babies, baby, bassinet, bed, child, children, cradle, crib, infant, kid, newborn, sleeping, toddler
  *
- * popularity: 1815
+ * popularity: 1818
  */
 const Crib = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crib" {...props} />
@@ -6131,7 +6131,7 @@ const Crib = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, bullseye, caution, crisis, danger, error, exclamation, important, mark, notification, symbol, target, warning
  *
- * popularity: 2550
+ * popularity: 2555
  */
 const CrisisAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crisis_alert" {...props} />
@@ -6144,7 +6144,7 @@ const CrisisAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, crop, edit, editing, frame, image, images, photo, photos, rectangle, settings, size, square
  *
- * popularity: 6824
+ * popularity: 6829
  */
 const Crop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop" {...props} />
@@ -6157,7 +6157,7 @@ const Crop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 16, 9, adjust, adjustments, area, by, crop, edit, editing, frame, image, images, photo, photos, rectangle, settings, size, square
  *
- * popularity: 2689
+ * popularity: 2690
  */
 const Crop169 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_16_9" {...props} />
@@ -6170,7 +6170,7 @@ const Crop169 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, 3, adjust, adjustments, area, by, crop, edit, editing, frame, image, images, photo, photos, rectangle, settings, size, square
  *
- * popularity: 1666
+ * popularity: 1669
  */
 const Crop32 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_3_2" {...props} />
@@ -6183,7 +6183,7 @@ const Crop32 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, 5, adjust, adjustments, area, by, crop, edit, editing settings, frame, image, images, photo, photos, rectangle, size, square
  *
- * popularity: 1963
+ * popularity: 1966
  */
 const Crop54 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_5_4" {...props} />
@@ -6196,7 +6196,7 @@ const Crop54 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, 7, adjust, adjustments, area, by, crop, editing, frame, image, images, photo, photos, rectangle, settings, size, square
  *
- * popularity: 2164
+ * popularity: 2167
  */
 const Crop75 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_7_5" {...props} />
@@ -6209,7 +6209,7 @@ const Crop75 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, crop, din, edit, editing, frame, image, images, photo, photos, rectangle, settings, size, square
  *
- * popularity: 3929
+ * popularity: 3937
  */
 const CropDin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_din" {...props} />
@@ -6222,7 +6222,7 @@ const CropDin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, crop, display, edit, editing, focus, frame, free, image, photo, photos, settings, size, zoom
  *
- * popularity: 9926
+ * popularity: 9932
  */
 const CropFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_free" {...props} />
@@ -6235,7 +6235,7 @@ const CropFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, crop, edit, editing, frame, image, images, landscape, photo, photos, settings, size
  *
- * popularity: 1664
+ * popularity: 1669
  */
 const CropLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_landscape" {...props} />
@@ -6248,7 +6248,7 @@ const CropLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, crop, edit, editing, frame, image, images, original, photo, photos, picture, settings, size
  *
- * popularity: 5907
+ * popularity: 5910
  */
 const CropOriginal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_original" {...props} />
@@ -6261,7 +6261,7 @@ const CropOriginal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, crop, edit, editing, frame, image, images, photo, photos, portrait, rectangle, settings, size, square
  *
- * popularity: 2323
+ * popularity: 2327
  */
 const CropPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_portrait" {...props} />
@@ -6274,7 +6274,7 @@ const CropPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, area, arrow, arrows, crop, edit, editing, frame, image, images, photo, photos, rotate, settings, size, turn
  *
- * popularity: 2095
+ * popularity: 2098
  */
 const CropRotate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_rotate" {...props} />
@@ -6287,7 +6287,7 @@ const CropRotate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, adjustments, app, application, area, components, crop, design, edit, editing, expand, frame, image, images, interface, open, photo, photos, rectangle, screen, settings, shape, shapes, site, size, square, ui, ux, web, website, window
  *
- * popularity: 8791
+ * popularity: 8795
  */
 const CropSquare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="crop_square" {...props} />
@@ -6300,7 +6300,7 @@ const CropSquare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animal, bunny, cruelty, eco, free, nature, rabbit, social, sustainability, sustainable, testing
  *
- * popularity: 6259
+ * popularity: 6269
  */
 const CrueltyFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cruelty_free" {...props} />
@@ -6313,7 +6313,7 @@ const CrueltyFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, brackets, character, code, css, develop, developer, engineer, engineering, font, html, letter, platform, symbol, text, type
  *
- * popularity: 2074
+ * popularity: 2078
  */
 const Css = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="css" {...props} />
@@ -6326,7 +6326,7 @@ const Css = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, blockchain, card, cash, coin, commerce, cost, credit, currency, digital, dollars, finance, franc, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 3746
+ * popularity: 3752
  */
 const CurrencyBitcoin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_bitcoin" {...props} />
@@ -6339,7 +6339,7 @@ const CurrencyBitcoin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 360, around, arrow, arrows, cash, coin, commerce, currency, direction, dollars, exchange, inprogress, money, pay, renew, rotate, sync, turn, universal
  *
- * popularity: 18083
+ * popularity: 18132
  */
 const CurrencyExchange = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_exchange" {...props} />
@@ -6352,7 +6352,7 @@ const CurrencyExchange = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, franc, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 674
+ * popularity: 676
  */
 const CurrencyFranc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_franc" {...props} />
@@ -6365,7 +6365,7 @@ const CurrencyFranc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, lira, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 915
+ * popularity: 919
  */
 const CurrencyLira = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_lira" {...props} />
@@ -6378,7 +6378,7 @@ const CurrencyLira = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, pound, price, shopping, symbol
  *
- * popularity: 2876
+ * popularity: 2878
  */
 const CurrencyPound = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_pound" {...props} />
@@ -6391,7 +6391,7 @@ const CurrencyPound = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, ruble, shopping, symbol
  *
- * popularity: 2027
+ * popularity: 2032
  */
 const CurrencyRuble = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_ruble" {...props} />
@@ -6404,7 +6404,7 @@ const CurrencyRuble = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, rupee, shopping, symbol
  *
- * popularity: 9262
+ * popularity: 9288
  */
 const CurrencyRupee = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_rupee" {...props} />
@@ -6417,7 +6417,7 @@ const CurrencyRupee = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, shopping, symbol, yen
  *
- * popularity: 3388
+ * popularity: 3399
  */
 const CurrencyYen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_yen" {...props} />
@@ -6430,7 +6430,7 @@ const CurrencyYen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, shopping, symbol, yuan
  *
- * popularity: 925
+ * popularity: 930
  */
 const CurrencyYuan = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="currency_yuan" {...props} />
@@ -6443,7 +6443,7 @@ const CurrencyYuan = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, cover, curtains, nest, open, shade, shutter, sunshade
  *
- * popularity: 566
+ * popularity: 570
  */
 const Curtains = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="curtains" {...props} />
@@ -6456,7 +6456,7 @@ const Curtains = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, closed, cover, curtains, nest, shade, shutter, sunshade
  *
- * popularity: 536
+ * popularity: 542
  */
 const CurtainsClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="curtains_closed" {...props} />
@@ -6469,7 +6469,7 @@ const CurtainsClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, natural, rain, storm, weather, wind, winds
  *
- * popularity: 1208
+ * popularity: 1209
  */
 const Cyclone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="cyclone" {...props} />
@@ -6482,7 +6482,7 @@ const Cyclone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: broken, danger, dangerous, fix, no, sign, stop, update, warning, wrong, x
  *
- * popularity: 20547
+ * popularity: 20571
  */
 const Dangerous = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dangerous" {...props} />
@@ -6495,7 +6495,7 @@ const Dangerous = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, dark, device, interface, mode, moon, night, silent, theme, ui, ux, website
  *
- * popularity: 47877
+ * popularity: 47925
  */
 const DarkMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dark_mode" {...props} />
@@ -6508,7 +6508,7 @@ const DarkMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cards, dashboard, format, layout, rectangle, shapes, square, web, website
  *
- * popularity: 131215
+ * popularity: 131329
  */
 const Dashboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dashboard" {...props} />
@@ -6521,7 +6521,7 @@ const Dashboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cards, customize, dashboard, format, layout, rectangle, shapes, square, web, website
  *
- * popularity: 22446
+ * popularity: 22457
  */
 const DashboardCustomize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dashboard_customize" {...props} />
@@ -6534,7 +6534,7 @@ const DashboardCustomize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: array, brackets, code, coder, data, parentheses
  *
- * popularity: 1772
+ * popularity: 1775
  */
 const DataArray = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_array" {...props} />
@@ -6547,7 +6547,7 @@ const DataArray = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, arrow, chart, data, diagram, exploration, graph, infographic, measure, metrics, statistics, tracking
  *
- * popularity: 7201
+ * popularity: 7208
  */
 const DataExploration = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_exploration" {...props} />
@@ -6560,7 +6560,7 @@ const DataExploration = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brackets, code, coder, data, object, parentheses
  *
- * popularity: 4709
+ * popularity: 4719
  */
 const DataObject = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_object" {...props} />
@@ -6573,7 +6573,7 @@ const DataObject = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, donut, graph, infographic, measure, metrics, off, on, ring, saver, statistics, tracking
  *
- * popularity: 3035
+ * popularity: 3038
  */
 const DataSaverOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_saver_off" {...props} />
@@ -6586,7 +6586,7 @@ const DataSaverOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, analytics, chart, data, diagram, graph, infographic, measure, metrics, new, on, plus, ring, saver, statistics, symbol, tracking
  *
- * popularity: 2954
+ * popularity: 2959
  */
 const DataSaverOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_saver_on" {...props} />
@@ -6599,7 +6599,7 @@ const DataSaverOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, hidden, privacy, thresholding, thresold
  *
- * popularity: 2364
+ * popularity: 2367
  */
 const DataThresholding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_thresholding" {...props} />
@@ -6612,7 +6612,7 @@ const DataThresholding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking, usage
  *
- * popularity: 6942
+ * popularity: 6949
  */
 const DataUsage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="data_usage" {...props} />
@@ -6625,7 +6625,7 @@ const DataUsage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 1527
+ * popularity: 1530
  */
 const Dataset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dataset" {...props} />
@@ -6638,7 +6638,7 @@ const Dataset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 832
+ * popularity: 838
  */
 const DatasetLinked = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dataset_linked" {...props} />
@@ -6651,7 +6651,7 @@ const DatasetLinked = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, month, range, remember, reminder, schedule, time, today, week
  *
- * popularity: 100399
+ * popularity: 100471
  */
 const DateRange = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="date_range" {...props} />
@@ -6664,7 +6664,7 @@ const DateRange = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, deblur, edit, editing, enhance, face, image, lines, photo, photography, sharpen
  *
- * popularity: 1036
+ * popularity: 1040
  */
 const Deblur = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="deblur" {...props} />
@@ -6677,7 +6677,7 @@ const Deblur = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chairs, deck, home, house, outdoors, outside, patio, social, terrace, umbrella, yard
  *
- * popularity: 5357
+ * popularity: 5363
  */
 const Deck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="deck" {...props} />
@@ -6690,7 +6690,7 @@ const Deck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, dehaze, edit, editing, enhance, haze, image, lines, photo, photography, remove
  *
- * popularity: 5798
+ * popularity: 5799
  */
 const Dehaze = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dehaze" {...props} />
@@ -6703,7 +6703,7 @@ const Dehaze = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bin, can, delete, garbage, remove, trash
  *
- * popularity: 358389
+ * popularity: 358667
  */
 const Delete = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="delete" {...props} />
@@ -6716,7 +6716,7 @@ const Delete = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bin, can, cancel, clear, delete, exit, forever, garbage, remove, trash, x
  *
- * popularity: 62906
+ * popularity: 62954
  */
 const DeleteForever = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="delete_forever" {...props} />
@@ -6729,7 +6729,7 @@ const DeleteForever = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bin, can, delete, garbage, outline, remove, trash
  *
- * popularity: 83842
+ * popularity: 83923
  */
 const DeleteOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="delete_outline" {...props} />
@@ -6742,7 +6742,7 @@ const DeleteOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bin, can, delete, garbage, remove, sweep, trash
  *
- * popularity: 12138
+ * popularity: 12148
  */
 const DeleteSweep = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="delete_sweep" {...props} />
@@ -6755,7 +6755,7 @@ const DeleteSweep = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: delivery, dining, food, meal, restaurant, scooter, takeout, transportation, vehicle, vespa
  *
- * popularity: 15847
+ * popularity: 15853
  */
 const DeliveryDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="delivery_dining" {...props} />
@@ -6768,7 +6768,7 @@ const DeliveryDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: density, horizontal, large, lines, rule, rules
  *
- * popularity: 1248
+ * popularity: 1253
  */
 const DensityLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="density_large" {...props} />
@@ -6781,7 +6781,7 @@ const DensityLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: density, horizontal, lines, medium, rule, rules
  *
- * popularity: 5982
+ * popularity: 5999
  */
 const DensityMedium = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="density_medium" {...props} />
@@ -6794,7 +6794,7 @@ const DensityMedium = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: density, horizontal, lines, rule, rules, small
  *
- * popularity: 2468
+ * popularity: 2480
  */
 const DensitySmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="density_small" {...props} />
@@ -6807,7 +6807,7 @@ const DensitySmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, board, bus, car, cars, clock, departure, maps, public, schedule, time, transportation, travel, vehicle
  *
- * popularity: 4695
+ * popularity: 4701
  */
 const DepartureBoard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="departure_board" {...props} />
@@ -6820,7 +6820,7 @@ const DepartureBoard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, data, description, doc, document, drive, file, folder, folders, notes, page, paper, sheet, slide, text, writing
  *
- * popularity: 244022
+ * popularity: 244259
  */
 const Description = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="description" {...props} />
@@ -6833,7 +6833,7 @@ const Description = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, disabled, enabled, off, on, selection, slash, square, tool
  *
- * popularity: 1625
+ * popularity: 1632
  */
 const Deselect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="deselect" {...props} />
@@ -6846,7 +6846,7 @@ const Deselect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, design, draft, edit, editing, input, pen, pencil, ruler, service, write, writing
  *
- * popularity: 16130
+ * popularity: 16145
  */
 const DesignServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="design_services" {...props} />
@@ -6859,7 +6859,7 @@ const DesignServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 554
+ * popularity: 555
  */
 const Desk = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="desk" {...props} />
@@ -6872,7 +6872,7 @@ const Desk = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, access, chrome, desktop, device, disabled, display, enabled, hardware, iOS, mac, monitor, off, offline, on, screen, slash, web, window
  *
- * popularity: 2200
+ * popularity: 2203
  */
 const DesktopAccessDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="desktop_access_disabled" {...props} />
@@ -6885,7 +6885,7 @@ const DesktopAccessDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, desktop, device, display, hardware, iOS, mac, monitor, screen, web, window
  *
- * popularity: 5835
+ * popularity: 5840
  */
 const DesktopMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="desktop_mac" {...props} />
@@ -6898,7 +6898,7 @@ const DesktopMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, desktop, device, display, hardware, iOS, mac, monitor, screen, television, tv, web, window, windows
  *
- * popularity: 26860
+ * popularity: 26885
  */
 const DesktopWindows = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="desktop_windows" {...props} />
@@ -6911,7 +6911,7 @@ const DesktopWindows = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: details, edit, editing, enhance, image, photo, photography, sharpen, triangle
  *
- * popularity: 5166
+ * popularity: 5171
  */
 const Details = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="details" {...props} />
@@ -6924,7 +6924,7 @@ const Details = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: board, chip, computer, developer, development, hardware, microchip, processor
  *
- * popularity: 9697
+ * popularity: 9708
  */
 const DeveloperBoard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="developer_board" {...props} />
@@ -6937,7 +6937,7 @@ const DeveloperBoard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: board, chip, computer, developer, development, disabled, enabled, hardware, microchip, off, on, processor, slash
  *
- * popularity: 1068
+ * popularity: 1069
  */
 const DeveloperBoardOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="developer_board_off" {...props} />
@@ -6950,7 +6950,7 @@ const DeveloperBoardOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, bracket, cell, code, developer, development, device, engineer, hardware, iOS, mobile, mode, phone, tablet
  *
- * popularity: 6374
+ * popularity: 6381
  */
 const DeveloperMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="developer_mode" {...props} />
@@ -6963,7 +6963,7 @@ const DeveloperMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, circle, computer, desktop, device, hardware, hub, iOS, laptop, mobile, monitor, phone, square, tablet, triangle, watch, wearable, web
  *
- * popularity: 7614
+ * popularity: 7625
  */
 const DeviceHub = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="device_hub" {...props} />
@@ -6976,7 +6976,7 @@ const DeviceHub = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: celsius, device, fahrenheit, meter, temp, temperature, thermometer, thermostat
  *
- * popularity: 7188
+ * popularity: 7200
  */
 const DeviceThermostat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="device_thermostat" {...props} />
@@ -6989,7 +6989,7 @@ const DeviceThermostat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, Android, OS, assistance, cell, device, hardware, help, iOS, info, information, mobile, phone, punctuation, question mark, support, symbol, tablet, unknown
  *
- * popularity: 2908
+ * popularity: 2913
  */
 const DeviceUnknown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="device_unknown" {...props} />
@@ -7002,7 +7002,7 @@ const DeviceUnknown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, computer, desktop, device, hardware, iOS, laptop, mobile, monitor, phone, tablet, watch, wearable, web
  *
- * popularity: 31025
+ * popularity: 31037
  */
 const Devices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="devices" {...props} />
@@ -7015,7 +7015,7 @@ const Devices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, dash, dashed, device, fold, foldable, hardware, iOS, mobile, phone, tablet
  *
- * popularity: 521
+ * popularity: 523
  */
 const DevicesFold = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="devices_fold" {...props} />
@@ -7028,7 +7028,7 @@ const DevicesFold = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, ar, cell, chrome, desktop, device, gadget, hardware, iOS, ipad, mac, mobile, monitor, other, phone, tablet, vr, watch, wearables, window
  *
- * popularity: 6079
+ * popularity: 6083
  */
 const DevicesOther = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="devices_other" {...props} />
@@ -7041,7 +7041,7 @@ const DevicesOther = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, call, cell, character, contact, device, dialer, font, hardware, initiation, internet, letter, mobile, over, phone, protocol, routing, session, sip, symbol, telephone, text, type, voice
  *
- * popularity: 1806
+ * popularity: 1808
  */
 const DialerSip = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dialer_sip" {...props} />
@@ -7054,7 +7054,7 @@ const DialerSip = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: buttons, call, contact, device, dial, dialpad, dots, mobile, numbers, pad, phone
  *
- * popularity: 9186
+ * popularity: 9193
  */
 const Dialpad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dialpad" {...props} />
@@ -7067,7 +7067,7 @@ const Dialpad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: diamond, fashion, gems, jewelry, logo, retail, valuable, valuables
  *
- * popularity: 11242
+ * popularity: 11264
  */
 const Diamond = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="diamond" {...props} />
@@ -7080,7 +7080,7 @@ const Diamond = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compare, content, copy, cut, diff, difference, doc, document, duplicate, file, multiple, past, stack
  *
- * popularity: 3442
+ * popularity: 3447
  */
 const Difference = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="difference" {...props} />
@@ -7093,7 +7093,7 @@ const Difference = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cafe, cafeteria, cutlery, diner, dining, eat, eating, fork, room, spoon
  *
- * popularity: 4694
+ * popularity: 4698
  */
 const Dining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dining" {...props} />
@@ -7106,7 +7106,7 @@ const Dining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, dining, dinner, food, fork, lunch, meal, restaurant, spaghetti, utensils
  *
- * popularity: 6044
+ * popularity: 6047
  */
 const DinnerDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dinner_dining" {...props} />
@@ -7119,7 +7119,7 @@ const DinnerDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directions, maps, right, route, sign, traffic
  *
- * popularity: 10592
+ * popularity: 10609
  */
 const Directions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions" {...props} />
@@ -7132,7 +7132,7 @@ const Directions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bicycle, bike, direction, directions, human, maps, person, public, route, transportation
  *
- * popularity: 14488
+ * popularity: 14505
  */
 const DirectionsBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_bike" {...props} />
@@ -7145,7 +7145,7 @@ const DirectionsBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, boat, car, cars, direction, directions, ferry, maps, public, transportation, vehicle
  *
- * popularity: 9334
+ * popularity: 9345
  */
 const DirectionsBoat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_boat" {...props} />
@@ -7158,7 +7158,7 @@ const DirectionsBoat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, boat, car, cars, direction, directions, ferry, filled, maps, public, transportation, vehicle
  *
- * popularity: 3211
+ * popularity: 3212
  */
 const DirectionsBoatFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_boat_filled" {...props} />
@@ -7171,7 +7171,7 @@ const DirectionsBoatFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bus, car, cars, directions, maps, public, transportation, vehicle
  *
- * popularity: 15429
+ * popularity: 15446
  */
 const DirectionsBus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_bus" {...props} />
@@ -7184,7 +7184,7 @@ const DirectionsBus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bus, car, cars, direction, directions, filled, maps, public, transportation, vehicle
  *
- * popularity: 6736
+ * popularity: 6741
  */
 const DirectionsBusFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_bus_filled" {...props} />
@@ -7197,7 +7197,7 @@ const DirectionsBusFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, maps, public, transportation, vehicle
  *
- * popularity: 38588
+ * popularity: 38635
  */
 const DirectionsCar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_car" {...props} />
@@ -7210,7 +7210,7 @@ const DirectionsCar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, filled, maps, public, transportation, vehicle
  *
- * popularity: 14248
+ * popularity: 14255
  */
 const DirectionsCarFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_car_filled" {...props} />
@@ -7223,7 +7223,7 @@ const DirectionsCarFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directions, disabled, enabled, maps, off, on, right, route, sign, slash, traffic
  *
- * popularity: 941
+ * popularity: 942
  */
 const DirectionsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_off" {...props} />
@@ -7236,7 +7236,7 @@ const DirectionsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, maps, public, railway, train, transportation, vehicle
  *
- * popularity: 1620
+ * popularity: 1622
  */
 const DirectionsRailway = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_railway" {...props} />
@@ -7249,7 +7249,7 @@ const DirectionsRailway = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, filled, maps, public, railway, train, transportation, vehicle
  *
- * popularity: 1108
+ * popularity: 1109
  */
 const DirectionsRailwayFilled = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -7262,7 +7262,7 @@ const DirectionsRailwayFilled = (
  *
  * tags: body, directions, human, jogging, maps, people, person, route, run, running, walk
  *
- * popularity: 24259
+ * popularity: 24280
  */
 const DirectionsRun = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_run" {...props} />
@@ -7275,7 +7275,7 @@ const DirectionsRun = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, maps, public, rail, subway, train, transportation, vehicle
  *
- * popularity: 1854
+ * popularity: 1855
  */
 const DirectionsSubway = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_subway" {...props} />
@@ -7288,7 +7288,7 @@ const DirectionsSubway = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, filled, maps, public, rail, subway, train, transportation, vehicle
  *
- * popularity: 1141
+ * popularity: 1142
  */
 const DirectionsSubwayFilled = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -7301,7 +7301,7 @@ const DirectionsSubwayFilled = (
  *
  * tags: automobile, car, cars, direction, directions, maps, public, rail, subway, train, transit, transportation, vehicle
  *
- * popularity: 2486
+ * popularity: 2490
  */
 const DirectionsTransit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_transit" {...props} />
@@ -7314,7 +7314,7 @@ const DirectionsTransit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, directions, filled, maps, public, rail, subway, train, transit, transportation, vehicle
  *
- * popularity: 1235
+ * popularity: 1238
  */
 const DirectionsTransitFilled = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -7327,7 +7327,7 @@ const DirectionsTransitFilled = (
  *
  * tags: body, direction, directions, human, jogging, maps, people, person, route, run, walk
  *
- * popularity: 19617
+ * popularity: 19634
  */
 const DirectionsWalk = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="directions_walk" {...props} />
@@ -7340,7 +7340,7 @@ const DirectionsWalk = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, dirty, lens, photo, photography, picture, splat
  *
- * popularity: 1024
+ * popularity: 1025
  */
 const DirtyLens = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dirty_lens" {...props} />
@@ -7353,7 +7353,7 @@ const DirtyLens = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, by, cancel, clear, close, default, disabled, exit, no, quit, remove, square, stop, x
  *
- * popularity: 19006
+ * popularity: 19019
  */
 const DisabledByDefault = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="disabled_by_default" {...props} />
@@ -7366,7 +7366,7 @@ const DisabledByDefault = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, disabled, exit, eye, no, on, quit, remove, reveal, see, show, stop, view, visibility, visible
  *
- * popularity: 5058
+ * popularity: 5064
  */
 const DisabledVisible = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="disabled_visible" {...props} />
@@ -7379,7 +7379,7 @@ const DisabledVisible = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, cd, danger, disc, error, exclamation, full, important, mark, music, notification, storage, symbol, warning
  *
- * popularity: 1767
+ * popularity: 1768
  */
 const DiscFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="disc_full" {...props} />
@@ -7392,7 +7392,7 @@ const DiscFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 6606
+ * popularity: 6637
  */
 const Discount = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="discount" {...props} />
@@ -7405,7 +7405,7 @@ const Discount = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, application, change, chrome, desktop, details, device, display, gear, hardware, iOS, info, information, mac, monitor, options, personal, screen, service, settings, web, window
  *
- * popularity: 4886
+ * popularity: 4901
  */
 const DisplaySettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="display_settings" {...props} />
@@ -7418,7 +7418,7 @@ const DisplaySettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: committee, diverse, diversity, family, friends, group, groups, heart, humans, network, people, persons, social, team
  *
- * popularity: 4758
+ * popularity: 4777
  */
 const Diversity1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="diversity_1" {...props} />
@@ -7431,7 +7431,7 @@ const Diversity1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: committee, diverse, diversity, family, friends, group, groups, heart, humans, network, people, persons, social, team
  *
- * popularity: 3218
+ * popularity: 3224
  */
 const Diversity2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="diversity_2" {...props} />
@@ -7444,7 +7444,7 @@ const Diversity2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: committee, diverse, diversity, family, friends, group, groups, humans, network, people, persons, social, team
  *
- * popularity: 7016
+ * popularity: 7048
  */
 const Diversity3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="diversity_3" {...props} />
@@ -7457,7 +7457,7 @@ const Diversity3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: address, bars, dns, domain, information, ip, list, lookup, name, server, system
  *
- * popularity: 31531
+ * popularity: 31563
  */
 const Dns = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dns" {...props} />
@@ -7470,7 +7470,7 @@ const Dns = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disturb, do, remove, silence, stop
  *
- * popularity: 5046
+ * popularity: 5049
  */
 const DoDisturb = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_disturb" {...props} />
@@ -7483,7 +7483,7 @@ const DoDisturb = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disturb, do, remove, silence, stop
  *
- * popularity: 3612
+ * popularity: 3617
  */
 const DoDisturbAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_disturb_alt" {...props} />
@@ -7496,7 +7496,7 @@ const DoDisturbAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disabled, disturb, do, enabled, off, on, remove, silence, slash, stop
  *
- * popularity: 1358
+ * popularity: 1363
  */
 const DoDisturbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_disturb_off" {...props} />
@@ -7509,7 +7509,7 @@ const DoDisturbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disabled, disturb, do, enabled, off, on, remove, silence, slash, stop
  *
- * popularity: 6826
+ * popularity: 6838
  */
 const DoDisturbOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_disturb_on" {...props} />
@@ -7522,7 +7522,7 @@ const DoDisturbOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disturb, do, remove, silence, stop
  *
- * popularity: 8579
+ * popularity: 8589
  */
 const DoNotDisturb = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_disturb" {...props} />
@@ -7535,7 +7535,7 @@ const DoNotDisturb = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disturb, do, remove, silence, stop
  *
- * popularity: 3319
+ * popularity: 3321
  */
 const DoNotDisturbAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_disturb_alt" {...props} />
@@ -7548,7 +7548,7 @@ const DoNotDisturbAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disabled, disturb, do, enabled, off, on, remove, silence, slash, stop
  *
- * popularity: 1519
+ * popularity: 1521
  */
 const DoNotDisturbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_disturb_off" {...props} />
@@ -7561,7 +7561,7 @@ const DoNotDisturbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, denied, deny, disabled, disturb, do, enabled, off, on, remove, silence, slash, stop
  *
- * popularity: 11496
+ * popularity: 11505
  */
 const DoNotDisturbOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_disturb_on" {...props} />
@@ -7574,7 +7574,7 @@ const DoNotDisturbOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: busy, disturb, do, mute, no, not, on total, quiet, silence
  *
- * popularity: 1715
+ * popularity: 1719
  */
 const DoNotDisturbOnTotalSilence = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -7587,7 +7587,7 @@ const DoNotDisturbOnTotalSilence = (
  *
  * tags: boot, disabled, do, enabled, feet, foot, not, off, on, shoe, slash, sneaker, step, steps
  *
- * popularity: 1618
+ * popularity: 1620
  */
 const DoNotStep = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_step" {...props} />
@@ -7600,7 +7600,7 @@ const DoNotStep = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, do, enabled, fingers, gesture, hand, not, off, on, slash, touch
  *
- * popularity: 2385
+ * popularity: 2396
  */
 const DoNotTouch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="do_not_touch" {...props} />
@@ -7613,7 +7613,7 @@ const DoNotTouch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, charging, connector, device, dock, hardware, iOS, mobile, phone, power, station, tablet
  *
- * popularity: 1348
+ * popularity: 1350
  */
 const Dock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dock" {...props} />
@@ -7626,7 +7626,7 @@ const Dock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, data, doc, document, drive, file, folder, folders, notes, page, paper, scan, scanner, sheet, slide, text, writing
  *
- * popularity: 11513
+ * popularity: 11522
  */
 const DocumentScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="document_scanner" {...props} />
@@ -7639,7 +7639,7 @@ const DocumentScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apartment, architecture, building, business, domain, estate, home, place, real, residence, residential, shelter, web, www
  *
- * popularity: 14738
+ * popularity: 14754
  */
 const Domain = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="domain" {...props} />
@@ -7652,7 +7652,7 @@ const Domain = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, apartment, architecture, building, business, domain, estate, home, new, place, plus, real, residence, residential, shelter, symbol, web, www
  *
- * popularity: 3009
+ * popularity: 3013
  */
 const DomainAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="domain_add" {...props} />
@@ -7665,7 +7665,7 @@ const DomainAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apartment, architecture, building, business, company, disabled, domain, enabled, estate, home, internet, maps, off, office, offline, on, place, real, residence, residential, slash, web, website
  *
- * popularity: 2375
+ * popularity: 2378
  */
 const DomainDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="domain_disabled" {...props} />
@@ -7678,7 +7678,7 @@ const DomainDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application desktop, approve, check, complete, design, domain, done, interface, internet, layout, mark, ok, screen, select, site, tick, ui, ux, validate, verification, verified, web, website, window, www, yes
  *
- * popularity: 4985
+ * popularity: 4987
  */
 const DomainVerification = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="domain_verification" {...props} />
@@ -7691,7 +7691,7 @@ const DomainVerification = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, approve, check, complete, disable_ios, done, mark, ok, select, tick, validate, verified, yes
  *
- * popularity: 488279
+ * popularity: 488666
  */
 const Done = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="done" {...props} />
@@ -7704,7 +7704,7 @@ const Done = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, approve, check, complete, done, layers, mark, multiple, ok, select, stack, tick, validate, verified, yes
  *
- * popularity: 50098
+ * popularity: 50140
  */
 const DoneAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="done_all" {...props} />
@@ -7717,7 +7717,7 @@ const DoneAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, approve, check, complete, done, mark, ok, outline, select, tick, validate, verified, yes
  *
- * popularity: 35919
+ * popularity: 35942
  */
 const DoneOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="done_outline" {...props} />
@@ -7730,7 +7730,7 @@ const DoneOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, donut, graph, infographic, inprogress, large, measure, metrics, pie, statistics, tracking
  *
- * popularity: 12429
+ * popularity: 12440
  */
 const DonutLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="donut_large" {...props} />
@@ -7743,7 +7743,7 @@ const DonutLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, donut, graph, infographic, inprogress, measure, metrics, pie, small, statistics, tracking
  *
- * popularity: 8504
+ * popularity: 8513
  */
 const DonutSmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="donut_small" {...props} />
@@ -7756,7 +7756,7 @@ const DonutSmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, closed, door, doorway, entrance, exit, home, house, way
  *
- * popularity: 3209
+ * popularity: 3217
  */
 const DoorBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="door_back" {...props} />
@@ -7769,7 +7769,7 @@ const DoorBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: closed, door, doorway, entrance, exit, front, home, house, way
  *
- * popularity: 5908
+ * popularity: 5924
  */
 const DoorFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="door_front" {...props} />
@@ -7782,7 +7782,7 @@ const DoorFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, automatic, door, doorway, double, entrance, exit, glass, home, house, sliding, two
  *
- * popularity: 3296
+ * popularity: 3302
  */
 const DoorSliding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="door_sliding" {...props} />
@@ -7795,7 +7795,7 @@ const DoorSliding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, bell, door, doorbell, home, house, ringing
  *
- * popularity: 3007
+ * popularity: 3010
  */
 const Doorbell = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="doorbell" {...props} />
@@ -7808,7 +7808,7 @@ const Doorbell = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, double, multiple, navigation, right
  *
- * popularity: 32199
+ * popularity: 32219
  */
 const DoubleArrow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="double_arrow" {...props} />
@@ -7821,7 +7821,7 @@ const DoubleArrow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, downhill, entertainment, exercise, hobby, human, people, person, ski social, skiing, snow, sports, travel, winter
  *
- * popularity: 3446
+ * popularity: 3448
  */
 const DownhillSkiing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="downhill_skiing" {...props} />
@@ -7834,7 +7834,7 @@ const DownhillSkiing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, down, download, downloads, drive, install, upload
  *
- * popularity: 71377
+ * popularity: 71458
  */
 const Download = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="download" {...props} />
@@ -7847,7 +7847,7 @@ const Download = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, check, done, down, download, downloads, drive, install, installed, ok, tick, upload
  *
- * popularity: 9173
+ * popularity: 9180
  */
 const DownloadDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="download_done" {...props} />
@@ -7860,7 +7860,7 @@ const DownloadDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, down, download, for offline, install, upload
  *
- * popularity: 17293
+ * popularity: 17312
  */
 const DownloadForOffline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="download_for_offline" {...props} />
@@ -7873,7 +7873,7 @@ const DownloadForOffline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, down, download, downloading, downloads, install, pending, progress, upload
  *
- * popularity: 13175
+ * popularity: 13189
  */
 const Downloading = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="downloading" {...props} />
@@ -7886,7 +7886,7 @@ const Downloading = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: document, draft, drafts, email, file, letter, mail, message, read
  *
- * popularity: 13627
+ * popularity: 13638
  */
 const Drafts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drafts" {...props} />
@@ -7899,7 +7899,7 @@ const Drafts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application ui, components, design, drag, handle, interface, layout, menu, move, screen, site, ui, ux, web, website, window
  *
- * popularity: 26186
+ * popularity: 26201
  */
 const DragHandle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drag_handle" {...props} />
@@ -7912,7 +7912,7 @@ const DragHandle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, circles, components, design, dots, drag, drop, indicator, interface, layout, mobile, monitor, move, phone, screen, shape, shift, site, tablet, ui, ux, web, website, window
  *
- * popularity: 41208
+ * popularity: 41246
  */
 const DragIndicator = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drag_indicator" {...props} />
@@ -7925,7 +7925,7 @@ const DragIndicator = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, design, draft, draw, edit, editing, input, pen, pencil, write, writing
  *
- * popularity: 12207
+ * popularity: 12220
  */
 const Draw = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="draw" {...props} />
@@ -7938,7 +7938,7 @@ const Draw = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, destination, direction, drive, estimate, eta, maps, public, transportation, travel, trip, vehicle
  *
- * popularity: 14020
+ * popularity: 14035
  */
 const DriveEta = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drive_eta" {...props} />
@@ -7951,7 +7951,7 @@ const DriveEta = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, data, doc, document, drive, file, folder, move, right, sheet, slide, storage
  *
- * popularity: 7943
+ * popularity: 7951
  */
 const DriveFileMove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drive_file_move" {...props} />
@@ -7964,7 +7964,7 @@ const DriveFileMove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, data, direction, doc, document, drive, file, folder, folders, left, move, rtl, sheet, side, slide, storage
  *
- * popularity: 2258
+ * popularity: 2260
  */
 const DriveFileMoveRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drive_file_move_rtl" {...props} />
@@ -7977,7 +7977,7 @@ const DriveFileMoveRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, draft, drive, edit, editing, file, input, marker, pen, pencil, rename, write, writing
  *
- * popularity: 25177
+ * popularity: 25199
  */
 const DriveFileRenameOutline = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -7990,7 +7990,7 @@ const DriveFileRenameOutline = (
  *
  * tags: arrow, data, doc, document, drive, file, folder, sheet, slide, storage, up, upload
  *
- * popularity: 7228
+ * popularity: 7232
  */
 const DriveFolderUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="drive_folder_upload" {...props} />
@@ -8003,7 +8003,7 @@ const DriveFolderUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, bathroom, dry, dryer, fingers, gesture, hand, wc
  *
- * popularity: 1508
+ * popularity: 1512
  */
 const Dry = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dry" {...props} />
@@ -8016,7 +8016,7 @@ const Dry = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cleaning, dry, hanger, hotel, laundry, places, service, towel
  *
- * popularity: 3672
+ * popularity: 3676
  */
 const DryCleaning = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dry_cleaning" {...props} />
@@ -8029,7 +8029,7 @@ const DryCleaning = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, chat, conference, device, duo, video
  *
- * popularity: 3533
+ * popularity: 3536
  */
 const Duo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="duo" {...props} />
@@ -8042,7 +8042,7 @@ const Duo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, audio, chrome, computer, desktop, device, display, dvr, electronic, hardware, iOS, list, mac, monitor, record, recorder, screen, tv, video, web, window
  *
- * popularity: 11558
+ * popularity: 11567
  */
 const Dvr = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dvr" {...props} />
@@ -8055,7 +8055,7 @@ const Dvr = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 'mail_outline', 'markunread'. Keep 'mail' and remove others., Duplicate of 'email'
  *
- * popularity: 8867
+ * popularity: 8872
  */
 const DynamicFeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dynamic_feed" {...props} />
@@ -8068,7 +8068,7 @@ const DynamicFeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, code, dynamic, electric, fast, form, lightning, lists, questionnaire, thunderbolt
  *
- * popularity: 6927
+ * popularity: 6931
  */
 const DynamicForm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="dynamic_form" {...props} />
@@ -8081,7 +8081,7 @@ const DynamicForm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, data, e, font, letter, mobile, mobiledata, text, type
  *
- * popularity: 705
+ * popularity: 706
  */
 const EMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="e_mobiledata" {...props} />
@@ -8094,7 +8094,7 @@ const EMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, earbuds, earphone, headphone, listen, music, sound
  *
- * popularity: 1976
+ * popularity: 1978
  */
 const Earbuds = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="earbuds" {...props} />
@@ -8107,7 +8107,7 @@ const Earbuds = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, battery, charging, earbuds, earphone, headphone, listen, music, sound
  *
- * popularity: 1242
+ * popularity: 1244
  */
 const EarbudsBattery = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="earbuds_battery" {...props} />
@@ -8120,7 +8120,7 @@ const EarbudsBattery = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, east, maps, navigation, right
  *
- * popularity: 61269
+ * popularity: 61315
  */
 const East = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="east" {...props} />
@@ -8133,7 +8133,7 @@ const East = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, edge, hardware, high, iOS, mobile, move, phone, sensitivity, sensor, tablet, vibrate
  *
- * popularity: 1366
+ * popularity: 1369
  */
 const EdgesensorHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edgesensor_high" {...props} />
@@ -8146,7 +8146,7 @@ const EdgesensorHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, cell, device, edge, hardware, iOS, low, mobile, move, phone, sensitivity, sensor, tablet, vibrate
  *
- * popularity: 1073
+ * popularity: 1074
  */
 const EdgesensorLow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edgesensor_low" {...props} />
@@ -8159,7 +8159,7 @@ const EdgesensorLow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, edit, editing, input, new, pen, pencil, write, writing
  *
- * popularity: 290281
+ * popularity: 290494
  */
 const Edit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit" {...props} />
@@ -8172,7 +8172,7 @@ const Edit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, attribution, check, complete, done, edit, mark, ok, select, tick, validate, verified, yes
  *
- * popularity: 3600
+ * popularity: 3604
  */
 const EditAttributes = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_attributes" {...props} />
@@ -8185,7 +8185,7 @@ const EditAttributes = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, compose, create, date, day, draft, edit, editing, event, month, pen, pencil, schedule, write, writing
  *
- * popularity: 28425
+ * popularity: 28448
  */
 const EditCalendar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_calendar" {...props} />
@@ -8198,7 +8198,7 @@ const EditCalendar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, edit, location, maps, pen, pencil, pin, place, stop
  *
- * popularity: 3984
+ * popularity: 3988
  */
 const EditLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_location" {...props} />
@@ -8211,7 +8211,7 @@ const EditLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, edit, location, pen, pencil, pin
  *
- * popularity: 3589
+ * popularity: 3591
  */
 const EditLocationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_location_alt" {...props} />
@@ -8224,7 +8224,7 @@ const EditLocationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, draft, edit, editing, input, lines, note, pen, pencil, text, write, writing
  *
- * popularity: 54035
+ * popularity: 54096
  */
 const EditNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_note" {...props} />
@@ -8237,7 +8237,7 @@ const EditNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, compose, create, draft, edit, editing, input, new, notifications, notify, pen, pencil, reminder, ring, sound, write, writing
  *
- * popularity: 4189
+ * popularity: 4191
  */
 const EditNotifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_notifications" {...props} />
@@ -8250,7 +8250,7 @@ const EditNotifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, disabled, draft, edit, editing, enabled, input, new, off, offline, on, pen, pencil, slash, write, writing
  *
- * popularity: 8072
+ * popularity: 8077
  */
 const EditOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_off" {...props} />
@@ -8263,7 +8263,7 @@ const EditOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, edit, highway, maps, pen, pencil, road, street, traffic
  *
- * popularity: 3647
+ * popularity: 3651
  */
 const EditRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="edit_road" {...props} />
@@ -8276,7 +8276,7 @@ const EditRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, brunch, egg, food
  *
- * popularity: 2357
+ * popularity: 2369
  */
 const Egg = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="egg" {...props} />
@@ -8289,7 +8289,7 @@ const Egg = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, brunch, egg, food
  *
- * popularity: 1302
+ * popularity: 1303
  */
 const EggAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="egg_alt" {...props} />
@@ -8302,7 +8302,7 @@ const EggAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disc, drive, dvd, eject, remove, triangle, usb
  *
- * popularity: 3818
+ * popularity: 3820
  */
 const Eject = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="eject" {...props} />
@@ -8315,7 +8315,7 @@ const Eject = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, cane, elderly, human, old, people, person, senior
  *
- * popularity: 5524
+ * popularity: 5528
  */
 const Elderly = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="elderly" {...props} />
@@ -8328,7 +8328,7 @@ const Elderly = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, cane, elderly, female, gender, girl, human, lady, old, people, person, senior, social, symbol, woman, women
  *
- * popularity: 1875
+ * popularity: 1878
  */
 const ElderlyWoman = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="elderly_woman" {...props} />
@@ -8341,7 +8341,7 @@ const ElderlyWoman = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bike, electric, electricity, maps, scooter, transportation, travel, vespa
  *
- * popularity: 2542
+ * popularity: 2544
  */
 const ElectricBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_bike" {...props} />
@@ -8354,7 +8354,7 @@ const ElectricBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, electric, energy, fast, instant, lightning, nest, thunderbolt
  *
- * popularity: 5383
+ * popularity: 5405
  */
 const ElectricBolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_bolt" {...props} />
@@ -8367,7 +8367,7 @@ const ElectricBolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, electric, electricity, maps, transportation, travel, vehicle
  *
- * popularity: 4396
+ * popularity: 4401
  */
 const ElectricCar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_car" {...props} />
@@ -8380,7 +8380,7 @@ const ElectricCar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, electric, energy, fast, instant, lightning, measure, meter, nest, thunderbolt, usage, voltage, volts
  *
- * popularity: 1739
+ * popularity: 1751
  */
 const ElectricMeter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_meter" {...props} />
@@ -8393,7 +8393,7 @@ const ElectricMeter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bike, car, cars, electric, maps, moped, scooter, transportation, travel, vehicle, vespa
  *
- * popularity: 1525
+ * popularity: 1527
  */
 const ElectricMoped = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_moped" {...props} />
@@ -8406,7 +8406,7 @@ const ElectricMoped = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, electric, india, maps, rickshaw, transportation, truck, vehicle
  *
- * popularity: 1770
+ * popularity: 1772
  */
 const ElectricRickshaw = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_rickshaw" {...props} />
@@ -8419,7 +8419,7 @@ const ElectricRickshaw = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bike, electric, maps, scooter, transportation, vehicle, vespa
  *
- * popularity: 2411
+ * popularity: 2413
  */
 const ElectricScooter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electric_scooter" {...props} />
@@ -8432,7 +8432,7 @@ const ElectricScooter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: charge, cord, electric, electrical, plug, power, services, wire
  *
- * popularity: 9775
+ * popularity: 9786
  */
 const ElectricalServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="electrical_services" {...props} />
@@ -8445,7 +8445,7 @@ const ElectricalServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, down, elevator, human, people, person, up
  *
- * popularity: 3429
+ * popularity: 3440
  */
 const Elevator = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="elevator" {...props} />
@@ -8458,7 +8458,7 @@ const Elevator = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, envelop, letter, mail, message, send
  *
- * popularity: 257478
+ * popularity: 257661
  */
 const Email = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="email" {...props} />
@@ -8471,7 +8471,7 @@ const Email = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: asterisk, clinic, emergency, health, hospital, maps, medical, symbol
  *
- * popularity: 8445
+ * popularity: 8458
  */
 const Emergency = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emergency" {...props} />
@@ -8484,7 +8484,7 @@ const Emergency = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, attention, camera, caution, danger, emergency, film, filming, hardware, image, important, motion, notification, picture, record, video, videography, warning
  *
- * popularity: 582
+ * popularity: 585
  */
 const EmergencyRecording = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emergency_recording" {...props} />
@@ -8497,7 +8497,7 @@ const EmergencyRecording = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, attention, caution, danger, emergency, important, notification, share, warning
  *
- * popularity: 980
+ * popularity: 982
  */
 const EmergencyShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emergency_share" {...props} />
@@ -8510,7 +8510,7 @@ const EmergencyShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, emoji, emotions, expressions, face, feelings, glad, happiness, happy, icon, icons, insert, like, mood, new, person, pleased, plus, smile, smiling, social, survey, symbol
  *
- * popularity: 30948
+ * popularity: 30975
  */
 const EmojiEmotions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_emotions" {...props} />
@@ -8523,7 +8523,7 @@ const EmojiEmotions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: achievement, award, chalice, champion, cup, emoji, events, first, prize, reward, sport, trophy, winner
  *
- * popularity: 74818
+ * popularity: 74909
  */
 const EmojiEvents = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_events" {...props} />
@@ -8536,7 +8536,7 @@ const EmojiEvents = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beverage, coffee, cup, drink, emoji, mug, plate, set, tea
  *
- * popularity: 6145
+ * popularity: 6150
  */
 const EmojiFoodBeverage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_food_beverage" {...props} />
@@ -8549,7 +8549,7 @@ const EmojiFoodBeverage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animal, bee, bug, daisy, emoji, flower, insect, ladybug, nature, petals, spring, summer
  *
- * popularity: 8702
+ * popularity: 8710
  */
 const EmojiNature = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_nature" {...props} />
@@ -8562,7 +8562,7 @@ const EmojiNature = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bulb, creative, emoji, idea, light, objects, solution, thinking
  *
- * popularity: 24673
+ * popularity: 24691
  */
 const EmojiObjects = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_objects" {...props} />
@@ -8575,7 +8575,7 @@ const EmojiObjects = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arm, body, emoji, greeting, human, people, person, social, waving
  *
- * popularity: 17790
+ * popularity: 17800
  */
 const EmojiPeople = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_people" {...props} />
@@ -8588,7 +8588,7 @@ const EmojiPeople = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ampersand, character, emoji, hieroglyph, music, note, percent, sign, symbols
  *
- * popularity: 6211
+ * popularity: 6213
  */
 const EmojiSymbols = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_symbols" {...props} />
@@ -8601,7 +8601,7 @@ const EmojiSymbols = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, automobile, building, car, cars, direction, emoji, estate, maps, place, public, real, residence, residential, shelter, transportation, travel, vehicle
  *
- * popularity: 5966
+ * popularity: 5972
  */
 const EmojiTransportation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="emoji_transportation" {...props} />
@@ -8614,7 +8614,7 @@ const EmojiTransportation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: eco, energy, leaf, leaves, nest, savings, usage
  *
- * popularity: 3348
+ * popularity: 3363
  */
 const EnergySavingsLeaf = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="energy_savings_leaf" {...props} />
@@ -8627,7 +8627,7 @@ const EnergySavingsLeaf = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, cogs, cogwheel, construction, engineering, fixing, gears, hat, helmet, human, maintenance, people, person, setting, worker
  *
- * popularity: 48330
+ * popularity: 48373
  */
 const Engineering = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="engineering" {...props} />
@@ -8640,7 +8640,7 @@ const Engineering = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, encryption, enhanced, lock, locked, new, password, plus, privacy, private, protection, safety, secure, security, symbol
  *
- * popularity: 5911
+ * popularity: 5917
  */
 const EnhancedEncryption = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="enhanced_encryption" {...props} />
@@ -8653,7 +8653,7 @@ const EnhancedEncryption = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjustment, analytics, chart, data, equalizer, graph, measure, metrics, music, noise, sound, static, statistics, tracking, volume
  *
- * popularity: 18498
+ * popularity: 18513
  */
 const Equalizer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="equalizer" {...props} />
@@ -8666,7 +8666,7 @@ const Equalizer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, circle, danger, error, exclamation, important, mark, notification, symbol, warning
  *
- * popularity: 99690
+ * popularity: 99780
  */
 const Error = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="error" {...props} />
@@ -8679,7 +8679,7 @@ const Error = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, circle, danger, error, exclamation, important, mark, notification, outline, symbol, warning
  *
- * popularity: 79926
+ * popularity: 79995
  */
 const ErrorOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="error_outline" {...props} />
@@ -8692,7 +8692,7 @@ const ErrorOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: down, escalator, staircase, up
  *
- * popularity: 1518
+ * popularity: 1521
  */
 const Escalator = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="escalator" {...props} />
@@ -8705,7 +8705,7 @@ const Escalator = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, child, escalator, human, kid, parent, people, person, warning
  *
- * popularity: 6200
+ * popularity: 6210
  */
 const EscalatorWarning = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="escalator_warning" {...props} />
@@ -8718,7 +8718,7 @@ const EscalatorWarning = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, euro, euros, finance, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 18161
+ * popularity: 18181
  */
 const Euro = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="euro" {...props} />
@@ -8731,7 +8731,7 @@ const Euro = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, euro, finance, money, online, pay, payment, symbol
  *
- * popularity: 20185
+ * popularity: 20203
  */
 const EuroSymbol = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="euro_symbol" {...props} />
@@ -8744,7 +8744,7 @@ const EuroSymbol = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, charging, electric, electricity, ev, maps, places, station, transportation, vehicle
  *
- * popularity: 4532
+ * popularity: 4539
  */
 const EvStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ev_station" {...props} />
@@ -8757,7 +8757,7 @@ const EvStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, mark, month, range, remember, reminder, today, week
  *
- * popularity: 133549
+ * popularity: 133638
  */
 const Event = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event" {...props} />
@@ -8770,7 +8770,7 @@ const Event = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, available, calendar, check, complete, date, done, event, mark, ok, schedule, select, tick, time, validate, verified, yes
  *
- * popularity: 38881
+ * popularity: 38915
  */
 const EventAvailable = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event_available" {...props} />
@@ -8783,7 +8783,7 @@ const EventAvailable = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: busy, calendar, cancel, clear, close, date, event, exit, no, remove, schedule, stop, time, unavailable, x
  *
- * popularity: 12684
+ * popularity: 12706
  */
 const EventBusy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event_busy" {...props} />
@@ -8796,7 +8796,7 @@ const EventBusy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, event, note, schedule, text, time, writing
  *
- * popularity: 23631
+ * popularity: 23643
  */
 const EventNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event_note" {...props} />
@@ -8809,7 +8809,7 @@ const EventNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, calendar, date, day, event, inprogress, load, loading refresh, month, renew, rotate, schedule, turn
  *
- * popularity: 4928
+ * popularity: 4937
  */
 const EventRepeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event_repeat" {...props} />
@@ -8822,7 +8822,7 @@ const EventRepeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assign, assigned, chair, event, furniture, reservation, row, seat, section, sit
  *
- * popularity: 7396
+ * popularity: 7406
  */
 const EventSeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="event_seat" {...props} />
@@ -8835,7 +8835,7 @@ const EventSeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, design, exit, export, interface, layout, leave, mobile, monitor, move, output, phone, screen, site, tablet, to, ui, ux, web, website, window
  *
- * popularity: 35838
+ * popularity: 35865
  */
 const ExitToApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exit_to_app" {...props} />
@@ -8848,7 +8848,7 @@ const ExitToApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, compress, enlarge, expand, grow, move, push, together
  *
- * popularity: 13161
+ * popularity: 13175
  */
 const Expand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="expand" {...props} />
@@ -8861,7 +8861,7 @@ const Expand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, circle, collapse, direction, down, expand, expandable, list, more
  *
- * popularity: 20435
+ * popularity: 20467
  */
 const ExpandCircleDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="expand_circle_down" {...props} />
@@ -8874,7 +8874,7 @@ const ExpandCircleDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, expand, expandable, less, list, up
  *
- * popularity: 103016
+ * popularity: 103089
  */
 const ExpandLess = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="expand_less" {...props} />
@@ -8887,7 +8887,7 @@ const ExpandLess = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, down, expand, expandable, list, more
  *
- * popularity: 334428
+ * popularity: 334663
  */
 const ExpandMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="expand_more" {...props} />
@@ -8900,7 +8900,7 @@ const ExpandMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adult, alphabet, character, content, e, explicit, font, language, letter, media, movies, music, symbol, text, type
  *
- * popularity: 1947
+ * popularity: 1950
  */
 const Explicit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="explicit" {...props} />
@@ -8913,7 +8913,7 @@ const Explicit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compass, destination, direction, east, explore, location, maps, needle, north, south, travel, west
  *
- * popularity: 47425
+ * popularity: 47463
  */
 const Explore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="explore" {...props} />
@@ -8926,7 +8926,7 @@ const Explore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compass, destination, direction, disabled, east, enabled, explore, location, maps, needle, north, off, on, slash, south, travel, west
  *
- * popularity: 2213
+ * popularity: 2219
  */
 const ExploreOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="explore_off" {...props} />
@@ -8939,7 +8939,7 @@ const ExploreOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, brightness, contrast, edit, editing, effect, exposure, image, minus, photo, photography, picture, plus, settings, subtract
  *
- * popularity: 2632
+ * popularity: 2636
  */
 const Exposure = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure" {...props} />
@@ -8952,7 +8952,7 @@ const Exposure = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, brightness, contrast, digit, edit, editing, effect, exposure, image, neg, negative, number, photo, photography, settings, symbol
  *
- * popularity: 1332
+ * popularity: 1334
  */
 const ExposureNeg1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure_neg_1" {...props} />
@@ -8965,7 +8965,7 @@ const ExposureNeg1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, brightness, contrast, digit, edit, editing, effect, exposure, image, neg, negative, number, photo, photography, settings, symbol
  *
- * popularity: 925
+ * popularity: 926
  */
 const ExposureNeg2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure_neg_2" {...props} />
@@ -8978,7 +8978,7 @@ const ExposureNeg2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, add, brightness, contrast, digit, edit, editing, effect, exposure, image, number, photo, photography, plus, settings, symbol
  *
- * popularity: 2729
+ * popularity: 2730
  */
 const ExposurePlus1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure_plus_1" {...props} />
@@ -8991,7 +8991,7 @@ const ExposurePlus1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, add, brightness, contrast, digit, edit, editing, effect, exposure, image, number, photo, photography, plus, settings, symbol
  *
- * popularity: 1499
+ * popularity: 1501
  */
 const ExposurePlus2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure_plus_2" {...props} />
@@ -9004,7 +9004,7 @@ const ExposurePlus2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 0, brightness, contrast, digit, edit, editing, effect, exposure, image, number, photo, photography, settings, symbol, zero
  *
- * popularity: 2050
+ * popularity: 2053
  */
 const ExposureZero = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="exposure_zero" {...props} />
@@ -9017,7 +9017,7 @@ const ExposureZero = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, extended, extension, game, jigsaw, plugin add, puzzle, shape
  *
- * popularity: 27012
+ * popularity: 27034
  */
 const Extension = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="extension" {...props} />
@@ -9030,7 +9030,7 @@ const Extension = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, extended, extension, jigsaw, off, on, piece, puzzle, shape, slash
  *
- * popularity: 1926
+ * popularity: 1929
  */
 const ExtensionOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="extension_off" {...props} />
@@ -9043,7 +9043,7 @@ const ExtensionOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 151987
+ * popularity: 152107
  */
 const Face = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face" {...props} />
@@ -9056,7 +9056,7 @@ const Face = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 1500
+ * popularity: 1510
  */
 const Face2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_2" {...props} />
@@ -9069,7 +9069,7 @@ const Face2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 1951
+ * popularity: 1964
  */
 const Face3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_3" {...props} />
@@ -9082,7 +9082,7 @@ const Face3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 1476
+ * popularity: 1486
  */
 const Face4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_4" {...props} />
@@ -9095,7 +9095,7 @@ const Face4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 1109
+ * popularity: 1119
  */
 const Face5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_5" {...props} />
@@ -9108,7 +9108,7 @@ const Face5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, eyes, face, human, lock, log, login, logout, people, person, profile, recognition, security, social, thumbnail, unlock, user
  *
- * popularity: 2186
+ * popularity: 2197
  */
 const Face6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_6" {...props} />
@@ -9121,7 +9121,7 @@ const Face6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, automatic, automation, custom, edit, editing, effect, emoji, emotion, face, faces, genai, image, intelligence, magic, natural, photo, photography, retouch, retouching, settings, smart, spark, sparkle, star, tag
  *
- * popularity: 6422
+ * popularity: 6437
  */
 const FaceRetouchingNatural = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_retouching_natural" {...props} />
@@ -9134,7 +9134,7 @@ const FaceRetouchingNatural = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, edit, editing, effect, emoji, emotion, enabled, face, faces, image, natural, off, on, photo, photography, retouch, retouching, settings, slash, tag
  *
- * popularity: 1327
+ * popularity: 1328
  */
 const FaceRetouchingOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="face_retouching_off" {...props} />
@@ -9147,7 +9147,7 @@ const FaceRetouchingOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, complete, done, fact, list, mark, ok, select, tick, validate, verified, yes
  *
- * popularity: 79632
+ * popularity: 79690
  */
 const FactCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fact_check" {...props} />
@@ -9160,7 +9160,7 @@ const FactCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: factory, industry, manufacturing, warehouse
  *
- * popularity: 10188
+ * popularity: 10206
  */
 const Factory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="factory" {...props} />
@@ -9173,7 +9173,7 @@ const Factory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bathroom, child, children, family, father, kids, mother, parents, restroom, wc
  *
- * popularity: 13515
+ * popularity: 13525
  */
 const FamilyRestroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="family_restroom" {...props} />
@@ -9186,7 +9186,7 @@ const FamilyRestroom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control, fast, forward, media, music, play, speed, time, tv, video
  *
- * popularity: 17071
+ * popularity: 17086
  */
 const FastForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fast_forward" {...props} />
@@ -9199,7 +9199,7 @@ const FastForward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, control, fast, media, music, play, rewind, speed, time, tv, video
  *
- * popularity: 10194
+ * popularity: 10204
  */
 const FastRewind = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fast_rewind" {...props} />
@@ -9212,7 +9212,7 @@ const FastRewind = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: drink, fastfood, food, hamburger, maps, meal, places
  *
- * popularity: 14363
+ * popularity: 14369
  */
 const Fastfood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fastfood" {...props} />
@@ -9225,7 +9225,7 @@ const Fastfood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appreciate, favorite, heart, like, love, remember, save, shape
  *
- * popularity: 258994
+ * popularity: 259188
  */
 const Favorite = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="favorite" {...props} />
@@ -9238,7 +9238,7 @@ const Favorite = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, favorite, heart, like, love, outline, remember, save, shape
  *
- * popularity: 214123
+ * popularity: 214284
  */
 const FavoriteBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="favorite_border" {...props} />
@@ -9251,7 +9251,7 @@ const FavoriteBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: fax, machine, office, phone, send
  *
- * popularity: 5855
+ * popularity: 5864
  */
 const Fax = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fax" {...props} />
@@ -9264,7 +9264,7 @@ const Fax = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: collection, featured, highlighted, list, music, play, playlist, recommended
  *
- * popularity: 4482
+ * popularity: 4491
  */
 const FeaturedPlayList = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="featured_play_list" {...props} />
@@ -9277,7 +9277,7 @@ const FeaturedPlayList = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: advertised, advertisement, featured, highlighted, recommended, video, watch
  *
- * popularity: 2658
+ * popularity: 2664
  */
 const FeaturedVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="featured_video" {...props} />
@@ -9290,7 +9290,7 @@ const FeaturedVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, feed, headline, information, news, newspaper, paper, public, social, timeline
  *
- * popularity: 38815
+ * popularity: 38835
  */
 const Feed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="feed" {...props} />
@@ -9303,7 +9303,7 @@ const Feed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, announcement, attention, caution, chat, chat bubble, comment, communicate, communication, conversation, danger, error, exclamation, failed, feedback, important, mark, message, notification, service, sms, speech, symbol, warning
  *
- * popularity: 32977
+ * popularity: 32996
  */
 const Feedback = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="feedback" {...props} />
@@ -9316,7 +9316,7 @@ const Feedback = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: female, gender, girl, lady, social, symbol, woman, women
  *
- * popularity: 13897
+ * popularity: 13910
  */
 const Female = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="female" {...props} />
@@ -9329,7 +9329,7 @@ const Female = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backyard, barrier, boundaries, boundary, door, entrance, fence, flowers, garden, gate, grass, home, house, nature, nest, outdoor, outside, protection, yard
  *
- * popularity: 2197
+ * popularity: 2202
  */
 const Fence = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fence" {...props} />
@@ -9342,7 +9342,7 @@ const Fence = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circus, event, festival, local, maps, places, tent, tour, travel
  *
- * popularity: 4275
+ * popularity: 4277
  */
 const Festival = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="festival" {...props} />
@@ -9355,7 +9355,7 @@ const Festival = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, digital, dvr, electronics, fiber, font, letter, network, record, recorder, symbol, text, tv, type, video
  *
- * popularity: 937
+ * popularity: 939
  */
 const FiberDvr = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fiber_dvr" {...props} />
@@ -9368,7 +9368,7 @@ const FiberDvr = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, dot, fiber, manual, play, record, watch
  *
- * popularity: 29515
+ * popularity: 29549
  */
 const FiberManualRecord = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fiber_manual_record" {...props} />
@@ -9381,7 +9381,7 @@ const FiberManualRecord = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, fiber, font, letter, network, new, symbol, text, type
  *
- * popularity: 7710
+ * popularity: 7715
  */
 const FiberNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fiber_new" {...props} />
@@ -9394,7 +9394,7 @@ const FiberNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, fiber, font, letter, network, pin, symbol, text, type
  *
- * popularity: 1044
+ * popularity: 1046
  */
 const FiberPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fiber_pin" {...props} />
@@ -9407,7 +9407,7 @@ const FiberPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, dot, fiber, play, record, smart, watch
  *
- * popularity: 1811
+ * popularity: 1814
  */
 const FiberSmartRecord = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fiber_smart_record" {...props} />
@@ -9420,7 +9420,7 @@ const FiberSmartRecord = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: content, copy, cut, doc, document, duplicate, file, multiple, past, stack
  *
- * popularity: 28485
+ * popularity: 28508
  */
 const FileCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_copy" {...props} />
@@ -9433,7 +9433,7 @@ const FileCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, down, download, downloads, drive, export, file, install, upload
  *
- * popularity: 171722
+ * popularity: 171851
  */
 const FileDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_download" {...props} />
@@ -9446,7 +9446,7 @@ const FileDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, check, done, down, download, downloads, drive, file, install, installed, tick, upload
  *
- * popularity: 7073
+ * popularity: 7078
  */
 const FileDownloadDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_download_done" {...props} />
@@ -9459,7 +9459,7 @@ const FileDownloadDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, disabled, down, download, drive, enabled, export, file, install, off, on, save, slash, upload
  *
- * popularity: 2997
+ * popularity: 3002
  */
 const FileDownloadOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_download_off" {...props} />
@@ -9472,7 +9472,7 @@ const FileDownloadOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, doc, document, drive, file, left, open, page, paper
  *
- * popularity: 7667
+ * popularity: 7677
  */
 const FileOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_open" {...props} />
@@ -9485,7 +9485,7 @@ const FileOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clip, data, doc, document, drive, file, folder, folders, note, paper, present, reminder, sheet, slide, storage, writing
  *
- * popularity: 15140
+ * popularity: 15150
  */
 const FilePresent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_present" {...props} />
@@ -9498,7 +9498,7 @@ const FilePresent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, download, drive, export, file, up, upload
  *
- * popularity: 88631
+ * popularity: 88700
  */
 const FileUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="file_upload" {...props} />
@@ -9511,7 +9511,7 @@ const FileUpload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: edit, editing, effect, filter, image, landscape, mountain, mountains, photo, photography, picture, settings
  *
- * popularity: 3775
+ * popularity: 3778
  */
 const Filter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter" {...props} />
@@ -9524,7 +9524,7 @@ const Filter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 4534
+ * popularity: 4542
  */
 const Filter1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_1" {...props} />
@@ -9537,7 +9537,7 @@ const Filter1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 2622
+ * popularity: 2624
  */
 const Filter2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_2" {...props} />
@@ -9550,7 +9550,7 @@ const Filter2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 2064
+ * popularity: 2065
  */
 const Filter3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_3" {...props} />
@@ -9563,7 +9563,7 @@ const Filter3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1504
+ * popularity: 1505
  */
 const Filter4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_4" {...props} />
@@ -9576,7 +9576,7 @@ const Filter4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1372
+ * popularity: 1373
  */
 const Filter5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_5" {...props} />
@@ -9589,7 +9589,7 @@ const Filter5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1125
+ * popularity: 1126
  */
 const Filter6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_6" {...props} />
@@ -9602,7 +9602,7 @@ const Filter6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 7, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1525
+ * popularity: 1526
  */
 const Filter7 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_7" {...props} />
@@ -9615,7 +9615,7 @@ const Filter7 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 8, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1198
+ * popularity: 1199
  */
 const Filter8 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_8" {...props} />
@@ -9628,7 +9628,7 @@ const Filter8 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 9, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, settings, stack, symbol
  *
- * popularity: 1189
+ * popularity: 1190
  */
 const Filter9 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_9" {...props} />
@@ -9641,7 +9641,7 @@ const Filter9 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, 9, digit, edit, editing, effect, filter, image, images, multiple, number, photography, picture, pictures, plus, settings, stack, symbol
  *
- * popularity: 1494
+ * popularity: 1496
  */
 const Filter9Plus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_9_plus" {...props} />
@@ -9654,7 +9654,7 @@ const Filter9Plus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, edit, filter, funnel, options, refine, sift
  *
- * popularity: 136566
+ * popularity: 136681
  */
 const FilterAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_alt" {...props} />
@@ -9667,7 +9667,7 @@ const FilterAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, disabled, edit, filter, funnel, off, offline, options, refine, sift, slash
  *
- * popularity: 8586
+ * popularity: 8600
  */
 const FilterAltOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_alt_off" {...props} />
@@ -9680,7 +9680,7 @@ const FilterAltOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: and, b, black, contrast, edit, editing, effect, filter, grayscale, image, images, photography, picture, pictures, settings, w, white
  *
- * popularity: 1708
+ * popularity: 1709
  */
 const FilterBAndW = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_b_and_w" {...props} />
@@ -9693,7 +9693,7 @@ const FilterBAndW = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, center, dot, edit, filter, focus, image, photo, photography, picture
  *
- * popularity: 5946
+ * popularity: 5956
  */
 const FilterCenterFocus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_center_focus" {...props} />
@@ -9706,7 +9706,7 @@ const FilterCenterFocus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cloud, drama, edit, editing, effect, filter, image, photo, photography, picture, sky camera
  *
- * popularity: 7414
+ * popularity: 7418
  */
 const FilterDrama = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_drama" {...props} />
@@ -9719,7 +9719,7 @@ const FilterDrama = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: boarders, border, camera, center, edit, editing, effect, filter, filters, focus, frame, frames, image, options, photo, photography, picture
  *
- * popularity: 1884
+ * popularity: 1888
  */
 const FilterFrames = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_frames" {...props} />
@@ -9732,7 +9732,7 @@ const FilterFrames = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, edit, editing, effect, filter, hdr, image, mountain, mountains, photo, photography, picture
  *
- * popularity: 2158
+ * popularity: 2164
  */
 const FilterHdr = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_hdr" {...props} />
@@ -9745,7 +9745,7 @@ const FilterHdr = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: filter, lines, list, organize, sort
  *
- * popularity: 70347
+ * popularity: 70387
  */
 const FilterList = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_list" {...props} />
@@ -9758,7 +9758,7 @@ const FilterList = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, disabled, edit, filter, list, off, offline, options, refine, sift, slash
  *
- * popularity: 3568
+ * popularity: 3572
  */
 const FilterListOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_list_off" {...props} />
@@ -9771,7 +9771,7 @@ const FilterListOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: filter, multiple, none, square, stack
  *
- * popularity: 6111
+ * popularity: 6133
  */
 const FilterNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_none" {...props} />
@@ -9784,7 +9784,7 @@ const FilterNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, center, dash, dashed, edit, editing, effect, filter, focus, image, images, photography, picture, pictures, shift, tilt
  *
- * popularity: 2563
+ * popularity: 2567
  */
 const FilterTiltShift = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_tilt_shift" {...props} />
@@ -9797,7 +9797,7 @@ const FilterTiltShift = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: edit, editing, effect, filter, flower, image, images, photography, picture, pictures, vintage
  *
- * popularity: 7578
+ * popularity: 7583
  */
 const FilterVintage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="filter_vintage" {...props} />
@@ -9810,7 +9810,7 @@ const FilterVintage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, find, folder, folders, glass, in, look, magnify, magnifying, page, paper, search, see, sheet, slide, writing
  *
- * popularity: 22432
+ * popularity: 22446
  */
 const FindInPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="find_in_page" {...props} />
@@ -9823,7 +9823,7 @@ const FindInPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrows, find, glass, inprogress, load, loading refresh, look, magnify, magnifying, renew, replace, rotate, search, see
  *
- * popularity: 5919
+ * popularity: 5923
  */
 const FindReplace = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="find_replace" {...props} />
@@ -9836,7 +9836,7 @@ const FindReplace = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: finger, fingerprint, id, identification, identity, print, reader, thumbprint, verification
  *
- * popularity: 133127
+ * popularity: 133206
  */
 const Fingerprint = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fingerprint" {...props} />
@@ -9849,7 +9849,7 @@ const Fingerprint = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emergency, extinguisher, fire, water
  *
- * popularity: 2943
+ * popularity: 2948
  */
 const FireExtinguisher = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fire_extinguisher" {...props} />
@@ -9862,7 +9862,7 @@ const FireExtinguisher = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 336
+ * popularity: 339
  */
 const FireHydrantAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fire_hydrant_alt" {...props} />
@@ -9875,7 +9875,7 @@ const FireHydrantAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 870
+ * popularity: 877
  */
 const FireTruck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fire_truck" {...props} />
@@ -9888,7 +9888,7 @@ const FireTruck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chimney, fire, fireplace, flame, home, house, living, pit, place, room, warm, winter
  *
- * popularity: 4914
+ * popularity: 4919
  */
 const Fireplace = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fireplace" {...props} />
@@ -9901,7 +9901,7 @@ const Fireplace = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, chevron, first, left, page, rewind
  *
- * popularity: 15906
+ * popularity: 15922
  */
 const FirstPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="first_page" {...props} />
@@ -9914,7 +9914,7 @@ const FirstPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: enlarge, fit, format, layout, reduce, scale, screen, size
  *
- * popularity: 7971
+ * popularity: 7978
  */
 const FitScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fit_screen" {...props} />
@@ -9927,7 +9927,7 @@ const FitScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, exercise, fitbit, fitness, hobby, logo
  *
- * popularity: 2962
+ * popularity: 2970
  */
 const Fitbit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fitbit" {...props} />
@@ -9940,7 +9940,7 @@ const Fitbit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, center, dumbbell, exercise, fitness, gym, hobby, places, sport, weights, workout
  *
- * popularity: 25803
+ * popularity: 25839
  */
 const FitnessCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fitness_center" {...props} />
@@ -9953,7 +9953,7 @@ const FitnessCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: country, flag, goal, mark, nation, report, start
  *
- * popularity: 43179
+ * popularity: 43203
  */
 const Flag = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flag" {...props} />
@@ -9966,7 +9966,7 @@ const Flag = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, country, flag, goal, mark, nation, report, round, start
  *
- * popularity: 4301
+ * popularity: 4303
  */
 const FlagCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flag_circle" {...props} />
@@ -9979,7 +9979,7 @@ const FlagCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, close, complete, contrast, done, exit, flaky, mark, no, ok, options, select, stop, tick, verified, x, yes
  *
- * popularity: 7875
+ * popularity: 7883
  */
 const Flaky = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flaky" {...props} />
@@ -9992,7 +9992,7 @@ const Flaky = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bright, edit, editing, effect, flare, image, images, light, photography, picture, pictures, sun
  *
- * popularity: 6367
+ * popularity: 6376
  */
 const Flare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flare" {...props} />
@@ -10005,7 +10005,7 @@ const Flare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: a, auto, bolt, electric, energy, fast, flash, instant, lightning, thunderbolt
  *
- * popularity: 2348
+ * popularity: 2350
  */
 const FlashAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flash_auto" {...props} />
@@ -10018,7 +10018,7 @@ const FlashAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, disabled, electric, enabled, energy, fast, flash, instant, lightning, off, on, slash, thunderbolt
  *
- * popularity: 5509
+ * popularity: 5510
  */
 const FlashOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flash_off" {...props} />
@@ -10031,7 +10031,7 @@ const FlashOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, disabled, electric, enabled, energy, fast, flash, instant, lightning, off, on, slash, thunderbolt
  *
- * popularity: 17996
+ * popularity: 18002
  */
 const FlashOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flash_on" {...props} />
@@ -10044,7 +10044,7 @@ const FlashOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, flash, flashlight, light, off, on, slash
  *
- * popularity: 2060
+ * popularity: 2063
  */
 const FlashlightOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flashlight_off" {...props} />
@@ -10057,7 +10057,7 @@ const FlashlightOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, flash, flashlight, light, off, on, slash
  *
- * popularity: 5068
+ * popularity: 5074
  */
 const FlashlightOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flashlight_on" {...props} />
@@ -10070,7 +10070,7 @@ const FlashlightOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cafe, cafeteria, cutlery, diner, dining, eat, eating, fork, room, spoon
  *
- * popularity: 4435
+ * popularity: 4439
  */
 const Flatware = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flatware" {...props} />
@@ -10083,7 +10083,7 @@ const Flatware = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, airplane, airport, flight, plane, transportation, travel, trip
  *
- * popularity: 26958
+ * popularity: 26989
  */
 const Flight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flight" {...props} />
@@ -10096,7 +10096,7 @@ const Flight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplane, business, class, first, flight, plane, seat, transportation, travel, trip, window
  *
- * popularity: 1108
+ * popularity: 1114
  */
 const FlightClass = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flight_class" {...props} />
@@ -10109,7 +10109,7 @@ const FlightClass = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airport, arrival, arriving, flight, fly, land, landing, plane, transportation, travel
  *
- * popularity: 8914
+ * popularity: 8928
  */
 const FlightLand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flight_land" {...props} />
@@ -10122,7 +10122,7 @@ const FlightLand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airport, departed, departing, flight, fly, landing, plane, takeoff, transportation, travel
  *
- * popularity: 31244
+ * popularity: 31275
  */
 const FlightTakeoff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flight_takeoff" {...props} />
@@ -10135,7 +10135,7 @@ const FlightTakeoff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dash, dashed, edit, editing, flip, image, orientation, scan scanning
  *
- * popularity: 5019
+ * popularity: 5027
  */
 const Flip = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flip" {...props} />
@@ -10148,7 +10148,7 @@ const Flip = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: android, camera, center, edit, editing, flip, image, mobile, orientation, rotate, turn
  *
- * popularity: 5115
+ * popularity: 5119
  */
 const FlipCameraAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flip_camera_android" {...props} />
@@ -10161,7 +10161,7 @@ const FlipCameraAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, android, camera, disable_ios, edit, editing, flip, image, ios, mobile, orientation, rotate, turn
  *
- * popularity: 4668
+ * popularity: 4675
  */
 const FlipCameraIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flip_camera_ios" {...props} />
@@ -10174,7 +10174,7 @@ const FlipCameraIos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrange, arrangement, back, dash, dashed, flip, format, front, layout, move, order, sort, to
  *
- * popularity: 2748
+ * popularity: 2751
  */
 const FlipToBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flip_to_back" {...props} />
@@ -10187,7 +10187,7 @@ const FlipToBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrange, arrangement, back, dash, dashed, flip, format, front, layout, move, order, sort, to
  *
- * popularity: 3987
+ * popularity: 3991
  */
 const FlipToFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flip_to_front" {...props} />
@@ -10200,7 +10200,7 @@ const FlipToFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, natural, rain, storm, weather
  *
- * popularity: 1032
+ * popularity: 1034
  */
 const Flood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flood" {...props} />
@@ -10213,7 +10213,7 @@ const Flood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bright, fluorescent, lamp, light, lightbulb
  *
- * popularity: 392
+ * popularity: 396
  */
 const Fluorescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fluorescent" {...props} />
@@ -10226,7 +10226,7 @@ const Fluorescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, bird, dash, flutter, framework, logo, mascot, open source, program, software
  *
- * popularity: 22058
+ * popularity: 22072
  */
 const FlutterDash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="flutter_dash" {...props} />
@@ -10239,7 +10239,7 @@ const FlutterDash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, bad, caution, danger, destination, direction, error, exclamation, fmd, important, location, maps, mark, notification, pin, place, symbol, warning
  *
- * popularity: 5069
+ * popularity: 5075
  */
 const FmdBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fmd_bad" {...props} />
@@ -10252,7 +10252,7 @@ const FmdBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, fmd, good, location, maps, pin, place, stop
  *
- * popularity: 14342
+ * popularity: 14362
  */
 const FmdGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fmd_good" {...props} />
@@ -10265,7 +10265,7 @@ const FmdGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, folder, folders, sheet, slide, storage
  *
- * popularity: 67433
+ * popularity: 67504
  */
 const Folder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder" {...props} />
@@ -10278,7 +10278,7 @@ const Folder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: content, copy, cut, data, doc, document, drive, duplicate, file, folder, folders, multiple, paste, sheet, slide, storage
  *
- * popularity: 4105
+ * popularity: 4115
  */
 const FolderCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_copy" {...props} />
@@ -10291,7 +10291,7 @@ const FolderCopy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bin, can, data, delete, doc, document, drive, file, folder, folders, garbage, remove, sheet, slide, storage, trash
  *
- * popularity: 2372
+ * popularity: 2373
  */
 const FolderDelete = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_delete" {...props} />
@@ -10304,7 +10304,7 @@ const FolderDelete = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, disabled, doc, document, drive, enabled, file, folder, folders, off, on, online, sheet, slash, slide, storage
  *
- * popularity: 1432
+ * popularity: 1435
  */
 const FolderOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_off" {...props} />
@@ -10317,7 +10317,7 @@ const FolderOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, folder, folders, open, sheet, slide, storage
  *
- * popularity: 30496
+ * popularity: 30531
  */
 const FolderOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_open" {...props} />
@@ -10330,7 +10330,7 @@ const FolderOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, collaboration, data, doc, document, drive, face, file, folder, human, people, person, profile, share, shared, sheet, slide, storage, team, user
  *
- * popularity: 11945
+ * popularity: 11958
  */
 const FolderShared = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_shared" {...props} />
@@ -10343,7 +10343,7 @@ const FolderShared = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, data, doc, document, drive, favorite, file, folder, highlight, important, marked, save, saved, shape, sheet, slide, special, star, storage
  *
- * popularity: 5952
+ * popularity: 5955
  */
 const FolderSpecial = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_special" {...props} />
@@ -10356,7 +10356,7 @@ const FolderSpecial = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compress, data, doc, document, drive, file, folder, folders, open, sheet, slide, storage, zip
  *
- * popularity: 4300
+ * popularity: 4307
  */
 const FolderZip = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="folder_zip" {...props} />
@@ -10369,7 +10369,7 @@ const FolderZip = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, body, directional, follow, human, people, person, right, signs, social, the
  *
- * popularity: 5188
+ * popularity: 5193
  */
 const FollowTheSigns = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="follow_the_signs" {...props} />
@@ -10382,7 +10382,7 @@ const FollowTheSigns = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, character, download, font, letter, square, symbol, text, type
  *
- * popularity: 6164
+ * popularity: 6168
  */
 const FontDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="font_download" {...props} />
@@ -10395,7 +10395,7 @@ const FontDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, disabled, download, enabled, font, letter, off, on, slash, square, symbol, text, type
  *
- * popularity: 1551
+ * popularity: 1552
  */
 const FontDownloadOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="font_download_off" {...props} />
@@ -10408,7 +10408,7 @@ const FontDownloadOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, bank, building, charity, eat, estate, food, fork, house, knife, meal, place, real, residence, residential, shelter, utensils
  *
- * popularity: 5151
+ * popularity: 5155
  */
 const FoodBank = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="food_bank" {...props} />
@@ -10421,7 +10421,7 @@ const FoodBank = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: forest, jungle, nature, plantation, plants, trees, woodland
  *
- * popularity: 6045
+ * popularity: 6062
  */
 const Forest = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forest" {...props} />
@@ -10434,7 +10434,7 @@ const Forest = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, fork, left, maps, navigation, path, route, sign, traffic
  *
- * popularity: 869
+ * popularity: 870
  */
 const ForkLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fork_left" {...props} />
@@ -10447,7 +10447,7 @@ const ForkLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, fork, maps, navigation, path, right, route, sign, traffic
  *
- * popularity: 1554
+ * popularity: 1556
  */
 const ForkRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fork_right" {...props} />
@@ -10460,7 +10460,7 @@ const ForkRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, center, doc, edit, editing, editor, format, sheet, spreadsheet, text, type, writing
  *
- * popularity: 6468
+ * popularity: 6471
  */
 const FormatAlignCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_align_center" {...props} />
@@ -10473,7 +10473,7 @@ const FormatAlignCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, density, doc, edit, editing, editor, extra, format, justify, sheet, small, spreadsheet, text, type, writing
  *
- * popularity: 4913
+ * popularity: 4928
  */
 const FormatAlignJustify = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_align_justify" {...props} />
@@ -10486,7 +10486,7 @@ const FormatAlignJustify = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, left, sheet, spreadsheet, text, type, writing
  *
- * popularity: 9878
+ * popularity: 9881
  */
 const FormatAlignLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_align_left" {...props} />
@@ -10499,7 +10499,7 @@ const FormatAlignLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, right, sheet, spreadsheet, text, type, writing
  *
- * popularity: 5598
+ * popularity: 5601
  */
 const FormatAlignRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_align_right" {...props} />
@@ -10512,7 +10512,7 @@ const FormatAlignRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: B, alphabet, bold, character, doc, edit, editing, editor, font, format, letter, sheet, spreadsheet, styles, symbol, text, type, writing
  *
- * popularity: 14040
+ * popularity: 14045
  */
 const FormatBold = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_bold" {...props} />
@@ -10525,7 +10525,7 @@ const FormatBold = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: T, alphabet, character, clear, disabled, doc, edit, editing, editor, enabled, font, format, letter, off, on, sheet, slash, spreadsheet, style, symbol, text, type, writing
  *
- * popularity: 2324
+ * popularity: 2326
  */
 const FormatClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_clear" {...props} />
@@ -10538,7 +10538,7 @@ const FormatClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bucket, color, doc, edit, editing, editor, fill, format, paint, sheet, spreadsheet, style, text, type, writing
  *
- * popularity: 9498
+ * popularity: 9503
  */
 const FormatColorFill = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_color_fill" {...props} />
@@ -10551,7 +10551,7 @@ const FormatColorFill = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clear, color, disabled, doc, droplet, edit, editing, editor, enabled, fill, format, off, on, paint, reset, sheet, slash, spreadsheet, style, text, type, water, writing
  *
- * popularity: 3163
+ * popularity: 3167
  */
 const FormatColorReset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_color_reset" {...props} />
@@ -10564,7 +10564,7 @@ const FormatColorReset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: color, doc, edit, editing, editor, fill, format, paint, sheet, spreadsheet, style, text, type, writing
  *
- * popularity: 5628
+ * popularity: 5631
  */
 const FormatColorText = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_color_text" {...props} />
@@ -10577,7 +10577,7 @@ const FormatColorText = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, decrease, doc, edit, editing, editor, format, indent, indentation, paragraph, sheet, spreadsheet, text, type, writing
  *
- * popularity: 2427
+ * popularity: 2429
  */
 const FormatIndentDecrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_indent_decrease" {...props} />
@@ -10590,7 +10590,7 @@ const FormatIndentDecrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, increase, indent, indentation, paragraph, sheet, spreadsheet, text, type, writing
  *
- * popularity: 3476
+ * popularity: 3479
  */
 const FormatIndentIncrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_indent_increase" {...props} />
@@ -10603,7 +10603,7 @@ const FormatIndentIncrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, doc, edit, editing, editor, font, format, italic, letter, sheet, spreadsheet, style, symbol, text, type, writing
  *
- * popularity: 9766
+ * popularity: 9769
  */
 const FormatItalic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_italic" {...props} />
@@ -10616,7 +10616,7 @@ const FormatItalic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, line, sheet, spacing, spreadsheet, text, type, writing
  *
- * popularity: 2224
+ * popularity: 2228
  */
 const FormatLineSpacing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_line_spacing" {...props} />
@@ -10629,7 +10629,7 @@ const FormatLineSpacing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, bulleted, doc, edit, editing, editor, format, list, notes, sheet, spreadsheet, text, type, writing
  *
- * popularity: 52083
+ * popularity: 52121
  */
 const FormatListBulleted = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_list_bulleted" {...props} />
@@ -10642,7 +10642,7 @@ const FormatListBulleted = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, digit, doc, edit, editing, editor, format, list, notes, number, numbered, sheet, spreadsheet, symbol, text, type, writing
  *
- * popularity: 21157
+ * popularity: 21168
  */
 const FormatListNumbered = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_list_numbered" {...props} />
@@ -10655,7 +10655,7 @@ const FormatListNumbered = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, digit, doc, edit, editing, editor, format, list, notes, number, numbered, rtl, sheet, spreadsheet, symbol, text, type, writing
  *
- * popularity: 5229
+ * popularity: 5234
  */
 const FormatListNumberedRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_list_numbered_rtl" {...props} />
@@ -10668,7 +10668,7 @@ const FormatListNumberedRtl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, doc, edit, editing, editor, font, format, letter, line, overline, sheet, spreadsheet, style, symbol, text, type, under, writing
  *
- * popularity: 627
+ * popularity: 629
  */
 const FormatOverline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_overline" {...props} />
@@ -10681,7 +10681,7 @@ const FormatOverline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brush, color, doc, edit, editing, editor, fill, format, paint, roller, sheet, spreadsheet, style, text, type, writing
  *
- * popularity: 5954
+ * popularity: 5959
  */
 const FormatPaint = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_paint" {...props} />
@@ -10694,7 +10694,7 @@ const FormatPaint = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doc, edit, editing, editor, format, quotation, quote, sheet, spreadsheet, text, type, writing
  *
- * popularity: 23156
+ * popularity: 23167
  */
 const FormatQuote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_quote" {...props} />
@@ -10707,7 +10707,7 @@ const FormatQuote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, color, doc, edit, editing, editor, fill, font, format, letter, paint, shapes, sheet, spreadsheet, style, symbol, text, type, writing
  *
- * popularity: 4116
+ * popularity: 4119
  */
 const FormatShapes = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_shapes" {...props} />
@@ -10720,7 +10720,7 @@ const FormatShapes = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, color, doc, edit, editing, editor, fill, font, format, letter, paint, sheet, size, spreadsheet, style, symbol, text, type, writing
  *
- * popularity: 7808
+ * popularity: 7813
  */
 const FormatSize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_size" {...props} />
@@ -10733,7 +10733,7 @@ const FormatSize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, doc, edit, editing, editor, font, format, letter, sheet, spreadsheet, strikethrough, style, symbol, text, type, writing
  *
- * popularity: 1939
+ * popularity: 1940
  */
 const FormatStrikethrough = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_strikethrough" {...props} />
@@ -10746,7 +10746,7 @@ const FormatStrikethrough = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, ltr, sheet, spreadsheet, text, textdirection, type, writing
  *
- * popularity: 828
+ * popularity: 829
  */
 const FormatTextdirectionLToR = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -10759,7 +10759,7 @@ const FormatTextdirectionLToR = (
  *
  * tags: align, alignment, doc, edit, editing, editor, format, rtl, sheet, spreadsheet, text, textdirection, type, writing
  *
- * popularity: 779
+ * popularity: 780
  */
 const FormatTextdirectionRToL = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -10772,7 +10772,7 @@ const FormatTextdirectionRToL = (
  *
  * tags: alphabet, character, doc, edit, editing, editor, font, format, letter, line, sheet, spreadsheet, style, symbol, text, type, under, underlined, writing
  *
- * popularity: 7617
+ * popularity: 7620
  */
 const FormatUnderlined = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="format_underlined" {...props} />
@@ -10785,7 +10785,7 @@ const FormatUnderlined = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: castle, fort, fortress, mansion, palace
  *
- * popularity: 1079
+ * popularity: 1081
  */
 const Fort = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fort" {...props} />
@@ -10798,7 +10798,7 @@ const Fort = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, community, conversation, feedback, forum, hub, message, speech
  *
- * popularity: 31735
+ * popularity: 31757
  */
 const Forum = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forum" {...props} />
@@ -10811,7 +10811,7 @@ const Forum = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, forward, mail, message, playback, right, sent
  *
- * popularity: 16284
+ * popularity: 16298
  */
 const Forward = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forward" {...props} />
@@ -10824,7 +10824,7 @@ const Forward = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, arrow, control, controls, digit, fast, forward, music, number, play, seconds, symbol, video
  *
- * popularity: 6266
+ * popularity: 6270
  */
 const Forward10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forward_10" {...props} />
@@ -10837,7 +10837,7 @@ const Forward10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 30, arrow, control, controls, digit, fast, forward, music, number, seconds, symbol, video
  *
- * popularity: 2451
+ * popularity: 2454
  */
 const Forward30 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forward_30" {...props} />
@@ -10850,7 +10850,7 @@ const Forward30 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, 5, arrow, control, controls, digit, fast, forward, music, number, seconds, symbol, video
  *
- * popularity: 2082
+ * popularity: 2084
  */
 const Forward5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forward_5" {...props} />
@@ -10863,7 +10863,7 @@ const Forward5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, directions, email, envelop, forward, inbox, letter, mail, message, navigation, outgoing, right, send, to
  *
- * popularity: 17079
+ * popularity: 17096
  */
 const ForwardToInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="forward_to_inbox" {...props} />
@@ -10876,7 +10876,7 @@ const ForwardToInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, base, basis, building, construction, estate, foundation, home, house, real, residential
  *
- * popularity: 5440
+ * popularity: 5451
  */
 const Foundation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="foundation" {...props} />
@@ -10889,7 +10889,7 @@ const Foundation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beverage, breakfast, cafe, coffee, cup, drink, free, mug, tea
  *
- * popularity: 6381
+ * popularity: 6389
  */
 const FreeBreakfast = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="free_breakfast" {...props} />
@@ -10902,7 +10902,7 @@ const FreeBreakfast = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, calendar, cancel, cancellation, check, clear, complete, date, day, done, event, exit, free, mark, month, no, ok, remove, schedule, select, stop, tick, validate, verified, x, yes
  *
- * popularity: 5418
+ * popularity: 5421
  */
 const FreeCancellation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="free_cancellation" {...props} />
@@ -10915,7 +10915,7 @@ const FreeCancellation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: fingers, front, gesture, hand, hello, palm, stop
  *
- * popularity: 9705
+ * popularity: 9713
  */
 const FrontHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="front_hand" {...props} />
@@ -10928,7 +10928,7 @@ const FrontHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, app, application, components, full, fullscreen, interface, screen, site, size, ui, ux, view, web, website
  *
- * popularity: 34197
+ * popularity: 34221
  */
 const Fullscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fullscreen" {...props} />
@@ -10941,7 +10941,7 @@ const Fullscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, app, application, components, exit, full, fullscreen, interface, screen, site, size, ui, ux, view, web, website
  *
- * popularity: 15320
+ * popularity: 15327
  */
 const FullscreenExit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="fullscreen_exit" {...props} />
@@ -10954,7 +10954,7 @@ const FullscreenExit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: average, calculate, count, custom, doc, edit, editing, editor, functions, math, sheet, spreadsheet, style, sum, text, type, writing
  *
- * popularity: 10762
+ * popularity: 10783
  */
 const Functions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="functions" {...props} />
@@ -10967,7 +10967,7 @@ const Functions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, data, font, g, letter, mobile, network, service, symbol, text, type
  *
- * popularity: 835
+ * popularity: 837
  */
 const GMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="g_mobiledata" {...props} />
@@ -10980,7 +10980,7 @@ const GMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emblem, g, google, language, logo, mark, speaking, speech, translate, translator, words
  *
- * popularity: 13468
+ * popularity: 13484
  */
 const GTranslate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="g_translate" {...props} />
@@ -10993,7 +10993,7 @@ const GTranslate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: buttons, console, controller, device, game, gamepad, gaming, playstation, video
  *
- * popularity: 4175
+ * popularity: 4181
  */
 const Gamepad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gamepad" {...props} />
@@ -11006,7 +11006,7 @@ const Gamepad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, arrow, arrows, control, controller, direction, games, gaming, left, move, right
  *
- * popularity: 6867
+ * popularity: 6881
  */
 const Games = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="games" {...props} />
@@ -11019,7 +11019,7 @@ const Games = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, automotive, car, cars, direction, garage, maps, transportation, travel, vehicle
  *
- * popularity: 5681
+ * popularity: 5687
  */
 const Garage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="garage" {...props} />
@@ -11032,7 +11032,7 @@ const Garage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: droplet, energy, gas, measure, meter, nest, usage, water
  *
- * popularity: 1456
+ * popularity: 1461
  */
 const GasMeter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gas_meter" {...props} />
@@ -11045,7 +11045,7 @@ const GasMeter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agreement, contract, court, document, gavel, government, judge, law, mallet, official, police, rule, rules, terms
  *
- * popularity: 28502
+ * popularity: 28529
  */
 const Gavel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gavel" {...props} />
@@ -11058,7 +11058,7 @@ const Gavel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, ai, api, artificial, automatic, automation, coin, custom, genai, generating, intelligence, magic, smart, spark, sparkle, star, tokens
  *
- * popularity: 5570
+ * popularity: 5577
  */
 const GeneratingTokens = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="generating_tokens" {...props} />
@@ -11071,7 +11071,7 @@ const GeneratingTokens = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doodle, draw, drawing, finger, gesture, gestures, hand, motion, string, thread
  *
- * popularity: 5608
+ * popularity: 5611
  */
 const Gesture = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gesture" {...props} />
@@ -11084,7 +11084,7 @@ const Gesture = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, arrow, arrows, down, download, downloads, export, get, install, play, upload
  *
- * popularity: 25925
+ * popularity: 25943
  */
 const GetApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="get_app" {...props} />
@@ -11097,7 +11097,7 @@ const GetApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, animated, animation, bitmap, character, font, format, gif, graphics, interchange, letter, symbol, text, type
  *
- * popularity: 5078
+ * popularity: 5080
  */
 const Gif = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gif" {...props} />
@@ -11110,7 +11110,7 @@ const Gif = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, animated, animation, bitmap, character, font, format, gif, graphics, interchange, letter, symbol, text, type
  *
- * popularity: 3848
+ * popularity: 3852
  */
 const GifBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gif_box" {...props} />
@@ -11123,7 +11123,7 @@ const GifBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, female, gender, girl, human, lady, people, person, social, symbol, woman, women
  *
- * popularity: 2531
+ * popularity: 2533
  */
 const Girl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="girl" {...props} />
@@ -11136,7 +11136,7 @@ const Girl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, estate, gite, home, hostel, house, maps, place, real, residence, residential, stay, traveling
  *
- * popularity: 5036
+ * popularity: 5042
  */
 const Gite = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gite" {...props} />
@@ -11149,7 +11149,7 @@ const Gite = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, club, course, entertainment, flag, golf, golfer, golfing, hobby, hole, places, putt, sports
  *
- * popularity: 4532
+ * popularity: 4535
  */
 const GolfCourse = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="golf_course" {...props} />
@@ -11162,7 +11162,7 @@ const GolfCourse = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bad, cancel, certified, close, error, exit, gpp, no, privacy, private, protect, protection, remove, security, shield, sim, stop, verified, x
  *
- * popularity: 7033
+ * popularity: 7040
  */
 const GppBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gpp_bad" {...props} />
@@ -11175,7 +11175,7 @@ const GppBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, check, good, gpp, ok, pass, security, shield, sim, tick
  *
- * popularity: 15928
+ * popularity: 15946
  */
 const GppGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gpp_good" {...props} />
@@ -11188,7 +11188,7 @@ const GppGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, certified, danger, error, exclamation, gpp, important, mark, maybe, notification, privacy, private, protect, protection, security, shield, sim, symbol, verified, warning
  *
- * popularity: 8390
+ * popularity: 8398
  */
 const GppMaybe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gpp_maybe" {...props} />
@@ -11201,7 +11201,7 @@ const GppMaybe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, fixed, gps, location, maps, pin, place, pointer, stop, tracking
  *
- * popularity: 19614
+ * popularity: 19646
  */
 const GpsFixed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gps_fixed" {...props} />
@@ -11214,7 +11214,7 @@ const GpsFixed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, disabled, enabled, gps, location, maps, not fixed, off, on, online, place, pointer, slash, tracking
  *
- * popularity: 3874
+ * popularity: 3881
  */
 const GpsNotFixed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gps_not_fixed" {...props} />
@@ -11227,7 +11227,7 @@ const GpsNotFixed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, disabled, enabled, gps, location, maps, not fixed, off, offline, on, place, pointer, slash, tracking
  *
- * popularity: 2009
+ * popularity: 2012
  */
 const GpsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gps_off" {...props} />
@@ -11240,7 +11240,7 @@ const GpsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 'favorite_news'  ., 'star_outline', Duplicate of 'star_boarder', star_border_purple500'
  *
- * popularity: 57255
+ * popularity: 57310
  */
 const Grade = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grade" {...props} />
@@ -11253,7 +11253,7 @@ const Grade = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: color, edit, editing, effect, filter, gradient, image, images, photography, picture, pictures
  *
- * popularity: 2988
+ * popularity: 2995
  */
 const Gradient = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="gradient" {...props} />
@@ -11266,7 +11266,7 @@ const Gradient = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 'favorite'_new'.  ' Remove this icon & keep 'star'., 'star_boarder', 'star_border_purple500', 'star_outline', 'star_purple500', 'star_rate', Same as 'star'
  *
- * popularity: 17450
+ * popularity: 17461
  */
 const Grading = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grading" {...props} />
@@ -11279,7 +11279,7 @@ const Grading = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dots, edit, editing, effect, filter, grain, image, images, photography, picture, pictures
  *
- * popularity: 5134
+ * popularity: 5140
  */
 const Grain = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grain" {...props} />
@@ -11292,7 +11292,7 @@ const Grain = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, detect, detection, eq, equalizer, graphic, music, noise, recording, sound, voice
  *
- * popularity: 11734
+ * popularity: 11751
  */
 const GraphicEq = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="graphic_eq" {...props} />
@@ -11305,7 +11305,7 @@ const GraphicEq = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backyard, fodder, grass, ground, home, lawn, plant, turf, yard
  *
- * popularity: 10823
+ * popularity: 10835
  */
 const Grass = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grass" {...props} />
@@ -11318,7 +11318,7 @@ const Grass = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, grid, layout, line, space
  *
- * popularity: 1871
+ * popularity: 1875
  */
 const Grid3x3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_3x3" {...props} />
@@ -11331,7 +11331,7 @@ const Grid3x3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, by, grid, layout, lines, space
  *
- * popularity: 2914
+ * popularity: 2918
  */
 const Grid4x4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_4x4" {...props} />
@@ -11344,7 +11344,7 @@ const Grid4x4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: golden, goldenratio, grid, layout, lines, ratio, space
  *
- * popularity: 1071
+ * popularity: 1077
  */
 const GridGoldenratio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_goldenratio" {...props} />
@@ -11357,7 +11357,7 @@ const GridGoldenratio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: collage, disabled, enabled, grid, image, layout, off, on, slash, view
  *
- * popularity: 1438
+ * popularity: 1439
  */
 const GridOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_off" {...props} />
@@ -11370,7 +11370,7 @@ const GridOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: background, collage, disabled, enabled, grid, image, layout, off, on, slash, view
  *
- * popularity: 9974
+ * popularity: 9982
  */
 const GridOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_on" {...props} />
@@ -11383,7 +11383,7 @@ const GridOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application square, blocks, components, dashboard, design, grid, interface, layout, screen, site, tiles, ui, ux, view, web, website, window
  *
- * popularity: 61750
+ * popularity: 61790
  */
 const GridView = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="grid_view" {...props} />
@@ -11396,7 +11396,7 @@ const GridView = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, committee, face, family, friends, group, humans, network, people, persons, profiles, social, team, users
  *
- * popularity: 58476
+ * popularity: 58529
  */
 const Group = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="group" {...props} />
@@ -11409,7 +11409,7 @@ const Group = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, add, committee, face, family, friends, group, humans, increase, more, network, people, persons, plus, profiles, social, team, users
  *
- * popularity: 40117
+ * popularity: 40167
  */
 const GroupAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="group_add" {...props} />
@@ -11422,7 +11422,7 @@ const GroupAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, club, collaboration, crowd, gathering, group, human, meeting, off, people, person, social, teams
  *
- * popularity: 2806
+ * popularity: 2808
  */
 const GroupOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="group_off" {...props} />
@@ -11435,7 +11435,7 @@ const GroupOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, committee, face, family, friends, group, humans, network, people, persons, profiles, remove, social, team, users
  *
- * popularity: 3326
+ * popularity: 3330
  */
 const GroupRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="group_remove" {...props} />
@@ -11448,7 +11448,7 @@ const GroupRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alliance, collaboration, group, partnership, team, teamwork, together, work
  *
- * popularity: 19952
+ * popularity: 19961
  */
 const GroupWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="group_work" {...props} />
@@ -11461,7 +11461,7 @@ const GroupWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, club, collaboration, crowd, gathering, groups, human, meeting, people, person, social, teams
  *
- * popularity: 162332
+ * popularity: 162458
  */
 const Groups = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="groups" {...props} />
@@ -11474,7 +11474,7 @@ const Groups = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, club, collaboration, crowd, gathering, groups, hair, human, meeting, people, person, social, teams
  *
- * popularity: 3837
+ * popularity: 3849
  */
 const Groups2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="groups_2" {...props} />
@@ -11487,7 +11487,7 @@ const Groups2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: abstract, body, club, collaboration, crowd, gathering, groups, human, meeting, people, person, social, teams
  *
- * popularity: 2326
+ * popularity: 2341
  */
 const Groups3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="groups_3" {...props} />
@@ -11500,7 +11500,7 @@ const Groups3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, data, font, h, letter, mobile, network, service, symbol, text, type
  *
- * popularity: 769
+ * popularity: 770
  */
 const HMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="h_mobiledata" {...props} />
@@ -11513,7 +11513,7 @@ const HMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, alphabet, character, data, font, h, letter, mobile, network, plus, service, symbol, text, type
  *
- * popularity: 678
+ * popularity: 680
  */
 const HPlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="h_plus_mobiledata" {...props} />
@@ -11526,7 +11526,7 @@ const HPlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, hail, human, people, person, pick, public, stop, taxi, transportation
  *
- * popularity: 6776
+ * popularity: 6784
  */
 const Hail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hail" {...props} />
@@ -11539,7 +11539,7 @@ const Hail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agreement, hand, hands, partnership, shake
  *
- * popularity: 19326
+ * popularity: 19349
  */
 const Handshake = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="handshake" {...props} />
@@ -11552,7 +11552,7 @@ const Handshake = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: build, construction, fix, hammer, handyman, repair, screw, screwdriver, tools
  *
- * popularity: 25044
+ * popularity: 25065
  */
 const Handyman = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="handyman" {...props} />
@@ -11565,7 +11565,7 @@ const Handyman = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: break, construction, hammer, hardware, nail, repair, tool
  *
- * popularity: 4751
+ * popularity: 4757
  */
 const Hardware = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hardware" {...props} />
@@ -11578,7 +11578,7 @@ const Hardware = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, definition, display, font, hd, high, letter, movie, movies, resolution, screen, symbol, text, tv, type
  *
- * popularity: 3008
+ * popularity: 3012
  */
 const Hd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hd" {...props} />
@@ -11591,7 +11591,7 @@ const Hd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, auto, camera, character, circle, dynamic, font, hdr, high, letter, photo, range, symbol, text, type
  *
- * popularity: 2686
+ * popularity: 2689
  */
 const HdrAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_auto" {...props} />
@@ -11604,7 +11604,7 @@ const HdrAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, A, alphabet, auto, camera, character, circle, dynamic, font, hdr, high, letter, photo, range, select, symbol, text, type
  *
- * popularity: 615
+ * popularity: 617
  */
 const HdrAutoSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_auto_select" {...props} />
@@ -11617,7 +11617,7 @@ const HdrAutoSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, alphabet, character, dynamic, enhance, font, hdr, high, letter, plus, range, select, symbol, text, type
  *
- * popularity: 674
+ * popularity: 675
  */
 const HdrEnhancedSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_enhanced_select" {...props} />
@@ -11630,7 +11630,7 @@ const HdrEnhancedSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, disabled, dynamic, enabled, enhance, font, hdr, high, letter, off, on, range, select, slash, symbol, text, type
  *
- * popularity: 582
+ * popularity: 583
  */
 const HdrOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_off" {...props} />
@@ -11643,7 +11643,7 @@ const HdrOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, camera, character, circle, disabled, dynamic, enabled, font, hdr, high, letter, off, on, photo, range, select, slash, symbol, text, type
  *
- * popularity: 581
+ * popularity: 583
  */
 const HdrOffSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_off_select" {...props} />
@@ -11656,7 +11656,7 @@ const HdrOffSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, alphabet, character, dynamic, enhance, font, hdr, high, letter, on, plus, range, select, symbol, text, type
  *
- * popularity: 1076
+ * popularity: 1077
  */
 const HdrOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_on" {...props} />
@@ -11669,7 +11669,7 @@ const HdrOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, alphabet, camera, character, circle, dynamic, font, hdr, high, letter, on, photo, range, select, symbol, text, type
  *
- * popularity: 648
+ * popularity: 650
  */
 const HdrOnSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_on_select" {...props} />
@@ -11682,7 +11682,7 @@ const HdrOnSelect = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, alphabet, character, circle, dynamic, enhance, font, hdr, high, letter, plus, range, select, symbol, text, type
  *
- * popularity: 778
+ * popularity: 780
  */
 const HdrPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_plus" {...props} />
@@ -11695,7 +11695,7 @@ const HdrPlus = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circles, dots, dynamic, enhance, hdr, high, range, strong
  *
- * popularity: 2496
+ * popularity: 2501
  */
 const HdrStrong = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_strong" {...props} />
@@ -11708,7 +11708,7 @@ const HdrStrong = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circles, dots, dynamic, enhance, hdr, high, range, weak
  *
- * popularity: 2007
+ * popularity: 2008
  */
 const HdrWeak = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hdr_weak" {...props} />
@@ -11721,7 +11721,7 @@ const HdrWeak = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, device, ear, earphone, headphones, headset, listen, music, sound
  *
- * popularity: 16414
+ * popularity: 16421
  */
 const Headphones = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="headphones" {...props} />
@@ -11734,7 +11734,7 @@ const Headphones = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, battery, charging, device, ear, earphone, headphones, headset, listen, music, sound
  *
- * popularity: 1402
+ * popularity: 1404
  */
 const HeadphonesBattery = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="headphones_battery" {...props} />
@@ -11747,7 +11747,7 @@ const HeadphonesBattery = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, device, ear, earphone, headphones, headset, listen, music, sound
  *
- * popularity: 7364
+ * popularity: 7371
  */
 const Headset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="headset" {...props} />
@@ -11760,7 +11760,7 @@ const Headset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, chat, device, ear, earphone, headphones, headset, listen, mic, music, sound, talk
  *
- * popularity: 15334
+ * popularity: 15348
  */
 const HeadsetMic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="headset_mic" {...props} />
@@ -11773,7 +11773,7 @@ const HeadsetMic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, audio, chat, device, disabled, ear, earphone, enabled, headphones, headset, listen, mic, music, off, on, slash, sound, talk
  *
- * popularity: 1820
+ * popularity: 1821
  */
 const HeadsetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="headset_off" {...props} />
@@ -11786,7 +11786,7 @@ const HeadsetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bandage, edit, editing, emergency, fix, healing, hospital, image, medicine
  *
- * popularity: 7135
+ * popularity: 7141
  */
 const Healing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="healing" {...props} />
@@ -11799,7 +11799,7 @@ const Healing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, and, certified, cross, health, home, nest, plus, privacy, private, protect, protection, safety, security, shield, symbol, verified
  *
- * popularity: 33127
+ * popularity: 33163
  */
 const HealthAndSafety = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="health_and_safety" {...props} />
@@ -11812,7 +11812,7 @@ const HealthAndSafety = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, aid, ear, handicap, hearing, help, impaired, listen, mono, sound, volume
  *
- * popularity: 8188
+ * popularity: 8196
  */
 const Hearing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hearing" {...props} />
@@ -11825,7 +11825,7 @@ const Hearing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, aid, disabled, ear, enabled, handicap, hearing, help, impaired, listen, off, on, slash, sound, volume
  *
- * popularity: 2089
+ * popularity: 2091
  */
 const HearingDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hearing_disabled" {...props} />
@@ -11838,7 +11838,7 @@ const HearingDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: break, broken, core, crush, health, heart, nucleus, split
  *
- * popularity: 5715
+ * popularity: 5724
  */
 const HeartBroken = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="heart_broken" {...props} />
@@ -11851,7 +11851,7 @@ const HeartBroken = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air conditioner, cool, energy, furnance, heat, nest, pump, usage
  *
- * popularity: 1653
+ * popularity: 1659
  */
 const HeatPump = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="heat_pump" {...props} />
@@ -11864,7 +11864,7 @@ const HeatPump = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, color, doc, down, edit, editing, editor, fill, format, height, paint, sheet, spreadsheet, style, text, type, up, writing
  *
- * popularity: 7145
+ * popularity: 7150
  */
 const Height = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="height" {...props} />
@@ -11877,7 +11877,7 @@ const Height = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, circle, help, info, information, punctuation, question mark, recent, restore, shape, support, symbol
  *
- * popularity: 107943
+ * popularity: 108030
  */
 const Help = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="help" {...props} />
@@ -11890,7 +11890,7 @@ const Help = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, center, help, info, information, punctuation, question mark, recent, restore, support, symbol
  *
- * popularity: 25010
+ * popularity: 25043
  */
 const HelpCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="help_center" {...props} />
@@ -11903,7 +11903,7 @@ const HelpCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, circle, help, info, information, outline, punctuation, question mark, recent, restore, shape, support, symbol
  *
- * popularity: 158000
+ * popularity: 158143
  */
 const HelpOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="help_outline" {...props} />
@@ -11916,7 +11916,7 @@ const HelpOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, coding, efficiency, font, hevc, high, letter, symbol, text, type, video
  *
- * popularity: 654
+ * popularity: 655
  */
 const Hevc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hevc" {...props} />
@@ -11929,7 +11929,7 @@ const Hevc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: hexagon, shape, six sides
  *
- * popularity: 2960
+ * popularity: 2965
  */
 const Hexagon = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hexagon" {...props} />
@@ -11942,7 +11942,7 @@ const Hexagon = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, hide, image, landscape, mountain, mountains, off, on, photo, photography, picture, slash
  *
- * popularity: 2772
+ * popularity: 2775
  */
 const HideImage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hide_image" {...props} />
@@ -11955,7 +11955,7 @@ const HideImage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, disabled, enabled, hide, off, offline, on, shape, slash, source
  *
- * popularity: 9229
+ * popularity: 9243
  */
 const HideSource = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hide_source" {...props} />
@@ -11968,7 +11968,7 @@ const HideSource = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, definition, display, font, high, hq, letter, movie, movies, quality, resolution, screen, symbol, text, tv, type
  *
- * popularity: 4194
+ * popularity: 4204
  */
 const HighQuality = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="high_quality" {...props} />
@@ -11981,7 +11981,7 @@ const HighQuality = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: color, doc, edit, editing, editor, emphasize, fill, flash, format, highlight, light, paint, sheet, spreadsheet, style, text, type, writing
  *
- * popularity: 5083
+ * popularity: 5087
  */
 const Highlight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="highlight" {...props} />
@@ -11994,7 +11994,7 @@ const Highlight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrow, box, click, cursor, draw, focus, highlight, pointer, select, selection, target
  *
- * popularity: 8423
+ * popularity: 8426
  */
 const HighlightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="highlight_alt" {...props} />
@@ -12007,7 +12007,7 @@ const HighlightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, exit, highlight, no, off, quit, remove, stop, x
  *
- * popularity: 114491
+ * popularity: 114600
  */
 const HighlightOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="highlight_off" {...props} />
@@ -12020,7 +12020,7 @@ const HighlightOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backpacking, bag, climbing, duffle, hiking, mountain, social, sports, stick, trail, travel, walking
  *
- * popularity: 10730
+ * popularity: 10737
  */
 const Hiking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hiking" {...props} />
@@ -12033,7 +12033,7 @@ const Hiking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, clock, date, history, refresh, renew, reverse, rotate, schedule, time, turn
  *
- * popularity: 86079
+ * popularity: 86144
  */
 const History = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="history" {...props} />
@@ -12046,7 +12046,7 @@ const History = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: document, edu, education, feather, history, letter, paper, pen, quill, school, story, tools, write, writing
  *
- * popularity: 22977
+ * popularity: 23004
  */
 const HistoryEdu = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="history_edu" {...props} />
@@ -12059,7 +12059,7 @@ const HistoryEdu = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, dash, dashed, date, history, off, schedule, time, toggle
  *
- * popularity: 10047
+ * popularity: 10057
  */
 const HistoryToggleOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="history_toggle_off" {...props} />
@@ -12072,7 +12072,7 @@ const HistoryToggleOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bee, honey, honeycomb
  *
- * popularity: 4184
+ * popularity: 4189
  */
 const Hive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hive" {...props} />
@@ -12085,7 +12085,7 @@ const Hive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, develop, developer, engineer, engineering, font, hls, letter, platform, symbol, text, type
  *
- * popularity: 653
+ * popularity: 654
  */
 const Hls = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hls" {...props} />
@@ -12098,7 +12098,7 @@ const Hls = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, develop, developer, disabled, enabled, engineer, engineering, font, hls, letter, off, offline, on, platform, slash, symbol, text, type
  *
- * popularity: 653
+ * popularity: 656
  */
 const HlsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hls_off" {...props} />
@@ -12111,7 +12111,7 @@ const HlsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, beach, camping, cottage, estate, holiday, home, house, lake, lodge, maps, place, real, residence, residential, stay, traveling, vacation, village
  *
- * popularity: 8184
+ * popularity: 8190
  */
 const HolidayVillage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="holiday_village" {...props} />
@@ -12124,7 +12124,7 @@ const HolidayVillage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: address, app, application--house, architecture, building, components, design, estate, home, interface, layout, place, real, residence, residential, screen, shelter, site, structure, ui, unit, ux, web, website, window
  *
- * popularity: 717908
+ * popularity: 718537
  */
 const Home = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="home" {...props} />
@@ -12137,7 +12137,7 @@ const Home = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: device, gadget, hardware, home, internet, iot, max, nest, smart, things
  *
- * popularity: 1468
+ * popularity: 1469
  */
 const HomeMax = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="home_max" {...props} />
@@ -12150,7 +12150,7 @@ const HomeMax = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Internet, device, gadget, hardware, home, iot, mini, nest, smart, things
  *
- * popularity: 1167
+ * popularity: 1168
  */
 const HomeMini = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="home_mini" {...props} />
@@ -12163,7 +12163,7 @@ const HomeMini = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, equipment, fix, home, kit, mechanic, repair, repairing, service, tool, toolbox, tools, workshop
  *
- * popularity: 13885
+ * popularity: 13907
  */
 const HomeRepairService = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="home_repair_service" {...props} />
@@ -12176,7 +12176,7 @@ const HomeRepairService = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, estate, home, place, real, residence, residential, shelter, work
  *
- * popularity: 16044
+ * popularity: 16059
  */
 const HomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="home_work" {...props} />
@@ -12189,7 +12189,7 @@ const HomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alignment, distribute, format, horizontal, layout, lines, paragraph, rule, rules, style, text
  *
- * popularity: 2178
+ * popularity: 2183
  */
 const HorizontalDistribute = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="horizontal_distribute" {...props} />
@@ -12202,7 +12202,7 @@ const HorizontalDistribute = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: gmail, horizontal, line, novitas, rule
  *
- * popularity: 9889
+ * popularity: 9900
  */
 const HorizontalRule = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="horizontal_rule" {...props} />
@@ -12215,7 +12215,7 @@ const HorizontalRule = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bars, format, horizontal, layout, lines, split, stacked
  *
- * popularity: 4580
+ * popularity: 4585
  */
 const HorizontalSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="horizontal_split" {...props} />
@@ -12228,7 +12228,7 @@ const HorizontalSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bath, bathing, bathroom, bathtub, hot, hotel, human, jacuzzi, person, shower, spa, steam, travel, tub, water
  *
- * popularity: 3170
+ * popularity: 3177
  */
 const HotTub = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hot_tub" {...props} />
@@ -12241,7 +12241,7 @@ const HotTub = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, hotel, human, people, person, sleep, stay, travel, trip
  *
- * popularity: 13315
+ * popularity: 13326
  */
 const Hotel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hotel" {...props} />
@@ -12254,7 +12254,7 @@ const Hotel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: achievement, bookmark, class, favorite, highlight, hotel, important, marked, rank, ranking, rate, rating, reward, save, saved, shape, special, star
  *
- * popularity: 8477
+ * popularity: 8489
  */
 const HotelClass = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hotel_class" {...props} />
@@ -12267,7 +12267,7 @@ const HotelClass = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bottom, countdown, half, hourglass, loading, minute, minutes, time, wait, waiting
  *
- * popularity: 16567
+ * popularity: 16592
  */
 const HourglassBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hourglass_bottom" {...props} />
@@ -12280,7 +12280,7 @@ const HourglassBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, countdown, disabled, empty, enabled, hourglass, loading, minute, minutes, off, on, slash, time, wait, waiting
  *
- * popularity: 3572
+ * popularity: 3576
  */
 const HourglassDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hourglass_disabled" {...props} />
@@ -12293,7 +12293,7 @@ const HourglassDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: countdown, empty, full, hourglass, loading, minutes, time, wait, waiting
  *
- * popularity: 24993
+ * popularity: 25023
  */
 const HourglassEmpty = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hourglass_empty" {...props} />
@@ -12306,7 +12306,7 @@ const HourglassEmpty = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: countdown, empty, full, hourglass, loading, minutes, time, wait, waiting
  *
- * popularity: 8018
+ * popularity: 8029
  */
 const HourglassFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hourglass_full" {...props} />
@@ -12319,7 +12319,7 @@ const HourglassFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: countdown, half, hourglass, loading, minute, minutes, time, top, wait, waiting
  *
- * popularity: 16018
+ * popularity: 16039
  */
 const HourglassTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hourglass_top" {...props} />
@@ -12332,7 +12332,7 @@ const HourglassTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, estate, family, home, homepage, house, place, places, real, residence, residential, shelter
  *
- * popularity: 19537
+ * popularity: 19551
  */
 const House = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="house" {...props} />
@@ -12345,7 +12345,7 @@ const House = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, construction, estate, exterior, facade, home, house, real, residential, siding
  *
- * popularity: 3220
+ * popularity: 3224
  */
 const HouseSiding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="house_siding" {...props} />
@@ -12358,7 +12358,7 @@ const HouseSiding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, beach, boat, estate, floating, home, house, houseboat, maps, place, real, residence, residential, sea, stay, traveling, vacation
  *
- * popularity: 2206
+ * popularity: 2208
  */
 const Houseboat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="houseboat" {...props} />
@@ -12371,7 +12371,7 @@ const Houseboat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, ballot, check, complete, done, election, how, mark, ok, poll, register, registration, select, tick, to reg, validate, verified, vote, yes
  *
- * popularity: 31323
+ * popularity: 31352
  */
 const HowToReg = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="how_to_reg" {...props} />
@@ -12384,7 +12384,7 @@ const HowToReg = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ballot, election, how, poll, to, vote
  *
- * popularity: 5832
+ * popularity: 5840
  */
 const HowToVote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="how_to_vote" {...props} />
@@ -12397,7 +12397,7 @@ const HowToVote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, brackets, character, code, css, develop, developer, engineer, engineering, font, html, letter, platform, symbol, text, type
  *
- * popularity: 4061
+ * popularity: 4067
  */
 const Html = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="html" {...props} />
@@ -12410,7 +12410,7 @@ const Html = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, font, http, letter, symbol, text, transfer, type, url, website
  *
- * popularity: 5716
+ * popularity: 5724
  */
 const Http = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="http" {...props} />
@@ -12423,7 +12423,7 @@ const Http = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: https, lock, locked, password, privacy, private, protection, safety, secure, security
  *
- * popularity: 18047
+ * popularity: 18064
  */
 const Https = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="https" {...props} />
@@ -12436,7 +12436,7 @@ const Https = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: center, connection, core, focal point, hub, network, nucleus, topology
  *
- * popularity: 12484
+ * popularity: 12503
  */
 const Hub = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hub" {...props} />
@@ -12449,7 +12449,7 @@ const Hub = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, conditioning, heating, hvac, ventilation
  *
- * popularity: 2578
+ * popularity: 2582
  */
 const Hvac = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="hvac" {...props} />
@@ -12462,7 +12462,7 @@ const Hvac = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, entertainment, exercise, hobby, ice, shoe, skates, skating, social, sports, travel
  *
- * popularity: 1969
+ * popularity: 1971
  */
 const IceSkating = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ice_skating" {...props} />
@@ -12475,7 +12475,7 @@ const IceSkating = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cream, dessert, food, ice, icecream, snack
  *
- * popularity: 5177
+ * popularity: 5184
  */
 const Icecream = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="icecream" {...props} />
@@ -12488,7 +12488,7 @@ const Icecream = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, hide, image, landscape, mountain, mountains, off, on, photo, photography, picture, slash
  *
- * popularity: 93825
+ * popularity: 93886
  */
 const Image = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="image" {...props} />
@@ -12501,7 +12501,7 @@ const Image = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aspect, image, photo, photography, picture, ratio, rectangle, square
  *
- * popularity: 1027
+ * popularity: 1028
  */
 const ImageAspectRatio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="image_aspect_ratio" {...props} />
@@ -12514,7 +12514,7 @@ const ImageAspectRatio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, image, landscape, mountain, mountains, not, off, on, photo, photography, picture, slash, supported
  *
- * popularity: 4745
+ * popularity: 4750
  */
 const ImageNotSupported = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="image_not_supported" {...props} />
@@ -12527,7 +12527,7 @@ const ImageNotSupported = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: find, glass, image, landscape, look, magnify, magnifying, mountain, mountains, photo, photography, picture, search, see
  *
- * popularity: 7206
+ * popularity: 7212
  */
 const ImageSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="image_search" {...props} />
@@ -12540,7 +12540,7 @@ const ImageSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: art, image, imagesearch, paint, roller, search
  *
- * popularity: 2118
+ * popularity: 2119
  */
 const ImagesearchRoller = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="imagesearch_roller" {...props} />
@@ -12553,7 +12553,7 @@ const ImagesearchRoller = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: address, book, contacts, import, info, information, open
  *
- * popularity: 18765
+ * popularity: 18778
  */
 const ImportContacts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="import_contacts" {...props} />
@@ -12566,7 +12566,7 @@ const ImportContacts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, down, explort, import, up
  *
- * popularity: 17491
+ * popularity: 17505
  */
 const ImportExport = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="import_export" {...props} />
@@ -12579,7 +12579,7 @@ const ImportExport = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, desktop, devices, hardware, iOS, important, mobile, monitor, phone, star, tablet, web
  *
- * popularity: 10784
+ * popularity: 10795
  */
 const ImportantDevices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="important_devices" {...props} />
@@ -12592,7 +12592,7 @@ const ImportantDevices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, email, inbox, incoming, mail, message
  *
- * popularity: 14733
+ * popularity: 14747
  */
 const Inbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="inbox" {...props} />
@@ -12605,7 +12605,7 @@ const Inbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chart, circle, incomplete
  *
- * popularity: 3677
+ * popularity: 3682
  */
 const IncompleteCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="incomplete_circle" {...props} />
@@ -12618,7 +12618,7 @@ const IncompleteCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, box, button, check, components, control, design, form, indeterminate, interface, screen, select, selected, selection, site, square, toggle, ui, undetermined, ux, web, website
  *
- * popularity: 15037
+ * popularity: 15050
  */
 const IndeterminateCheckBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="indeterminate_check_box" {...props} />
@@ -12631,7 +12631,7 @@ const IndeterminateCheckBox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, assistance, details, help, i, info, information, service, support
  *
- * popularity: 431836
+ * popularity: 432171
  */
 const Info = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="info" {...props} />
@@ -12644,7 +12644,7 @@ const Info = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, box, download, input, login, move, right
  *
- * popularity: 17526
+ * popularity: 17538
  */
 const Input = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="input" {...props} />
@@ -12657,7 +12657,7 @@ const Input = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, insert, measure, metrics, statistics, tracking
  *
- * popularity: 8311
+ * popularity: 8316
  */
 const InsertChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_chart" {...props} />
@@ -12670,7 +12670,7 @@ const InsertChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, insert, measure, metrics, outlined, statistics, tracking
  *
- * popularity: 12517
+ * popularity: 12538
  */
 const InsertChartOutlined = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_chart_outlined" {...props} />
@@ -12683,7 +12683,7 @@ const InsertChartOutlined = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, bubble, chat, comment, feedback, insert, message
  *
- * popularity: 7612
+ * popularity: 7620
  */
 const InsertComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_comment" {...props} />
@@ -12696,7 +12696,7 @@ const InsertComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doc, drive, file, format, insert, sheet, slide
  *
- * popularity: 25096
+ * popularity: 25113
  */
 const InsertDriveFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_drive_file" {...props} />
@@ -12709,7 +12709,7 @@ const InsertDriveFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, emoji, emoticon, face, happy, human, insert, people, person, profile, sentiment, smile, user
  *
- * popularity: 13455
+ * popularity: 13466
  */
 const InsertEmoticon = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_emoticon" {...props} />
@@ -12722,7 +12722,7 @@ const InsertEmoticon = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, insert, invitation, mark, month, range, remember, reminder, today, week
  *
- * popularity: 10122
+ * popularity: 10128
  */
 const InsertInvitation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_invitation" {...props} />
@@ -12735,7 +12735,7 @@ const InsertInvitation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, attach, clip, file, insert, link, mail, media
  *
- * popularity: 10420
+ * popularity: 10423
  */
 const InsertLink = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_link" {...props} />
@@ -12748,7 +12748,7 @@ const InsertLink = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: break, dash, dashed, doc, document, file, page, paper
  *
- * popularity: 1143
+ * popularity: 1144
  */
 const InsertPageBreak = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_page_break" {...props} />
@@ -12761,7 +12761,7 @@ const InsertPageBreak = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: image, insert, landscape, mountain, mountains, photo, photography, picture
  *
- * popularity: 13111
+ * popularity: 13115
  */
 const InsertPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insert_photo" {...props} />
@@ -12774,7 +12774,7 @@ const InsertPhoto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, analytics, artificial, automatic, automation, bar, bars, chart, custom, data, diagram, genai, graph, infographic, insights, intelligence, magic, measure, metrics, smart, spark, sparkle, star, stars, statistics, tracking
  *
- * popularity: 52896
+ * popularity: 52944
  */
 const Insights = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="insights" {...props} />
@@ -12787,7 +12787,7 @@ const Insights = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, desktop, device, display, fix, hardware, iOS, install, mac, monitor, place, pwa, screen, web, window
  *
- * popularity: 2717
+ * popularity: 2720
  */
 const InstallDesktop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="install_desktop" {...props} />
@@ -12800,7 +12800,7 @@ const InstallDesktop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, hardware, iOS, install, mobile, phone, pwa, tablet
  *
- * popularity: 2148
+ * popularity: 2151
  */
 const InstallMobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="install_mobile" {...props} />
@@ -12813,7 +12813,7 @@ const InstallMobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brackets, clipboard, code, css, develop, developer, doc, document, engineer, engineering clipboard, html, instructions, integration, platform
  *
- * popularity: 14173
+ * popularity: 14183
  */
 const IntegrationInstructions = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -12826,7 +12826,7 @@ const IntegrationInstructions = (
  *
  * tags: circle, heart, interests, shapes, social, square, triangle
  *
- * popularity: 7901
+ * popularity: 7909
  */
 const Interests = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="interests" {...props} />
@@ -12839,7 +12839,7 @@ const Interests = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: interpreter, language, microphone, mode, person, speaking, symbol
  *
- * popularity: 2142
+ * popularity: 2147
  */
 const InterpreterMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="interpreter_mode" {...props} />
@@ -12852,7 +12852,7 @@ const InterpreterMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, box, clipboard, doc, document, file, inventory, organize, packages, product, stock, supply
  *
- * popularity: 54962
+ * popularity: 55038
  */
 const Inventory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="inventory" {...props} />
@@ -12865,7 +12865,7 @@ const Inventory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, box, file, inventory, organize, packages, product, stock, storage, supply
  *
- * popularity: 59715
+ * popularity: 59742
  */
 const Inventory2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="inventory_2" {...props} />
@@ -12878,7 +12878,7 @@ const Inventory2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: colors, drop, droplet, edit, editing, hue, invert, inverted, palette, tone, water
  *
- * popularity: 10290
+ * popularity: 10299
  */
 const InvertColors = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="invert_colors" {...props} />
@@ -12891,7 +12891,7 @@ const InvertColors = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: colors, disabled, drop, droplet, enabled, hue, invert, inverted, off, offline, on, opacity, palette, slash, tone, water
  *
- * popularity: 1754
+ * popularity: 1757
  */
 const InvertColorsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="invert_colors_off" {...props} />
@@ -12904,7 +12904,7 @@ const InvertColorsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, export, ios, send, share, up
  *
- * popularity: 27394
+ * popularity: 27413
  */
 const IosShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ios_share" {...props} />
@@ -12917,7 +12917,7 @@ const IosShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appliance, clothes, electric, iron, ironing, machine, object
  *
- * popularity: 2025
+ * popularity: 2027
  */
 const Iron = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="iron" {...props} />
@@ -12930,7 +12930,7 @@ const Iron = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, edit, editing, effect, image, iso, minus, photography, picture, plus, sensor, shutter, speed, subtract
  *
- * popularity: 2236
+ * popularity: 2238
  */
 const Iso = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="iso" {...props} />
@@ -12943,7 +12943,7 @@ const Iso = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, brackets, character, code, css, develop, developer, engineer, engineering, font, html, javascript, letter, platform, symbol, text, type
  *
- * popularity: 3170
+ * popularity: 3187
  */
 const Javascript = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="javascript" {...props} />
@@ -12956,7 +12956,7 @@ const Javascript = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, combine, command, join, left, outer, overlap, right, sql
  *
- * popularity: 3235
+ * popularity: 3240
  */
 const JoinFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="join_full" {...props} />
@@ -12969,7 +12969,7 @@ const JoinFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, command, inner, join, matching, overlap, sql, values
  *
- * popularity: 2778
+ * popularity: 2780
  */
 const JoinInner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="join_inner" {...props} />
@@ -12982,7 +12982,7 @@ const JoinInner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, command, join, left, matching, overlap, sql, values
  *
- * popularity: 1982
+ * popularity: 1990
  */
 const JoinLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="join_left" {...props} />
@@ -12995,7 +12995,7 @@ const JoinLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, command, join, matching, overlap, right, sql, values
  *
- * popularity: 1746
+ * popularity: 1748
  */
 const JoinRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="join_right" {...props} />
@@ -13008,7 +13008,7 @@ const JoinRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, canoe, entertainment, exercise, hobby, human, kayak, kayaking, lake, paddle, paddling, people, person, rafting, river, row, social, sports, summer, travel, water
  *
- * popularity: 3428
+ * popularity: 3430
  */
 const Kayaking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="kayaking" {...props} />
@@ -13021,7 +13021,7 @@ const Kayaking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dining, dinner, food, kebab, meal, meat, skewer
  *
- * popularity: 1091
+ * popularity: 1094
  */
 const KebabDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="kebab_dining" {...props} />
@@ -13034,7 +13034,7 @@ const KebabDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, door, entry, key, lock, password, unlock
  *
- * popularity: 20336
+ * popularity: 20377
  */
 const Key = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="key" {...props} />
@@ -13047,7 +13047,7 @@ const Key = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, disabled, door, enabled, entry, key, lock, off, offline, on, password, slash, unlock
  *
- * popularity: 1248
+ * popularity: 1249
  */
 const KeyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="key_off" {...props} />
@@ -13060,7 +13060,7 @@ const KeyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: computer, device, hardware, input, keyboard, keypad, letter, office, text, type
  *
- * popularity: 15872
+ * popularity: 15883
  */
 const Keyboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard" {...props} />
@@ -13073,7 +13073,7 @@ const Keyboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, computer, device, hardware, input, keyboard, keypad, letter, office, text, type
  *
- * popularity: 3939
+ * popularity: 3942
  */
 const KeyboardAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_alt" {...props} />
@@ -13086,7 +13086,7 @@ const KeyboardAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, down, keyboard
  *
- * popularity: 66355
+ * popularity: 66407
  */
 const KeyboardArrowDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_arrow_down" {...props} />
@@ -13099,7 +13099,7 @@ const KeyboardArrowDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, keyboard, left
  *
- * popularity: 17705
+ * popularity: 17716
  */
 const KeyboardArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_arrow_left" {...props} />
@@ -13112,7 +13112,7 @@ const KeyboardArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, keyboard, right
  *
- * popularity: 32519
+ * popularity: 32536
  */
 const KeyboardArrowRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_arrow_right" {...props} />
@@ -13125,7 +13125,7 @@ const KeyboardArrowRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, expand, expandable, less, list, up
  *
- * popularity: 19818
+ * popularity: 19832
  */
 const KeyboardArrowUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_arrow_up" {...props} />
@@ -13138,7 +13138,7 @@ const KeyboardArrowUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backspace, keyboard, left
  *
- * popularity: 21266
+ * popularity: 21276
  */
 const KeyboardBackspace = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_backspace" {...props} />
@@ -13151,7 +13151,7 @@ const KeyboardBackspace = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, capslock, keyboard, up
  *
- * popularity: 1969
+ * popularity: 1970
  */
 const KeyboardCapslock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_capslock" {...props} />
@@ -13164,7 +13164,7 @@ const KeyboardCapslock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: button, command key, control, keyboard
  *
- * popularity: 1522
+ * popularity: 1528
  */
 const KeyboardCommandKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_command_key" {...props} />
@@ -13177,7 +13177,7 @@ const KeyboardCommandKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control key, keyboard
  *
- * popularity: 765
+ * popularity: 766
  */
 const KeyboardControlKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_control_key" {...props} />
@@ -13190,7 +13190,7 @@ const KeyboardControlKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, double, down, multiple, navigation
  *
- * popularity: 10587
+ * popularity: 10616
  */
 const KeyboardDoubleArrowDown = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -13203,7 +13203,7 @@ const KeyboardDoubleArrowDown = (
  *
  * tags: arrow, arrows, direction, double, left, multiple, navigation
  *
- * popularity: 12381
+ * popularity: 12411
  */
 const KeyboardDoubleArrowLeft = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -13216,7 +13216,7 @@ const KeyboardDoubleArrowLeft = (
  *
  * tags: arrow, arrows, direction, double, multiple, navigation, right
  *
- * popularity: 18658
+ * popularity: 18690
  */
 const KeyboardDoubleArrowRight = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -13229,7 +13229,7 @@ const KeyboardDoubleArrowRight = (
  *
  * tags: arrow, arrows, direction, double, multiple, navigation, up
  *
- * popularity: 7967
+ * popularity: 7988
  */
 const KeyboardDoubleArrowUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_double_arrow_up" {...props} />
@@ -13242,7 +13242,7 @@ const KeyboardDoubleArrowUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, computer, device, down, hardware, hide, input, keyboard, keypad, text
  *
- * popularity: 2647
+ * popularity: 2650
  */
 const KeyboardHide = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_hide" {...props} />
@@ -13255,7 +13255,7 @@ const KeyboardHide = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt key, key, keyboard, modifier key, option
  *
- * popularity: 610
+ * popularity: 613
  */
 const KeyboardOptionKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_option_key" {...props} />
@@ -13268,7 +13268,7 @@ const KeyboardOptionKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, keyboard, left, return
  *
- * popularity: 18342
+ * popularity: 18386
  */
 const KeyboardReturn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_return" {...props} />
@@ -13281,7 +13281,7 @@ const KeyboardReturn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, keyboard, left, next, right, tab
  *
- * popularity: 5388
+ * popularity: 5393
  */
 const KeyboardTab = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_tab" {...props} />
@@ -13294,7 +13294,7 @@ const KeyboardTab = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: keyboard, mic, microphone, noise, record, recorder, speaker, voice
  *
- * popularity: 9851
+ * popularity: 9858
  */
 const KeyboardVoice = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="keyboard_voice" {...props} />
@@ -13307,7 +13307,7 @@ const KeyboardVoice = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bed, bedroom, double, furniture, home, hotel, house, king, night, pillows, queen, rest, room, sleep
  *
- * popularity: 7887
+ * popularity: 7899
  */
 const KingBed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="king_bed" {...props} />
@@ -13320,7 +13320,7 @@ const KingBed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appliance, cold, food, fridge, home, house, ice, kitchen, places, refrigerator, storage
  *
- * popularity: 8438
+ * popularity: 8452
  */
 const Kitchen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="kitchen" {...props} />
@@ -13333,7 +13333,7 @@ const Kitchen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, beach, body, entertainment, exercise, hobby, human, kitesurfing, people, person, social, sports, surf, travel, water
  *
- * popularity: 2264
+ * popularity: 2265
  */
 const Kitesurfing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="kitesurfing" {...props} />
@@ -13346,7 +13346,7 @@ const Kitesurfing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: favorite, indent, label, library, mail, remember, save, stamp, sticker, tag
  *
- * popularity: 31629
+ * popularity: 31673
  */
 const Label = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="label" {...props} />
@@ -13359,7 +13359,7 @@ const Label = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: favorite, important, indent, label, library, mail, remember, save, stamp, sticker, tag, wing
  *
- * popularity: 15289
+ * popularity: 15310
  */
 const LabelImportant = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="label_important" {...props} />
@@ -13372,7 +13372,7 @@ const LabelImportant = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, favorite, indent, label, library, mail, off, on, remember, save, slash, stamp, sticker, tag, wing
  *
- * popularity: 2460
+ * popularity: 2461
  */
 const LabelOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="label_off" {...props} />
@@ -13385,7 +13385,7 @@ const LabelOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: computer, connection, data, internet, lan, network, service
  *
- * popularity: 5138
+ * popularity: 5150
  */
 const Lan = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lan" {...props} />
@@ -13398,7 +13398,7 @@ const Lan = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: image, landscape, mountain, mountains, nature, photo, photography, picture
  *
- * popularity: 9290
+ * popularity: 9298
  */
 const Landscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="landscape" {...props} />
@@ -13411,7 +13411,7 @@ const Landscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, natural, rain, storm, weather
  *
- * popularity: 749
+ * popularity: 751
  */
 const Landslide = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="landslide" {...props} />
@@ -13424,7 +13424,7 @@ const Landslide = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: globe, internet, language, planet, website, world, www
  *
- * popularity: 174716
+ * popularity: 174873
  */
 const Language = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="language" {...props} />
@@ -13437,7 +13437,7 @@ const Language = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, computer, desktop, device, hardware, iOS, laptop, mac, monitor, web, windows
  *
- * popularity: 18761
+ * popularity: 18772
  */
 const Laptop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="laptop" {...props} />
@@ -13450,7 +13450,7 @@ const Laptop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, chromebook, device, display, hardware, iOS, laptop, mac chromebook, monitor, screen, web, window
  *
- * popularity: 5209
+ * popularity: 5213
  */
 const LaptopChromebook = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="laptop_chromebook" {...props} />
@@ -13463,7 +13463,7 @@ const LaptopChromebook = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, device, display, hardware, iOS, laptop, mac, monitor, screen, web, window
  *
- * popularity: 7126
+ * popularity: 7127
  */
 const LaptopMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="laptop_mac" {...props} />
@@ -13476,7 +13476,7 @@ const LaptopMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, device, display, hardware, iOS, laptop, mac, monitor, screen, web, window, windows
  *
- * popularity: 3029
+ * popularity: 3031
  */
 const LaptopWindows = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="laptop_windows" {...props} />
@@ -13489,7 +13489,7 @@ const LaptopWindows = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, chevron, components, end, forward, interface, last, page, right, screen, site, ui, ux, web, website
  *
- * popularity: 13480
+ * popularity: 13497
  */
 const LastPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="last_page" {...props} />
@@ -13502,7 +13502,7 @@ const LastPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, box, components, interface, launch, new, open, screen, site, ui, ux, web, website, window
  *
- * popularity: 41412
+ * popularity: 41450
  */
 const Launch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="launch" {...props} />
@@ -13515,7 +13515,7 @@ const Launch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrange, disabled, enabled, interaction, layers, maps, off, on, overlay, pages, slash, stack
  *
- * popularity: 21676
+ * popularity: 21694
  */
 const Layers = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="layers" {...props} />
@@ -13528,7 +13528,7 @@ const Layers = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrange, clear, delete, disabled, enabled, interaction, layers, maps, off, on, overlay, pages, slash
  *
- * popularity: 4109
+ * popularity: 4113
  */
 const LayersClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="layers_clear" {...props} />
@@ -13541,7 +13541,7 @@ const LayersClear = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, leaderboard, measure, metrics, statistics, tracking
  *
- * popularity: 39170
+ * popularity: 39213
  */
 const Leaderboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="leaderboard" {...props} />
@@ -13554,7 +13554,7 @@ const Leaderboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, connection, data, leak, link, network, service, signals, synce, wireless
  *
- * popularity: 3757
+ * popularity: 3761
  */
 const LeakAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="leak_add" {...props} />
@@ -13567,7 +13567,7 @@ const LeakAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, data, disabled, enabled, leak, link, network, off, offline, on, remove, service, signals, slash, synce, wireless
  *
- * popularity: 1206
+ * popularity: 1209
  */
 const LeakRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="leak_remove" {...props} />
@@ -13580,7 +13580,7 @@ const LeakRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, graph, infographic, legend, measure, metrics, monitoring, stackdriver, statistics, toggle, tracking
  *
- * popularity: 5954
+ * popularity: 5955
  */
 const LegendToggle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="legend_toggle" {...props} />
@@ -13593,7 +13593,7 @@ const LegendToggle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, full, geometry, lens, moon
  *
- * popularity: 8748
+ * popularity: 8759
  */
 const Lens = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lens" {...props} />
@@ -13606,7 +13606,7 @@ const Lens = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blur, camera, dim, dot, effect, foggy, fuzzy, image, lens, photo, soften
  *
- * popularity: 4272
+ * popularity: 4274
  */
 const LensBlur = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lens_blur" {...props} />
@@ -13619,7 +13619,7 @@ const LensBlur = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, collection, layers, library, multiple, music, new, plus, stacked, symbol, video
  *
- * popularity: 14893
+ * popularity: 14911
  */
 const LibraryAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="library_add" {...props} />
@@ -13632,7 +13632,7 @@ const LibraryAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, approve, check, collection, complete, done, layers, library, mark, multiple, music, ok, select, stacked, tick, validate, verified, video, yes
  *
- * popularity: 8245
+ * popularity: 8254
  */
 const LibraryAddCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="library_add_check" {...props} />
@@ -13645,7 +13645,7 @@ const LibraryAddCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, album, audio, book, books, collection, library, read, reading
  *
- * popularity: 31362
+ * popularity: 31391
  */
 const LibraryBooks = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="library_books" {...props} />
@@ -13658,7 +13658,7 @@ const LibraryBooks = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, album, collection, library, music, song, sounds
  *
- * popularity: 10000
+ * popularity: 10012
  */
 const LibraryMusic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="library_music" {...props} />
@@ -13671,7 +13671,7 @@ const LibraryMusic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bulb, ceiling, hanging, inside, interior, lamp, light, lighting, pendent, room
  *
- * popularity: 5882
+ * popularity: 5887
  */
 const Light = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="light" {...props} />
@@ -13684,7 +13684,7 @@ const Light = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bright, brightness, day, device, light, lighting, mode, morning, sky, sun, sunny
  *
- * popularity: 54674
+ * popularity: 54727
  */
 const LightMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="light_mode" {...props} />
@@ -13697,7 +13697,7 @@ const LightMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, idea, info, information, light, lightbulb
  *
- * popularity: 91813
+ * popularity: 91874
  */
 const Lightbulb = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lightbulb" {...props} />
@@ -13710,7 +13710,7 @@ const Lightbulb = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, idea, info, information, light, lightbulb
  *
- * popularity: 2961
+ * popularity: 2968
  */
 const LightbulbCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lightbulb_circle" {...props} />
@@ -13723,7 +13723,7 @@ const LightbulbCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: axis, dash, horizontal, line, stroke, vertical
  *
- * popularity: 1253
+ * popularity: 1254
  */
 const LineAxis = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="line_axis" {...props} />
@@ -13736,7 +13736,7 @@ const LineAxis = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dash, dotted, line, rule, spacing, style
  *
- * popularity: 3328
+ * popularity: 3335
  */
 const LineStyle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="line_style" {...props} />
@@ -13749,7 +13749,7 @@ const LineStyle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: height, line, size, spacing, style, thickness, weight
  *
- * popularity: 4700
+ * popularity: 4707
  */
 const LineWeight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="line_weight" {...props} />
@@ -13762,7 +13762,7 @@ const LineWeight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, components, design, interface, layout, linear, measure, menu, scale, screen, site, slider, ui, ux, web, website, window
  *
- * popularity: 8106
+ * popularity: 8117
  */
 const LinearScale = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="linear_scale" {...props} />
@@ -13775,7 +13775,7 @@ const LinearScale = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chain, clip, connection, link, linked, links, multimedia, url
  *
- * popularity: 77323
+ * popularity: 77396
  */
 const Link = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="link" {...props} />
@@ -13788,7 +13788,7 @@ const Link = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attached, chain, clip, connection, disabled, enabled, link, linked, links, multimedia, off, on, slash, url
  *
- * popularity: 14013
+ * popularity: 14024
  */
 const LinkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="link_off" {...props} />
@@ -13801,7 +13801,7 @@ const LinkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, connect, connection, lens, linked, network, photo, photography, picture, signal, signals, sync, wireless
  *
- * popularity: 2431
+ * popularity: 2435
  */
 const LinkedCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="linked_camera" {...props} />
@@ -13814,7 +13814,7 @@ const LinkedCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, bar, bottle, club, cocktail, drink, food, liquor, party, store, wine
  *
- * popularity: 8323
+ * popularity: 8331
  */
 const Liquor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="liquor" {...props} />
@@ -13827,7 +13827,7 @@ const Liquor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: file, format, index, list, menu, options
  *
- * popularity: 127928
+ * popularity: 128076
  */
 const List = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="list" {...props} />
@@ -13840,7 +13840,7 @@ const List = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, box, contained, form, format, lines, list, order, reorder, stacked, title
  *
- * popularity: 48989
+ * popularity: 49022
  */
 const ListAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="list_alt" {...props} />
@@ -13853,7 +13853,7 @@ const ListAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, bubble, chat, comment, communicate, help, info, information, live, message, punctuation, question mark, recent, restore, speech, support, symbol
  *
- * popularity: 17318
+ * popularity: 17329
  */
 const LiveHelp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="live_help" {...props} />
@@ -13866,7 +13866,7 @@ const LiveHelp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, antennas hardware, chrome, desktop, device, iOS, live, mac, monitor, movie, play, stream, television, tv, web, window
  *
- * popularity: 17971
+ * popularity: 17994
  */
 const LiveTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="live_tv" {...props} />
@@ -13879,7 +13879,7 @@ const LiveTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chair, comfort, couch, decoration, furniture, home, house, living, lounging, loveseat, room, seat, seating, sofa
  *
- * popularity: 3149
+ * popularity: 3151
  */
 const Living = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="living" {...props} />
@@ -13892,7 +13892,7 @@ const Living = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activity, event, event ticket, local, star, things, ticket
  *
- * popularity: 16619
+ * popularity: 16640
  */
 const LocalActivity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_activity" {...props} />
@@ -13905,7 +13905,7 @@ const LocalActivity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, airplane, airport, flight, plane, transportation, travel, trip
  *
- * popularity: 7630
+ * popularity: 7638
  */
 const LocalAirport = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_airport" {...props} />
@@ -13918,7 +13918,7 @@ const LocalAirport = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: atm, bill, card, cart, cash, coin, commerce, credit, currency, dollars, local, money, online, pay, payment, shopping, symbol
  *
- * popularity: 17114
+ * popularity: 17131
  */
 const LocalAtm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_atm" {...props} />
@@ -13931,7 +13931,7 @@ const LocalAtm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, bar, bottle, club, cocktail, drink, food, liquor, local, wine
  *
- * popularity: 9328
+ * popularity: 9332
  */
 const LocalBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_bar" {...props} />
@@ -13944,7 +13944,7 @@ const LocalBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bottle, cafe, coffee, cup, drink, food, restaurant, tea
  *
- * popularity: 15976
+ * popularity: 15986
  */
 const LocalCafe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_cafe" {...props} />
@@ -13957,7 +13957,7 @@ const LocalCafe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, local, maps, transportation, travel, vehicle, wash
  *
- * popularity: 2291
+ * popularity: 2295
  */
 const LocalCarWash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_car_wash" {...props} />
@@ -13970,7 +13970,7 @@ const LocalCarWash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: --, 24, bill, building, business, card, cash, coin, commerce, company, convenience, credit, currency, dollars, local, maps, market, money, new, online, pay, payment, plus, shop, shopping, store, storefront, symbol
  *
- * popularity: 3840
+ * popularity: 3845
  */
 const LocalConvenienceStore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_convenience_store" {...props} />
@@ -13983,7 +13983,7 @@ const LocalConvenienceStore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dining, eat, food, fork, knife, local, meal, restaurant, spoon
  *
- * popularity: 7310
+ * popularity: 7318
  */
 const LocalDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_dining" {...props} />
@@ -13996,7 +13996,7 @@ const LocalDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cup, drink, drop, droplet, liquid, local, park, water
  *
- * popularity: 6729
+ * popularity: 6738
  */
 const LocalDrink = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_drink" {...props} />
@@ -14009,7 +14009,7 @@ const LocalDrink = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 911, climate, department, fire, firefighter, flame, heat, home, hot, nest, thermostat
  *
- * popularity: 37721
+ * popularity: 37772
  */
 const LocalFireDepartment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_fire_department" {...props} />
@@ -14022,7 +14022,7 @@ const LocalFireDepartment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: florist, flower, local, shop
  *
- * popularity: 11143
+ * popularity: 11149
  */
 const LocalFlorist = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_florist" {...props} />
@@ -14035,7 +14035,7 @@ const LocalFlorist = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, car, gas, local, oil, station, vehicle
  *
- * popularity: 11637
+ * popularity: 11657
  */
 const LocalGasStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_gas_station" {...props} />
@@ -14048,7 +14048,7 @@ const LocalGasStation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: grocery, market, shop, store
  *
- * popularity: 13007
+ * popularity: 13016
  */
 const LocalGroceryStore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_grocery_store" {...props} />
@@ -14061,7 +14061,7 @@ const LocalGroceryStore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 911, aid, cross, emergency, first, hospital, local, medicine
  *
- * popularity: 19072
+ * popularity: 19086
  */
 const LocalHospital = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_hospital" {...props} />
@@ -14074,7 +14074,7 @@ const LocalHospital = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, hotel, human, local, people, person, sleep, stay, travel, trip
  *
- * popularity: 2282
+ * popularity: 2283
  */
 const LocalHotel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_hotel" {...props} />
@@ -14087,7 +14087,7 @@ const LocalHotel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cleaning, clothing, dry, dryer, hotel, laundry, local, service, washer
  *
- * popularity: 6767
+ * popularity: 6777
  */
 const LocalLaundryService = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_laundry_service" {...props} />
@@ -14100,7 +14100,7 @@ const LocalLaundryService = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: book, community learning, library, local, read
  *
- * popularity: 18230
+ * popularity: 18247
  */
 const LocalLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_library" {...props} />
@@ -14113,7 +14113,7 @@ const LocalLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, bill, building, business, buy, card, cart, cash, coin, commerce, credit, currency, dollars, handbag, local, mall, money, online, pay, payment, shop, shopping, store, storefront
  *
- * popularity: 26822
+ * popularity: 26848
  */
 const LocalMall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_mall" {...props} />
@@ -14126,7 +14126,7 @@ const LocalMall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 3336
+ * popularity: 3339
  */
 const LocalMovies = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_movies" {...props} />
@@ -14139,7 +14139,7 @@ const LocalMovies = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: deal, discount, offer, price, shop, shopping, store, tag
  *
- * popularity: 56677
+ * popularity: 56741
  */
 const LocalOffer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_offer" {...props} />
@@ -14152,7 +14152,7 @@ const LocalOffer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, auto, car, character, font, garage, letter, local, park, parking, symbol, text, type, vehicle
  *
- * popularity: 11203
+ * popularity: 11227
  */
 const LocalParking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_parking" {...props} />
@@ -14165,7 +14165,7 @@ const LocalParking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 911, aid, cross, emergency, first, hospital, local, medicine, pharmacy, places
  *
- * popularity: 4943
+ * popularity: 4949
  */
 const LocalPharmacy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_pharmacy" {...props} />
@@ -14178,7 +14178,7 @@ const LocalPharmacy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: booth, call, communication, phone, telecommunication
  *
- * popularity: 13067
+ * popularity: 13076
  */
 const LocalPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_phone" {...props} />
@@ -14191,7 +14191,7 @@ const LocalPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: drink, fastfood, food, local, meal, pizza
  *
- * popularity: 6464
+ * popularity: 6466
  */
 const LocalPizza = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_pizza" {...props} />
@@ -14204,7 +14204,7 @@ const LocalPizza = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 1455
+ * popularity: 1457
  */
 const LocalPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_play" {...props} />
@@ -14217,7 +14217,7 @@ const LocalPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 911, badge, law, local, officer, police, protect, protection, security, shield
  *
- * popularity: 14602
+ * popularity: 14622
  */
 const LocalPolice = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_police" {...props} />
@@ -14230,7 +14230,7 @@ const LocalPolice = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: delivery, email, envelop, letter, local, mail, message, office, package, parcel, post, postal, send, stamp
  *
- * popularity: 10713
+ * popularity: 10725
  */
 const LocalPostOffice = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_post_office" {...props} />
@@ -14243,7 +14243,7 @@ const LocalPostOffice = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: draft, fax, ink, local, machine, office, paper, print, printer, printshop, send
  *
- * popularity: 6683
+ * popularity: 6697
  */
 const LocalPrintshop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_printshop" {...props} />
@@ -14256,7 +14256,7 @@ const LocalPrintshop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, lens, local, photo, photography, picture, see
  *
- * popularity: 4411
+ * popularity: 4416
  */
 const LocalSee = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_see" {...props} />
@@ -14269,7 +14269,7 @@ const LocalSee = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, delivery, letter, local, mail, maps, office, package, parcel, post, postal, send, shipping, shopping, stamp, transportation, truck, vehicle
  *
- * popularity: 193870
+ * popularity: 194289
  */
 const LocalShipping = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_shipping" {...props} />
@@ -14282,7 +14282,7 @@ const LocalShipping = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, cab, call, car, cars, direction, local, lyft, maps, public, taxi, transportation, uber, vehicle, yellow
  *
- * popularity: 7053
+ * popularity: 7063
  */
 const LocalTaxi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="local_taxi" {...props} />
@@ -14295,7 +14295,7 @@ const LocalTaxi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apartments, architecture, buildings, business, city, estate, home, landscape, location, place, real, residence, residential, shelter, town, urban
  *
- * popularity: 27688
+ * popularity: 27717
  */
 const LocationCity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="location_city" {...props} />
@@ -14308,7 +14308,7 @@ const LocationCity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, disabled, enabled, location, maps, off, on, pin, place, pointer, slash, stop, tracking
  *
- * popularity: 1218
+ * popularity: 1221
  */
 const LocationDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="location_disabled" {...props} />
@@ -14321,7 +14321,7 @@ const LocationDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, off, pin, place, room, stop
  *
- * popularity: 3622
+ * popularity: 3626
  */
 const LocationOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="location_off" {...props} />
@@ -14334,7 +14334,7 @@ const LocationOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, on, pin, place, room, stop
  *
- * popularity: 195827
+ * popularity: 195993
  */
 const LocationOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="location_on" {...props} />
@@ -14347,7 +14347,7 @@ const LocationOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, pin, place, pointer, searching, stop, tracking
  *
- * popularity: 7806
+ * popularity: 7821
  */
 const LocationSearching = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="location_searching" {...props} />
@@ -14360,7 +14360,7 @@ const LocationSearching = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: lock, locked, password, privacy, private, protection, safety, secure, security
  *
- * popularity: 206478
+ * popularity: 206634
  */
 const Lock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lock" {...props} />
@@ -14373,7 +14373,7 @@ const Lock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, date, lock, locked, password, privacy, private, protection, safety, schedule, secure, security, time
  *
- * popularity: 7615
+ * popularity: 7619
  */
 const LockClock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lock_clock" {...props} />
@@ -14386,7 +14386,7 @@ const LockClock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: lock, open, password, privacy, private, protection, safety, secure, security, unlocked
  *
- * popularity: 58464
+ * popularity: 58521
  */
 const LockOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lock_open" {...props} />
@@ -14399,7 +14399,7 @@ const LockOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 2075
+ * popularity: 2083
  */
 const LockPerson = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lock_person" {...props} />
@@ -14412,7 +14412,7 @@ const LockPerson = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, inprogress, load, loading refresh, lock, locked, password, privacy, private, protection, renew, rotate, safety, secure, security, turn
  *
- * popularity: 7164
+ * popularity: 7179
  */
 const LockReset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lock_reset" {...props} />
@@ -14425,7 +14425,7 @@ const LockReset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, app, application, arrow, components, design, enter, in, interface, left, log, login, screen, sign, site, ui, ux, web, website
  *
- * popularity: 123792
+ * popularity: 123899
  */
 const Login = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="login" {...props} />
@@ -14438,7 +14438,7 @@ const Login = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dev, dev.to, logo
  *
- * popularity: 1761
+ * popularity: 1765
  */
 const LogoDev = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="logo_dev" {...props} />
@@ -14451,7 +14451,7 @@ const LogoDev = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, design, exit, interface, leave, log, login, logout, right, screen, site, ui, ux, web, website
  *
- * popularity: 241038
+ * popularity: 241248
  */
 const Logout = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="logout" {...props} />
@@ -14464,7 +14464,7 @@ const Logout = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, half, looks, rainbow
  *
- * popularity: 2470
+ * popularity: 2474
  */
 const Looks = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks" {...props} />
@@ -14477,7 +14477,7 @@ const Looks = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, digit, looks, numbers, square, symbol
  *
- * popularity: 7519
+ * popularity: 7531
  */
 const Looks3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_3" {...props} />
@@ -14490,7 +14490,7 @@ const Looks3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, digit, looks, numbers, square, symbol
  *
- * popularity: 4170
+ * popularity: 4174
  */
 const Looks4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_4" {...props} />
@@ -14503,7 +14503,7 @@ const Looks4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, digit, looks, numbers, square, symbol
  *
- * popularity: 3141
+ * popularity: 3144
  */
 const Looks5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_5" {...props} />
@@ -14516,7 +14516,7 @@ const Looks5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, digit, looks, numbers, square, symbol
  *
- * popularity: 2417
+ * popularity: 2418
  */
 const Looks6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_6" {...props} />
@@ -14529,7 +14529,7 @@ const Looks6 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, digit, looks, numbers, square, symbol
  *
- * popularity: 16315
+ * popularity: 16344
  */
 const LooksOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_one" {...props} />
@@ -14542,7 +14542,7 @@ const LooksOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, digit, looks, numbers, square, symbol
  *
- * popularity: 8638
+ * popularity: 8650
  */
 const LooksTwo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="looks_two" {...props} />
@@ -14555,7 +14555,7 @@ const LooksTwo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, arrows, direction, inprogress, load, loading refresh, loop, music, navigation, renew, rotate, turn
  *
- * popularity: 18860
+ * popularity: 18873
  */
 const Loop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="loop" {...props} />
@@ -14568,7 +14568,7 @@ const Loop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, details, focus, glass, loupe, magnifying, new, plus, symbol
  *
- * popularity: 4858
+ * popularity: 4863
  */
 const Loupe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="loupe" {...props} />
@@ -14581,7 +14581,7 @@ const Loupe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrange, arrow, backward, bottom, list, low, move, order, priority
  *
- * popularity: 6918
+ * popularity: 6926
  */
 const LowPriority = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="low_priority" {...props} />
@@ -14594,7 +14594,7 @@ const LowPriority = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: benefits, card, credit, heart, loyalty, membership, miles, points, program, subscription, tag, travel, trip
  *
- * popularity: 21614
+ * popularity: 21637
  */
 const Loyalty = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="loyalty" {...props} />
@@ -14607,7 +14607,7 @@ const Loyalty = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, data, font, internet, letter, lte, mobile, network, speed, symbol, text, type, wifi, wireless
  *
- * popularity: 1243
+ * popularity: 1244
  */
 const LteMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lte_mobiledata" {...props} />
@@ -14620,7 +14620,7 @@ const LteMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, alphabet, character, data, font, internet, letter, lte, mobile, network, plus, speed, symbol, text, type, wifi, wireless
  *
- * popularity: 1020
+ * popularity: 1022
  */
 const LtePlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lte_plus_mobiledata" {...props} />
@@ -14633,7 +14633,7 @@ const LtePlusMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airport, bag, baggage, carry, flight, hotel, luggage, on, suitcase, travel, trip
  *
- * popularity: 10121
+ * popularity: 10126
  */
 const Luggage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="luggage" {...props} />
@@ -14646,7 +14646,7 @@ const Luggage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, dining, dinner, drink, fastfood, food, hamburger, lunch, meal
  *
- * popularity: 19360
+ * popularity: 19372
  */
 const LunchDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lunch_dining" {...props} />
@@ -14659,7 +14659,7 @@ const LunchDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, bubble, chat, comment, communicate, feedback, key, lyrics, message, music, note, song, sound, speech, track
  *
- * popularity: 1191
+ * popularity: 1195
  */
 const Lyrics = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="lyrics" {...props} />
@@ -14672,7 +14672,7 @@ const Lyrics = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, disabled, enabled, flower, garden, image, macro, off, offline, on, slash
  *
- * popularity: 229
+ * popularity: 231
  */
 const MacroOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="macro_off" {...props} />
@@ -14685,7 +14685,7 @@ const MacroOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, envelop, letter, mail, message, send
  *
- * popularity: 79445
+ * popularity: 79502
  */
 const Mail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mail" {...props} />
@@ -14698,7 +14698,7 @@ const Mail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, envelop, letter, lock, locked, mail, message, password, privacy, private, protection, safety, secure, security, send
  *
- * popularity: 1460
+ * popularity: 1462
  */
 const MailLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mail_lock" {...props} />
@@ -14711,7 +14711,7 @@ const MailLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, envelop, letter, mail, message, outline, send
  *
- * popularity: 61183
+ * popularity: 61247
  */
 const MailOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mail_outline" {...props} />
@@ -14724,7 +14724,7 @@ const MailOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: boy, gender, male, man, social, symbol
  *
- * popularity: 12615
+ * popularity: 12626
  */
 const Male = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="male" {...props} />
@@ -14737,7 +14737,7 @@ const Male = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: boy, gender, male, man, social, symbol
  *
- * popularity: 6167
+ * popularity: 6179
  */
 const Man = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="man" {...props} />
@@ -14750,7 +14750,7 @@ const Man = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: boy, gender, male, man, social, symbol
  *
- * popularity: 668
+ * popularity: 670
  */
 const Man2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="man_2" {...props} />
@@ -14763,7 +14763,7 @@ const Man2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: abstract, boy, gender, male, man, social, symbol
  *
- * popularity: 333
+ * popularity: 335
  */
 const Man3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="man_3" {...props} />
@@ -14776,7 +14776,7 @@ const Man3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: abstract, boy, gender, male, man, social, symbol
  *
- * popularity: 399
+ * popularity: 401
  */
 const Man4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="man_4" {...props} />
@@ -14789,7 +14789,7 @@ const Man4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, change, details, face, gear, human, manage, options, people, person, profile, service, settings, user
  *
- * popularity: 146922
+ * popularity: 147044
  */
 const ManageAccounts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="manage_accounts" {...props} />
@@ -14802,7 +14802,7 @@ const ManageAccounts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: application, arrow, back, backwards, change, clock, date, details, gear, history, options, refresh, renew, reverse, rotate, schedule, settings, time, turn
  *
- * popularity: 4517
+ * popularity: 4533
  */
 const ManageHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="manage_history" {...props} />
@@ -14815,7 +14815,7 @@ const ManageHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: glass, history, magnifying, manage, search, text
  *
- * popularity: 40782
+ * popularity: 40836
  */
 const ManageSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="manage_search" {...props} />
@@ -14828,7 +14828,7 @@ const ManageSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, map, maps, pin, place, route, stop, travel
  *
- * popularity: 55451
+ * popularity: 55503
  */
 const Map = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="map" {...props} />
@@ -14841,7 +14841,7 @@ const Map = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: building, home, house, maps, office, work
  *
- * popularity: 31125
+ * popularity: 31149
  */
 const MapsHomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="maps_home_work" {...props} />
@@ -14854,7 +14854,7 @@ const MapsHomeWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, bubble, comment, communicate, feedback, maps, message, new, plus, speech, symbol, ugc
  *
- * popularity: 7243
+ * popularity: 7247
  */
 const MapsUgc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="maps_ugc" {...props} />
@@ -14867,7 +14867,7 @@ const MapsUgc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, dots, layout, margin, padding, size, square
  *
- * popularity: 1807
+ * popularity: 1808
  */
 const Margin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="margin" {...props} />
@@ -14880,7 +14880,7 @@ const Margin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: as, envelop, letter, mail, mark, post, postal, read, receive, send, unread
  *
- * popularity: 9122
+ * popularity: 9133
  */
 const MarkAsUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_as_unread" {...props} />
@@ -14893,7 +14893,7 @@ const MarkAsUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, bubble, chat, check, comment, communicate, complete, done, mark, message, ok, read, select, sent, speech, tick, verified, yes
  *
- * popularity: 4827
+ * popularity: 4831
  */
 const MarkChatRead = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_chat_read" {...props} />
@@ -14906,7 +14906,7 @@ const MarkChatRead = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bubble, chat, circle, comment, communicate, dot, mark, message, notification, notifications, notify, reminder, speech, unread
  *
- * popularity: 7619
+ * popularity: 7626
  */
 const MarkChatUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_chat_unread" {...props} />
@@ -14919,7 +14919,7 @@ const MarkChatUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, complete, done, email, envelop, letter, mail, mark, message, note, ok, read, select, send, sent, tick, yes
  *
- * popularity: 14973
+ * popularity: 14982
  */
 const MarkEmailRead = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_email_read" {...props} />
@@ -14932,7 +14932,7 @@ const MarkEmailRead = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: check, circle, email, envelop, letter, mail, mark, message, note, notification, send, unread
  *
- * popularity: 11152
+ * popularity: 11164
  */
 const MarkEmailUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_email_unread" {...props} />
@@ -14945,7 +14945,7 @@ const MarkEmailUnread = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bubble, chat, circle, comment, communicate, dot, mark, message, notification, notifications, notify, reminder, speech, unread
  *
- * popularity: 1978
+ * popularity: 1984
  */
 const MarkUnreadChatAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mark_unread_chat_alt" {...props} />
@@ -14958,7 +14958,7 @@ const MarkUnreadChatAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, envelop, letter, mail, markunread, message, send, unread
  *
- * popularity: 11581
+ * popularity: 11587
  */
 const Markunread = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="markunread" {...props} />
@@ -14971,7 +14971,7 @@ const Markunread = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: deliver, envelop, letter, mail, mailbox, markunread, post, postal, postbox, receive, send, unread
  *
- * popularity: 6959
+ * popularity: 6967
  */
 const MarkunreadMailbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="markunread_mailbox" {...props} />
@@ -14984,7 +14984,7 @@ const MarkunreadMailbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air, cover, covid, face, hospital, masks, medical, pollution, protection, respirator, sick, social
  *
- * popularity: 10513
+ * popularity: 10519
  */
 const Masks = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="masks" {...props} />
@@ -14997,7 +14997,7 @@ const Masks = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, components, design, interface, line, maximize, screen, shape, site, ui, ux, web, website
  *
- * popularity: 11590
+ * popularity: 11599
  */
 const Maximize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="maximize" {...props} />
@@ -15010,7 +15010,7 @@ const Maximize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connect, connection, connectivity, device, disabled, enabled, media, music, note, off, offline, on, paring, signal, slash, symbol, wireless
  *
- * popularity: 713
+ * popularity: 716
  */
 const MediaBluetoothOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="media_bluetooth_off" {...props} />
@@ -15023,7 +15023,7 @@ const MediaBluetoothOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connect, connection, connectivity, device, disabled, enabled, media, music, note, off, on, online, paring, signal, slash, symbol, wireless
  *
- * popularity: 1177
+ * popularity: 1181
  */
 const MediaBluetoothOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="media_bluetooth_on" {...props} />
@@ -15036,7 +15036,7 @@ const MediaBluetoothOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, dots, mediation, right
  *
- * popularity: 8084
+ * popularity: 8089
  */
 const Mediation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mediation" {...props} />
@@ -15049,7 +15049,7 @@ const Mediation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: badge, card, health, id, information, medical, services
  *
- * popularity: 3827
+ * popularity: 3835
  */
 const MedicalInformation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="medical_information" {...props} />
@@ -15062,7 +15062,7 @@ const MedicalInformation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aid, bag, briefcase, emergency, first, kit, medical, medicine, services
  *
- * popularity: 21086
+ * popularity: 21100
  */
 const MedicalServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="medical_services" {...props} />
@@ -15075,7 +15075,7 @@ const MedicalServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doctor, drug, emergency, hospital, medication, medicine, pharmacy, pills, prescription
  *
- * popularity: 17573
+ * popularity: 17587
  */
 const Medication = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="medication" {...props} />
@@ -15088,7 +15088,7 @@ const Medication = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, bottle, doctor, drug, health, hospital, liquid, medications, medicine, pharmacy, spoon, vessel
  *
- * popularity: 1915
+ * popularity: 1931
  */
 const MedicationLiquid = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="medication_liquid" {...props} />
@@ -15101,7 +15101,7 @@ const MedicationLiquid = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: building, door, doorway, entrance, home, house, interior, meeting, office, open, places, room
  *
- * popularity: 19832
+ * popularity: 19847
  */
 const MeetingRoom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="meeting_room" {...props} />
@@ -15114,7 +15114,7 @@ const MeetingRoom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: card, chip, digital, memory, micro, processor, sd, storage
  *
- * popularity: 16173
+ * popularity: 16196
  */
 const Memory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="memory" {...props} />
@@ -15127,7 +15127,7 @@ const Memory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, components, hamburger, interface, line, lines, menu, screen, site, ui, ux, web, website
  *
- * popularity: 350961
+ * popularity: 351188
  */
 const Menu = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="menu" {...props} />
@@ -15140,7 +15140,7 @@ const Menu = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: book, dining, food, meal, menu, restaurant
  *
- * popularity: 67848
+ * popularity: 67915
  */
 const MenuBook = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="menu_book" {...props} />
@@ -15153,7 +15153,7 @@ const MenuBook = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, components, hamburger, interface, left, line, lines, menu, open, screen, site, ui, ux, web, website
  *
- * popularity: 41387
+ * popularity: 41408
  */
 const MenuOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="menu_open" {...props} />
@@ -15166,7 +15166,7 @@ const MenuOpen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, merge, navigation, path, route, sign, traffic
  *
- * popularity: 2777
+ * popularity: 2781
  */
 const Merge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="merge" {...props} />
@@ -15179,7 +15179,7 @@ const Merge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, combine, direction, format, merge, text, type
  *
- * popularity: 4614
+ * popularity: 4615
  */
 const MergeType = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="merge_type" {...props} />
@@ -15192,7 +15192,7 @@ const MergeType = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, speech
  *
- * popularity: 25482
+ * popularity: 25507
  */
 const Message = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="message" {...props} />
@@ -15205,7 +15205,7 @@ const Message = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dictation, hear, hearing, mic, microphone, noise, record, sound, voice
  *
- * popularity: 59345
+ * popularity: 59387
  */
 const Mic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mic" {...props} />
@@ -15218,7 +15218,7 @@ const Mic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, disabled, enabled, external, mic, microphone, off, on, slash, sound, voice
  *
- * popularity: 756
+ * popularity: 757
  */
 const MicExternalOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mic_external_off" {...props} />
@@ -15231,7 +15231,7 @@ const MicExternalOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, disabled, enabled, external, mic, microphone, off, on, slash, sound, voice
  *
- * popularity: 3097
+ * popularity: 3100
  */
 const MicExternalOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mic_external_on" {...props} />
@@ -15244,7 +15244,7 @@ const MicExternalOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: hear, hearing, mic, microphone, noise, none, record, sound, voice
  *
- * popularity: 10255
+ * popularity: 10259
  */
 const MicNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mic_none" {...props} />
@@ -15257,7 +15257,7 @@ const MicNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, disabled, enabled, hear, hearing, mic, microphone, noise, off, on, record, recording, slash, sound, voice
  *
- * popularity: 14434
+ * popularity: 14445
  */
 const MicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mic_off" {...props} />
@@ -15270,7 +15270,7 @@ const MicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appliance, cook, cooking, electric, heat, home, house, kitchen, machine, microwave
  *
- * popularity: 3891
+ * popularity: 3896
  */
 const Microwave = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="microwave" {...props} />
@@ -15283,7 +15283,7 @@ const Microwave = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: army, award, badge, honor, medal, merit, military, order, privilege, prize, rank, reward, ribbon, soldier, star, status, tech, trophy, win, winner
  *
- * popularity: 25021
+ * popularity: 25051
  */
 const MilitaryTech = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="military_tech" {...props} />
@@ -15296,7 +15296,7 @@ const MilitaryTech = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, components, design, interface, line, minimize, screen, shape, site, ui, ux, web, website
  *
- * popularity: 27652
+ * popularity: 27681
  */
 const Minimize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="minimize" {...props} />
@@ -15309,7 +15309,7 @@ const Minimize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accident, auto, automobile, car, cars, collision, directions, maps, public, transportation, vehicle
  *
- * popularity: 1087
+ * popularity: 1090
  */
 const MinorCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="minor_crash" {...props} />
@@ -15322,7 +15322,7 @@ const MinorCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 13021
+ * popularity: 13030
  */
 const MiscellaneousServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="miscellaneous_services" {...props} />
@@ -15335,7 +15335,7 @@ const MiscellaneousServices = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, camera, film, filming, hardware, image, missed, motion, picture, record, video, videography
  *
- * popularity: 1229
+ * popularity: 1233
  */
 const MissedVideoCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="missed_video_call" {...props} />
@@ -15348,7 +15348,7 @@ const MissedVideoCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, image, landscape, message, mms, mountain, mountains, multimedia, photo, photography, picture, speech
  *
- * popularity: 2097
+ * popularity: 2098
  */
 const Mms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mms" {...props} />
@@ -15361,7 +15361,7 @@ const Mms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, approve, cell, check, complete, device, done, friendly, hardware, iOS, mark, mobile, ok, phone, select, tablet, tick, validate, verified, yes
  *
- * popularity: 4666
+ * popularity: 4668
  */
 const MobileFriendly = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mobile_friendly" {...props} />
@@ -15374,7 +15374,7 @@ const MobileFriendly = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, disabled, enabled, hardware, iOS, mobile, off, on, phone, silence, slash, tablet
  *
- * popularity: 1192
+ * popularity: 1194
  */
 const MobileOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mobile_off" {...props} />
@@ -15387,7 +15387,7 @@ const MobileOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cast, cell, device, hardware, iOS, mirror, mobile, monitor, phone, screen, screencast, share, stream, streaming, tablet, tv, wireless
  *
- * popularity: 2657
+ * popularity: 2658
  */
 const MobileScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mobile_screen_share" {...props} />
@@ -15400,7 +15400,7 @@ const MobileScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, data, disabled, down, enabled, internet, mobile, network, off, on, slash, speed, up, wifi, wireless
  *
- * popularity: 2857
+ * popularity: 2859
  */
 const MobiledataOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mobiledata_off" {...props} />
@@ -15413,7 +15413,7 @@ const MobiledataOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, draft, draw, edit, mode, pen, pencil, write
  *
- * popularity: 12247
+ * popularity: 12259
  */
 const Mode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode" {...props} />
@@ -15426,7 +15426,7 @@ const Mode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, mode comment, speech
  *
- * popularity: 11660
+ * popularity: 11672
  */
 const ModeComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_comment" {...props} />
@@ -15439,7 +15439,7 @@ const ModeComment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, draft, draw, edit, mode, pen, pencil, write
  *
- * popularity: 49241
+ * popularity: 49288
  */
 const ModeEdit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_edit" {...props} />
@@ -15452,7 +15452,7 @@ const ModeEdit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, draft, draw, edit, mode, outline, pen, pencil, write
  *
- * popularity: 10201
+ * popularity: 10217
  */
 const ModeEditOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_edit_outline" {...props} />
@@ -15465,7 +15465,7 @@ const ModeEditOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: air conditioner, cool, disabled, enabled, fan, nest, off, on, slash
  *
- * popularity: 958
+ * popularity: 970
  */
 const ModeFanOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_fan_off" {...props} />
@@ -15478,7 +15478,7 @@ const ModeFanOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dark, disturb, lunar, mode, moon, night, sleep
  *
- * popularity: 6222
+ * popularity: 6230
  */
 const ModeNight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_night" {...props} />
@@ -15491,7 +15491,7 @@ const ModeNight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, destination, direction, location, maps, mode, of, pin, place, stop, transportation, travel, trip
  *
- * popularity: 2267
+ * popularity: 2274
  */
 const ModeOfTravel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_of_travel" {...props} />
@@ -15504,7 +15504,7 @@ const ModeOfTravel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disturb, mode, power, sleep, standby, target
  *
- * popularity: 3336
+ * popularity: 3343
  */
 const ModeStandby = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mode_standby" {...props} />
@@ -15517,7 +15517,7 @@ const ModeStandby = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, bulb, idea, inprogress, light, load, loading, model, refresh, renew, restore, reverse, rotate, training
  *
- * popularity: 12490
+ * popularity: 12500
  */
 const ModelTraining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="model_training" {...props} />
@@ -15530,7 +15530,7 @@ const ModelTraining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, circle, coin, commerce, cost, credit, currency, dollars, finance, monetization, money, on, online, pay, payment, shopping, symbol
  *
- * popularity: 46550
+ * popularity: 46601
  */
 const MonetizationOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="monetization_on" {...props} />
@@ -15543,7 +15543,7 @@ const MonetizationOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 100, bill, card, cash, coin, commerce, cost, credit, currency, digit, dollars, finance, money, number, online, pay, payment, price, shopping, symbol
  *
- * popularity: 10644
+ * popularity: 10653
  */
 const Money = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="money" {...props} />
@@ -15556,7 +15556,7 @@ const Money = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cart, cash, coin, commerce, credit, currency, disabled, dollars, enabled, money, off, on, online, pay, payment, shopping, slash, symbol
  *
- * popularity: 7494
+ * popularity: 7502
  */
 const MoneyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="money_off" {...props} />
@@ -15569,7 +15569,7 @@ const MoneyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cart, cash, coin, commerce, credit, csred, currency, disabled, dollars, enabled, money, off, on, online, pay, payment, shopping, slash, symbol
  *
- * popularity: 3709
+ * popularity: 3716
  */
 const MoneyOffCsred = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="money_off_csred" {...props} />
@@ -15582,7 +15582,7 @@ const MoneyOffCsred = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, device, display, hardware, iOS, mac, monitor, screen, web, window
  *
- * popularity: 4875
+ * popularity: 4884
  */
 const Monitor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="monitor" {...props} />
@@ -15595,7 +15595,7 @@ const Monitor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: baseline, device, ecc, ecg, fitness, health, heart, medical, monitor, track
  *
- * popularity: 11236
+ * popularity: 11248
  */
 const MonitorHeart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="monitor_heart" {...props} />
@@ -15608,7 +15608,7 @@ const MonitorHeart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, device, diet, health, monitor, scale, smart, weight
  *
- * popularity: 6797
+ * popularity: 6802
  */
 const MonitorWeight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="monitor_weight" {...props} />
@@ -15621,7 +15621,7 @@ const MonitorWeight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: black, camera, image, monochrome, photo, photography, photos, picture, white
  *
- * popularity: 1399
+ * popularity: 1400
  */
 const MonochromePhotos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="monochrome_photos" {...props} />
@@ -15634,7 +15634,7 @@ const MonochromePhotos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emoji, emotions, expressions, face, feelings, glad, happiness, happy, like, mood, person, pleased, smile, smiling, social, survey
  *
- * popularity: 14411
+ * popularity: 14428
  */
 const Mood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mood" {...props} />
@@ -15647,7 +15647,7 @@ const Mood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bad, disappointment, dislike, emoji, emotions, expressions, face, feelings, mood, person, rating, social, survey, unhappiness, unhappy, unpleased, unsmile, unsmiling
  *
- * popularity: 9187
+ * popularity: 9193
  */
 const MoodBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mood_bad" {...props} />
@@ -15660,7 +15660,7 @@ const MoodBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bike, car, cars, maps, scooter, transportation, vehicle, vespa
  *
- * popularity: 3402
+ * popularity: 3404
  */
 const Moped = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="moped" {...props} />
@@ -15673,7 +15673,7 @@ const Moped = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, archive, bookmark, dots, etc, favorite, indent, label, more, remember, save, stamp, sticker, tab, tag, three
  *
- * popularity: 9543
+ * popularity: 9556
  */
 const More = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="more" {...props} />
@@ -15686,7 +15686,7 @@ const More = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, DISABLE_IOS, app, application, components, disable_ios, dots, etc, horiz, horizontal, interface, ios, more, screen, site, three, ui, ux, web, website
  *
- * popularity: 96113
+ * popularity: 96197
  */
 const MoreHoriz = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="more_horiz" {...props} />
@@ -15699,7 +15699,7 @@ const MoreHoriz = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, clock, date, more, new, plus, schedule, symbol, time
  *
- * popularity: 11392
+ * popularity: 11401
  */
 const MoreTime = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="more_time" {...props} />
@@ -15712,7 +15712,7 @@ const MoreTime = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, DISABLE_IOS, android, app, application, components, disable_ios, dots, etc, interface, more, screen, site, three, ui, ux, vert, vertical, web, website
  *
- * popularity: 139975
+ * popularity: 140083
  */
 const MoreVert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="more_vert" {...props} />
@@ -15725,7 +15725,7 @@ const MoreVert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ideology, islam, islamic, masjid, muslim, religion, spiritual, worship
  *
- * popularity: 1822
+ * popularity: 1826
  */
 const Mosque = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mosque" {...props} />
@@ -15738,7 +15738,7 @@ const Mosque = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, animation, auto, automatic, character, circle, font, gif, letter, live, motion, photos, symbol, text, type, video
  *
- * popularity: 2320
+ * popularity: 2322
  */
 const MotionPhotosAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="motion_photos_auto" {...props} />
@@ -15751,7 +15751,7 @@ const MotionPhotosAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animation, circle, disabled, enabled, motion, off, on, photos, slash, video
  *
- * popularity: 1107
+ * popularity: 1109
  */
 const MotionPhotosOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="motion_photos_off" {...props} />
@@ -15764,7 +15764,7 @@ const MotionPhotosOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animation, circle, disabled, enabled, motion, off, on, photos, play, slash, video
  *
- * popularity: 3238
+ * popularity: 3241
  */
 const MotionPhotosOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="motion_photos_on" {...props} />
@@ -15777,7 +15777,7 @@ const MotionPhotosOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animation, circle, motion, pause, paused, photos, video
  *
- * popularity: 1092
+ * popularity: 1095
  */
 const MotionPhotosPause = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="motion_photos_pause" {...props} />
@@ -15790,7 +15790,7 @@ const MotionPhotosPause = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animation, circle, motion, pause, paused, photos, video
  *
- * popularity: 1407
+ * popularity: 1409
  */
 const MotionPhotosPaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="motion_photos_paused" {...props} />
@@ -15803,7 +15803,7 @@ const MotionPhotosPaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: click, computer, cursor, device, hardware, mouse, wireless
  *
- * popularity: 10315
+ * popularity: 10322
  */
 const Mouse = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mouse" {...props} />
@@ -15816,7 +15816,7 @@ const Mouse = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, direction, down, jump, move, navigation, transfer
  *
- * popularity: 2742
+ * popularity: 2745
  */
 const MoveDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="move_down" {...props} />
@@ -15829,7 +15829,7 @@ const MoveDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, arrow, down, email, envelop, inbox, incoming, letter, mail, message, move to, send
  *
- * popularity: 8784
+ * popularity: 8790
  */
 const MoveToInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="move_to_inbox" {...props} />
@@ -15842,7 +15842,7 @@ const MoveToInbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, direction, jump, move, navigation, transfer, up
  *
- * popularity: 3218
+ * popularity: 3225
  */
 const MoveUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="move_up" {...props} />
@@ -15855,7 +15855,7 @@ const MoveUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cinema, film, media, movie, slate, video
  *
- * popularity: 24468
+ * popularity: 24484
  */
 const Movie = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="movie" {...props} />
@@ -15868,7 +15868,7 @@ const Movie = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cinema, clapperboard, creation, film, movie, movies, slate, video
  *
- * popularity: 4423
+ * popularity: 4425
  */
 const MovieCreation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="movie_creation" {...props} />
@@ -15881,7 +15881,7 @@ const MovieCreation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, automatic, automation, clapperboard, creation, custom, film, filter, genai, intelligence, magic, movie, movies, slate, smart, spark, sparkle, star, stars, video
  *
- * popularity: 4104
+ * popularity: 4108
  */
 const MovieFilter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="movie_filter" {...props} />
@@ -15894,7 +15894,7 @@ const MovieFilter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, direction, moving, navigation, travel, up
  *
- * popularity: 7774
+ * popularity: 7781
  */
 const Moving = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="moving" {...props} />
@@ -15907,7 +15907,7 @@ const Moving = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, font, image, letter, megapixel, mp, photo, photography, pixels, quality, resolution, symbol, text, type
  *
- * popularity: 677
+ * popularity: 678
  */
 const Mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="mp" {...props} />
@@ -15920,7 +15920,7 @@ const Mp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, line, measure, metrics, multiple, statistics, tracking
  *
- * popularity: 2803
+ * popularity: 2806
  */
 const MultilineChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="multiline_chart" {...props} />
@@ -15933,7 +15933,7 @@ const MultilineChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, dash, dashed, directions, dots, left, maps, multiple, navigation, right, stop
  *
- * popularity: 5647
+ * popularity: 5659
  */
 const MultipleStop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="multiple_stop" {...props} />
@@ -15946,7 +15946,7 @@ const MultipleStop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, attraction, building, estate, event, exhibition, explore, local, museum, places, real, see, shop, store, tour
  *
- * popularity: 5081
+ * popularity: 5086
  */
 const Museum = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="museum" {...props} />
@@ -15959,7 +15959,7 @@ const Museum = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, audiotrack, key, music, note, sound, track
  *
- * popularity: 26582
+ * popularity: 26605
  */
 const MusicNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="music_note" {...props} />
@@ -15972,7 +15972,7 @@ const MusicNote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, audiotrack, disabled, enabled, key, music, note, off, on, slash, sound, track
  *
- * popularity: 2741
+ * popularity: 2744
  */
 const MusicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="music_off" {...props} />
@@ -15985,7 +15985,7 @@ const MusicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: band, music, recording, screen, tv, video, watch
  *
- * popularity: 2378
+ * popularity: 2382
  */
 const MusicVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="music_video" {...props} />
@@ -15998,7 +15998,7 @@ const MusicVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, navigation, pin, place, point, stop
  *
- * popularity: 30273
+ * popularity: 30305
  */
 const MyLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="my_location" {...props} />
@@ -16011,7 +16011,7 @@ const MyLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: communication, nat
  *
- * popularity: 1344
+ * popularity: 1347
  */
 const Nat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nat" {...props} />
@@ -16024,7 +16024,7 @@ const Nat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: forest, nature, outdoor, outside, park, tree, wilderness
  *
- * popularity: 3688
+ * popularity: 3690
  */
 const Nature = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nature" {...props} />
@@ -16037,7 +16037,7 @@ const Nature = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activity, body, forest, human, nature, outdoor, outside, park, people, person, tree, wilderness
  *
- * popularity: 5780
+ * popularity: 5785
  */
 const NaturePeople = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nature_people" {...props} />
@@ -16050,7 +16050,7 @@ const NaturePeople = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, before, direction, left, navigate
  *
- * popularity: 35049
+ * popularity: 35070
  */
 const NavigateBefore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="navigate_before" {...props} />
@@ -16063,7 +16063,7 @@ const NavigateBefore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, navigate, next, right
  *
- * popularity: 113289
+ * popularity: 113384
  */
 const NavigateNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="navigate_next" {...props} />
@@ -16076,7 +16076,7 @@ const NavigateNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, navigation, pin, place, point, stop
  *
- * popularity: 11884
+ * popularity: 11897
  */
 const Navigation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="navigation" {...props} />
@@ -16089,7 +16089,7 @@ const Navigation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, me, navigation, near, pin, place, point, stop
  *
- * popularity: 26137
+ * popularity: 26164
  */
 const NearMe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="near_me" {...props} />
@@ -16102,7 +16102,7 @@ const NearMe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, disabled, enabled, location, maps, me, navigation, near, off, on, pin, place, point, slash
  *
- * popularity: 1284
+ * popularity: 1286
  */
 const NearMeDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="near_me_disabled" {...props} />
@@ -16115,7 +16115,7 @@ const NearMeDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, important, mark, nearby, notification, symbol, warning
  *
- * popularity: 1660
+ * popularity: 1661
  */
 const NearbyError = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nearby_error" {...props} />
@@ -16128,7 +16128,7 @@ const NearbyError = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, nearby, off, on, slash
  *
- * popularity: 586
+ * popularity: 587
  */
 const NearbyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nearby_off" {...props} />
@@ -16141,7 +16141,7 @@ const NearbyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, film, filming, hardware, image, motion, nest, picture, stand, video, videography, wired
  *
- * popularity: 539
+ * popularity: 542
  */
 const NestCamWiredStand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nest_cam_wired_stand" {...props} />
@@ -16154,7 +16154,7 @@ const NestCamWiredStand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 2871
+ * popularity: 2874
  */
 const NetworkCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_cell" {...props} />
@@ -16167,7 +16167,7 @@ const NetworkCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: check, connect, connection, internet, meter, network, signal, speed, tick, wifi, wireless
  *
- * popularity: 4881
+ * popularity: 4885
  */
 const NetworkCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_check" {...props} />
@@ -16180,7 +16180,7 @@ const NetworkCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, available, cellular, connection, data, error, internet, lock, locked, mobile, network, not, privacy, private, protection, restricted, safety, secure, security, service, signal, warning, wifi, wireless
  *
- * popularity: 1326
+ * popularity: 1327
  */
 const NetworkLocked = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_locked" {...props} />
@@ -16193,7 +16193,7 @@ const NetworkLocked = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, available, cellular, connection, data, internet, ip, mobile, network, ping, service, signal, wifi, wireless
  *
- * popularity: 1327
+ * popularity: 1330
  */
 const NetworkPing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_ping" {...props} />
@@ -16206,7 +16206,7 @@ const NetworkPing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 4879
+ * popularity: 4883
  */
 const NetworkWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_wifi" {...props} />
@@ -16219,7 +16219,7 @@ const NetworkWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 1176
+ * popularity: 1177
  */
 const NetworkWifi1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_wifi_1_bar" {...props} />
@@ -16232,7 +16232,7 @@ const NetworkWifi1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 958
+ * popularity: 962
  */
 const NetworkWifi2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_wifi_2_bar" {...props} />
@@ -16245,7 +16245,7 @@ const NetworkWifi2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 1120
+ * popularity: 1121
  */
 const NetworkWifi3Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="network_wifi_3_bar" {...props} />
@@ -16258,7 +16258,7 @@ const NetworkWifi3Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, archive, bookmark, favorite, label, library, new, plus, read, reading, remember, ribbon, save, symbol, tag
  *
- * popularity: 5553
+ * popularity: 5557
  */
 const NewLabel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="new_label" {...props} />
@@ -16271,7 +16271,7 @@ const NewLabel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, award, check, checkmark, complete, done, new, notification, ok, release, releases, select, star, symbol, tick, verification, verified, warning, yes
  *
- * popularity: 22203
+ * popularity: 22215
  */
 const NewReleases = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="new_releases" {...props} />
@@ -16284,7 +16284,7 @@ const NewReleases = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, data, doc, document, drive, file, folder, folders, magazine, media, news, newspaper, notes, page, paper, sheet, slide, text, writing
  *
- * popularity: 16618
+ * popularity: 16646
  */
 const Newspaper = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="newspaper" {...props} />
@@ -16297,7 +16297,7 @@ const Newspaper = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, next, plan, right
  *
- * popularity: 7264
+ * popularity: 7272
  */
 const NextPlan = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="next_plan" {...props} />
@@ -16310,7 +16310,7 @@ const NextPlan = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, bag, baggage, briefcase, business, case, next, suitcase, week
  *
- * popularity: 3522
+ * popularity: 3526
  */
 const NextWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="next_week" {...props} />
@@ -16323,7 +16323,7 @@ const NextWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: communication, data, field, mobile, near, nfc, wireless
  *
- * popularity: 3375
+ * popularity: 3381
  */
 const Nfc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nfc" {...props} />
@@ -16336,7 +16336,7 @@ const Nfc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, bed, building, estate, homeless, house, night, place, real, shelter, sleep
  *
- * popularity: 4848
+ * popularity: 4856
  */
 const NightShelter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="night_shelter" {...props} />
@@ -16349,7 +16349,7 @@ const NightShelter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, bar, bottle, club, cocktail, dance, drink, food, glass, liquor, music, nightlife, note, wine
  *
- * popularity: 4966
+ * popularity: 4968
  */
 const Nightlife = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nightlife" {...props} />
@@ -16362,7 +16362,7 @@ const Nightlife = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dark, disturb, mode, moon, night, nightlight, sleep
  *
- * popularity: 10385
+ * popularity: 10397
  */
 const Nightlight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nightlight" {...props} />
@@ -16375,7 +16375,7 @@ const Nightlight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dark, half, light, mode, moon, night, nightlight, round
  *
- * popularity: 18641
+ * popularity: 18655
  */
 const NightlightRound = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nightlight_round" {...props} />
@@ -16388,7 +16388,7 @@ const NightlightRound = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: climate, cloud, crescent, dark, lunar, mode, moon, nights, phases, silence, silent, sky, stay, time, weather
  *
- * popularity: 8007
+ * popularity: 8018
  */
 const NightsStay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nights_stay" {...props} />
@@ -16401,7 +16401,7 @@ const NightsStay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, accounts, avatar, disabled, enabled, face, human, no, off, offline, on, people, person, profile, slash, thumbnail, unavailable, unidentifiable, unknown, user
  *
- * popularity: 10161
+ * popularity: 10176
  */
 const NoAccounts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_accounts" {...props} />
@@ -16414,7 +16414,7 @@ const NoAccounts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 550
+ * popularity: 553
  */
 const NoAdultContent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_adult_content" {...props} />
@@ -16427,7 +16427,7 @@ const NoAdultContent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessory, backpack, bag, bookbag, knapsack, no, pack, travel
  *
- * popularity: 799
+ * popularity: 801
  */
 const NoBackpack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_backpack" {...props} />
@@ -16440,7 +16440,7 @@ const NoBackpack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, disabled, enabled, hardware, iOS, mobile, no, off, on, phone, slash, tablet
  *
- * popularity: 1030
+ * popularity: 1033
  */
 const NoCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_cell" {...props} />
@@ -16453,7 +16453,7 @@ const NoCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accident, auto, automobile, car, cars, check, collision, confirm, correct, crash, direction, done, enter, maps, mark, no, ok, okay, select, tick, transportation, vehicle, yes
  *
- * popularity: 1365
+ * popularity: 1368
  */
 const NoCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_crash" {...props} />
@@ -16466,7 +16466,7 @@ const NoCrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, beverage, bottle, cocktail, drink, drinks, food, liquor, no, wine
  *
- * popularity: 1343
+ * popularity: 1345
  */
 const NoDrinks = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_drinks" {...props} />
@@ -16479,7 +16479,7 @@ const NoDrinks = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, encryption, lock, no, off, on, password, safety, security, slash
  *
- * popularity: 2836
+ * popularity: 2837
  */
 const NoEncryption = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_encryption" {...props} />
@@ -16492,7 +16492,7 @@ const NoEncryption = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, encryption, error, gmail, lock, locked, no, off, on, slash
  *
- * popularity: 1725
+ * popularity: 1727
  */
 const NoEncryptionGmailerrorred = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -16505,7 +16505,7 @@ const NoEncryptionGmailerrorred = (
  *
  * tags: bolt, camera, disabled, electric, enabled, energy, flash, image, instant, lightning, no, off, on, photo, photography, picture, slash, thunderbolt
  *
- * popularity: 875
+ * popularity: 877
  */
 const NoFlash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_flash" {...props} />
@@ -16518,7 +16518,7 @@ const NoFlash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, drink, enabled, fastfood, food, hamburger, meal, no, off, on, slash
  *
- * popularity: 2228
+ * popularity: 2230
  */
 const NoFood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_food" {...props} />
@@ -16531,7 +16531,7 @@ const NoFood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, carry, disabled, enabled, luggage, no, off, on, slash, suitcase, travel
  *
- * popularity: 1197
+ * popularity: 1198
  */
 const NoLuggage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_luggage" {...props} />
@@ -16544,7 +16544,7 @@ const NoLuggage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dining, disabled, eat, enabled, food, fork, knife, meal, meals, no, off, on, restaurant, slash, spoon, utensils
  *
- * popularity: 1580
+ * popularity: 1582
  */
 const NoMeals = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_meals" {...props} />
@@ -16557,7 +16557,7 @@ const NoMeals = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: building, disabled, door, doorway, enabled, entrance, home, house, interior, meeting, no, off, office, on, open, places, room, slash
  *
- * popularity: 1596
+ * popularity: 1598
  */
 const NoMeetingRoom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_meeting_room" {...props} />
@@ -16570,7 +16570,7 @@ const NoMeetingRoom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, disabled, enabled, image, no, off, on, photo, photography, picture, slash
  *
- * popularity: 4068
+ * popularity: 4072
  */
 const NoPhotography = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_photography" {...props} />
@@ -16583,7 +16583,7 @@ const NoPhotography = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, card, device, eject, insert, memory, no, phone, sim, storage
  *
- * popularity: 1258
+ * popularity: 1262
  */
 const NoSim = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_sim" {...props} />
@@ -16596,7 +16596,7 @@ const NoSim = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: baby, care, carriage, child, children, disabled, enabled, infant, kid, newborn, no, off, on, parents, slash, stroller, toddler, young
  *
- * popularity: 745
+ * popularity: 746
  */
 const NoStroller = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_stroller" {...props} />
@@ -16609,7 +16609,7 @@ const NoStroller = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bus, car, cars, direction, disabled, enabled, maps, no, off, on, public, slash, transfer, transportation, vehicle
  *
- * popularity: 1150
+ * popularity: 1153
  */
 const NoTransfer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="no_transfer" {...props} />
@@ -16622,7 +16622,7 @@ const NoTransfer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, aware, cancellation, music, noise, note, sound
  *
- * popularity: 1844
+ * popularity: 1846
  */
 const NoiseAware = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="noise_aware" {...props} />
@@ -16635,7 +16635,7 @@ const NoiseAware = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, aware, cancel, cancellation, control, disabled, enabled, music, noise, note, off, offline, on, slash, sound
  *
- * popularity: 4731
+ * popularity: 4741
  */
 const NoiseControlOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="noise_control_off" {...props} />
@@ -16648,7 +16648,7 @@ const NoiseControlOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, entertainment, exercise, hiking, hobby, human, nordic, people, person, social, sports, travel, walker, walking
  *
- * popularity: 2614
+ * popularity: 2615
  */
 const NordicWalking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="nordic_walking" {...props} />
@@ -16661,7 +16661,7 @@ const NordicWalking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, maps, navigation, north, up
  *
- * popularity: 16588
+ * popularity: 16595
  */
 const North = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="north" {...props} />
@@ -16674,7 +16674,7 @@ const North = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, east, maps, navigation, noth, right, up
  *
- * popularity: 16750
+ * popularity: 16761
  */
 const NorthEast = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="north_east" {...props} />
@@ -16687,7 +16687,7 @@ const NorthEast = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, left, maps, navigation, north, up, west
  *
- * popularity: 5077
+ * popularity: 5080
  */
 const NorthWest = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="north_west" {...props} />
@@ -16700,7 +16700,7 @@ const NorthWest = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, handicap, help, human, not, person, wheelchair
  *
- * popularity: 2070
+ * popularity: 2072
  */
 const NotAccessible = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="not_accessible" {...props} />
@@ -16713,7 +16713,7 @@ const NotAccessible = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, dislike, exit, interested, no, not, off, quit, remove, stop, x
  *
- * popularity: 12764
+ * popularity: 12777
  */
 const NotInterested = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="not_interested" {...props} />
@@ -16726,7 +16726,7 @@ const NotInterested = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, destination, direction, help, info, information, listed, location, maps, not, pin, place, punctuation, question mark, stop, support, symbol
  *
- * popularity: 6270
+ * popularity: 6273
  */
 const NotListedLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="not_listed_location" {...props} />
@@ -16739,7 +16739,7 @@ const NotListedLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, media, not, pause, play, started, video
  *
- * popularity: 9071
+ * popularity: 9085
  */
 const NotStarted = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="not_started" {...props} />
@@ -16752,7 +16752,7 @@ const NotStarted = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, data, doc, document, drive, file, folder, folders, message, note, page, paper, plus, sheet, slide, symbol, writing
  *
- * popularity: 7508
+ * popularity: 7521
  */
 const Note = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="note" {...props} />
@@ -16765,7 +16765,7 @@ const Note = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, data, doc, document, drive, file, folder, folders, new, note, page, paper, plus, sheet, slide, symbol, writing
  *
- * popularity: 45562
+ * popularity: 45605
  */
 const NoteAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="note_add" {...props} />
@@ -16778,7 +16778,7 @@ const NoteAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, clipboard, document, file, memo, note, page, paper, writing
  *
- * popularity: 13000
+ * popularity: 13008
  */
 const NoteAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="note_alt" {...props} />
@@ -16791,7 +16791,7 @@ const NoteAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: comment, doc, document, note, notes, text, write, writing
  *
- * popularity: 15527
+ * popularity: 15536
  */
 const Notes = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notes" {...props} />
@@ -16804,7 +16804,7 @@ const Notes = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, active, add, alarm, alert, bell, chime, notification, notifications, notify, plus, reminder, ring, sound, symbol
  *
- * popularity: 7017
+ * popularity: 7021
  */
 const NotificationAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notification_add" {...props} />
@@ -16817,7 +16817,7 @@ const NotificationAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, active, alarm, alert, attention, bell, caution, chime, danger, error, exclamation, important, mark, notification, notifications, notify, reminder, ring, sound, symbol, warning
  *
- * popularity: 18999
+ * popularity: 19022
  */
 const NotificationImportant = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notification_important" {...props} />
@@ -16830,7 +16830,7 @@ const NotificationImportant = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, notifications, notify, reminder, ring, sound
  *
- * popularity: 193795
+ * popularity: 193926
  */
 const Notifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notifications" {...props} />
@@ -16843,7 +16843,7 @@ const Notifications = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, notifications, notify, reminder, ring, ringing, sound
  *
- * popularity: 47913
+ * popularity: 47958
  */
 const NotificationsActive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notifications_active" {...props} />
@@ -16856,7 +16856,7 @@ const NotificationsActive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, none, notifications, notify, reminder, sound
  *
- * popularity: 31361
+ * popularity: 31389
  */
 const NotificationsNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notifications_none" {...props} />
@@ -16869,7 +16869,7 @@ const NotificationsNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, disabled, enabled, notifications, notify, off, offline, on, reminder, ring, slash, sound
  *
- * popularity: 10557
+ * popularity: 10575
  */
 const NotificationsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notifications_off" {...props} />
@@ -16882,7 +16882,7 @@ const NotificationsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, alarm, alert, bell, chime, ignore, notifications, notify, paused, quiet, reminder, ring --- pause, sleep, snooze, sound, z, zzz
  *
- * popularity: 3222
+ * popularity: 3225
  */
 const NotificationsPaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="notifications_paused" {...props} />
@@ -16895,7 +16895,7 @@ const NotificationsPaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: digit, number, numbers, symbol
  *
- * popularity: 4085
+ * popularity: 4089
  */
 const Numbers = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="numbers" {...props} />
@@ -16908,7 +16908,7 @@ const Numbers = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, circle, electric, energy, fast, instant, lightning, offline, thunderbolt
  *
- * popularity: 13110
+ * popularity: 13118
  */
 const OfflineBolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="offline_bolt" {...props} />
@@ -16921,7 +16921,7 @@ const OfflineBolt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, checkmark, circle, complete, done, mark, offline, ok, pin, select, tick, validate, verified, yes
  *
- * popularity: 6033
+ * popularity: 6037
  */
 const OfflinePin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="offline_pin" {...props} />
@@ -16934,7 +16934,7 @@ const OfflinePin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, cell, connect, device, direction, hardware, iOS, link, mobile, multiple, offline, phone, right, share, tablet
  *
- * popularity: 2851
+ * popularity: 2855
  */
 const OfflineShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="offline_share" {...props} />
@@ -16947,7 +16947,7 @@ const OfflineShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: barrel, droplet, gas, gasoline, nest, oil, water
  *
- * popularity: 1890
+ * popularity: 1899
  */
 const OilBarrel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="oil_barrel" {...props} />
@@ -16960,7 +16960,7 @@ const OilBarrel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, bulb, call, cell, contact, device, hardware, idea, inprogress, light, load, loading, mobile, model, phone, refresh, renew, restore, reverse, rotate, telephone, training
  *
- * popularity: 1243
+ * popularity: 1245
  */
 const OnDeviceTraining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="on_device_training" {...props} />
@@ -16973,7 +16973,7 @@ const OnDeviceTraining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, demand, desktop, device, hardware, iOS, mac, monitor, ondemand, play, television, tv, video, web, window
  *
- * popularity: 15998
+ * popularity: 16013
  */
 const OndemandVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ondemand_video" {...props} />
@@ -16986,7 +16986,7 @@ const OndemandVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bulb, connection, idea, light, network, online, prediction, signal, wireless
  *
- * popularity: 7381
+ * popularity: 7389
  */
 const OnlinePrediction = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="online_prediction" {...props} />
@@ -16999,7 +16999,7 @@ const OnlinePrediction = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: color, drop, droplet, hue, invert, inverted, opacity, palette, tone, water
  *
- * popularity: 10238
+ * popularity: 10248
  */
 const Opacity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="opacity" {...props} />
@@ -17012,7 +17012,7 @@ const Opacity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, browser, in, open, site, up, web, website, window
  *
- * popularity: 10181
+ * popularity: 10196
  */
 const OpenInBrowser = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="open_in_browser" {...props} />
@@ -17025,7 +17025,7 @@ const OpenInBrowser = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, arrow, arrows, expand, full, grow, in, move, open
  *
- * popularity: 38030
+ * popularity: 38051
  */
 const OpenInFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="open_in_full" {...props} />
@@ -17038,7 +17038,7 @@ const OpenInFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, arrow, box, components, in, interface, new, open, right, screen, site, ui, up, ux, web, website, window
  *
- * popularity: 95364
+ * popularity: 95459
  */
 const OpenInNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="open_in_new" {...props} />
@@ -17051,7 +17051,7 @@ const OpenInNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, box, disabled, enabled, export, in, new, off, on, open, slash, window
  *
- * popularity: 2652
+ * popularity: 2654
  */
 const OpenInNewOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="open_in_new_off" {...props} />
@@ -17064,7 +17064,7 @@ const OpenInNewOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, expand, move, open, pan, with
  *
- * popularity: 15940
+ * popularity: 15954
  */
 const OpenWith = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="open_with" {...props} />
@@ -17077,7 +17077,7 @@ const OpenWith = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, cottage, estate, home, house, houses, maps, other, place, real, residence, residential, stay, traveling
  *
- * popularity: 12418
+ * popularity: 12425
  */
 const OtherHouses = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="other_houses" {...props} />
@@ -17090,7 +17090,7 @@ const OtherHouses = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, directional, outbound, right, up
  *
- * popularity: 5006
+ * popularity: 5008
  */
 const Outbound = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="outbound" {...props} />
@@ -17103,7 +17103,7 @@ const Outbound = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, mail, outbox, send, sent
  *
- * popularity: 6157
+ * popularity: 6163
  */
 const Outbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="outbox" {...props} />
@@ -17116,7 +17116,7 @@ const Outbox = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: barbecue, bbq, charcoal, cook, cooking, grill, home, house, outdoor, outside
  *
- * popularity: 5435
+ * popularity: 5441
  */
 const OutdoorGrill = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="outdoor_grill" {...props} />
@@ -17129,7 +17129,7 @@ const OutdoorGrill = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connect, connecter, electricity, outlet, plug, power
  *
- * popularity: 5798
+ * popularity: 5802
  */
 const Outlet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="outlet" {...props} />
@@ -17142,7 +17142,7 @@ const Outlet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: country, flag, goal, mark, nation, outlined, report, start
  *
- * popularity: 15054
+ * popularity: 15066
  */
 const OutlinedFlag = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="outlined_flag" {...props} />
@@ -17155,7 +17155,7 @@ const OutlinedFlag = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 4074
+ * popularity: 4084
  */
 const Output = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="output" {...props} />
@@ -17168,7 +17168,7 @@ const Output = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, dots, layout, margin, padding, size, square
  *
- * popularity: 1313
+ * popularity: 1314
  */
 const Padding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="padding" {...props} />
@@ -17181,7 +17181,7 @@ const Padding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: article, gplus, pages, paper, post, star
  *
- * popularity: 3820
+ * popularity: 3824
  */
 const Pages = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pages" {...props} />
@@ -17194,7 +17194,7 @@ const Pages = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doc, document, find, glass, magnifying, page, paper, search, view
  *
- * popularity: 14828
+ * popularity: 14837
  */
 const Pageview = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pageview" {...props} />
@@ -17207,7 +17207,7 @@ const Pageview = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, currency, money, paid, payment, transaction
  *
- * popularity: 104754
+ * popularity: 104884
  */
 const Paid = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="paid" {...props} />
@@ -17220,7 +17220,7 @@ const Paid = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: art, color, colors, filters, paint, palette
  *
- * popularity: 32495
+ * popularity: 32518
  */
 const Palette = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="palette" {...props} />
@@ -17233,7 +17233,7 @@ const Palette = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: fingers, gesture, hand, hands, human, move, pan, scan, stop, tool
  *
- * popularity: 28462
+ * popularity: 28496
  */
 const PanTool = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pan_tool" {...props} />
@@ -17246,7 +17246,7 @@ const PanTool = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: fingers, gesture, hand, hands, human, move, pan, scan, stop, tool
  *
- * popularity: 4734
+ * popularity: 4748
  */
 const PanToolAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pan_tool_alt" {...props} />
@@ -17259,7 +17259,7 @@ const PanToolAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, image, mountain, mountains, panorama, photo, photography, picture, view, wide
  *
- * popularity: 4242
+ * popularity: 4248
  */
 const Panorama = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama" {...props} />
@@ -17272,7 +17272,7 @@ const Panorama = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, circle, eye, fish, image, panorama, photo, photography, picture, wide
  *
- * popularity: 8783
+ * popularity: 8792
  */
 const PanoramaFishEye = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama_fish_eye" {...props} />
@@ -17285,7 +17285,7 @@ const PanoramaFishEye = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, horizontal, image, panorama, photo, photography, picture, wide
  *
- * popularity: 1043
+ * popularity: 1044
  */
 const PanoramaHorizontal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama_horizontal" {...props} />
@@ -17298,7 +17298,7 @@ const PanoramaHorizontal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, horizontal, image, panorama, photo, photography, picture, select, wide
  *
- * popularity: 790
+ * popularity: 791
  */
 const PanoramaHorizontalSelect = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -17311,7 +17311,7 @@ const PanoramaHorizontalSelect = (
  *
  * tags: angle, horizontal, image, panorama, photo, photography, photosphere, picture, wide
  *
- * popularity: 1224
+ * popularity: 1225
  */
 const PanoramaPhotosphere = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama_photosphere" {...props} />
@@ -17324,7 +17324,7 @@ const PanoramaPhotosphere = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, horizontal, image, panorama, photo, photography, photosphere, picture, select, wide
  *
- * popularity: 780
+ * popularity: 782
  */
 const PanoramaPhotosphereSelect = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -17337,7 +17337,7 @@ const PanoramaPhotosphereSelect = (
  *
  * tags: angle, image, panorama, photo, photography, picture, vertical, wide
  *
- * popularity: 701
+ * popularity: 703
  */
 const PanoramaVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama_vertical" {...props} />
@@ -17350,7 +17350,7 @@ const PanoramaVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, image, panorama, photo, photography, picture, select, vertical, wide
  *
- * popularity: 764
+ * popularity: 765
  */
 const PanoramaVerticalSelect = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -17363,7 +17363,7 @@ const PanoramaVerticalSelect = (
  *
  * tags: angle, image, panorama, photo, photography, picture, wide
  *
- * popularity: 773
+ * popularity: 774
  */
 const PanoramaWideAngle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="panorama_wide_angle" {...props} />
@@ -17376,7 +17376,7 @@ const PanoramaWideAngle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, image, panorama, photo, photography, picture, select, wide
  *
- * popularity: 946
+ * popularity: 948
  */
 const PanoramaWideAngleSelect = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -17389,7 +17389,7 @@ const PanoramaWideAngleSelect = (
  *
  * tags: athlete, athletic, body, entertainment, exercise, fly, gliding, hobby, human, parachute, paragliding, people, person, sky, skydiving, social, sports, travel
  *
- * popularity: 2435
+ * popularity: 2439
  */
 const Paragliding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="paragliding" {...props} />
@@ -17402,7 +17402,7 @@ const Paragliding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: attraction, fresh, local, nature, outside, park, plant, tree
  *
- * popularity: 17877
+ * popularity: 17899
  */
 const Park = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="park" {...props} />
@@ -17415,7 +17415,7 @@ const Park = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, lens, mode, party, photo, photography, picture
  *
- * popularity: 2336
+ * popularity: 2341
  */
 const PartyMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="party_mode" {...props} />
@@ -17428,7 +17428,7 @@ const PartyMode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: key, login, password, pin, security, star, unlock
  *
- * popularity: 36342
+ * popularity: 36381
  */
 const Password = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="password" {...props} />
@@ -17441,7 +17441,7 @@ const Password = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: key, login, password, pattern, pin, security, star, unlock
  *
- * popularity: 3328
+ * popularity: 3330
  */
 const Pattern = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pattern" {...props} />
@@ -17454,7 +17454,7 @@ const Pattern = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control, controls, media, music, pause, video
  *
- * popularity: 51138
+ * popularity: 51180
  */
 const Pause = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pause" {...props} />
@@ -17467,7 +17467,7 @@ const Pause = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, control, controls, media, music, pause, video
  *
- * popularity: 14296
+ * popularity: 14308
  */
 const PauseCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pause_circle" {...props} />
@@ -17480,7 +17480,7 @@ const PauseCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, control, controls, filled, media, music, pause, video
  *
- * popularity: 7850
+ * popularity: 7857
  */
 const PauseCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pause_circle_filled" {...props} />
@@ -17493,7 +17493,7 @@ const PauseCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, control, controls, media, music, outline, pause, video
  *
- * popularity: 7716
+ * popularity: 7732
  */
 const PauseCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pause_circle_outline" {...props} />
@@ -17506,7 +17506,7 @@ const PauseCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application desktop, device, pause, present, presentation, screen, share, site, slides, web, website, window, www
  *
- * popularity: 1909
+ * popularity: 1910
  */
 const PausePresentation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pause_presentation" {...props} />
@@ -17519,7 +17519,7 @@ const PausePresentation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, shopping, symbol
  *
- * popularity: 42639
+ * popularity: 42696
  */
 const Payment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="payment" {...props} />
@@ -17532,7 +17532,7 @@ const Payment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, layer, money, multiple, online, pay, payment, payments, price, shopping, symbol
  *
- * popularity: 68041
+ * popularity: 68099
  */
 const Payments = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="payments" {...props} />
@@ -17545,7 +17545,7 @@ const Payments = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bicycle, bike, car, cars, direction, human, maps, pedal, public, route, scooter, transportation, vehicle, vespa
  *
- * popularity: 8915
+ * popularity: 8920
  */
 const PedalBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pedal_bike" {...props} />
@@ -17558,7 +17558,7 @@ const PedalBike = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, dots, loading, pending, progress, wait, waiting
  *
- * popularity: 40766
+ * popularity: 40805
  */
 const Pending = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pending" {...props} />
@@ -17571,7 +17571,7 @@ const Pending = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: actions, clipboard, clock, date, doc, document, pending, remember, schedule, time
  *
- * popularity: 44395
+ * popularity: 44433
  */
 const PendingActions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pending_actions" {...props} />
@@ -17584,7 +17584,7 @@ const PendingActions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: five sides, pentagon, shape
  *
- * popularity: 1628
+ * popularity: 1630
  */
 const Pentagon = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pentagon" {...props} />
@@ -17597,7 +17597,7 @@ const Pentagon = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, committee, face, family, friends, humans, network, people, persons, profiles, social, team, users
  *
- * popularity: 127753
+ * popularity: 127832
  */
 const People = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="people" {...props} />
@@ -17610,7 +17610,7 @@ const People = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, committee, face, family, friends, humans, network, people, persons, profiles, social, team, users
  *
- * popularity: 42707
+ * popularity: 42746
  */
 const PeopleAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="people_alt" {...props} />
@@ -17623,7 +17623,7 @@ const PeopleAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accounts, committee, face, family, friends, humans, network, outline, people, persons, profiles, social, team, users
  *
- * popularity: 14141
+ * popularity: 14154
  */
 const PeopleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="people_outline" {...props} />
@@ -17636,7 +17636,7 @@ const PeopleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: math, number, percent, symbol
  *
- * popularity: 13791
+ * popularity: 13812
  */
 const Percent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="percent" {...props} />
@@ -17649,7 +17649,7 @@ const Percent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, image, microphone, min, perm, photo, photography, picture, speaker
  *
- * popularity: 1915
+ * popularity: 1919
  */
 const PermCameraMic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_camera_mic" {...props} />
@@ -17662,7 +17662,7 @@ const PermCameraMic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, calendar, contact, date, face, human, information, people, perm, person, profile, schedule, time, user
  *
- * popularity: 16354
+ * popularity: 16366
  */
 const PermContactCalendar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_contact_calendar" {...props} />
@@ -17675,7 +17675,7 @@ const PermContactCalendar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, gear, info, information, perm, settings
  *
- * popularity: 3624
+ * popularity: 3628
  */
 const PermDataSetting = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_data_setting" {...props} />
@@ -17688,7 +17688,7 @@ const PermDataSetting = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, alert, announcement, device, hardware, i, iOS, info, information, mobile, perm, phone, tablet
  *
- * popularity: 3296
+ * popularity: 3300
  */
 const PermDeviceInformation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_device_information" {...props} />
@@ -17701,7 +17701,7 @@ const PermDeviceInformation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, face, human, identity, people, perm, person, profile, thumbnail, user
  *
- * popularity: 86932
+ * popularity: 87007
  */
 const PermIdentity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_identity" {...props} />
@@ -17714,7 +17714,7 @@ const PermIdentity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: collection, copy, data, doc, document, duplicate, file, folder, folders, image, landscape, media, mountain, mountains, perm, photo, photography, picture, stack, storage
  *
- * popularity: 17331
+ * popularity: 17341
  */
 const PermMedia = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_media" {...props} />
@@ -17727,7 +17727,7 @@ const PermMedia = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, call, cell, chat, comment, communicate, contact, device, message, msg, perm, phone, recording, speech, telephone, voice
  *
- * popularity: 15511
+ * popularity: 15523
  */
 const PermPhoneMsg = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_phone_msg" {...props} />
@@ -17740,7 +17740,7 @@ const PermPhoneMsg = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, connection, info, information, internet, network, perm, scan, service, signal, wifi, wireless
  *
- * popularity: 3576
+ * popularity: 3579
  */
 const PermScanWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="perm_scan_wifi" {...props} />
@@ -17753,7 +17753,7 @@ const PermScanWifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, people, person, profile, user
  *
- * popularity: 345377
+ * popularity: 345718
  */
 const Person = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person" {...props} />
@@ -17766,7 +17766,7 @@ const Person = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, people, person, profile, user
  *
- * popularity: 1629
+ * popularity: 1637
  */
 const Person2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_2" {...props} />
@@ -17779,7 +17779,7 @@ const Person2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, people, person, profile, user
  *
- * popularity: 1064
+ * popularity: 1072
  */
 const Person3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_3" {...props} />
@@ -17792,7 +17792,7 @@ const Person3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, people, person, profile, user
  *
- * popularity: 1117
+ * popularity: 1124
  */
 const Person4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_4" {...props} />
@@ -17805,7 +17805,7 @@ const Person4 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, account, add, avatar, face, human, new, people, person, plus, profile, symbol, user
  *
- * popularity: 82506
+ * popularity: 82575
  */
 const PersonAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_add" {...props} />
@@ -17818,7 +17818,7 @@ const PersonAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, account, add, face, human, people, person, plus, profile, user
  *
- * popularity: 25507
+ * popularity: 25524
  */
 const PersonAddAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_add_alt" {...props} />
@@ -17831,7 +17831,7 @@ const PersonAddAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 11832
+ * popularity: 11841
  */
 const PersonAddAlt1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_add_alt_1" {...props} />
@@ -17844,7 +17844,7 @@ const PersonAddAlt1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, account, add, disabled, enabled, face, human, new, off, offline, on, people, person, plus, profile, slash, symbol, user
  *
- * popularity: 2403
+ * popularity: 2409
  */
 const PersonAddDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_add_disabled" {...props} />
@@ -17857,7 +17857,7 @@ const PersonAddDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, disabled, enabled, face, human, off, on, people, person, profile, slash, user
  *
- * popularity: 13017
+ * popularity: 13032
  */
 const PersonOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_off" {...props} />
@@ -17870,7 +17870,7 @@ const PersonOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, outline, people, person, profile, user
  *
- * popularity: 92142
+ * popularity: 92192
  */
 const PersonOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_outline" {...props} />
@@ -17883,7 +17883,7 @@ const PersonOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, destination, direction, face, human, location, maps, people, person, pin, place, profile, stop, user
  *
- * popularity: 16234
+ * popularity: 16249
  */
 const PersonPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_pin" {...props} />
@@ -17896,7 +17896,7 @@ const PersonPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, circle, destination, direction, face, human, location, maps, people, person, pin, place, profile, stop, user
  *
- * popularity: 11382
+ * popularity: 11392
  */
 const PersonPinCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_pin_circle" {...props} />
@@ -17909,7 +17909,7 @@ const PersonPinCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, delete, face, human, minus, people, person, profile, remove, unfriend, user
  *
- * popularity: 17082
+ * popularity: 17103
  */
 const PersonRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_remove" {...props} />
@@ -17922,7 +17922,7 @@ const PersonRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 3118
+ * popularity: 3122
  */
 const PersonRemoveAlt1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_remove_alt_1" {...props} />
@@ -17935,7 +17935,7 @@ const PersonRemoveAlt1 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, face, find, glass, human, look, magnify, magnifying, people, person, profile, search, user
  *
- * popularity: 28040
+ * popularity: 28079
  */
 const PersonSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="person_search" {...props} />
@@ -17948,7 +17948,7 @@ const PersonSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accident, aid, arm, bandage, body, broke, cast, fracture, health, human, injury, medical, patient, people, person, personal, sling, social
  *
- * popularity: 5267
+ * popularity: 5275
  */
 const PersonalInjury = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="personal_injury" {...props} />
@@ -17961,7 +17961,7 @@ const PersonalInjury = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cam, chrome, desktop, device, hardware, iOS, mac, monitor, personal, television, tv, video, web, window
  *
- * popularity: 4186
+ * popularity: 4193
  */
 const PersonalVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="personal_video" {...props} />
@@ -17974,7 +17974,7 @@ const PersonalVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bug, control, exterminator, insects, pest
  *
- * popularity: 3797
+ * popularity: 3800
  */
 const PestControl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pest_control" {...props} />
@@ -17987,7 +17987,7 @@ const PestControl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control, exterminator, mice, pest, rodent
  *
- * popularity: 1307
+ * popularity: 1308
  */
 const PestControlRodent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pest_control_rodent" {...props} />
@@ -18000,7 +18000,7 @@ const PestControlRodent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: animal, cat, dog, hand, paw, pet
  *
- * popularity: 49946
+ * popularity: 49988
  */
 const Pets = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pets" {...props} />
@@ -18013,7 +18013,7 @@ const Pets = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: fish, fishing, fraud, hook, phishing, scam
  *
- * popularity: 1480
+ * popularity: 1483
  */
 const Phishing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phishing" {...props} />
@@ -18026,7 +18026,7 @@ const Phishing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, hardware, mobile, phone, telephone
  *
- * popularity: 106876
+ * popularity: 107000
  */
 const Phone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone" {...props} />
@@ -18039,7 +18039,7 @@ const Phone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: OS, android, cell, device, hardware, iOS, mobile, phone, tablet
  *
- * popularity: 20680
+ * popularity: 20697
  */
 const PhoneAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_android" {...props} />
@@ -18052,7 +18052,7 @@ const PhoneAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, call, cell, connect, connection, connectivity, contact, device, hardware, mobile, phone, signal, speaker, symbol, telephone, wireless
  *
- * popularity: 1067
+ * popularity: 1068
  */
 const PhoneBluetoothSpeaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_bluetooth_speaker" {...props} />
@@ -18065,7 +18065,7 @@ const PhoneBluetoothSpeaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, callback, cell, contact, device, down, hardware, mobile, phone, telephone
  *
- * popularity: 4775
+ * popularity: 4778
  */
 const PhoneCallback = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_callback" {...props} />
@@ -18078,7 +18078,7 @@ const PhoneCallback = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, disabled, enabled, hardware, mobile, off, offline, on, phone, slash, telephone
  *
- * popularity: 3815
+ * popularity: 3823
  */
 const PhoneDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_disabled" {...props} />
@@ -18091,7 +18091,7 @@ const PhoneDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, enabled, hardware, mobile, phone, telephone
  *
- * popularity: 8221
+ * popularity: 8230
  */
 const PhoneEnabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_enabled" {...props} />
@@ -18104,7 +18104,7 @@ const PhoneEnabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, cell, contact, device, direction, forwarded, hardware, mobile, phone, right, telephone
  *
- * popularity: 4404
+ * popularity: 4409
  */
 const PhoneForwarded = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_forwarded" {...props} />
@@ -18117,7 +18117,7 @@ const PhoneForwarded = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, hardware, iOS, iphone, mobile, phone, tablet
  *
- * popularity: 63473
+ * popularity: 63514
  */
 const PhoneIphone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_iphone" {...props} />
@@ -18130,7 +18130,7 @@ const PhoneIphone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, hardware, lock, locked, mobile, password, phone, privacy, private, protection, safety, secure, security, telephone
  *
- * popularity: 1328
+ * popularity: 1330
  */
 const PhoneLocked = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_locked" {...props} />
@@ -18143,7 +18143,7 @@ const PhoneLocked = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, call, cell, contact, device, hardware, missed, mobile, phone, telephone
  *
- * popularity: 2688
+ * popularity: 2689
  */
 const PhoneMissed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_missed" {...props} />
@@ -18156,7 +18156,7 @@ const PhoneMissed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, hardware, mobile, pause, paused, phone, telephone
  *
- * popularity: 1470
+ * popularity: 1471
  */
 const PhonePaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phone_paused" {...props} />
@@ -18169,7 +18169,7 @@ const PhonePaused = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, computer, connect, desktop, device, hardware, iOS, link, mac, mobile, phone, phonelink, sync, tablet, web, windows
  *
- * popularity: 5152
+ * popularity: 5158
  */
 const Phonelink = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink" {...props} />
@@ -18182,7 +18182,7 @@ const Phonelink = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cancel, cell, clear, close, connection, device, erase, exit, hardware, iOS, mobile, no, phone, phonelink, remove, stop, tablet, x
  *
- * popularity: 2653
+ * popularity: 2654
  */
 const PhonelinkErase = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink_erase" {...props} />
@@ -18195,7 +18195,7 @@ const PhonelinkErase = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, connection, device, erase, hardware, iOS, lock, locked, mobile, password, phone, phonelink, privacy, private, protection, safety, secure, security, tablet
  *
- * popularity: 4043
+ * popularity: 4046
  */
 const PhonelinkLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink_lock" {...props} />
@@ -18208,7 +18208,7 @@ const PhonelinkLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, computer, connect, desktop, device, disabled, enabled, hardware, iOS, link, mac, mobile, off, on, phone, phonelink, slash, sync, tablet, web, windows
  *
- * popularity: 1193
+ * popularity: 1194
  */
 const PhonelinkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink_off" {...props} />
@@ -18221,7 +18221,7 @@ const PhonelinkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, connection, data, device, hardware, iOS, mobile, network, phone, phonelink, ring, service, signal, tablet, wireless
  *
- * popularity: 4590
+ * popularity: 4593
  */
 const PhonelinkRing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink_ring" {...props} />
@@ -18234,7 +18234,7 @@ const PhonelinkRing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, call, chat, device, hardware, iOS, info, mobile, phone, phonelink, settings, setup, tablet, text
  *
- * popularity: 3586
+ * popularity: 3588
  */
 const PhonelinkSetup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="phonelink_setup" {...props} />
@@ -18247,7 +18247,7 @@ const PhonelinkSetup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: image, mountain, mountains, photo, photography, picture
  *
- * popularity: 5638
+ * popularity: 5645
  */
 const Photo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo" {...props} />
@@ -18260,7 +18260,7 @@ const Photo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, archive, bookmark, image, label, library, mountain, mountains, photo, photography, picture, ribbon, save, tag
  *
- * popularity: 2607
+ * popularity: 2613
  */
 const PhotoAlbum = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_album" {...props} />
@@ -18273,7 +18273,7 @@ const PhotoAlbum = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, image, photo, photography, picture
  *
- * popularity: 97259
+ * popularity: 97345
  */
 const PhotoCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_camera" {...props} />
@@ -18286,7 +18286,7 @@ const PhotoCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, camera, image, landscape, mountain, mountains, photo, photography, picture, rear
  *
- * popularity: 1389
+ * popularity: 1391
  */
 const PhotoCameraBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_camera_back" {...props} />
@@ -18299,7 +18299,7 @@ const PhotoCameraBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, camera, face, front, human, image, people, person, photo, photography, picture, portrait, profile, user
  *
- * popularity: 3157
+ * popularity: 3161
  */
 const PhotoCameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_camera_front" {...props} />
@@ -18312,7 +18312,7 @@ const PhotoCameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, automatic, automation, custom, filter, filters, genai, image, intelligence, magic, photo, photography, picture, smart, spark, sparkle, star
  *
- * popularity: 2248
+ * popularity: 2250
  */
 const PhotoFilter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_filter" {...props} />
@@ -18325,7 +18325,7 @@ const PhotoFilter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: album, image, library, mountain, mountains, photo, photography, picture
  *
- * popularity: 13052
+ * popularity: 13062
  */
 const PhotoLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_library" {...props} />
@@ -18338,7 +18338,7 @@ const PhotoLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: actual, dash, dashed, image, mountain, mountains, photo, photography, picture, select, size
  *
- * popularity: 3459
+ * popularity: 3465
  */
 const PhotoSizeSelectActual = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_size_select_actual" {...props} />
@@ -18351,7 +18351,7 @@ const PhotoSizeSelectActual = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, album, dash, dashed, edit, editing, image, large, library, mountain, mountains, photo, photography, picture, select, size
  *
- * popularity: 2074
+ * popularity: 2076
  */
 const PhotoSizeSelectLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_size_select_large" {...props} />
@@ -18364,7 +18364,7 @@ const PhotoSizeSelectLarge = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, album, edit, editing, image, large, library, mountain, mountains, photo, photography, picture, select, size, small
  *
- * popularity: 2190
+ * popularity: 2192
  */
 const PhotoSizeSelectSmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="photo_size_select_small" {...props} />
@@ -18377,7 +18377,7 @@ const PhotoSizeSelectSmall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, brackets, character, code, css, develop, developer, engineer, engineering, font, html, letter, php, platform, symbol, text, type
  *
- * popularity: 1492
+ * popularity: 1497
  */
 const Php = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="php" {...props} />
@@ -18390,7 +18390,7 @@ const Php = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: instrument, keyboard, keys, music, musical, piano, social
  *
- * popularity: 4767
+ * popularity: 4773
  */
 const Piano = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="piano" {...props} />
@@ -18403,7 +18403,7 @@ const Piano = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, instrument, keyboard, keys, music, musical, off, on, piano, slash, social
  *
- * popularity: 1004
+ * popularity: 1006
  */
 const PianoOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="piano_off" {...props} />
@@ -18416,7 +18416,7 @@ const PianoOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, as, character, copy, document, duplicate, file, font, image, letter, multiple, pdf, photo, photography, picture, stack, symbol, text, type
  *
- * popularity: 58719
+ * popularity: 58770
  */
 const PictureAsPdf = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="picture_as_pdf" {...props} />
@@ -18429,7 +18429,7 @@ const PictureAsPdf = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chat, crop, cropped, overlap, photo, picture, pip, position, shape, sizes, talktrack
  *
- * popularity: 4425
+ * popularity: 4428
  */
 const PictureInPicture = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="picture_in_picture" {...props} />
@@ -18442,7 +18442,7 @@ const PictureInPicture = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chat, crop, cropped, overlap, photo, picture, pip, position, shape, sizes, talktrack
  *
- * popularity: 3368
+ * popularity: 3370
  */
 const PictureInPictureAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="picture_in_picture_alt" {...props} />
@@ -18455,7 +18455,7 @@ const PictureInPictureAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, measure, metrics, pie, statistics, tracking
  *
- * popularity: 17251
+ * popularity: 17269
  */
 const PieChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pie_chart" {...props} />
@@ -18468,7 +18468,7 @@ const PieChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, measure, metrics, outline, pie, statistics, tracking
  *
- * popularity: 3533
+ * popularity: 3536
  */
 const PieChartOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pie_chart_outline" {...props} />
@@ -18481,7 +18481,7 @@ const PieChartOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, 2, 3, digit, key, login, logout, number, password, pattern, pin, security, star, symbol, unlock
  *
- * popularity: 17154
+ * popularity: 17178
  */
 const Pin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pin" {...props} />
@@ -18494,7 +18494,7 @@ const Pin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, drop, location, maps, navigation, pin, place, stop
  *
- * popularity: 18048
+ * popularity: 18064
  */
 const PinDrop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pin_drop" {...props} />
@@ -18507,7 +18507,7 @@ const PinDrop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, arrow, dot, end, pin
  *
- * popularity: 1784
+ * popularity: 1787
  */
 const PinEnd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pin_end" {...props} />
@@ -18520,7 +18520,7 @@ const PinEnd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, arrow, dot, invoke, pin
  *
- * popularity: 2007
+ * popularity: 2010
  */
 const PinInvoke = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pin_invoke" {...props} />
@@ -18533,7 +18533,7 @@ const PinInvoke = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, compress, direction, finger, grasp, hand, navigation, nip, pinch, squeeze, tweak
  *
- * popularity: 1925
+ * popularity: 1927
  */
 const Pinch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pinch" {...props} />
@@ -18546,7 +18546,7 @@ const Pinch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, arrow, arrows, bar, bars, chart, data, diagram, direction, drive, edit, editing, graph, grid, infographic, measure, metrics, pivot, rotate, sheet, statistics, table, tracking
  *
- * popularity: 3903
+ * popularity: 3907
  */
 const PivotTableChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pivot_table_chart" {...props} />
@@ -18559,7 +18559,7 @@ const PivotTableChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, brazil, card, cash, commerce, credit, currency, finance, money, payment
  *
- * popularity: 4702
+ * popularity: 4707
  */
 const Pix = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pix" {...props} />
@@ -18572,7 +18572,7 @@ const Pix = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, navigation, pin, place, point, stop
  *
- * popularity: 142437
+ * popularity: 142552
  */
 const Place = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="place" {...props} />
@@ -18585,7 +18585,7 @@ const Place = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doc, document, find, glass, look, magnifying, page, paper, plagiarism, search, see
  *
- * popularity: 9091
+ * popularity: 9096
  */
 const Plagiarism = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="plagiarism" {...props} />
@@ -18598,7 +18598,7 @@ const Plagiarism = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, control, controls, media, music, play, video
  *
- * popularity: 144446
+ * popularity: 144593
  */
 const PlayArrow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_arrow" {...props} />
@@ -18611,7 +18611,7 @@ const PlayArrow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, control, controls, media, music, play, video
  *
- * popularity: 63213
+ * popularity: 63258
  */
 const PlayCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_circle" {...props} />
@@ -18624,7 +18624,7 @@ const PlayCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, control, controls, media, music, play, video
  *
- * popularity: 74912
+ * popularity: 74950
  */
 const PlayCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_circle_filled" {...props} />
@@ -18637,7 +18637,7 @@ const PlayCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, control, controls, media, music, outline, play, video
  *
- * popularity: 42261
+ * popularity: 42301
  */
 const PlayCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_circle_outline" {...props} />
@@ -18650,7 +18650,7 @@ const PlayCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control, controls, disabled, enabled, media, music, off, on, play, slash, video
  *
- * popularity: 1424
+ * popularity: 1430
  */
 const PlayDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_disabled" {...props} />
@@ -18663,7 +18663,7 @@ const PlayDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, down, google, half, play, work
  *
- * popularity: 5395
+ * popularity: 5398
  */
 const PlayForWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_for_work" {...props} />
@@ -18676,7 +18676,7 @@ const PlayForWork = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, book, bookmark, digital, ebook, lesson, multimedia, play, play lesson, read, reading, ribbon
  *
- * popularity: 3128
+ * popularity: 3130
  */
 const PlayLesson = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="play_lesson" {...props} />
@@ -18689,7 +18689,7 @@ const PlayLesson = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, collection, list, music, new, playlist, plus, symbol
  *
- * popularity: 22149
+ * popularity: 22169
  */
 const PlaylistAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="playlist_add" {...props} />
@@ -18702,7 +18702,7 @@ const PlaylistAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, approve, check, collection, complete, done, list, mark, music, ok, playlist, select, tick, validate, verified, yes
  *
- * popularity: 16211
+ * popularity: 16232
  */
 const PlaylistAddCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="playlist_add_check" {...props} />
@@ -18715,7 +18715,7 @@ const PlaylistAddCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, album, artist, audio, cd, check, circle, collection, list, mark, music, playlist, record, sound, track
  *
- * popularity: 4132
+ * popularity: 4135
  */
 const PlaylistAddCheckCircle = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -18728,7 +18728,7 @@ const PlaylistAddCheckCircle = (
  *
  * tags: add, album, artist, audio, cd, check, circle, collection, list, mark, music, playlist, record, sound, track
  *
- * popularity: 2405
+ * popularity: 2408
  */
 const PlaylistAddCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="playlist_add_circle" {...props} />
@@ -18741,7 +18741,7 @@ const PlaylistAddCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, collection, list, music, play, playlist
  *
- * popularity: 6993
+ * popularity: 7000
  */
 const PlaylistPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="playlist_play" {...props} />
@@ -18754,7 +18754,7 @@ const PlaylistPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: -, collection, list, minus, music, playlist, remove
  *
- * popularity: 3678
+ * popularity: 3693
  */
 const PlaylistRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="playlist_remove" {...props} />
@@ -18767,7 +18767,7 @@ const PlaylistRemove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: build, construction, fix, handyman, plumbing, repair, tools, wrench
  *
- * popularity: 4254
+ * popularity: 4261
  */
 const Plumbing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="plumbing" {...props} />
@@ -18780,7 +18780,7 @@ const Plumbing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, add, digit, increase, number, one, plus, symbol
  *
- * popularity: 5099
+ * popularity: 5107
  */
 const PlusOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="plus_one" {...props} />
@@ -18793,7 +18793,7 @@ const PlusOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: broadcast, casting, network, podcasts, signal, transmitting, wireless
  *
- * popularity: 10745
+ * popularity: 10762
  */
 const Podcasts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="podcasts" {...props} />
@@ -18806,7 +18806,7 @@ const Podcasts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: checkout, cost, machine, merchant, money, of, pay, payment, point, pos, retail, sale, system, transaction
  *
- * popularity: 15652
+ * popularity: 15664
  */
 const PointOfSale = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="point_of_sale" {...props} />
@@ -18819,7 +18819,7 @@ const PointOfSale = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, find, glass, legal, look, magnify, magnifying, policy, privacy, private, protect, protection, search, security, see, shield, verified
  *
- * popularity: 20666
+ * popularity: 20681
  */
 const Policy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="policy" {...props} />
@@ -18832,7 +18832,7 @@ const Policy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, measure, metrics, poll, statistics, survey, tracking, vote
  *
- * popularity: 16263
+ * popularity: 16275
  */
 const Poll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="poll" {...props} />
@@ -18845,7 +18845,7 @@ const Poll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, design, draw, line, polyline, vector
  *
- * popularity: 2301
+ * popularity: 2309
  */
 const Polyline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="polyline" {...props} />
@@ -18858,7 +18858,7 @@ const Polyline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emblem, logo, mark, polymer
  *
- * popularity: 4496
+ * popularity: 4500
  */
 const Polymer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="polymer" {...props} />
@@ -18871,7 +18871,7 @@ const Polymer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, beach, body, entertainment, exercise, hobby, human, ocean, people, person, places, pool, sea, sports, swim, swimming, water
  *
- * popularity: 9025
+ * popularity: 9037
  */
 const Pool = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pool" {...props} />
@@ -18884,7 +18884,7 @@ const Pool = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, data, disabled, enabled, internet, network, off, offline, on, portable, service, signal, slash, wifi, wireless
  *
- * popularity: 1650
+ * popularity: 1655
  */
 const PortableWifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="portable_wifi_off" {...props} />
@@ -18897,7 +18897,7 @@ const PortableWifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, face, human, people, person, photo, picture, portrait, profile, user
  *
- * popularity: 12253
+ * popularity: 12264
  */
 const Portrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="portrait" {...props} />
@@ -18910,7 +18910,7 @@ const Portrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, data, doc, document, drive, file, folder, folders, page, paper, plus, post, sheet, slide, text, writing
  *
- * popularity: 37637
+ * popularity: 37676
  */
 const PostAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="post_add" {...props} />
@@ -18923,7 +18923,7 @@ const PostAdd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: charge, cord, electric, electrical, outlet, plug, power
  *
- * popularity: 9077
+ * popularity: 9087
  */
 const Power = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="power" {...props} />
@@ -18936,7 +18936,7 @@ const Power = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: input, lines, power, supply
  *
- * popularity: 1370
+ * popularity: 1372
  */
 const PowerInput = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="power_input" {...props} />
@@ -18949,7 +18949,7 @@ const PowerInput = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: charge, cord, disabled, electric, electrical, enabled, off, on, outlet, plug, power, slash
  *
- * popularity: 4344
+ * popularity: 4351
  */
 const PowerOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="power_off" {...props} />
@@ -18962,7 +18962,7 @@ const PowerOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: info, information, off, on, power, save, settings, shutdown
  *
- * popularity: 52648
+ * popularity: 52712
  */
 const PowerSettingsNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="power_settings_new" {...props} />
@@ -18975,7 +18975,7 @@ const PowerSettingsNew = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arm, automatic, chain, conveyor, crane, factory, industry, machinery, manufacturing, mechanical, precision, production, repairing, robot, supply, warehouse
  *
- * popularity: 26595
+ * popularity: 26626
  */
 const PrecisionManufacturing = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -18988,7 +18988,7 @@ const PrecisionManufacturing = (
  *
  * tags: baby, birth, body, female, human, lady, maternity, mom, mother, people, person, pregnant, women
  *
- * popularity: 7175
+ * popularity: 7178
  */
 const PregnantWoman = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="pregnant_woman" {...props} />
@@ -19001,7 +19001,7 @@ const PregnantWoman = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, arrow, present, presentation, screen, share, site, slides, to, web, website
  *
- * popularity: 4965
+ * popularity: 4969
  */
 const PresentToAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="present_to_all" {...props} />
@@ -19014,7 +19014,7 @@ const PresentToAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, eye, layout, preview, reveal, screen, see, show, site, view, web, website, window, www
  *
- * popularity: 36089
+ * popularity: 36124
  */
 const Preview = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="preview" {...props} />
@@ -19027,7 +19027,7 @@ const Preview = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, bill, card, cash, change, coin, commerce, cost, credit, currency, dollars, down, finance, money, online, pay, payment, price, shopping, symbol, up
  *
- * popularity: 15016
+ * popularity: 15030
  */
 const PriceChange = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="price_change" {...props} />
@@ -19040,7 +19040,7 @@ const PriceChange = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, bill, card, cash, check, coin, commerce, complete, cost, credit, currency, dollars, done, finance, mark, money, ok, online, pay, payment, price, select, shopping, symbol, tick, validate, verified, yes
  *
- * popularity: 18189
+ * popularity: 18219
  */
 const PriceCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="price_check" {...props} />
@@ -19053,7 +19053,7 @@ const PriceCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: draft, fax, ink, machine, office, paper, print, printer, send
  *
- * popularity: 64384
+ * popularity: 64440
  */
 const Print = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="print" {...props} />
@@ -19066,7 +19066,7 @@ const Print = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, off, on, paper, print, printer, slash
  *
- * popularity: 2055
+ * popularity: 2057
  */
 const PrintDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="print_disabled" {...props} />
@@ -19079,7 +19079,7 @@ const PrintDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, high, important, mark, notification, symbol, warning
  *
- * popularity: 39696
+ * popularity: 39734
  */
 const PriorityHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="priority_high" {...props} />
@@ -19092,7 +19092,7 @@ const PriorityHigh = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, announcement, assistance, certified, details, help, i, info, information, privacy, private, protect, protection, security, service, shield, support, tip, verified
  *
- * popularity: 18736
+ * popularity: 18760
  */
 const PrivacyTip = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="privacy_tip" {...props} />
@@ -19105,7 +19105,7 @@ const PrivacyTip = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connectivity, lock, locked, password, privacy, private, protection, safety, secure, security
  *
- * popularity: 2929
+ * popularity: 2930
  */
 const PrivateConnectivity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="private_connectivity" {...props} />
@@ -19118,7 +19118,7 @@ const PrivateConnectivity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, bill, card, cart, cash, caution, coin, commerce, credit, currency, danger, dollars, error, exclamation, important, limits, mark, money, notification, online, pay, payment, production, quantity, shopping, symbol, warning
  *
- * popularity: 12989
+ * popularity: 13005
  */
 const ProductionQuantityLimits = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -19131,7 +19131,7 @@ const ProductionQuantityLimits = (
  *
  * tags: gas, nest, propane
  *
- * popularity: 637
+ * popularity: 640
  */
 const Propane = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="propane" {...props} />
@@ -19144,7 +19144,7 @@ const Propane = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bbq, gas, grill, nest, propane, tank
  *
- * popularity: 1117
+ * popularity: 1123
  */
 const PropaneTank = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="propane_tank" {...props} />
@@ -19157,7 +19157,7 @@ const PropaneTank = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: behavior, body, brain, cognitive, function, gear, head, human, intellectual, mental, mind, people, person, preferences, psychiatric, psychology, science, settings, social, therapy, thinking, thoughts
  *
- * popularity: 35632
+ * popularity: 35664
  */
 const Psychology = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="psychology" {...props} />
@@ -19170,7 +19170,7 @@ const Psychology = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, behavior, body, brain, cognitive, function, gear, head, help, human, info, information, intellectual, mental, mind, people, person, preferences, psychiatric, psychology, punctuation, question mark, science, settings, social, support, symbol, therapy, thinking, thoughts
  *
- * popularity: 3617
+ * popularity: 3631
  */
 const PsychologyAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="psychology_alt" {...props} />
@@ -19183,7 +19183,7 @@ const PsychologyAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: earth, global, globe, map, network, planet, public, social, space, web, world
  *
- * popularity: 81918
+ * popularity: 81988
  */
 const Public = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="public" {...props} />
@@ -19196,7 +19196,7 @@ const Public = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, earth, enabled, global, globe, map, network, off, on, planet, public, slash, social, space, web, world
  *
- * popularity: 3355
+ * popularity: 3358
  */
 const PublicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="public_off" {...props} />
@@ -19209,7 +19209,7 @@ const PublicOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, cloud, file, import, publish, up, upload
  *
- * popularity: 13560
+ * popularity: 13571
  */
 const Publish = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="publish" {...props} />
@@ -19222,7 +19222,7 @@ const Publish = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, arrow, arrows, changes, check, complete, done, inprogress, load, loading, mark, ok, published, refresh, renew, replace, rotate, select, tick, validate, verified, with, yes
  *
- * popularity: 35193
+ * popularity: 35229
  */
 const PublishedWithChanges = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="published_with_changes" {...props} />
@@ -19235,7 +19235,7 @@ const PublishedWithChanges = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, date, punch, schedule, time, timer, timesheet
  *
- * popularity: 1880
+ * popularity: 1884
  */
 const PunchClock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="punch_clock" {...props} />
@@ -19248,7 +19248,7 @@ const PunchClock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: location, marker, pin, place, push, remember, save
  *
- * popularity: 39379
+ * popularity: 39397
  */
 const PushPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="push_pin" {...props} />
@@ -19261,7 +19261,7 @@ const PushPin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: barcode, camera, code, media, product, qr, quick, response, smartphone, url, urls
  *
- * popularity: 27456
+ * popularity: 27497
  */
 const QrCode = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="qr_code" {...props} />
@@ -19274,7 +19274,7 @@ const QrCode = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: barcode, camera, code, media, product, qr, quick, response, smartphone, url, urls
  *
- * popularity: 26903
+ * popularity: 26935
  */
 const QrCode2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="qr_code_2" {...props} />
@@ -19287,7 +19287,7 @@ const QrCode2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: barcode, camera, code, media, product, qr, quick, response, scanner, smartphone, url, urls
  *
- * popularity: 46945
+ * popularity: 46993
  */
 const QrCodeScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="qr_code_scanner" {...props} />
@@ -19300,7 +19300,7 @@ const QrCodeScanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: builder, clock, date, query, schedule, time
  *
- * popularity: 17300
+ * popularity: 17311
  */
 const QueryBuilder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="query_builder" {...props} />
@@ -19313,7 +19313,7 @@ const QueryBuilder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, find, glass, graph, infographic, line, look, magnify, magnifying, measure, metrics, query, search, see, statistics, stats, tracking
  *
- * popularity: 20983
+ * popularity: 21018
  */
 const QueryStats = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="query_stats" {...props} />
@@ -19326,7 +19326,7 @@ const QueryStats = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: answer, bubble, chat, comment, communicate, conversation, feedback, message, question, speech, talk
  *
- * popularity: 103916
+ * popularity: 104004
  */
 const QuestionAnswer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="question_answer" {...props} />
@@ -19339,7 +19339,7 @@ const QuestionAnswer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, help, info, information, punctuation, question mark, support, symbol
  *
- * popularity: 26333
+ * popularity: 26388
  */
 const QuestionMark = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="question_mark" {...props} />
@@ -19352,7 +19352,7 @@ const QuestionMark = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, collection, layers, list, multiple, music, playlist, queue, stack, stream, video
  *
- * popularity: 6945
+ * popularity: 6951
  */
 const Queue = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="queue" {...props} />
@@ -19365,7 +19365,7 @@ const Queue = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: collection, list, music, playlist, queue
  *
- * popularity: 8174
+ * popularity: 8184
  */
 const QueueMusic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="queue_music" {...props} />
@@ -19378,7 +19378,7 @@ const QueueMusic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, arrow, desktop, device, display, hardware, monitor, new, next, play, plus, queue, screen, stream, symbol, tv
  *
- * popularity: 2339
+ * popularity: 2340
  */
 const QueuePlayNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="queue_play_next" {...props} />
@@ -19391,7 +19391,7 @@ const QueuePlayNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, bubble, chat, comment, communicate, electric, energy, fast, instant, lightning, message, quick, quickreply, reply, speech, thunderbolt
  *
- * popularity: 4876
+ * popularity: 4879
  */
 const Quickreply = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="quickreply" {...props} />
@@ -19404,7 +19404,7 @@ const Quickreply = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ?, assistance, faq, help, info, information, punctuation, question mark, quiz, support, symbol, test
  *
- * popularity: 28293
+ * popularity: 28314
  */
 const Quiz = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="quiz" {...props} />
@@ -19417,7 +19417,7 @@ const Quiz = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, data, font, letter, mobile, r, symbol, text, type
  *
- * popularity: 699
+ * popularity: 700
  */
 const RMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="r_mobiledata" {...props} />
@@ -19430,7 +19430,7 @@ const RMobiledata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: detect, military, near, network, position, radar, scan
  *
- * popularity: 7112
+ * popularity: 7118
  */
 const Radar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="radar" {...props} />
@@ -19443,7 +19443,7 @@ const Radar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: antenna, audio, device, frequency, hardware, listen, media, music, player, radio, signal, tune
  *
- * popularity: 6775
+ * popularity: 6784
  */
 const Radio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="radio" {...props} />
@@ -19456,7 +19456,7 @@ const Radio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, application, bullet, button, checked, circle, components, design, form, interface, off, on, point, radio, record, screen, select, selected, site, toggle, ui, ux, web, website
  *
- * popularity: 63660
+ * popularity: 63709
  */
 const RadioButtonChecked = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="radio_button_checked" {...props} />
@@ -19469,7 +19469,7 @@ const RadioButtonChecked = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bullet, button, circle, deselected, form, off, on, point, radio, record, select, toggle, unchecked
  *
- * popularity: 79463
+ * popularity: 79536
  */
 const RadioButtonUnchecked = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="radio_button_unchecked" {...props} />
@@ -19482,7 +19482,7 @@ const RadioButtonUnchecked = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, automobile, bike, car, cars, caution, danger, direction, error, exclamation, important, maps, mark, notification, public, railway, scooter, subway, symbol, train, transportation, vehicle, vespa, warning
  *
- * popularity: 1544
+ * popularity: 1546
  */
 const RailwayAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="railway_alert" {...props} />
@@ -19495,7 +19495,7 @@ const RailwayAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, dining, dinner, drink, fastfood, food, lunch, meal, noodles, ramen, restaurant
  *
- * popularity: 6928
+ * popularity: 6935
  */
 const RamenDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ramen_dining" {...props} />
@@ -19508,7 +19508,7 @@ const RamenDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, left, maps, navigation, path, ramp, route, sign, traffic
  *
- * popularity: 458
+ * popularity: 459
  */
 const RampLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ramp_left" {...props} />
@@ -19521,7 +19521,7 @@ const RampLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, ramp, right, route, sign, traffic
  *
- * popularity: 435
+ * popularity: 436
  */
 const RampRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ramp_right" {...props} />
@@ -19534,7 +19534,7 @@ const RampRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: comment, feedback, pen, pencil, rate, review, stars, write
  *
- * popularity: 15838
+ * popularity: 15852
  */
 const RateReview = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rate_review" {...props} />
@@ -19547,7 +19547,7 @@ const RateReview = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, disabled, enabled, font, image, letter, off, on, original, photo, photography, raw, slash, symbol, text, type
  *
- * popularity: 604
+ * popularity: 605
  */
 const RawOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="raw_off" {...props} />
@@ -19560,7 +19560,7 @@ const RawOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, disabled, enabled, font, image, letter, off, on, original, photo, photography, raw, slash, symbol, text, type
  *
- * popularity: 1104
+ * popularity: 1105
  */
 const RawOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="raw_on" {...props} />
@@ -19573,7 +19573,7 @@ const RawOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, more, read, text
  *
- * popularity: 11896
+ * popularity: 11905
  */
 const ReadMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="read_more" {...props} />
@@ -19586,7 +19586,7 @@ const ReadMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agent, architecture, broker, estate, hand, home, house, loan, mortgage, property, real, residence, residential, sales, social
  *
- * popularity: 10213
+ * popularity: 10221
  */
 const RealEstateAgent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="real_estate_agent" {...props} />
@@ -19599,7 +19599,7 @@ const RealEstateAgent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 54049
+ * popularity: 54070
  */
 const Receipt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="receipt" {...props} />
@@ -19612,7 +19612,7 @@ const Receipt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, check, document, list, long, paper, paperwork, receipt, record, store, transaction
  *
- * popularity: 57214
+ * popularity: 57273
  */
 const ReceiptLong = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="receipt_long" {...props} />
@@ -19625,7 +19625,7 @@ const ReceiptLong = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, actors, avatar, card, cards, carousel, face, human, layers, list, people, person, profile, recent, thumbnail, user
  *
- * popularity: 8851
+ * popularity: 8859
  */
 const RecentActors = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="recent_actors" {...props} />
@@ -19638,7 +19638,7 @@ const RecentActors = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approved, circle, confirm, favorite, gesture, hand, like, reaction, recommend, social, support, thumbs, up, well
  *
- * popularity: 14433
+ * popularity: 14444
  */
 const Recommend = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="recommend" {...props} />
@@ -19651,7 +19651,7 @@ const Recommend = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, dictation, face, human, over, people, person, profile, record, recording, speak, speaking, speech, transcript, user, voice
  *
- * popularity: 25489
+ * popularity: 25517
  */
 const RecordVoiceOver = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="record_voice_over" {...props} />
@@ -19664,7 +19664,7 @@ const RecordVoiceOver = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: four sides, parallelograms, polygons, quadrilaterals, recangle, shape
  *
- * popularity: 2853
+ * popularity: 2857
  */
 const Rectangle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rectangle" {...props} />
@@ -19677,7 +19677,7 @@ const Rectangle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bio, eco, green, loop, recyclable, recycle, recycling, rotate, sustainability, sustainable, trash
  *
- * popularity: 13205
+ * popularity: 13217
  */
 const Recycling = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="recycling" {...props} />
@@ -19690,7 +19690,7 @@ const Recycling = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cart, cash, certificate, coin, commerce, credit, currency, dollars, gift, giftcard, money, online, pay, payment, present, redeem, shopping
  *
- * popularity: 21870
+ * popularity: 21894
  */
 const Redeem = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="redeem" {...props} />
@@ -19703,7 +19703,7 @@ const Redeem = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, backward, forward, next, redo, repeat, rotate, undo
  *
- * popularity: 16856
+ * popularity: 16866
  */
 const Redo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="redo" {...props} />
@@ -19716,7 +19716,7 @@ const Redo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, body, capacity, covid, decrease, down, human, people, person, reduce, social
  *
- * popularity: 6143
+ * popularity: 6152
  */
 const ReduceCapacity = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reduce_capacity" {...props} />
@@ -19729,7 +19729,7 @@ const ReduceCapacity = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, arrows, direction, inprogress, load, loading refresh, navigation, refresh, renew, right, rotate, turn
  *
- * popularity: 90516
+ * popularity: 90582
  */
 const Refresh = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="refresh" {...props} />
@@ -19742,7 +19742,7 @@ const Refresh = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, avatar, device, hardware, human, iOS, identity, me, mobile, people, person, phone, profile, remember, tablet, user
  *
- * popularity: 3429
+ * popularity: 3430
  */
 const RememberMe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remember_me" {...props} />
@@ -19755,7 +19755,7 @@ const RememberMe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: can, delete, minus, negative, remove, substract, trash
  *
- * popularity: 73298
+ * popularity: 73357
  */
 const Remove = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove" {...props} />
@@ -19768,7 +19768,7 @@ const Remove = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: block, can, circle, delete, minus, negative, remove, substract, trash
  *
- * popularity: 40094
+ * popularity: 40122
  */
 const RemoveCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_circle" {...props} />
@@ -19781,7 +19781,7 @@ const RemoveCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: block, can, circle, delete, minus, negative, outline, remove, substract, trash
  *
- * popularity: 50816
+ * popularity: 50851
  */
 const RemoveCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_circle_outline" {...props} />
@@ -19794,7 +19794,7 @@ const RemoveCircleOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, complete, disabled, done, enabled, finished, mark, multiple, off, ok, on, remove, select, slash, tick, yes
  *
- * popularity: 6550
+ * popularity: 6553
  */
 const RemoveDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_done" {...props} />
@@ -19807,7 +19807,7 @@ const RemoveDone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: desktop, device, display, from, hardware, monitor, queue, remove, screen, stream
  *
- * popularity: 1489
+ * popularity: 1493
  */
 const RemoveFromQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_from_queue" {...props} />
@@ -19820,7 +19820,7 @@ const RemoveFromQueue = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, disabled, enabled, moderator, off, on, privacy, private, protect, protection, remove, security, shield, slash, verified
  *
- * popularity: 3286
+ * popularity: 3289
  */
 const RemoveModerator = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_moderator" {...props} />
@@ -19833,7 +19833,7 @@ const RemoveModerator = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: eye, iris, look, looking, preview, red, remove, see, sight, vision
  *
- * popularity: 30623
+ * popularity: 30653
  */
 const RemoveRedEye = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_red_eye" {...props} />
@@ -19846,7 +19846,7 @@ const RemoveRedEye = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: -, cancel, clear, close, destination, direction, exit, highway, maps, minus, new, no, remove, road, stop, street, symbol, traffic, x
  *
- * popularity: 842
+ * popularity: 844
  */
 const RemoveRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_road" {...props} />
@@ -19859,7 +19859,7 @@ const RemoveRoad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: card, cart, cash, checkout, coin, commerce, credit, currency, delete, dollars, minus, online, pay, payment, remember, remove, ribbon, save, shopping, subtract
  *
- * popularity: 7893
+ * popularity: 7897
  */
 const RemoveShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="remove_shopping_cart" {...props} />
@@ -19872,7 +19872,7 @@ const RemoveShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: format, lines, list, order, reorder, stacked
  *
- * popularity: 44990
+ * popularity: 45028
  */
 const Reorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reorder" {...props} />
@@ -19885,7 +19885,7 @@ const Reorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, data, partition, refresh, renew, repartition, restore, table
  *
- * popularity: 802
+ * popularity: 806
  */
 const Repartition = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="repartition" {...props} />
@@ -19898,7 +19898,7 @@ const Repartition = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, loop, media, music, repeat, video
  *
- * popularity: 13467
+ * popularity: 13479
  */
 const Repeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="repeat" {...props} />
@@ -19911,7 +19911,7 @@ const Repeat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, loop, media, music, on, repeat, video
  *
- * popularity: 2880
+ * popularity: 2882
  */
 const RepeatOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="repeat_on" {...props} />
@@ -19924,7 +19924,7 @@ const RepeatOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, arrow, arrows, control, controls, digit, loop, media, music, number, one, repeat, symbol, video
  *
- * popularity: 3319
+ * popularity: 3328
  */
 const RepeatOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="repeat_one" {...props} />
@@ -19937,7 +19937,7 @@ const RepeatOne = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, digit, loop, media, music, number, on, one, repeat, symbol, video
  *
- * popularity: 1576
+ * popularity: 1580
  */
 const RepeatOneOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="repeat_one_on" {...props} />
@@ -19950,7 +19950,7 @@ const RepeatOneOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, music, refresh, renew, repeat, replay, video
  *
- * popularity: 31886
+ * popularity: 31909
  */
 const Replay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="replay" {...props} />
@@ -19963,7 +19963,7 @@ const Replay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, arrow, arrows, control, controls, digit, music, number, refresh, renew, repeat, replay, symbol, ten, video
  *
- * popularity: 5990
+ * popularity: 5993
  */
 const Replay10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="replay_10" {...props} />
@@ -19976,7 +19976,7 @@ const Replay10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 30, arrow, arrows, control, controls, digit, music, number, refresh, renew, repeat, replay, symbol, thirty, video
  *
- * popularity: 2886
+ * popularity: 2893
  */
 const Replay30 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="replay_30" {...props} />
@@ -19989,7 +19989,7 @@ const Replay30 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 5, arrow, arrows, control, controls, digit, five, music, number, refresh, renew, repeat, replay, symbol, video
  *
- * popularity: 2297
+ * popularity: 2298
  */
 const Replay5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="replay_5" {...props} />
@@ -20002,7 +20002,7 @@ const Replay5 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, circle, control, controls, filled, music, refresh, renew, repeat, replay, video
  *
- * popularity: 6705
+ * popularity: 6711
  */
 const ReplayCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="replay_circle_filled" {...props} />
@@ -20015,7 +20015,7 @@ const ReplayCircleFilled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, backward, left, mail, message, reply, send, share
  *
- * popularity: 42316
+ * popularity: 42353
  */
 const Reply = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reply" {...props} />
@@ -20028,7 +20028,7 @@ const Reply = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, arrow, backward, group, left, mail, message, multiple, reply, send, share
  *
- * popularity: 7500
+ * popularity: 7509
  */
 const ReplyAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reply_all" {...props} />
@@ -20041,7 +20041,7 @@ const ReplyAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, important, mark, notification, octagon, report, symbol, warning
  *
- * popularity: 28865
+ * popularity: 28882
  */
 const Report = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="report" {...props} />
@@ -20054,7 +20054,7 @@ const Report = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, gmail, gmailerrorred, important, mark, notification, octagon, report, symbol, warning
  *
- * popularity: 12951
+ * popularity: 12967
  */
 const ReportGmailerrorred = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="report_gmailerrorred" {...props} />
@@ -20067,7 +20067,7 @@ const ReportGmailerrorred = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, disabled, enabled, error, exclamation, important, mark, notification, octagon, off, offline, on, report, slash, symbol, warning
  *
- * popularity: 2170
+ * popularity: 2173
  */
 const ReportOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="report_off" {...props} />
@@ -20080,7 +20080,7 @@ const ReportOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, feedback, important, mark, notification, problem, report, symbol, triangle, warning
  *
- * popularity: 79285
+ * popularity: 79340
  */
 const ReportProblem = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="report_problem" {...props} />
@@ -20093,7 +20093,7 @@ const ReportProblem = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, folder, folders, page, paper, request, sheet, slide, writing
  *
- * popularity: 6694
+ * popularity: 6703
  */
 const RequestPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="request_page" {...props} />
@@ -20106,7 +20106,7 @@ const RequestPage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, price, quote, request, shopping, symbol
  *
- * popularity: 29732
+ * popularity: 29767
  */
 const RequestQuote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="request_quote" {...props} />
@@ -20119,7 +20119,7 @@ const RequestQuote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, device, hardware, monitor, reset, television, tv
  *
- * popularity: 1850
+ * popularity: 1852
  */
 const ResetTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reset_tv" {...props} />
@@ -20132,7 +20132,7 @@ const ResetTv = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, around, arrow, inprogress, load, loading refresh, reboot, renew, repeat, reset, restart
  *
- * popularity: 50691
+ * popularity: 50747
  */
 const RestartAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restart_alt" {...props} />
@@ -20145,7 +20145,7 @@ const RestartAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, dining, dinner, eat, food, fork, knife, local, lunch, meal, places, restaurant, spoon, utensils
  *
- * popularity: 42612
+ * popularity: 42645
  */
 const Restaurant = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restaurant" {...props} />
@@ -20158,7 +20158,7 @@ const Restaurant = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: book, dining, eat, food, fork, knife, local, meal, menu, restaurant, spoon
  *
- * popularity: 23217
+ * popularity: 23239
  */
 const RestaurantMenu = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restaurant_menu" {...props} />
@@ -20171,7 +20171,7 @@ const RestaurantMenu = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, clock, date, history, refresh, renew, restore, reverse, rotate, schedule, time, turn
  *
- * popularity: 20691
+ * popularity: 20716
  */
 const Restore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restore" {...props} />
@@ -20184,7 +20184,7 @@ const Restore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, clock, date, history, refresh, renew, restore, reverse, rotate, schedule, time, turn
  *
- * popularity: 7126
+ * popularity: 7130
  */
 const RestoreFromTrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restore_from_trash" {...props} />
@@ -20197,7 +20197,7 @@ const RestoreFromTrash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, data, doc, file, page, paper, refresh, restore, rotate, sheet, storage
  *
- * popularity: 5473
+ * popularity: 5477
  */
 const RestorePage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="restore_page" {...props} />
@@ -20210,7 +20210,7 @@ const RestorePage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, feedback, message, rate, rating, recommendation, reviews, speech
  *
- * popularity: 14120
+ * popularity: 14137
  */
 const Reviews = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="reviews" {...props} />
@@ -20223,7 +20223,7 @@ const Reviews = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bowl, dinner, food, lunch, meal, restaurant, rice
  *
- * popularity: 2381
+ * popularity: 2383
  */
 const RiceBowl = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rice_bowl" {...props} />
@@ -20236,7 +20236,7 @@ const RiceBowl = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, calling, cell, contact, device, hardware, incoming, mobile, phone, ring, ringer, sound, telephone, volume
  *
- * popularity: 3771
+ * popularity: 3775
  */
 const RingVolume = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ring_volume" {...props} />
@@ -20249,7 +20249,7 @@ const RingVolume = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: rocket, space, spaceship
  *
- * popularity: 7939
+ * popularity: 7953
  */
 const Rocket = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rocket" {...props} />
@@ -20262,7 +20262,7 @@ const Rocket = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: launch, rocket, space, spaceship, takeoff
  *
- * popularity: 26536
+ * popularity: 26579
  */
 const RocketLaunch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rocket_launch" {...props} />
@@ -20275,7 +20275,7 @@ const RocketLaunch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, cover, curtains, nest, open, roller, shade, shutter, sunshade
  *
- * popularity: 810
+ * popularity: 814
  */
 const RollerShades = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roller_shades" {...props} />
@@ -20288,7 +20288,7 @@ const RollerShades = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, closed, cover, curtains, nest, roller, shade, shutter, sunshade
  *
- * popularity: 613
+ * popularity: 618
  */
 const RollerShadesClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roller_shades_closed" {...props} />
@@ -20301,7 +20301,7 @@ const RollerShadesClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, entertainment, exercise, hobby, roller, shoe, skate, skates, skating, social, sports, travel
  *
- * popularity: 844
+ * popularity: 845
  */
 const RollerSkating = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roller_skating" {...props} />
@@ -20314,7 +20314,7 @@ const RollerSkating = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, chimney, construction, estate, home, house, real, residence, residential, roof, roofing, service, shelter
  *
- * popularity: 7524
+ * popularity: 7531
  */
 const Roofing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roofing" {...props} />
@@ -20327,7 +20327,7 @@ const Roofing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, direction, location, maps, pin, place, room, stop
  *
- * popularity: 56158
+ * popularity: 56196
  */
 const Room = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="room" {...props} />
@@ -20340,7 +20340,7 @@ const Room = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: building, door, doorway, entrance, gear, home, house, interior, office, open, preferences, room, settings
  *
- * popularity: 6915
+ * popularity: 6920
  */
 const RoomPreferences = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="room_preferences" {...props} />
@@ -20353,7 +20353,7 @@ const RoomPreferences = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alert, bell, delivery, hotel, notify, room, service
  *
- * popularity: 7544
+ * popularity: 7547
  */
 const RoomService = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="room_service" {...props} />
@@ -20366,7 +20366,7 @@ const RoomService = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 90, arrow, arrows, ccw, degrees, direction, edit, editing, image, photo, rotate, turn
  *
- * popularity: 3181
+ * popularity: 3183
  */
 const Rotate90DegreesCcw = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rotate_90_degrees_ccw" {...props} />
@@ -20379,7 +20379,7 @@ const Rotate90DegreesCcw = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 90, arrow, arrows, ccw, degrees, direction, edit, editing, image, photo, rotate, turn
  *
- * popularity: 2142
+ * popularity: 2144
  */
 const Rotate90DegreesCw = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rotate_90_degrees_cw" {...props} />
@@ -20392,7 +20392,7 @@ const Rotate90DegreesCw = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, dash, dashed, direction, inprogress, left, load, loading refresh, renew, rotate, turn
  *
- * popularity: 7013
+ * popularity: 7019
  */
 const RotateLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rotate_left" {...props} />
@@ -20405,7 +20405,7 @@ const RotateLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, direction, inprogress, load, loading refresh, renew, right, rotate, turn
  *
- * popularity: 10065
+ * popularity: 10073
  */
 const RotateRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rotate_right" {...props} />
@@ -20418,7 +20418,7 @@ const RotateRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, left, maps, navigation, path, roundabout, route, sign, traffic
  *
- * popularity: 599
+ * popularity: 600
  */
 const RoundaboutLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roundabout_left" {...props} />
@@ -20431,7 +20431,7 @@ const RoundaboutLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, roundabout, route, sign, traffic
  *
- * popularity: 808
+ * popularity: 809
  */
 const RoundaboutRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="roundabout_right" {...props} />
@@ -20444,7 +20444,7 @@ const RoundaboutRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, corner, dash, dashed, edit, rounded, shape, square, transform
  *
- * popularity: 2373
+ * popularity: 2376
  */
 const RoundedCorner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rounded_corner" {...props} />
@@ -20457,7 +20457,7 @@ const RoundedCorner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: directions, maps, path, route, sign, traffic
  *
- * popularity: 9432
+ * popularity: 9450
  */
 const Route = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="route" {...props} />
@@ -20470,7 +20470,7 @@ const Route = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, cable, connection, hardware, internet, network, router, signal, wifi
  *
- * popularity: 9018
+ * popularity: 9028
  */
 const Router = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="router" {...props} />
@@ -20483,7 +20483,7 @@ const Router = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activity, boat, body, canoe, human, people, person, row, rowing, sport, water
  *
- * popularity: 5864
+ * popularity: 5873
  */
 const Rowing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rowing" {...props} />
@@ -20496,7 +20496,7 @@ const Rowing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: application, blog, connection, data, feed, internet, network, rss, service, signal, website, wifi, wireless
  *
- * popularity: 15868
+ * popularity: 15875
  */
 const RssFeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rss_feed" {...props} />
@@ -20509,7 +20509,7 @@ const RssFeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, font, invitation, invite, letter, plaît, respond, rsvp, répondez, sil, symbol, text, type, vous
  *
- * popularity: 1094
+ * popularity: 1095
  */
 const Rsvp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rsvp" {...props} />
@@ -20522,7 +20522,7 @@ const Rsvp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, real, rrt, text, time
  *
- * popularity: 1692
+ * popularity: 1693
  */
 const Rtt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rtt" {...props} />
@@ -20535,7 +20535,7 @@ const Rtt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, complete, done, incomplete, line, mark, missing, no, ok, rule, select, tick, validate, verified, wrong, x, yes
  *
- * popularity: 24216
+ * popularity: 24238
  */
 const Rule = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rule" {...props} />
@@ -20548,7 +20548,7 @@ const Rule = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, cancel, check, close, complete, data, doc, document, done, drive, exit, file, folder, mark, no, ok, remove, rule, select, sheet, slide, storage, tick, validate, verified, x, yes
  *
- * popularity: 4735
+ * popularity: 4738
  */
 const RuleFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rule_folder" {...props} />
@@ -20561,7 +20561,7 @@ const RuleFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, circle, exercise, human, people, person, run, running
  *
- * popularity: 3673
+ * popularity: 3676
  */
 const RunCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="run_circle" {...props} />
@@ -20574,7 +20574,7 @@ const RunCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, duration, error, errors, exclamation, important, mark, notification, process, processing, running, symbol, time, warning, with
  *
- * popularity: 6136
+ * popularity: 6140
  */
 const RunningWithErrors = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="running_with_errors" {...props} />
@@ -20587,7 +20587,7 @@ const RunningWithErrors = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, attach, automobile, automotive, back, car, cars, connect, direction, hookup, left, maps, public, right, rv, trailer, transportation, travel, truck, van, vehicle
  *
- * popularity: 2869
+ * popularity: 2873
  */
 const RvHookup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="rv_hookup" {...props} />
@@ -20600,7 +20600,7 @@ const RvHookup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, check, clock, privacy, private, protect, protection, safety, schedule, security, shield, time, verified
  *
- * popularity: 2106
+ * popularity: 2123
  */
 const SafetyCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="safety_check" {...props} />
@@ -20613,7 +20613,7 @@ const SafetyCheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: apart, distance, divider, safety, separate, social, space
  *
- * popularity: 3089
+ * popularity: 3095
  */
 const SafetyDivider = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="safety_divider" {...props} />
@@ -20626,7 +20626,7 @@ const SafetyDivider = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: boat, entertainment, fishing, hobby, ocean, sailboat, sailing, sea, social sports, travel, water
  *
- * popularity: 7597
+ * popularity: 7603
  */
 const Sailing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sailing" {...props} />
@@ -20639,7 +20639,7 @@ const Sailing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bacteria, bottle, clean, covid, disinfect, germs, pump, sanitizer
  *
- * popularity: 4581
+ * popularity: 4584
  */
 const Sanitizer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sanitizer" {...props} />
@@ -20652,7 +20652,7 @@ const Sanitizer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connect, connection, connectivity, data, device, image, internet, landscape, location, maps, mountain, mountains, network, photo, photography, picture, satellite, scan, service, signal, symbol, wireless-- wifi
  *
- * popularity: 3244
+ * popularity: 3247
  */
 const Satellite = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="satellite" {...props} />
@@ -20665,7 +20665,7 @@ const Satellite = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alternative, artificial, communication, satellite, space, space station, television
  *
- * popularity: 4584
+ * popularity: 4593
  */
 const SatelliteAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="satellite_alt" {...props} />
@@ -20678,7 +20678,7 @@ const SatelliteAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, disk, document, drive, file, floppy, multimedia, save, storage
  *
- * popularity: 81141
+ * popularity: 81218
  */
 const Save = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="save" {...props} />
@@ -20691,7 +20691,7 @@ const Save = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrow, disk, document, down, file, floppy, multimedia, save
  *
- * popularity: 22167
+ * popularity: 22185
  */
 const SaveAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="save_alt" {...props} />
@@ -20704,7 +20704,7 @@ const SaveAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compose, create, data, disk, document, draft, drive, edit, editing, file, floppy, input, multimedia, pen, pencil, save, storage, write, writing
  *
- * popularity: 6377
+ * popularity: 6386
  */
 const SaveAs = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="save_as" {...props} />
@@ -20717,7 +20717,7 @@ const SaveAs = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: find, glass, important, look, magnify, magnifying, marked, saved, search, see, star
  *
- * popularity: 8480
+ * popularity: 8489
  */
 const SavedSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="saved_search" {...props} />
@@ -20730,7 +20730,7 @@ const SavedSearch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bank, bill, card, cash, coin, commerce, cost, credit, currency, dollars, finance, money, online, pay, payment, pig, piggy, savings, symbol
  *
- * popularity: 56376
+ * popularity: 56428
  */
 const Savings = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="savings" {...props} />
@@ -20743,7 +20743,7 @@ const Savings = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: measure, monitor, scale, weight
  *
- * popularity: 4955
+ * popularity: 4967
  */
 const Scale = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="scale" {...props} />
@@ -20756,7 +20756,7 @@ const Scale = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: copy, device, hardware, machine, scan, scanner
  *
- * popularity: 2519
+ * popularity: 2521
  */
 const Scanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="scanner" {...props} />
@@ -20769,7 +20769,7 @@ const Scanner = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, circles, data, diagram, dot, graph, infographic, measure, metrics, plot, scatter, statistics, tracking
  *
- * popularity: 5444
+ * popularity: 5448
  */
 const ScatterPlot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="scatter_plot" {...props} />
@@ -20782,7 +20782,7 @@ const ScatterPlot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, date, history, recent, schedule, time
  *
- * popularity: 191742
+ * popularity: 191926
  */
 const Schedule = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="schedule" {...props} />
@@ -20795,7 +20795,7 @@ const Schedule = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, clock, date, email, letter, mail, remember, schedule, send, share, time
  *
- * popularity: 11716
+ * popularity: 11724
  */
 const ScheduleSend = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="schedule_send" {...props} />
@@ -20808,7 +20808,7 @@ const ScheduleSend = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, flow, graph, infographic, measure, metrics, schema, squares, statistics, tracking
  *
- * popularity: 6766
+ * popularity: 6774
  */
 const Schema = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="schema" {...props} />
@@ -20821,7 +20821,7 @@ const Schema = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: academy, achievement, cap, class, college, education, graduation, hat, knowledge, learning, school, university
  *
- * popularity: 92427
+ * popularity: 92501
  */
 const School = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="school" {...props} />
@@ -20834,7 +20834,7 @@ const School = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beaker, chemical, chemistry, experiment, flask, glass, laboratory, research, science, tube
  *
- * popularity: 24913
+ * popularity: 24931
  */
 const Science = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="science" {...props} />
@@ -20847,7 +20847,7 @@ const Science = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2k, alphabet, analytics, bar, bars, character, chart, data, diagram, digit, font, graph, infographic, letter, measure, metrics, number, score, statistics, symbol, text, tracking, type
  *
- * popularity: 2602
+ * popularity: 2604
  */
 const Score = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="score" {...props} />
@@ -20860,7 +20860,7 @@ const Score = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: board, points, score, scoreboard, sports
  *
- * popularity: 1675
+ * popularity: 1676
  */
 const Scoreboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="scoreboard" {...props} />
@@ -20873,7 +20873,7 @@ const Scoreboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, device, hardware, iOS, landscape, lock, mobile, phone, rotate, screen, tablet
  *
- * popularity: 1024
+ * popularity: 1027
  */
 const ScreenLockLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_lock_landscape" {...props} />
@@ -20886,7 +20886,7 @@ const ScreenLockLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, device, hardware, iOS, lock, mobile, phone, portrait, rotate, screen, tablet
  *
- * popularity: 1502
+ * popularity: 1505
  */
 const ScreenLockPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_lock_portrait" {...props} />
@@ -20899,7 +20899,7 @@ const ScreenLockPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, device, hardware, iOS, lock, mobile, phone, rotate, rotation, screen, tablet, turn
  *
- * popularity: 1053
+ * popularity: 1054
  */
 const ScreenLockRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_lock_rotation" {...props} />
@@ -20912,7 +20912,7 @@ const ScreenLockRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, device, hardware, iOS, mobile, phone, rotate, rotation, screen, tablet, turn
  *
- * popularity: 3999
+ * popularity: 4001
  */
 const ScreenRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_rotation" {...props} />
@@ -20925,7 +20925,7 @@ const ScreenRotation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, device, hardware, iOS, mobile, phone, rotate, rotation, screen, tablet, turn
  *
- * popularity: 807
+ * popularity: 809
  */
 const ScreenRotationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_rotation_alt" {...props} />
@@ -20938,7 +20938,7 @@ const ScreenRotationAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, desktop, device, hardware, iOS, lock, monitor, rotate, screen, web
  *
- * popularity: 4250
+ * popularity: 4253
  */
 const ScreenSearchDesktop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_search_desktop" {...props} />
@@ -20951,7 +20951,7 @@ const ScreenSearchDesktop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, cast, chrome, device, display, hardware, iOS, laptop, mac, mirror, monitor, screen, share, stream, streaming, web, window
  *
- * popularity: 6849
+ * popularity: 6853
  */
 const ScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screen_share" {...props} />
@@ -20964,7 +20964,7 @@ const ScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, crop, device, hardware, iOS, mobile, phone, screen, screenshot, tablet
  *
- * popularity: 2873
+ * popularity: 2874
  */
 const Screenshot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screenshot" {...props} />
@@ -20977,7 +20977,7 @@ const Screenshot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, desktop, device, display, hardware, iOS, mac, monitor, screen, screengrab, screenshot, web, window
  *
- * popularity: 1542
+ * popularity: 1550
  */
 const ScreenshotMonitor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="screenshot_monitor" {...props} />
@@ -20990,7 +20990,7 @@ const ScreenshotMonitor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: diving, entertainment, exercise, hobby, scuba, social, swim, swimming
  *
- * popularity: 989
+ * popularity: 992
  */
 const ScubaDiving = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="scuba_diving" {...props} />
@@ -21003,7 +21003,7 @@ const ScubaDiving = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, camera, card, character, data, device, digital, drive, flash, font, image, letter, memory, photo, sd, secure, symbol, text, type
  *
- * popularity: 1285
+ * popularity: 1289
  */
 const Sd = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sd" {...props} />
@@ -21016,7 +21016,7 @@ const Sd = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, card, digital, memory, photos, sd, secure, storage
  *
- * popularity: 2744
+ * popularity: 2746
  */
 const SdCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sd_card" {...props} />
@@ -21029,7 +21029,7 @@ const SdCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, camera, card, caution, danger, digital, error, exclamation, important, mark, memory, notification, photos, sd, secure, storage, symbol, warning
  *
- * popularity: 1607
+ * popularity: 1610
  */
 const SdCardAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sd_card_alert" {...props} />
@@ -21042,7 +21042,7 @@ const SdCardAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, card, data, digital, memory, sd, secure, storage
  *
- * popularity: 1920
+ * popularity: 1927
  */
 const SdStorage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sd_storage" {...props} />
@@ -21055,7 +21055,7 @@ const SdStorage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: filter, find, glass, look, magnify, magnifying, search, see
  *
- * popularity: 800593
+ * popularity: 801128
  */
 const Search = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="search" {...props} />
@@ -21068,7 +21068,7 @@ const Search = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, disabled, enabled, find, glass, look, magnify, magnifying, off, on, search, see, slash, stop, x
  *
- * popularity: 9082
+ * popularity: 9093
  */
 const SearchOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="search_off" {...props} />
@@ -21081,7 +21081,7 @@ const SearchOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, privacy, private, protect, protection, security, shield, verified
  *
- * popularity: 30003
+ * popularity: 30038
  */
 const Security = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="security" {...props} />
@@ -21094,7 +21094,7 @@ const Security = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, device, down, download, hardware, iOS, mobile, phone, security, tablet, update
  *
- * popularity: 2032
+ * popularity: 2034
  */
 const SecurityUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="security_update" {...props} />
@@ -21107,7 +21107,7 @@ const SecurityUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, checkmark, device, good, hardware, iOS, mobile, ok, phone, security, tablet, tick, update
  *
- * popularity: 2643
+ * popularity: 2646
  */
 const SecurityUpdateGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="security_update_good" {...props} />
@@ -21120,7 +21120,7 @@ const SecurityUpdateGood = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, Android, OS, alert, attention, caution, danger, device, download, error, exclamation, hardware, iOS, important, mark, mobile, notification, phone, security, symbol, tablet, update, warning
  *
- * popularity: 1614
+ * popularity: 1615
  */
 const SecurityUpdateWarning = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="security_update_warning" {...props} />
@@ -21133,7 +21133,7 @@ const SecurityUpdateWarning = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alignment, fonts, format, lines, list, paragraph, part, piece, rule, rules, segment, style, text
  *
- * popularity: 12309
+ * popularity: 12319
  */
 const Segment = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="segment" {...props} />
@@ -21146,7 +21146,7 @@ const Segment = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: all, dash, dashed, select, selection, square, tool
  *
- * popularity: 7383
+ * popularity: 7390
  */
 const SelectAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="select_all" {...props} />
@@ -21159,7 +21159,7 @@ const SelectAll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, calm, care, chi, human, improvement, meditate, meditation, people, person, relax, self, sitting, wellbeing, yoga, zen
  *
- * popularity: 17338
+ * popularity: 17349
  */
 const SelfImprovement = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="self_improvement" {...props} />
@@ -21172,7 +21172,7 @@ const SelfImprovement = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, card, cart, cash, coin, commerce, credit, currency, dollars, money, online, pay, payment, price, sell, shopping, tag
  *
- * popularity: 34376
+ * popularity: 34414
  */
 const Sell = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sell" {...props} />
@@ -21185,7 +21185,7 @@ const Sell = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: email, mail, message, paper, plane, reply, right, send, share
  *
- * popularity: 120211
+ * popularity: 120309
  */
 const Send = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="send" {...props} />
@@ -21198,7 +21198,7 @@ const Send = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, arrow, down, download, email, letter, mail, save, send, share
  *
- * popularity: 4463
+ * popularity: 4468
  */
 const SendAndArchive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="send_and_archive" {...props} />
@@ -21211,7 +21211,7 @@ const SendAndArchive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: deliver, dispatch, envelop, extension, mail, message, schedule, send, time
  *
- * popularity: 1537
+ * popularity: 1539
  */
 const SendTimeExtension = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="send_time_extension" {...props} />
@@ -21224,7 +21224,7 @@ const SendTimeExtension = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, device, export, forward, hardware, iOS, mobile, phone, right, send, share, tablet, to
  *
- * popularity: 4486
+ * popularity: 4491
  */
 const SendToMobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="send_to_mobile" {...props} />
@@ -21237,7 +21237,7 @@ const SendToMobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, security, security system
  *
- * popularity: 6757
+ * popularity: 6766
  */
 const SensorDoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sensor_door" {...props} />
@@ -21250,7 +21250,7 @@ const SensorDoor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, body response, connection, fitbit, human, network, people, person, scan, sensors, signal, smart body scan sensor, wireless
  *
- * popularity: 1786
+ * popularity: 1794
  */
 const SensorOccupied = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sensor_occupied" {...props} />
@@ -21263,7 +21263,7 @@ const SensorOccupied = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, security, security system
  *
- * popularity: 3565
+ * popularity: 3569
  */
 const SensorWindow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sensor_window" {...props} />
@@ -21276,7 +21276,7 @@ const SensorWindow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, network, scan, sensors, signal, wireless
  *
- * popularity: 19889
+ * popularity: 19909
  */
 const Sensors = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sensors" {...props} />
@@ -21289,7 +21289,7 @@ const Sensors = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, disabled, enabled, network, off, on, scan, sensors, signal, slash, wireless
  *
- * popularity: 3465
+ * popularity: 3467
  */
 const SensorsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sensors_off" {...props} />
@@ -21302,7 +21302,7 @@ const SensorsOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angry, disappointed, dislike, dissatisfied, emotions, expressions, face, feelings, frown, mood, person, sad, sentiment, survey, unhappy, unsatisfied, upset
  *
- * popularity: 20926
+ * popularity: 20939
  */
 const SentimentDissatisfied = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sentiment_dissatisfied" {...props} />
@@ -21315,7 +21315,7 @@ const SentimentDissatisfied = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emotionless, emotions, expressions, face, feelings, fine, indifference, mood, neutral, okay, person, sentiment, survey
  *
- * popularity: 11054
+ * popularity: 11060
  */
 const SentimentNeutral = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sentiment_neutral" {...props} />
@@ -21328,7 +21328,7 @@ const SentimentNeutral = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emotions, expressions, face, feelings, glad, happiness, happy, like, mood, person, pleased, satisfied, sentiment, smile, smiling, survey
  *
- * popularity: 26125
+ * popularity: 26136
  */
 const SentimentSatisfied = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sentiment_satisfied" {...props} />
@@ -21341,7 +21341,7 @@ const SentimentSatisfied = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, alt, emoji, face, happy, human, people, person, profile, satisfied, sentiment, smile, user
  *
- * popularity: 27525
+ * popularity: 27563
  */
 const SentimentSatisfiedAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sentiment_satisfied_alt" {...props} />
@@ -21354,7 +21354,7 @@ const SentimentSatisfiedAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angry, disappointed, dislike, dissatisfied, emotions, expressions, face, feelings, mood, person, sad, sentiment, sorrow, survey, unhappy, unsatisfied, upset, very
  *
- * popularity: 19381
+ * popularity: 19396
  */
 const SentimentVeryDissatisfied = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -21367,7 +21367,7 @@ const SentimentVeryDissatisfied = (
  *
  * tags: emotions, expressions, face, feelings, glad, happiness, happy, like, mood, person, pleased, satisfied, sentiment, smile, smiling, survey, very
  *
- * popularity: 28181
+ * popularity: 28219
  */
 const SentimentVerySatisfied = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -21380,7 +21380,7 @@ const SentimentVerySatisfied = (
  *
  * tags: chopsticks, dinner, fish, food, lunch, meal, restaurant, set, teishoku
  *
- * popularity: 4700
+ * popularity: 4704
  */
 const SetMeal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="set_meal" {...props} />
@@ -21393,7 +21393,7 @@ const SetMeal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: application, change, details, gear, info, information, options, personal, service, settings
  *
- * popularity: 558164
+ * popularity: 558635
  */
 const Settings = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings" {...props} />
@@ -21406,7 +21406,7 @@ const Settings = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, body, details, human, information, people, person, personal, preferences, profile, settings, user
  *
- * popularity: 13384
+ * popularity: 13393
  */
 const SettingsAccessibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_accessibility" {...props} />
@@ -21419,7 +21419,7 @@ const SettingsAccessibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: application, change, details, gear, info, information, options, personal, service, settings
  *
- * popularity: 22557
+ * popularity: 22583
  */
 const SettingsApplications = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_applications" {...props} />
@@ -21432,7 +21432,7 @@ const SettingsApplications = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backup, backwards, refresh, restore, reverse, rotate, settings
  *
- * popularity: 13042
+ * popularity: 13059
  */
 const SettingsBackupRestore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_backup_restore" {...props} />
@@ -21445,7 +21445,7 @@ const SettingsBackupRestore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connect, connection, connectivity, device, settings, signal, symbol
  *
- * popularity: 4253
+ * popularity: 4258
  */
 const SettingsBluetooth = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_bluetooth" {...props} />
@@ -21458,7 +21458,7 @@ const SettingsBluetooth = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brightness, dark, filter, light, mode, setting, settings
  *
- * popularity: 5685
+ * popularity: 5690
  */
 const SettingsBrightness = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_brightness" {...props} />
@@ -21471,7 +21471,7 @@ const SettingsBrightness = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, hardware, iOS, mobile, phone, settings, tablet
  *
- * popularity: 3437
+ * popularity: 3439
  */
 const SettingsCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_cell" {...props} />
@@ -21484,7 +21484,7 @@ const SettingsCell = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, computer, connect, connection, connectivity, dots, ethernet, internet, network, settings, wifi
  *
- * popularity: 11378
+ * popularity: 11393
  */
 const SettingsEthernet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_ethernet" {...props} />
@@ -21497,7 +21497,7 @@ const SettingsEthernet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplay, antenna, arrows, cast, computer, connect, connection, connectivity, dots, input, internet, network, screencast, settings, stream, wifi, wireless
  *
- * popularity: 9079
+ * popularity: 9084
  */
 const SettingsInputAntenna = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_input_antenna" {...props} />
@@ -21510,7 +21510,7 @@ const SettingsInputAntenna = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, av, cable, cables, component, connect, connection, connectivity, input, internet, plug, points, settings, video, wifi
  *
- * popularity: 8347
+ * popularity: 8353
  */
 const SettingsInputComponent = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -21523,7 +21523,7 @@ const SettingsInputComponent = (
  *
  * tags: component, composite, connection, connectivity, input, plug, points, settings
  *
- * popularity: 4907
+ * popularity: 4909
  */
 const SettingsInputComposite = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -21536,7 +21536,7 @@ const SettingsInputComposite = (
  *
  * tags: cable, connection, connectivity, definition, hdmi, high, input, plug, plugin, points, settings, video, wire
  *
- * popularity: 3597
+ * popularity: 3599
  */
 const SettingsInputHdmi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_input_hdmi" {...props} />
@@ -21549,7 +21549,7 @@ const SettingsInputHdmi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cable, connection, connectivity, definition, input, plug, plugin, points, settings, standard, svideo, video
  *
- * popularity: 2815
+ * popularity: 2817
  */
 const SettingsInputSvideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_input_svideo" {...props} />
@@ -21562,7 +21562,7 @@ const SettingsInputSvideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, expand, image, photo, picture, scan, settings
  *
- * popularity: 5196
+ * popularity: 5200
  */
 const SettingsOverscan = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_overscan" {...props} />
@@ -21575,7 +21575,7 @@ const SettingsOverscan = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, device, hardware, mobile, phone, settings, telephone
  *
- * popularity: 16137
+ * popularity: 16151
  */
 const SettingsPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_phone" {...props} />
@@ -21588,7 +21588,7 @@ const SettingsPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: info, information, off, on, power, save, settings, shutdown
  *
- * popularity: 6481
+ * popularity: 6486
  */
 const SettingsPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_power" {...props} />
@@ -21601,7 +21601,7 @@ const SettingsPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bluetooth, connection, connectivity, device, remote, settings, signal, wifi, wireless
  *
- * popularity: 8123
+ * popularity: 8129
  */
 const SettingsRemote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_remote" {...props} />
@@ -21614,7 +21614,7 @@ const SettingsRemote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, artificial, automatic, automation, change, custom, details, gear, genai, intelligence, magic, options, recommendation, service, settings, smart, spark, sparkle, star, suggest, suggestion, system
  *
- * popularity: 28763
+ * popularity: 28787
  */
 const SettingsSuggest = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_suggest" {...props} />
@@ -21627,7 +21627,7 @@ const SettingsSuggest = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backup, cloud, daydream, drive, settings, storage, system
  *
- * popularity: 2429
+ * popularity: 2435
  */
 const SettingsSystemDaydream = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -21640,7 +21640,7 @@ const SettingsSystemDaydream = (
  *
  * tags: mic, microphone, record, recorder, settings, speaker, voice
  *
- * popularity: 7481
+ * popularity: 7483
  */
 const SettingsVoice = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="settings_voice" {...props} />
@@ -21653,7 +21653,7 @@ const SettingsVoice = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, climate, cold, crisis, danger, disaster, error, exclamation, important, notification, severe, snow, snowflake, warning, weather, winter
  *
- * popularity: 919
+ * popularity: 922
  */
 const SevereCold = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="severe_cold" {...props} />
@@ -21666,7 +21666,7 @@ const SevereCold = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, draw, edit, editing, line, shape, square
  *
- * popularity: 761
+ * popularity: 766
  */
 const ShapeLine = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shape_line" {...props} />
@@ -21679,7 +21679,7 @@ const ShapeLine = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: DISABLE_IOS, android, connect, contect, disable_ios, link, media, multimedia, multiple, network, options, share, shared, sharing, social
  *
- * popularity: 116226
+ * popularity: 116329
  */
 const Share = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="share" {...props} />
@@ -21692,7 +21692,7 @@ const Share = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dash, dashed, destination, direction, gps, location, maps, pin, place, share, stop, tracking
  *
- * popularity: 8648
+ * popularity: 8659
  */
 const ShareLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="share_location" {...props} />
@@ -21705,7 +21705,7 @@ const ShareLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, privacy, private, protect, protection, security, shield, verified
  *
- * popularity: 25537
+ * popularity: 25557
  */
 const Shield = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shield" {...props} />
@@ -21718,7 +21718,7 @@ const Shield = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certified, do not disturb, moon, night, privacy, private, protect, protection, security, shield, verified
  *
- * popularity: 2732
+ * popularity: 2733
  */
 const ShieldMoon = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shield_moon" {...props} />
@@ -21731,7 +21731,7 @@ const ShieldMoon = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, bill, buy, card, cart, cash, coin, commerce, credit, currency, dollars, google, money, online, pay, payment, play, shop, shopping, store
  *
- * popularity: 9105
+ * popularity: 9114
  */
 const Shop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shop" {...props} />
@@ -21744,7 +21744,7 @@ const Shop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, add, arrow, buy, cart, google, play, purchase, shop, shopping
  *
- * popularity: 2532
+ * popularity: 2533
  */
 const Shop2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shop_2" {...props} />
@@ -21757,7 +21757,7 @@ const Shop2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, arrow, buy, cart, google, play, purchase, shop, shopping, two
  *
- * popularity: 4037
+ * popularity: 4040
  */
 const ShopTwo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shop_two" {...props} />
@@ -21770,7 +21770,7 @@ const ShopTwo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, bill, business, buy, card, cart, cash, coin, commerce, credit, currency, dollars, money, online, pay, payment, shop, shopping, store, storefront
  *
- * popularity: 93362
+ * popularity: 93440
  */
 const ShoppingBag = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shopping_bag" {...props} />
@@ -21783,7 +21783,7 @@ const ShoppingBag = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, basket, bill, buy, card, cart, cash, checkout, coin, commerce, credit, currency, dollars, money, online, pay, payment, shopping
  *
- * popularity: 43240
+ * popularity: 43282
  */
 const ShoppingBasket = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shopping_basket" {...props} />
@@ -21796,7 +21796,7 @@ const ShoppingBasket = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: add, bill, buy, card, cart, cash, checkout, coin, commerce, credit, currency, dollars, money, online, pay, payment, shopping
  *
- * popularity: 295990
+ * popularity: 296234
  */
 const ShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shopping_cart" {...props} />
@@ -21809,7 +21809,7 @@ const ShoppingCart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, cart, cash, checkout, coin, commerce, currency, dollars, money, online, pay, payment, right, shopping
  *
- * popularity: 9448
+ * popularity: 9468
  */
 const ShoppingCartCheckout = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shopping_cart_checkout" {...props} />
@@ -21822,7 +21822,7 @@ const ShoppingCartCheckout = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: brief, comment, doc, document, note, short, text, write, writing
  *
- * popularity: 3469
+ * popularity: 3471
  */
 const ShortText = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="short_text" {...props} />
@@ -21835,7 +21835,7 @@ const ShortText = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, direction, forward, right, shortcut
  *
- * popularity: 7432
+ * popularity: 7437
  */
 const Shortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shortcut" {...props} />
@@ -21848,7 +21848,7 @@ const Shortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic, line, measure, metrics, presentation, show chart, statistics, tracking
  *
- * popularity: 25164
+ * popularity: 25187
  */
 const ShowChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="show_chart" {...props} />
@@ -21861,7 +21861,7 @@ const ShowChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bath, bathroom, closet, home, house, place, plumbing, room, shower, sprinkler, wash, water, wc
  *
- * popularity: 9816
+ * popularity: 9834
  */
 const Shower = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shower" {...props} />
@@ -21874,7 +21874,7 @@ const Shower = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, music, random, shuffle, video
  *
- * popularity: 12487
+ * popularity: 12499
  */
 const Shuffle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shuffle" {...props} />
@@ -21887,7 +21887,7 @@ const Shuffle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, control, controls, music, on, random, shuffle, video
  *
- * popularity: 2543
+ * popularity: 2546
  */
 const ShuffleOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shuffle_on" {...props} />
@@ -21900,7 +21900,7 @@ const ShuffleOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aperture, camera, duration, image, lens, photo, photography, photos, picture, setting, shutter, speed, stop, time, timer, watch
  *
- * popularity: 2622
+ * popularity: 2625
  */
 const ShutterSpeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="shutter_speed" {...props} />
@@ -21913,7 +21913,7 @@ const ShutterSpeed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: covid, discomfort, emotions, expressions, face, feelings, fever, flu, ill, mood, pain, person, sick, survey, upset
  *
- * popularity: 6101
+ * popularity: 6107
  */
 const Sick = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sick" {...props} />
@@ -21926,7 +21926,7 @@ const Sick = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: communication, deaf, fingers, gesture, hand, language, sign
  *
- * popularity: 1364
+ * popularity: 1367
  */
 const SignLanguage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sign_language" {...props} />
@@ -21939,7 +21939,7 @@ const SignLanguage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 0, bar, cell, cellular, data, internet, mobile, network, phone, signal, speed, wifi, wireless
  *
- * popularity: 2069
+ * popularity: 2070
  */
 const SignalCellular0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_0_bar" {...props} />
@@ -21952,7 +21952,7 @@ const SignalCellular0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, bar, cell, cellular, data, internet, mobile, network, phone, signal, speed, wifi, wireless
  *
- * popularity: 5392
+ * popularity: 5394
  */
 const SignalCellular4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_4_bar" {...props} />
@@ -21965,7 +21965,7 @@ const SignalCellular4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, analytics, bar, cell, cellular, chart, data, diagram, graph, infographic, internet, measure, metrics, mobile, network, phone, signal, statistics, tracking, wifi, wireless
  *
- * popularity: 31923
+ * popularity: 31956
  */
 const SignalCellularAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_alt" {...props} />
@@ -21978,7 +21978,7 @@ const SignalCellularAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, bar, cell, cellular, data, internet, mobile, network, phone, signal, speed, wifi, wireless
  *
- * popularity: 898
+ * popularity: 903
  */
 const SignalCellularAlt1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_alt_1_bar" {...props} />
@@ -21991,7 +21991,7 @@ const SignalCellularAlt1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, bar, cell, cellular, data, internet, mobile, network, phone, signal, speed, wifi, wireless
  *
- * popularity: 897
+ * popularity: 900
  */
 const SignalCellularAlt2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_alt_2_bar" {...props} />
@@ -22004,7 +22004,7 @@ const SignalCellularAlt2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, 0, alert, attention, bar, caution, cell, cellular, connected, danger, data, error, exclamation, important, internet, mark, mobile, network, no, notification, phone, signal, symbol, warning, wifi, wireless
  *
- * popularity: 1569
+ * popularity: 1572
  */
 const SignalCellularConnectedNoInternet0Bar = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22022,7 +22022,7 @@ const SignalCellularConnectedNoInternet0Bar = (
  *
  * tags: !, 4, alert, attention, bar, caution, cell, cellular, connected, danger, data, error, exclamation, important, internet, mark, mobile, network, no, notification, phone, signal, symbol, warning, wifi, wireless
  *
- * popularity: 1756
+ * popularity: 1759
  */
 const SignalCellularConnectedNoInternet4Bar = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22040,7 +22040,7 @@ const SignalCellularConnectedNoInternet4Bar = (
  *
  * tags: camera, card, cellular, chip, device, disabled, enabled, memory, no, off, offline, on, phone, signal, sim, slash, storage
  *
- * popularity: 928
+ * popularity: 933
  */
 const SignalCellularNoSim = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_no_sim" {...props} />
@@ -22053,7 +22053,7 @@ const SignalCellularNoSim = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, clear, data, internet, mobile, network, no, nodata, offline, phone, quit, remove, signal, wifi, wireless, x
  *
- * popularity: 1255
+ * popularity: 1261
  */
 const SignalCellularNodata = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_nodata" {...props} />
@@ -22066,7 +22066,7 @@ const SignalCellularNodata = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, internet, mobile, network, null, phone, signal, wifi, wireless
  *
- * popularity: 1196
+ * popularity: 1197
  */
 const SignalCellularNull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_null" {...props} />
@@ -22079,7 +22079,7 @@ const SignalCellularNull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, data, disabled, enabled, internet, mobile, network, off, offline, on, phone, signal, slash, wifi, wireless
  *
- * popularity: 1247
+ * popularity: 1248
  */
 const SignalCellularOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_cellular_off" {...props} />
@@ -22092,7 +22092,7 @@ const SignalCellularOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 0, bar, cell, cellular, data, internet, mobile, network, phone, signal, wifi, wireless
  *
- * popularity: 2899
+ * popularity: 2901
  */
 const SignalWifi0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_wifi_0_bar" {...props} />
@@ -22105,7 +22105,7 @@ const SignalWifi0Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, bar, cell, cellular, data, internet, mobile, network, phone, signal, wifi, wireless
  *
- * popularity: 6728
+ * popularity: 6733
  */
 const SignalWifi4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_wifi_4_bar" {...props} />
@@ -22118,7 +22118,7 @@ const SignalWifi4Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, bar, cell, cellular, data, internet, lock, locked, mobile, network, password, phone, privacy, private, protection, safety, secure, security, signal, wifi, wireless
  *
- * popularity: 1243
+ * popularity: 1244
  */
 const SignalWifi4BarLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_wifi_4_bar_lock" {...props} />
@@ -22131,7 +22131,7 @@ const SignalWifi4BarLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bad, bar, cancel, cell, cellular, clear, close, data, exit, internet, mobile, network, no, phone, quit, remove, signal, stop, wifi, wireless, x
  *
- * popularity: 2343
+ * popularity: 2344
  */
 const SignalWifiBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_wifi_bad" {...props} />
@@ -22144,7 +22144,7 @@ const SignalWifiBad = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, cell, cellular, connected, data, internet, mobile, network, no, offline, phone, signal, wifi, wireless, x
  *
- * popularity: 2175
+ * popularity: 2179
  */
 const SignalWifiConnectedNoInternet4 = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22159,7 +22159,7 @@ const SignalWifiConnectedNoInternet4 = (
  *
  * tags: cell, cellular, data, disabled, enabled, internet, mobile, network, off, on, phone, signal, slash, speed, wifi, wireless
  *
- * popularity: 2517
+ * popularity: 2519
  */
 const SignalWifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signal_wifi_off" {...props} />
@@ -22172,7 +22172,7 @@ const SignalWifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 4, bar, cell, cellular, data, internet, mobile, network, phone, signal, speed, statusbar, wifi, wireless
  *
- * popularity: 4126
+ * popularity: 4129
  */
 const SignalWifiStatusbar4Bar = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22185,7 +22185,7 @@ const SignalWifiStatusbar4Bar = (
  *
  * tags: !, 4, alert, attention, caution, cell, cellular, connected, danger, data, error, exclamation, important, internet, mark, mobile, network, no, notification, phone, signal, speed, statusbar, symbol, warning, wifi, wireless
  *
- * popularity: 3917
+ * popularity: 3920
  */
 const SignalWifiStatusbarConnectedNoInternet4 = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22203,7 +22203,7 @@ const SignalWifiStatusbarConnectedNoInternet4 = (
  *
  * tags: cell, cellular, data, internet, mobile, network, null, phone, signal, speed, statusbar, wifi, wireless
  *
- * popularity: 1962
+ * popularity: 1964
  */
 const SignalWifiStatusbarNull = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -22216,7 +22216,7 @@ const SignalWifiStatusbarNull = (
  *
  * tags: arrow, direction, left, maps, right, signal, signs, street, traffic
  *
- * popularity: 3024
+ * popularity: 3033
  */
 const Signpost = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="signpost" {...props} />
@@ -22229,7 +22229,7 @@ const Signpost = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, card, chip, device, memory, phone, sim, storage
  *
- * popularity: 4010
+ * popularity: 4013
  */
 const SimCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sim_card" {...props} />
@@ -22242,7 +22242,7 @@ const SimCard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, camera, card, caution, danger, digital, error, exclamation, important, mark, memory, notification, photos, sd, secure, storage, symbol, warning
  *
- * popularity: 1561
+ * popularity: 1566
  */
 const SimCardAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sim_card_alert" {...props} />
@@ -22255,7 +22255,7 @@ const SimCardAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, camera, card, chip, device, down, download, memory, phone, sim, storage
  *
- * popularity: 4843
+ * popularity: 4857
  */
 const SimCardDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sim_card_download" {...props} />
@@ -22268,7 +22268,7 @@ const SimCardDownload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bed, bedroom, double, furniture, home, hotel, house, king, night, pillows, queen, rest, room, single, sleep, twin
  *
- * popularity: 3330
+ * popularity: 3335
  */
 const SingleBed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="single_bed" {...props} />
@@ -22281,7 +22281,7 @@ const SingleBed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, call, character, dialer, font, initiation, internet, letter, over, phone, protocol, routing, session, sip, symbol, text, type, voice
  *
- * popularity: 1373
+ * popularity: 1374
  */
 const Sip = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sip" {...props} />
@@ -22294,7 +22294,7 @@ const Sip = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, entertainment, exercise, hobby, human, people, person, skate, skateboarder, skateboarding, social, sports
  *
- * popularity: 3267
+ * popularity: 3269
  */
 const Skateboarding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="skateboarding" {...props} />
@@ -22307,7 +22307,7 @@ const Skateboarding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, control, controls, music, next, play, previous, skip, video
  *
- * popularity: 31412
+ * popularity: 31446
  */
 const SkipNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="skip_next" {...props} />
@@ -22320,7 +22320,7 @@ const SkipNext = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, control, controls, music, next, play, previous, skip, video
  *
- * popularity: 22777
+ * popularity: 22813
  */
 const SkipPrevious = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="skip_previous" {...props} />
@@ -22333,7 +22333,7 @@ const SkipPrevious = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, entertainment, exercise, hobby, human, people, person, sled, sledding, sledge, snow, social, sports, travel, winter
  *
- * popularity: 1748
+ * popularity: 1750
  */
 const Sledding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sledding" {...props} />
@@ -22346,7 +22346,7 @@ const Sledding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: movie, photos, play, slideshow, square, video, view
  *
- * popularity: 9277
+ * popularity: 9282
  */
 const Slideshow = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="slideshow" {...props} />
@@ -22359,7 +22359,7 @@ const Slideshow = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, control, controls, dash, dashed, motion, music, play, slow, speed, video
  *
- * popularity: 3561
+ * popularity: 3566
  */
 const SlowMotionVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="slow_motion_video" {...props} />
@@ -22372,7 +22372,7 @@ const SlowMotionVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: action, ai, artificial, automatic, automation, button, components, composer, custom, function, genai, intelligence, interface, magic, site, smart, spark, sparkle, special, star, stars, ui, ux, web, website
  *
- * popularity: 6500
+ * popularity: 6505
  */
 const SmartButton = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smart_button" {...props} />
@@ -22385,7 +22385,7 @@ const SmartButton = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: airplay, cast, chrome, connect, device, display, play, screen, screencast, smart, stream, television, tv, video, wireless
  *
- * popularity: 26195
+ * popularity: 26212
  */
 const SmartDisplay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smart_display" {...props} />
@@ -22398,7 +22398,7 @@ const SmartDisplay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, airplay, cast, cell, connect, device, hardware, iOS, mobile, phone, screen, screencast, smart, stream, tablet, video
  *
- * popularity: 1352
+ * popularity: 1353
  */
 const SmartScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smart_screen" {...props} />
@@ -22411,7 +22411,7 @@ const SmartScreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bot, droid, games, robot, smart, toy
  *
- * popularity: 17691
+ * popularity: 17720
  */
 const SmartToy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smart_toy" {...props} />
@@ -22424,7 +22424,7 @@ const SmartToy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, call, cell, chat, device, hardware, iOS, mobile, phone, smartphone, tablet, text
  *
- * popularity: 43916
+ * popularity: 43952
  */
 const Smartphone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smartphone" {...props} />
@@ -22437,7 +22437,7 @@ const Smartphone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cigarette, disabled, enabled, free, never, no, off, on, places, prohibited, slash, smoke, smoking, tobacco, warning, zone
  *
- * popularity: 2622
+ * popularity: 2624
  */
 const SmokeFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smoke_free" {...props} />
@@ -22450,7 +22450,7 @@ const SmokeFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: allowed, cigarette, places, rooms, smoke, smoking, tobacco, zone
  *
- * popularity: 3285
+ * popularity: 3293
  */
 const SmokingRooms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="smoking_rooms" {...props} />
@@ -22463,7 +22463,7 @@ const SmokingRooms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, bubble, chat, communication, conversation, dots, message, more, service, sms, speech, three
  *
- * popularity: 20660
+ * popularity: 20674
  */
 const Sms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sms" {...props} />
@@ -22476,7 +22476,7 @@ const Sms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, announcement, attention, caution, chat, chat bubble, comment, communicate, communication, conversation, danger, error, exclamation, failed, feedback, important, mark, message, notification, service, sms, speech, symbol, warning
  *
- * popularity: 4884
+ * popularity: 4891
  */
 const SmsFailed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sms_failed" {...props} />
@@ -22489,7 +22489,7 @@ const SmsFailed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, folder, sheet, slide, snippet, storage
  *
- * popularity: 3674
+ * popularity: 3678
  */
 const SnippetFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="snippet_folder" {...props} />
@@ -22502,7 +22502,7 @@ const SnippetFolder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, bell, clock, duration, notification, snooze, time, timer, watch, z
  *
- * popularity: 3117
+ * popularity: 3119
  */
 const Snooze = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="snooze" {...props} />
@@ -22515,7 +22515,7 @@ const Snooze = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, entertainment, exercise, hobby, human, people, person, snow, snowboarding, social, sports, travel, winter
  *
- * popularity: 2327
+ * popularity: 2328
  */
 const Snowboarding = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="snowboarding" {...props} />
@@ -22528,7 +22528,7 @@ const Snowboarding = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, direction, skimobile, snow, snowmobile, social, sports, transportation, travel, vehicle, winter
  *
- * popularity: 1274
+ * popularity: 1275
  */
 const Snowmobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="snowmobile" {...props} />
@@ -22541,7 +22541,7 @@ const Snowmobile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: body, human, people, person, snow, snowshoe, snowshoeing, sports, travel, walking, winter
  *
- * popularity: 2050
+ * popularity: 2054
  */
 const Snowshoeing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="snowshoeing" {...props} />
@@ -22554,7 +22554,7 @@ const Snowshoeing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bathroom, clean, fingers, gesture, hand, soap, wash, wc
  *
- * popularity: 2800
+ * popularity: 2809
  */
 const Soap = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="soap" {...props} />
@@ -22567,7 +22567,7 @@ const Soap = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 6, apart, body, distance, ft, human, people, person, social, space
  *
- * popularity: 5200
+ * popularity: 5202
  */
 const SocialDistance = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="social_distance" {...props} />
@@ -22580,7 +22580,7 @@ const SocialDistance = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: eco, energy, heat, nest, power, solar, sun, sunny
  *
- * popularity: 2934
+ * popularity: 2947
  */
 const SolarPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="solar_power" {...props} />
@@ -22593,7 +22593,7 @@ const SolarPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: filter, find, lines, list, organize, sort
  *
- * popularity: 48901
+ * popularity: 48930
  */
 const Sort = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sort" {...props} />
@@ -22606,7 +22606,7 @@ const Sort = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, alphabetize, az, by alpha, character, font, letter, list, order, organize, sort, symbol, text, type
  *
- * popularity: 11284
+ * popularity: 11297
  */
 const SortByAlpha = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sort_by_alpha" {...props} />
@@ -22619,7 +22619,7 @@ const SortByAlpha = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: font, help, letters, save, sos, text, type
  *
- * popularity: 1066
+ * popularity: 1079
  */
 const Sos = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sos" {...props} />
@@ -22632,7 +22632,7 @@ const Sos = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: breakfast, brunch, dining, food, kitchen, lunch, meal, soup
  *
- * popularity: 3057
+ * popularity: 3062
  */
 const SoupKitchen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="soup_kitchen" {...props} />
@@ -22645,7 +22645,7 @@ const SoupKitchen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: code, composer, content, creation, data, doc, document, file, folder, mode, source, storage, view
  *
- * popularity: 22515
+ * popularity: 22528
  */
 const Source = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="source" {...props} />
@@ -22658,7 +22658,7 @@ const Source = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, down, maps, navigation, south
  *
- * popularity: 19310
+ * popularity: 19318
  */
 const South = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="south" {...props} />
@@ -22671,7 +22671,7 @@ const South = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: continent, landscape, place, region, south america
  *
- * popularity: 1950
+ * popularity: 1954
  */
 const SouthAmerica = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="south_america" {...props} />
@@ -22684,7 +22684,7 @@ const SouthAmerica = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, down, east, maps, navigation, right, south
  *
- * popularity: 5550
+ * popularity: 5554
  */
 const SouthEast = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="south_east" {...props} />
@@ -22697,7 +22697,7 @@ const SouthEast = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, down, left, maps, navigation, south, west
  *
- * popularity: 4134
+ * popularity: 4137
  */
 const SouthWest = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="south_west" {...props} />
@@ -22710,7 +22710,7 @@ const SouthWest = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aromatherapy, flower, healthcare, leaf, massage, meditation, nature, petals, places, relax, spa, wellbeing, wellness
  *
- * popularity: 21730
+ * popularity: 21749
  */
 const Spa = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spa" {...props} />
@@ -22723,7 +22723,7 @@ const Spa = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bar, keyboard, line, space
  *
- * popularity: 2297
+ * popularity: 2301
  */
 const SpaceBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="space_bar" {...props} />
@@ -22736,7 +22736,7 @@ const SpaceBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cards, dashboard, format, grid, layout, rectangle, shapes, space, squares, web, website
  *
- * popularity: 29097
+ * popularity: 29133
  */
 const SpaceDashboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="space_dashboard" {...props} />
@@ -22749,7 +22749,7 @@ const SpaceDashboard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, music, note, sound, spatial
  *
- * popularity: 1091
+ * popularity: 1097
  */
 const SpatialAudio = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spatial_audio" {...props} />
@@ -22762,7 +22762,7 @@ const SpatialAudio = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, disabled, enabled, music, note, off, offline, on, slash, sound, spatial
  *
- * popularity: 1978
+ * popularity: 1987
  */
 const SpatialAudioOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spatial_audio_off" {...props} />
@@ -22775,7 +22775,7 @@ const SpatialAudioOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, disabled, enabled, music, note, off, offline, on, slash, sound, spatial, tracking
  *
- * popularity: 1158
+ * popularity: 1161
  */
 const SpatialTracking = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spatial_tracking" {...props} />
@@ -22788,7 +22788,7 @@ const SpatialTracking = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, electronic, loud, music, sound, speaker, stereo, system, video
  *
- * popularity: 4423
+ * popularity: 4425
  */
 const Speaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speaker" {...props} />
@@ -22801,7 +22801,7 @@ const Speaker = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, electronic, group, loud, multiple, music, sound, speaker, stereo, system, video
  *
- * popularity: 2033
+ * popularity: 2035
  */
 const SpeakerGroup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speaker_group" {...props} />
@@ -22814,7 +22814,7 @@ const SpeakerGroup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, format, list, message, notes, speaker, speech, text
  *
- * popularity: 15438
+ * popularity: 15455
  */
 const SpeakerNotes = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speaker_notes" {...props} />
@@ -22827,7 +22827,7 @@ const SpeakerNotes = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, disabled, enabled, format, list, message, notes, off, on, slash, speaker, speech, text
  *
- * popularity: 3803
+ * popularity: 3805
  */
 const SpeakerNotesOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speaker_notes_off" {...props} />
@@ -22840,7 +22840,7 @@ const SpeakerNotesOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, cell, device, hardware, iOS, mobile, phone, sound, speaker, tablet, volume
  *
- * popularity: 2249
+ * popularity: 2250
  */
 const SpeakerPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speaker_phone" {...props} />
@@ -22853,7 +22853,7 @@ const SpeakerPhone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, control, controls, fast, gauge, meter, motion, music, slow, speed, speedometer, velocity, video
  *
- * popularity: 29092
+ * popularity: 29118
  */
 const Speed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="speed" {...props} />
@@ -22866,7 +22866,7 @@ const Speed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: a, alphabet, approve, character, check, font, letter, mark, ok, processor, select, spell, spellcheck, symbol, text, tick, type, word, write, yes
  *
- * popularity: 5497
+ * popularity: 5506
  */
 const Spellcheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spellcheck" {...props} />
@@ -22879,7 +22879,7 @@ const Spellcheck = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: column, grid, layout, multitasking, row, screen, split, splitscreen, two
  *
- * popularity: 5022
+ * popularity: 5029
  */
 const Splitscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="splitscreen" {...props} />
@@ -22892,7 +22892,7 @@ const Splitscreen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, network, radius, spoke
  *
- * popularity: 2243
+ * popularity: 2244
  */
 const Spoke = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="spoke" {...props} />
@@ -22905,7 +22905,7 @@ const Spoke = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, blowing, coach, entertainment, exercise, game, hobby, instrument, referee, social, sound, sports, warning, whistle
  *
- * popularity: 6281
+ * popularity: 6285
  */
 const Sports = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports" {...props} />
@@ -22918,7 +22918,7 @@ const Sports = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, bar, beer, drink, liquor, pint, places, pub, sports
  *
- * popularity: 6547
+ * popularity: 6553
  */
 const SportsBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_bar" {...props} />
@@ -22931,7 +22931,7 @@ const SportsBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, baseball, entertainment, exercise, game, hobby, social, sports
  *
- * popularity: 4280
+ * popularity: 4284
  */
 const SportsBaseball = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_baseball" {...props} />
@@ -22944,7 +22944,7 @@ const SportsBaseball = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, basketball, entertainment, exercise, game, hobby, social, sports
  *
- * popularity: 7240
+ * popularity: 7247
  */
 const SportsBasketball = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_basketball" {...props} />
@@ -22957,7 +22957,7 @@ const SportsBasketball = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, bat, cricket, entertainment, exercise, game, hobby, social, sports
  *
- * popularity: 2816
+ * popularity: 2821
  */
 const SportsCricket = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_cricket" {...props} />
@@ -22970,7 +22970,7 @@ const SportsCricket = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: controller, entertainment, esports, game, gamepad, gaming, hobby, online, social, sports, video
  *
- * popularity: 29849
+ * popularity: 29877
  */
 const SportsEsports = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_esports" {...props} />
@@ -22983,7 +22983,7 @@ const SportsEsports = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, entertainment, exercise, football, game, hobby, social, sports
  *
- * popularity: 3690
+ * popularity: 3695
  */
 const SportsFootball = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_football" {...props} />
@@ -22996,7 +22996,7 @@ const SportsFootball = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, club, entertainment, exercise, game, golf, golfer, golfing, hobby, social, sports
  *
- * popularity: 2592
+ * popularity: 2595
  */
 const SportsGolf = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_golf" {...props} />
@@ -23009,7 +23009,7 @@ const SportsGolf = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, entertainment, exercise, gymnastics, hobby, social, sports
  *
- * popularity: 2306
+ * popularity: 2312
  */
 const SportsGymnastics = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_gymnastics" {...props} />
@@ -23022,7 +23022,7 @@ const SportsGymnastics = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, body, entertainment, exercise, game, handball, hobby, human, people, person, social, sports
  *
- * popularity: 4378
+ * popularity: 4380
  */
 const SportsHandball = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_handball" {...props} />
@@ -23035,7 +23035,7 @@ const SportsHandball = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, entertainment, exercise, game, hobby, hockey, social, sports, sticks
  *
- * popularity: 1985
+ * popularity: 1986
  */
 const SportsHockey = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_hockey" {...props} />
@@ -23048,7 +23048,7 @@ const SportsHockey = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, body, combat, entertainment, exercise, fighting, game, hobby, human, kabaddi, people, person, social, sports, wrestle, wrestling
  *
- * popularity: 6311
+ * popularity: 6321
  */
 const SportsKabaddi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_kabaddi" {...props} />
@@ -23061,7 +23061,7 @@ const SportsKabaddi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arts, athlete, athletic, entertainment, exercise, hobby, human, karate, martial, people, person, social, sports
  *
- * popularity: 2654
+ * popularity: 2657
  */
 const SportsMartialArts = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_martial_arts" {...props} />
@@ -23074,7 +23074,7 @@ const SportsMartialArts = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arts, athlete, athletic, boxing, combat, entertainment, exercise, fighting, game, glove, hobby, martial, mixed, mma, social, sports
  *
- * popularity: 2711
+ * popularity: 2715
  */
 const SportsMma = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_mma" {...props} />
@@ -23087,7 +23087,7 @@ const SportsMma = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, automobile, bike, drive, driving, entertainment, helmet, hobby, motorcycle, motorsports, protect, social, sports, vehicle
  *
- * popularity: 4581
+ * popularity: 4583
  */
 const SportsMotorsports = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_motorsports" {...props} />
@@ -23100,7 +23100,7 @@ const SportsMotorsports = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, entertainment, exercise, game, hobby, rugby, social, sports
  *
- * popularity: 1908
+ * popularity: 1910
  */
 const SportsRugby = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_rugby" {...props} />
@@ -23113,7 +23113,7 @@ const SportsRugby = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, flag, goal, score, sports
  *
- * popularity: 10101
+ * popularity: 10109
  */
 const SportsScore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_score" {...props} />
@@ -23126,7 +23126,7 @@ const SportsScore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, entertainment, exercise, football, game, hobby, soccer, social, sports
  *
- * popularity: 15078
+ * popularity: 15091
  */
 const SportsSoccer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_soccer" {...props} />
@@ -23139,7 +23139,7 @@ const SportsSoccer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, bat, entertainment, exercise, game, hobby, racket, social, sports, tennis
  *
- * popularity: 5753
+ * popularity: 5754
  */
 const SportsTennis = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_tennis" {...props} />
@@ -23152,7 +23152,7 @@ const SportsTennis = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, ball, entertainment, exercise, game, hobby, social, sports, volleyball
  *
- * popularity: 3988
+ * popularity: 3994
  */
 const SportsVolleyball = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sports_volleyball" {...props} />
@@ -23165,7 +23165,7 @@ const SportsVolleyball = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: draw, four, shape quadrangle, sides, square
  *
- * popularity: 5948
+ * popularity: 5954
  */
 const Square = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="square" {...props} />
@@ -23178,7 +23178,7 @@ const Square = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: construction, feet, foot, inches, length, measurement, ruler, school, set, square, tools
  *
- * popularity: 11375
+ * popularity: 11384
  */
 const SquareFoot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="square_foot" {...props} />
@@ -23191,7 +23191,7 @@ const SquareFoot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chart, graph, lines, network, ssid, wifi
  *
- * popularity: 2702
+ * popularity: 2711
  */
 const SsidChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="ssid_chart" {...props} />
@@ -23204,7 +23204,7 @@ const SsidChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, chart-chart, data, diagram, graph, infographic, measure, metrics, stacked, statistics, tracking
  *
- * popularity: 11756
+ * popularity: 11764
  */
 const StackedBarChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stacked_bar_chart" {...props} />
@@ -23217,7 +23217,7 @@ const StackedBarChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, graph, infographic, line, measure, metrics, stacked, statistics, tracking
  *
- * popularity: 7822
+ * popularity: 7831
  */
 const StackedLineChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stacked_line_chart" {...props} />
@@ -23230,7 +23230,7 @@ const StackedLineChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activity, amphitheater, arena, coliseum, event, local, stadium, star, things, ticket
  *
- * popularity: 2169
+ * popularity: 2173
  */
 const Stadium = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stadium" {...props} />
@@ -23243,7 +23243,7 @@ const Stadium = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: down, staircase, stairs, up
  *
- * popularity: 3929
+ * popularity: 3934
  */
 const Stairs = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stairs" {...props} />
@@ -23256,7 +23256,7 @@ const Stairs = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: best, bookmark, favorite, highlight, ranking, rate, rating, save, star, toggle
  *
- * popularity: 132511
+ * popularity: 132631
  */
 const Star = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star" {...props} />
@@ -23269,7 +23269,7 @@ const Star = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: best, bookmark, border, favorite, highlight, outline, ranking, rate, rating, save, star, toggle
  *
- * popularity: 51590
+ * popularity: 51645
  */
 const StarBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_border" {...props} />
@@ -23282,7 +23282,7 @@ const StarBorder = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 500, best, bookmark, border, favorite, highlight, outline, purple, ranking, rate, rating, save, star, toggle
  *
- * popularity: 6959
+ * popularity: 6968
  */
 const StarBorderPurple500 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_border_purple500" {...props} />
@@ -23295,7 +23295,7 @@ const StarBorderPurple500 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: achievement, bookmark, favorite, half, highlight, important, marked, ranking, rate, rating rank, reward, save, saved, shape, special, star, toggle
  *
- * popularity: 16779
+ * popularity: 16786
  */
 const StarHalf = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_half" {...props} />
@@ -23308,7 +23308,7 @@ const StarHalf = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, favorite, half, highlight, ranking, rate, rating, save, star, toggle
  *
- * popularity: 35673
+ * popularity: 35694
  */
 const StarOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_outline" {...props} />
@@ -23321,7 +23321,7 @@ const StarOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 500, best, bookmark, favorite, highlight, purple, ranking, rate, rating, save, star, toggle
  *
- * popularity: 9424
+ * popularity: 9429
  */
 const StarPurple500 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_purple500" {...props} />
@@ -23334,7 +23334,7 @@ const StarPurple500 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: achievement, bookmark, favorite, highlight, important, marked, ranking, rate, rating rank, reward, save, saved, shape, special, star
  *
- * popularity: 73314
+ * popularity: 73402
  */
 const StarRate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="star_rate" {...props} />
@@ -23347,7 +23347,7 @@ const StarRate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: achievement, bookmark, circle, favorite, highlight, important, marked, ranking, rate, rating rank, reward, save, saved, shape, special, star
  *
- * popularity: 31627
+ * popularity: 31653
  */
 const Stars = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stars" {...props} />
@@ -23360,7 +23360,7 @@ const Stars = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, keyboard, next, right, start
  *
- * popularity: 8543
+ * popularity: 8567
  */
 const Start = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="start" {...props} />
@@ -23373,7 +23373,7 @@ const Start = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, current, device, hardware, iOS, landscape, mobile, phone, stay, tablet
  *
- * popularity: 1378
+ * popularity: 1379
  */
 const StayCurrentLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stay_current_landscape" {...props} />
@@ -23386,7 +23386,7 @@ const StayCurrentLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, current, device, hardware, iOS, mobile, phone, portrait, stay, tablet
  *
- * popularity: 4479
+ * popularity: 4483
  */
 const StayCurrentPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stay_current_portrait" {...props} />
@@ -23399,7 +23399,7 @@ const StayCurrentPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, current, device, hardware, iOS, landscape, mobile, phone, primary, stay, tablet
  *
- * popularity: 1283
+ * popularity: 1284
  */
 const StayPrimaryLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stay_primary_landscape" {...props} />
@@ -23412,7 +23412,7 @@ const StayPrimaryLandscape = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, current, device, hardware, iOS, mobile, phone, portrait, primary, stay, tablet
  *
- * popularity: 3380
+ * popularity: 3381
  */
 const StayPrimaryPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stay_primary_portrait" {...props} />
@@ -23425,7 +23425,7 @@ const StayPrimaryPortrait = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, bookmark, mark, message, note, paper, sticky, text, writing
  *
- * popularity: 22949
+ * popularity: 22970
  */
 const StickyNote2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sticky_note_2" {...props} />
@@ -23438,7 +23438,7 @@ const StickyNote2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: control, controls, music, pause, play, square, stop, video
  *
- * popularity: 28150
+ * popularity: 28179
  */
 const Stop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stop" {...props} />
@@ -23451,7 +23451,7 @@ const Stop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, control, controls, music, pause, play, square, stop, video
  *
- * popularity: 13677
+ * popularity: 13698
  */
 const StopCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stop_circle" {...props} />
@@ -23464,7 +23464,7 @@ const StopCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, cast, chrome, device, disabled, display, enabled, hardware, iOS, laptop, mac, mirror, monitor, off, offline, on, screen, share, slash, stop, stream, streaming, web, window
  *
- * popularity: 2111
+ * popularity: 2116
  */
 const StopScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stop_screen_share" {...props} />
@@ -23477,7 +23477,7 @@ const StopScreenShare = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: computer, data, drive, memory, storage
  *
- * popularity: 24739
+ * popularity: 24773
  */
 const Storage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="storage" {...props} />
@@ -23490,7 +23490,7 @@ const Storage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, building, business, card, cash, coin, commerce, company, credit, currency, dollars, market, money, online, pay, payment, shop, shopping, store, storefront
  *
- * popularity: 64445
+ * popularity: 64515
  */
 const Store = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="store" {...props} />
@@ -23503,7 +23503,7 @@ const Store = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: directory, mall, store
  *
- * popularity: 5240
+ * popularity: 5242
  */
 const StoreMallDirectory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="store_mall_directory" {...props} />
@@ -23516,7 +23516,7 @@ const StoreMallDirectory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: business, buy, cafe, commerce, front, market, places, restaurant, retail, sell, shop, shopping, store, storefront
  *
- * popularity: 49439
+ * popularity: 49479
  */
 const Storefront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="storefront" {...props} />
@@ -23529,7 +23529,7 @@ const Storefront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: forecast, hurricane, storm, temperature, twister, weather, wind
  *
- * popularity: 3051
+ * popularity: 3052
  */
 const Storm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="storm" {...props} />
@@ -23542,7 +23542,7 @@ const Storm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, route, sign, straight, traffic, up
  *
- * popularity: 2785
+ * popularity: 2787
  */
 const Straight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="straight" {...props} />
@@ -23555,7 +23555,7 @@ const Straight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: length, measure, measurement, ruler, size, straighten
  *
- * popularity: 14020
+ * popularity: 14039
  */
 const Straighten = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="straighten" {...props} />
@@ -23568,7 +23568,7 @@ const Straighten = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cast, connected, feed, live, network, signal, stream, wireless
  *
- * popularity: 9143
+ * popularity: 9149
  */
 const Stream = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stream" {...props} />
@@ -23581,7 +23581,7 @@ const Stream = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: maps, street, streetview, view
  *
- * popularity: 2015
+ * popularity: 2017
  */
 const Streetview = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="streetview" {...props} />
@@ -23594,7 +23594,7 @@ const Streetview = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, cross, doc, edit, editing, editor, font, letter, out, s, sheet, spreadsheet, strikethrough, styles, symbol, text, type, writing
  *
- * popularity: 3223
+ * popularity: 3225
  */
 const StrikethroughS = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="strikethrough_s" {...props} />
@@ -23607,7 +23607,7 @@ const StrikethroughS = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: baby, care, carriage, child, children, infant, kid, newborn, stroller, toddler, young
  *
- * popularity: 1450
+ * popularity: 1452
  */
 const Stroller = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="stroller" {...props} />
@@ -23620,7 +23620,7 @@ const Stroller = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: booklet, cards, filters, options, style, tags
  *
- * popularity: 15268
+ * popularity: 15289
  */
 const Style = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="style" {...props} />
@@ -23633,7 +23633,7 @@ const Style = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directory, down, left, navigation, sub, subdirectory
  *
- * popularity: 5248
+ * popularity: 5255
  */
 const SubdirectoryArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subdirectory_arrow_left" {...props} />
@@ -23646,7 +23646,7 @@ const SubdirectoryArrowLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directory, down, navigation, right, sub, subdirectory
  *
- * popularity: 11053
+ * popularity: 11063
  */
 const SubdirectoryArrowRight = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -23659,7 +23659,7 @@ const SubdirectoryArrowRight = (
  *
  * tags: alignment, doc, document, email, full, justify, list, note, subject, text, writing
  *
- * popularity: 19115
+ * popularity: 19136
  */
 const Subject = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subject" {...props} />
@@ -23672,7 +23672,7 @@ const Subject = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, doc, edit, editing, editor, gmail, novitas, sheet, spreadsheet, style, subscript, symbol, text, writing, x
  *
- * popularity: 1577
+ * popularity: 1579
  */
 const Subscript = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subscript" {...props} />
@@ -23685,7 +23685,7 @@ const Subscript = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: enroll, list, media, order, play, signup, subscribe, subscriptions
  *
- * popularity: 13803
+ * popularity: 13821
  */
 const Subscriptions = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subscriptions" {...props} />
@@ -23698,7 +23698,7 @@ const Subscriptions = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessible, caption, cc, character, closed, decoder, language, live caption, media, movies, subtitle, subtitles, tv
  *
- * popularity: 7806
+ * popularity: 7816
  */
 const Subtitles = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subtitles" {...props} />
@@ -23711,7 +23711,7 @@ const Subtitles = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, caption, cc, closed, disabled, enabled, language, live caption, off, on, slash, subtitle, subtitles, translate, video
  *
- * popularity: 3182
+ * popularity: 3186
  */
 const SubtitlesOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subtitles_off" {...props} />
@@ -23724,7 +23724,7 @@ const SubtitlesOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bike, car, cars, maps, rail, scooter, subway, train, transportation, travel, tunnel, underground, vehicle, vespa
  *
- * popularity: 2798
+ * popularity: 2802
  */
 const Subway = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="subway" {...props} />
@@ -23737,7 +23737,7 @@ const Subway = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: doc, document, form, list, menu, note, report, summary
  *
- * popularity: 39204
+ * popularity: 39233
  */
 const Summarize = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="summarize" {...props} />
@@ -23750,7 +23750,7 @@ const Summarize = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, doc, edit, editing, editor, gmail, novitas, sheet, spreadsheet, style, superscript, symbol, text, writing, x
  *
- * popularity: 1903
+ * popularity: 1906
  */
 const Superscript = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="superscript" {...props} />
@@ -23763,7 +23763,7 @@ const Superscript = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, circle, control, face, human, parental, parents, people, person, profile, supervised, supervisor, user
  *
- * popularity: 28081
+ * popularity: 28109
  */
 const SupervisedUserCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="supervised_user_circle" {...props} />
@@ -23776,7 +23776,7 @@ const SupervisedUserCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, avatar, control, face, human, parental, parental control, parents, people, person, profile, supervised, supervisor, user
  *
- * popularity: 40918
+ * popularity: 40948
  */
 const SupervisorAccount = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="supervisor_account" {...props} />
@@ -23789,7 +23789,7 @@ const SupervisorAccount = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: assist, buoy, help, life, lifebuoy, rescue, safe, safety, support
  *
- * popularity: 22184
+ * popularity: 22204
  */
 const Support = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="support" {...props} />
@@ -23802,7 +23802,7 @@ const Support = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agent, care, customer, face, headphone, person, representative, service, support
  *
- * popularity: 87073
+ * popularity: 87214
  */
 const SupportAgent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="support_agent" {...props} />
@@ -23815,7 +23815,7 @@ const SupportAgent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: athlete, athletic, beach, body, entertainment, exercise, hobby, human, people, person, sea, social sports, sports, summer, surfing, water
  *
- * popularity: 4587
+ * popularity: 4589
  */
 const Surfing = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="surfing" {...props} />
@@ -23828,7 +23828,7 @@ const Surfing = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, signal, sound, speaker, surround, system, volumn, wireless
  *
- * popularity: 1481
+ * popularity: 1483
  */
 const SurroundSound = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="surround_sound" {...props} />
@@ -23841,7 +23841,7 @@ const SurroundSound = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, calls, device, direction, mobile, share, swap
  *
- * popularity: 3333
+ * popularity: 3339
  */
 const SwapCalls = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swap_calls" {...props} />
@@ -23854,7 +23854,7 @@ const SwapCalls = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, back, forward, horizontal, swap
  *
- * popularity: 32080
+ * popularity: 32109
  */
 const SwapHoriz = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swap_horiz" {...props} />
@@ -23867,7 +23867,7 @@ const SwapHoriz = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, back, circle, forward, horizontal, swap
  *
- * popularity: 7598
+ * popularity: 7607
  */
 const SwapHorizontalCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swap_horizontal_circle" {...props} />
@@ -23880,7 +23880,7 @@ const SwapHorizontalCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, down, navigation, sort, sorting, swap, up, vert, vertical
  *
- * popularity: 21537
+ * popularity: 21567
  */
 const SwapVert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swap_vert" {...props} />
@@ -23893,7 +23893,7 @@ const SwapVert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, circle, down, swap, up, vertical
  *
- * popularity: 4935
+ * popularity: 4938
  */
 const SwapVerticalCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swap_vertical_circle" {...props} />
@@ -23906,7 +23906,7 @@ const SwapVerticalCircle = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, fingers, gesture, hand, hands, swipe, touch
  *
- * popularity: 13740
+ * popularity: 13754
  */
 const Swipe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe" {...props} />
@@ -23919,7 +23919,7 @@ const Swipe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, direction, disable, down, enable, finger, hands, hit, navigation, strike, swing, swpie, take
  *
- * popularity: 2055
+ * popularity: 2060
  */
 const SwipeDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_down" {...props} />
@@ -23932,7 +23932,7 @@ const SwipeDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrows, direction, disable, down, enable, finger, hands, hit, navigation, strike, swing, swpie, take
  *
- * popularity: 1325
+ * popularity: 1326
  */
 const SwipeDownAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_down_alt" {...props} />
@@ -23945,7 +23945,7 @@ const SwipeDownAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, finger, hand, hit, left, navigation, reject, strike, swing, swipe, take
  *
- * popularity: 3050
+ * popularity: 3052
  */
 const SwipeLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_left" {...props} />
@@ -23958,7 +23958,7 @@ const SwipeLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrow, arrows, finger, hand, hit, left, navigation, reject, strike, swing, swipe, take
  *
- * popularity: 1182
+ * popularity: 1184
  */
 const SwipeLeftAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_left_alt" {...props} />
@@ -23971,7 +23971,7 @@ const SwipeLeftAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accept, arrows, direction, finger, hands, hit, navigation, right, strike, swing, swpie, take
  *
- * popularity: 2741
+ * popularity: 2743
  */
 const SwipeRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_right" {...props} />
@@ -23984,7 +23984,7 @@ const SwipeRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accept, alt, arrows, direction, finger, hands, hit, navigation, right, strike, swing, swpie, take
  *
- * popularity: 1647
+ * popularity: 1649
  */
 const SwipeRightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_right_alt" {...props} />
@@ -23997,7 +23997,7 @@ const SwipeRightAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, direction, disable, enable, finger, hands, hit, navigation, strike, swing, swpie, take, up
  *
- * popularity: 2683
+ * popularity: 2685
  */
 const SwipeUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_up" {...props} />
@@ -24010,7 +24010,7 @@ const SwipeUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrows, direction, disable, enable, finger, hands, hit, navigation, strike, swing, swpie, take, up
  *
- * popularity: 1126
+ * popularity: 1131
  */
 const SwipeUpAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_up_alt" {...props} />
@@ -24023,7 +24023,7 @@ const SwipeUpAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, direction, finger, hands, hit, navigation, strike, swing, swpie, take, verticle
  *
- * popularity: 1876
+ * popularity: 1880
  */
 const SwipeVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="swipe_vertical" {...props} />
@@ -24036,7 +24036,7 @@ const SwipeVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, arrow, arrows, direction, navigation, new, north, shortcut, switch, symbol, up
  *
- * popularity: 4818
+ * popularity: 4822
  */
 const SwitchAccessShortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_access_shortcut" {...props} />
@@ -24049,7 +24049,7 @@ const SwitchAccessShortcut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, access, add, arrow, arrows, direction, navigation, new, north, plus, shortcut, switch, symbol, up
  *
- * popularity: 3508
+ * popularity: 3509
  */
 const SwitchAccessShortcutAdd = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -24062,7 +24062,7 @@ const SwitchAccessShortcutAdd = (
  *
  * tags: account, choices, face, human, multiple, options, people, person, profile, social, switch, user
  *
- * popularity: 8613
+ * popularity: 8618
  */
 const SwitchAccount = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_account" {...props} />
@@ -24075,7 +24075,7 @@ const SwitchAccount = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, camera, photo, photography, picture, switch
  *
- * popularity: 1586
+ * popularity: 1587
  */
 const SwitchCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_camera" {...props} />
@@ -24088,7 +24088,7 @@ const SwitchCamera = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, directional, left, navigation, switch, toggle
  *
- * popularity: 4933
+ * popularity: 4935
  */
 const SwitchLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_left" {...props} />
@@ -24101,7 +24101,7 @@ const SwitchLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrows, directional, navigation, right, switch, toggle
  *
- * popularity: 3809
+ * popularity: 3810
  */
 const SwitchRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_right" {...props} />
@@ -24114,7 +24114,7 @@ const SwitchRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, camera, photography, switch, video, videos
  *
- * popularity: 1572
+ * popularity: 1573
  */
 const SwitchVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="switch_video" {...props} />
@@ -24127,7 +24127,7 @@ const SwitchVideo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ideology, jew, jewish, religion, shul, spiritual, temple, worship
  *
- * popularity: 884
+ * popularity: 886
  */
 const Synagogue = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="synagogue" {...props} />
@@ -24140,7 +24140,7 @@ const Synagogue = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 360, around, arrow, arrows, direction, inprogress, load, loading refresh, renew, rotate, sync, turn
  *
- * popularity: 42409
+ * popularity: 42455
  */
 const Sync = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sync" {...props} />
@@ -24153,7 +24153,7 @@ const Sync = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, arrow, arrows, horizontal, internet, sync, technology, up, update, wifi
  *
- * popularity: 31431
+ * popularity: 31467
  */
 const SyncAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sync_alt" {...props} />
@@ -24166,7 +24166,7 @@ const SyncAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 360, around, arrow, arrows, direction, disabled, enabled, inprogress, load, loading refresh, off, on, renew, rotate, slash, sync, turn
  *
- * popularity: 3084
+ * popularity: 3093
  */
 const SyncDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sync_disabled" {...props} />
@@ -24179,7 +24179,7 @@ const SyncDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, arrows, lock, locked, password, privacy, private, protection, renew, rotate, safety, secure, security, sync, turn
  *
- * popularity: 1667
+ * popularity: 1672
  */
 const SyncLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sync_lock" {...props} />
@@ -24192,7 +24192,7 @@ const SyncLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, 360, alert, around, arrow, arrows, attention, caution, danger, direction, error, exclamation, important, inprogress, load, loading refresh, mark, notification, problem, renew, rotate, symbol, sync, turn, warning
  *
- * popularity: 8167
+ * popularity: 8178
  */
 const SyncProblem = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="sync_problem" {...props} />
@@ -24205,7 +24205,7 @@ const SyncProblem = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, arrow, cell, device, down, hardware, iOS, mobile, phone, security, system, tablet, update
  *
- * popularity: 1426
+ * popularity: 1428
  */
 const SystemSecurityUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="system_security_update" {...props} />
@@ -24218,7 +24218,7 @@ const SystemSecurityUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, approve, cell, check, complete, device, done, good, hardware, iOS, mark, mobile, ok, phone, security, select, system, tablet, tick, update, validate, verified, yes
  *
- * popularity: 3740
+ * popularity: 3745
  */
 const SystemSecurityUpdateGood = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -24231,7 +24231,7 @@ const SystemSecurityUpdateGood = (
  *
  * tags: !, Android, OS, alert, attention, caution, cell, danger, device, error, exclamation, hardware, iOS, important, mark, mobile, notification, phone, security, symbol, system, tablet, update, warning
  *
- * popularity: 1431
+ * popularity: 1433
  */
 const SystemSecurityUpdateWarning = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -24244,7 +24244,7 @@ const SystemSecurityUpdateWarning = (
  *
  * tags: Android, OS, arrow, arrows, cell, device, direction, down, download, hardware, iOS, install, mobile, phone, system, tablet, update
  *
- * popularity: 4396
+ * popularity: 4399
  */
 const SystemUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="system_update" {...props} />
@@ -24257,7 +24257,7 @@ const SystemUpdate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, down, download, export, system, update
  *
- * popularity: 10232
+ * popularity: 10243
  */
 const SystemUpdateAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="system_update_alt" {...props} />
@@ -24270,7 +24270,7 @@ const SystemUpdateAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: browser, computer, document, documents, folder, internet, tab, tabs, web, website, window, windows
  *
- * popularity: 6862
+ * popularity: 6868
  */
 const Tab = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tab" {...props} />
@@ -24283,7 +24283,7 @@ const Tab = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: browser, computer, dash, dashed, document, documents, folder, internet, tab, tabs, unselected, web, website, window, windows
  *
- * popularity: 2404
+ * popularity: 2407
  */
 const TabUnselected = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tab_unselected" {...props} />
@@ -24296,7 +24296,7 @@ const TabUnselected = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bar, cafe, round, table
  *
- * popularity: 2846
+ * popularity: 2848
  */
 const TableBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="table_bar" {...props} />
@@ -24309,7 +24309,7 @@ const TableBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, bars, chart, data, diagram, graph, infographic grid, measure, metrics, statistics, table, tracking
  *
- * popularity: 19677
+ * popularity: 19692
  */
 const TableChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="table_chart" {...props} />
@@ -24322,7 +24322,7 @@ const TableChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bar, dining, table
  *
- * popularity: 3872
+ * popularity: 3876
  */
 const TableRestaurant = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="table_restaurant" {...props} />
@@ -24335,7 +24335,7 @@ const TableRestaurant = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: background, grid, layout, lines, rows, stacked, table
  *
- * popularity: 13629
+ * popularity: 13636
  */
 const TableRows = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="table_rows" {...props} />
@@ -24348,7 +24348,7 @@ const TableRows = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: format, grid, group, layout, multiple, table, view
  *
- * popularity: 19185
+ * popularity: 19205
  */
 const TableView = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="table_view" {...props} />
@@ -24361,7 +24361,7 @@ const TableView = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, device, hardware, iOS, ipad, mobile, tablet, web
  *
- * popularity: 2442
+ * popularity: 2450
  */
 const Tablet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tablet" {...props} />
@@ -24374,7 +24374,7 @@ const Tablet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: OS, android, device, hardware, iOS, ipad, mobile, tablet, web
  *
- * popularity: 3234
+ * popularity: 3237
  */
 const TabletAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tablet_android" {...props} />
@@ -24387,7 +24387,7 @@ const TabletAndroid = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, device, hardware, iOS, ipad, mobile, tablet mac, web
  *
- * popularity: 6225
+ * popularity: 6231
  */
 const TabletMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tablet_mac" {...props} />
@@ -24400,7 +24400,7 @@ const TabletMac = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: hash, hashtag, key, media, number, pound, social, tag, trend
  *
- * popularity: 19141
+ * popularity: 19155
  */
 const Tag = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tag" {...props} />
@@ -24413,7 +24413,7 @@ const Tag = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: emoji, emotion, faces, happy, satisfied, smile, tag
  *
- * popularity: 5363
+ * popularity: 5368
  */
 const TagFaces = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tag_faces" {...props} />
@@ -24426,7 +24426,7 @@ const TagFaces = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: box, container, delivery, dining, food, meal, restaurant, takeout
  *
- * popularity: 5334
+ * popularity: 5341
  */
 const TakeoutDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="takeout_dining" {...props} />
@@ -24439,7 +24439,7 @@ const TakeoutDining = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS wifi, cell, connection, device, hardware, iOS, internet, mobile, network, phone, play, signal, tablet, tap, to, wireless
  *
- * popularity: 2903
+ * popularity: 2909
  */
 const TapAndPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tap_and_play" {...props} />
@@ -24452,7 +24452,7 @@ const TapAndPlay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: appetizer, brunch, dinner, food, lunch, restaurant, snack, tapas
  *
- * popularity: 2414
+ * popularity: 2417
  */
 const Tapas = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tapas" {...props} />
@@ -24465,7 +24465,7 @@ const Tapas = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, complete, data, doc, document, done, drive, file, folder, folders, mark, ok, page, paper, select, sheet, slide, task, tick, validate, verified, writing, yes
  *
- * popularity: 41841
+ * popularity: 41888
  */
 const Task = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="task" {...props} />
@@ -24478,7 +24478,7 @@ const Task = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, circle, complete, done, mark, ok, select, task, tick, validate, verified, yes
  *
- * popularity: 104484
+ * popularity: 104575
  */
 const TaskAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="task_alt" {...props} />
@@ -24491,7 +24491,7 @@ const TaskAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, automobile, cab, car, cars, caution, danger, direction, error, exclamation, important, lyft, maps, mark, notification, public, symbol, taxi, transportation, uber, vehicle, warning, yellow
  *
- * popularity: 3021
+ * popularity: 3022
  */
 const TaxiAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="taxi_alert" {...props} />
@@ -24504,7 +24504,7 @@ const TaxiAlert = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: buddha, buddhism, buddhist, ideology, monastery, religion, spiritual, temple, worship
  *
- * popularity: 1084
+ * popularity: 1085
  */
 const TempleBuddhist = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="temple_buddhist" {...props} />
@@ -24517,7 +24517,7 @@ const TempleBuddhist = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: hindu, hinduism, hindus, ideology, mandir, religion, spiritual, temple, worship
  *
- * popularity: 915
+ * popularity: 917
  */
 const TempleHindu = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="temple_hindu" {...props} />
@@ -24530,7 +24530,7 @@ const TempleHindu = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: application, code, emulator, program, software, terminal
  *
- * popularity: 7296
+ * popularity: 7310
  */
 const Terminal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="terminal" {...props} />
@@ -24543,7 +24543,7 @@ const Terminal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: geography, landscape, mountain, terrain
  *
- * popularity: 5676
+ * popularity: 5680
  */
 const Terrain = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="terrain" {...props} />
@@ -24556,7 +24556,7 @@ const Terrain = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: -, alphabet, character, decrease, font, letter, minus, remove, resize, subtract, symbol, text, type
  *
- * popularity: 1440
+ * popularity: 1444
  */
 const TextDecrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_decrease" {...props} />
@@ -24569,7 +24569,7 @@ const TextDecrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: T, add, alphabet, character, field, fields, font, input, letter, symbol, text, type
  *
- * popularity: 13926
+ * popularity: 13936
  */
 const TextFields = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_fields" {...props} />
@@ -24582,7 +24582,7 @@ const TextFields = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alphabet, character, font, format, letter, square A, style, symbol, text, type
  *
- * popularity: 6594
+ * popularity: 6597
  */
 const TextFormat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_format" {...props} />
@@ -24595,7 +24595,7 @@ const TextFormat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, alphabet, character, font, increase, letter, new, plus, resize, symbol, text, type
  *
- * popularity: 2413
+ * popularity: 2419
  */
 const TextIncrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_increase" {...props} />
@@ -24608,7 +24608,7 @@ const TextIncrease = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, arrow, character, field, font, letter, move, rotate, symbol, text, type, up
  *
- * popularity: 1574
+ * popularity: 1575
  */
 const TextRotateUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotate_up" {...props} />
@@ -24621,7 +24621,7 @@ const TextRotateUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, arrow, character, down, field, font, letter, move, rotate, symbol, text, type, vertical
  *
- * popularity: 2300
+ * popularity: 2303
  */
 const TextRotateVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotate_vertical" {...props} />
@@ -24634,7 +24634,7 @@ const TextRotateVertical = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, angledown, arrow, character, field, font, letter, move, rotate, symbol, text, type
  *
- * popularity: 1501
+ * popularity: 1502
  */
 const TextRotationAngledown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotation_angledown" {...props} />
@@ -24647,7 +24647,7 @@ const TextRotationAngledown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, angleup, arrow, character, field, font, letter, move, rotate, symbol, text, type
  *
- * popularity: 1528
+ * popularity: 1529
  */
 const TextRotationAngleup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotation_angleup" {...props} />
@@ -24660,7 +24660,7 @@ const TextRotationAngleup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, arrow, character, dow, field, font, letter, move, rotate, symbol, text, type
  *
- * popularity: 1526
+ * popularity: 1527
  */
 const TextRotationDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotation_down" {...props} />
@@ -24673,7 +24673,7 @@ const TextRotationDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, alphabet, arrow, character, field, font, letter, move, none, rotate, symbol, text, type
  *
- * popularity: 2141
+ * popularity: 2143
  */
 const TextRotationNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_rotation_none" {...props} />
@@ -24686,7 +24686,7 @@ const TextRotationNone = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, file, note, notes, snippet, storage, text, writing
  *
- * popularity: 30350
+ * popularity: 30367
  */
 const TextSnippet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="text_snippet" {...props} />
@@ -24699,7 +24699,7 @@ const TextSnippet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, chat, comment, communicate, dots, feedback, message, speech, textsms
  *
- * popularity: 30084
+ * popularity: 30116
  */
 const Textsms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="textsms" {...props} />
@@ -24712,7 +24712,7 @@ const Textsms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: diagonal, lines, pattern, stripes, texture
  *
- * popularity: 3575
+ * popularity: 3577
  */
 const Texture = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="texture" {...props} />
@@ -24725,7 +24725,7 @@ const Texture = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: broadway, comedy, event, movie, musical, places, show, standup, theater, tour, watch
  *
- * popularity: 6617
+ * popularity: 6621
  */
 const TheaterComedy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="theater_comedy" {...props} />
@@ -24738,7 +24738,7 @@ const TheaterComedy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: film, movie, movies, show, showtimes, theater, theaters, watch
  *
- * popularity: 11262
+ * popularity: 11267
  */
 const Theaters = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="theaters" {...props} />
@@ -24751,7 +24751,7 @@ const Theaters = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: climate, forecast, temperature, thermostat, weather
  *
- * popularity: 21660
+ * popularity: 21682
  */
 const Thermostat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thermostat" {...props} />
@@ -24764,7 +24764,7 @@ const Thermostat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, auto, celsius, fahrenheit, meter, temp, temperature, thermometer, thermostat
  *
- * popularity: 2670
+ * popularity: 2671
  */
 const ThermostatAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thermostat_auto" {...props} />
@@ -24777,7 +24777,7 @@ const ThermostatAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ate, dislike, down, favorite, fingers, gesture, hand, hands, like, rank, ranking, rating, thumb
  *
- * popularity: 23974
+ * popularity: 23984
  */
 const ThumbDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_down" {...props} />
@@ -24790,7 +24790,7 @@ const ThumbDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bad, decline, disapprove, dislike, down, feedback, hate, negative, no, reject, social, thumb, veto, vote
  *
- * popularity: 10607
+ * popularity: 10621
  */
 const ThumbDownAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_down_alt" {...props} />
@@ -24803,7 +24803,7 @@ const ThumbDownAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, dislike, down, enabled, favorite, filled, fingers, gesture, hand, hands, like, off, offline, on, rank, ranking, rate, rating, slash, thumb
  *
- * popularity: 11063
+ * popularity: 11068
  */
 const ThumbDownOffAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_down_off_alt" {...props} />
@@ -24816,7 +24816,7 @@ const ThumbDownOffAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: favorite, fingers, gesture, hand, hands, like, rank, ranking, rate, rating, thumb, up
  *
- * popularity: 135455
+ * popularity: 135597
  */
 const ThumbUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_up" {...props} />
@@ -24829,7 +24829,7 @@ const ThumbUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agreed, approved, confirm, correct, favorite, feedback, good, happy, like, okay, positive, satisfaction, social, thumb, up, vote, yes
  *
- * popularity: 33099
+ * popularity: 33161
  */
 const ThumbUpAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_up_alt" {...props} />
@@ -24842,7 +24842,7 @@ const ThumbUpAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, disabled, enabled, favorite, fingers, gesture, hand, hands, like, off, offline, on, rank, ranking, rate, rating, slash, thumb, up
  *
- * popularity: 38774
+ * popularity: 38810
  */
 const ThumbUpOffAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumb_up_off_alt" {...props} />
@@ -24855,7 +24855,7 @@ const ThumbUpOffAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: dislike, down, favorite, fingers, gesture, hands, like, rate, rating, thumbs, up
  *
- * popularity: 11380
+ * popularity: 11389
  */
 const ThumbsUpDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thumbs_up_down" {...props} />
@@ -24868,7 +24868,7 @@ const ThumbsUpDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bolt, climate, cloud, cloudy, lightning, rain, rainfall, rainstorm, storm, thunder, thunderstorm, weather
  *
- * popularity: 2546
+ * popularity: 2548
  */
 const Thunderstorm = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="thunderstorm" {...props} />
@@ -24881,7 +24881,7 @@ const Thunderstorm = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, destination, direction, drive, estimate, eta, maps, public, transportation, travel, trip, vehicle
  *
- * popularity: 7804
+ * popularity: 7816
  */
 const TimeToLeave = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="time_to_leave" {...props} />
@@ -24894,7 +24894,7 @@ const TimeToLeave = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: duration, motion, photo, time, timelapse, timer, video
  *
- * popularity: 9830
+ * popularity: 9840
  */
 const Timelapse = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timelapse" {...props} />
@@ -24907,7 +24907,7 @@ const Timelapse = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, history, line, movement, point, points, timeline, tracking, trending, zigzag
  *
- * popularity: 32206
+ * popularity: 32239
  */
 const Timeline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timeline" {...props} />
@@ -24920,7 +24920,7 @@ const Timeline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, clock, disabled, duration, enabled, notification, off, on, slash, stop, time, timer, watch
  *
- * popularity: 45857
+ * popularity: 45896
  */
 const Timer = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer" {...props} />
@@ -24933,7 +24933,7 @@ const Timer = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, digits, duration, number, numbers, seconds, time, timer
  *
- * popularity: 1134
+ * popularity: 1135
  */
 const Timer10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer_10" {...props} />
@@ -24946,7 +24946,7 @@ const Timer10 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 10, alphabet, camera, character, digit, font, letter, number, seconds, select, symbol, text, timer, type
  *
- * popularity: 977
+ * popularity: 979
  */
 const Timer10Select = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer_10_select" {...props} />
@@ -24959,7 +24959,7 @@ const Timer10Select = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, digits, duration, number, numbers, seconds, time, timer
  *
- * popularity: 958
+ * popularity: 961
  */
 const Timer3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer_3" {...props} />
@@ -24972,7 +24972,7 @@ const Timer3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, alphabet, camera, character, digit, font, letter, number, seconds, select, symbol, text, timer, type
  *
- * popularity: 795
+ * popularity: 801
  */
 const Timer3Select = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer_3_select" {...props} />
@@ -24985,7 +24985,7 @@ const Timer3Select = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, alert, bell, clock, disabled, duration, enabled, notification, off, on, slash, stop, time, timer, watch
  *
- * popularity: 3493
+ * popularity: 3497
  */
 const TimerOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="timer_off" {...props} />
@@ -24998,7 +24998,7 @@ const TimerOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: ai, alert, and, announcement, artificial, automatic, automation, custom, electricity, genai, idea, info, information, intelligence, light, lightbulb, magic, smart, spark, sparkle, star, tips, updates
  *
- * popularity: 31374
+ * popularity: 31435
  */
 const TipsAndUpdates = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tips_and_updates" {...props} />
@@ -25011,7 +25011,7 @@ const TipsAndUpdates = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: auto, automobile, car, cars, gauge, mechanic, pressure, repair, tire, vehicle
  *
- * popularity: 1174
+ * popularity: 1179
  */
 const TireRepair = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tire_repair" {...props} />
@@ -25024,7 +25024,7 @@ const TireRepair = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: T, alphabet, character, font, header, letter, subject, symbol, text, title, type
  *
- * popularity: 13526
+ * popularity: 13534
  */
 const Title = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="title" {...props} />
@@ -25037,7 +25037,7 @@ const Title = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: content, format, lines, list, order, reorder, stacked, table, title, titles, toc
  *
- * popularity: 17904
+ * popularity: 17914
  */
 const Toc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="toc" {...props} />
@@ -25050,7 +25050,7 @@ const Toc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: calendar, date, day, event, mark, month, remember, reminder, schedule, time, today
  *
- * popularity: 62024
+ * popularity: 62051
  */
 const Today = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="today" {...props} />
@@ -25063,7 +25063,7 @@ const Today = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, app, application, components, configuration, control, design, disable, inable, inactive, interface, off, on, selection, settings, site, slider, switch, toggle, ui, ux, web, website
  *
- * popularity: 29538
+ * popularity: 29552
  */
 const ToggleOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="toggle_off" {...props} />
@@ -25076,7 +25076,7 @@ const ToggleOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: active, app, application, components, configuration, control, design, disable, inable, inactive, interface, off, on, selection, settings, site, slider, switch, toggle, ui, ux, web, website
  *
- * popularity: 48515
+ * popularity: 48543
  */
 const ToggleOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="toggle_on" {...props} />
@@ -25089,7 +25089,7 @@ const ToggleOn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: badge, hexagon, mark, shield, sign, symbol
  *
- * popularity: 6702
+ * popularity: 6709
  */
 const Token = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="token" {...props} />
@@ -25102,7 +25102,7 @@ const Token = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bill, booth, car, card, cash, coin, commerce, credit, currency, dollars, highway, money, online, pay, payment, ticket, toll
  *
- * popularity: 7796
+ * popularity: 7805
  */
 const Toll = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="toll" {...props} />
@@ -25115,7 +25115,7 @@ const Toll = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, edit, editing, filter, image, photography, picture, tonality
  *
- * popularity: 2197
+ * popularity: 2199
  */
 const Tonality = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tonality" {...props} />
@@ -25128,7 +25128,7 @@ const Tonality = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: data, doc, document, drive, file, folder, sheet, slide, storage, topic
  *
- * popularity: 9816
+ * popularity: 9819
  */
 const Topic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="topic" {...props} />
@@ -25141,7 +25141,7 @@ const Topic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, natural, rain, storm, tornado, weather, wind
  *
- * popularity: 805
+ * popularity: 807
  */
 const Tornado = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tornado" {...props} />
@@ -25154,7 +25154,7 @@ const Tornado = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, command, fingers, gesture, hand, long press, press, tap, touch
  *
- * popularity: 40882
+ * popularity: 40930
  */
 const TouchApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="touch_app" {...props} />
@@ -25167,7 +25167,7 @@ const TouchApp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: destination, flag, places, tour, travel, visit
  *
- * popularity: 9590
+ * popularity: 9594
  */
 const Tour = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tour" {...props} />
@@ -25180,7 +25180,7 @@ const Tour = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: car, games, kids, toy, toys, windmill
  *
- * popularity: 4226
+ * popularity: 4230
  */
 const Toys = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="toys" {...props} />
@@ -25193,7 +25193,7 @@ const Toys = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bullseye, changes, circle, evolve, lines, movement, rotate, shift, target, track
  *
- * popularity: 17850
+ * popularity: 17860
  */
 const TrackChanges = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="track_changes" {...props} />
@@ -25206,7 +25206,7 @@ const TrackChanges = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: direction, light, maps, signal, street, traffic
  *
- * popularity: 9749
+ * popularity: 9761
  */
 const Traffic = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="traffic" {...props} />
@@ -25219,7 +25219,7 @@ const Traffic = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, maps, public, rail, subway, train, transportation, vehicle
  *
- * popularity: 11558
+ * popularity: 11572
  */
 const Train = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="train" {...props} />
@@ -25232,7 +25232,7 @@ const Train = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, car, cars, direction, maps, public, rail, subway, train, tram, transportation, vehicle
  *
- * popularity: 3064
+ * popularity: 3065
  */
 const Tram = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tram" {...props} />
@@ -25245,7 +25245,7 @@ const Tram = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 708
+ * popularity: 710
  */
 const Transcribe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="transcribe" {...props} />
@@ -25258,7 +25258,7 @@ const Transcribe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: a, arrow, arrows, body, direction, human, left, maps, people, person, public, right, route, station, stop, transfer, transportation, vehicle, walk, within
  *
- * popularity: 6074
+ * popularity: 6084
  */
 const TransferWithinAStation = (
   props: React.HTMLAttributes<HTMLDivElement>,
@@ -25271,7 +25271,7 @@ const TransferWithinAStation = (
  *
  * tags: adjust, crop, edit, editing, image, photo, picture, transform
  *
- * popularity: 3343
+ * popularity: 3350
  */
 const Transform = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="transform" {...props} />
@@ -25284,7 +25284,7 @@ const Transform = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: female, gender, lgbt, male, neutral, social, symbol, transgender
  *
- * popularity: 5571
+ * popularity: 5575
  */
 const Transgender = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="transgender" {...props} />
@@ -25297,7 +25297,7 @@ const Transgender = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, direction, enterexit, maps, navigation, route, transit, transportation
  *
- * popularity: 2765
+ * popularity: 2768
  */
 const TransitEnterexit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="transit_enterexit" {...props} />
@@ -25310,7 +25310,7 @@ const TransitEnterexit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: language, speaking, speech, translate, translator, words
  *
- * popularity: 28506
+ * popularity: 28548
  */
 const Translate = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="translate" {...props} />
@@ -25323,7 +25323,7 @@ const Translate = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: browser, earth, explore, find, glass, global, globe, look, magnify, magnifying, map, network, planet, search, see, social, space, travel, web, world
  *
- * popularity: 32688
+ * popularity: 32718
  */
 const TravelExplore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="travel_explore" {...props} />
@@ -25336,7 +25336,7 @@ const TravelExplore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, arrow, data, diagram, down, graph, infographic, measure, metrics, movement, rate, rating, statistics, tracking, trending
  *
- * popularity: 14117
+ * popularity: 14125
  */
 const TrendingDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="trending_down" {...props} />
@@ -25349,7 +25349,7 @@ const TrendingDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, change, data, flat, metric, movement, rate, right, track, tracking, trending
  *
- * popularity: 25028
+ * popularity: 25049
  */
 const TrendingFlat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="trending_flat" {...props} />
@@ -25362,7 +25362,7 @@ const TrendingFlat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, arrow, data, diagram, graph, infographic, measure, metrics, movement, rate, rating, statistics, tracking, trending, up
  *
- * popularity: 84649
+ * popularity: 84716
  */
 const TrendingUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="trending_up" {...props} />
@@ -25375,7 +25375,7 @@ const TrendingUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circle, departure, origin, trip
  *
- * popularity: 6867
+ * popularity: 6870
  */
 const TripOrigin = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="trip_origin" {...props} />
@@ -25388,7 +25388,7 @@ const TripOrigin = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, chart, data, diagram, find, glass, graph, infographic, line, look, magnify, magnifying, measure, metrics, search, see, statistics, tracking, troubleshoot
  *
- * popularity: 3704
+ * popularity: 3722
  */
 const Troubleshoot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="troubleshoot" {...props} />
@@ -25401,7 +25401,7 @@ const Troubleshoot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bookmark, bubble, chat, comment, communicate, favorite, feedback, highlight, important, marked, message, save, saved, shape, special, speech, star, try
  *
- * popularity: 6121
+ * popularity: 6130
  */
 const Try = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="try" {...props} />
@@ -25414,7 +25414,7 @@ const Try = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, flood, rain, storm, tsunami, weather
  *
- * popularity: 872
+ * popularity: 875
  */
 const Tsunami = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tsunami" {...props} />
@@ -25427,7 +25427,7 @@ const Tsunami = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, cell, contact, deaf, device, hardware, impaired, mobile, phone, speech, talk, telephone, text, tty
  *
- * popularity: 2303
+ * popularity: 2306
  */
 const Tty = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tty" {...props} />
@@ -25440,7 +25440,7 @@ const Tty = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: adjust, audio, controls, custom, customize, edit, editing, filter, filters, instant, mix, music, options, setting, settings, slider, sliders, switches, tune
  *
- * popularity: 63272
+ * popularity: 63348
  */
 const Tune = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tune" {...props} />
@@ -25453,7 +25453,7 @@ const Tune = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: electricity, indoor, lamp, light, lightbulb, setting, tungsten
  *
- * popularity: 14299
+ * popularity: 14309
  */
 const Tungsten = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tungsten" {...props} />
@@ -25466,7 +25466,7 @@ const Tungsten = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, left, maps, navigation, path, route, sign, traffic, turn
  *
- * popularity: 1349
+ * popularity: 1350
  */
 const TurnLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_left" {...props} />
@@ -25479,7 +25479,7 @@ const TurnLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, route, sign, traffic, turn
  *
- * popularity: 1722
+ * popularity: 1725
  */
 const TurnRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_right" {...props} />
@@ -25492,7 +25492,7 @@ const TurnRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, left, maps, navigation, path, route, sharp, sign, traffic, turn
  *
- * popularity: 588
+ * popularity: 590
  */
 const TurnSharpLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_sharp_left" {...props} />
@@ -25505,7 +25505,7 @@ const TurnSharpLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, route, sharp, sign, traffic, turn
  *
- * popularity: 838
+ * popularity: 841
  */
 const TurnSharpRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_sharp_right" {...props} />
@@ -25518,7 +25518,7 @@ const TurnSharpRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, route, sign, slight, traffic, turn
  *
- * popularity: 757
+ * popularity: 758
  */
 const TurnSlightLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_slight_left" {...props} />
@@ -25531,7 +25531,7 @@ const TurnSlightLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, route, sharp, sign, slight, traffic, turn
  *
- * popularity: 775
+ * popularity: 777
  */
 const TurnSlightRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turn_slight_right" {...props} />
@@ -25544,7 +25544,7 @@ const TurnSlightRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, bookmark, favorite, in, label, library, read, reading, remember, ribbon, save, tag, turned
  *
- * popularity: 9058
+ * popularity: 9061
  */
 const TurnedIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turned_in" {...props} />
@@ -25557,7 +25557,7 @@ const TurnedIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, bookmark, favorite, in, label, library, not, read, reading, remember, ribbon, save, tag, turned
  *
- * popularity: 8117
+ * popularity: 8122
  */
 const TurnedInNot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="turned_in_not" {...props} />
@@ -25570,7 +25570,7 @@ const TurnedInNot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: device, display, monitor, screen, screencast, stream, television, tv, video, wireless
  *
- * popularity: 14730
+ * popularity: 14741
  */
 const Tv = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tv" {...props} />
@@ -25583,7 +25583,7 @@ const Tv = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, chrome, desktop, device, disabled, enabled, hardware, iOS, mac, monitor, off, on, slash, television, tv, web, window
  *
- * popularity: 1077
+ * popularity: 1080
  */
 const TvOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="tv_off" {...props} />
@@ -25596,7 +25596,7 @@ const TvOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: automobile, bike, car, cars, direction, maps, motorcycle, public, scooter, sport, transportation, travel, two wheeler, vehicle
  *
- * popularity: 10452
+ * popularity: 10467
  */
 const TwoWheeler = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="two_wheeler" {...props} />
@@ -25609,7 +25609,7 @@ const TwoWheeler = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 423
+ * popularity: 426
  */
 const TypeSpecimen = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="type_specimen" {...props} />
@@ -25622,7 +25622,7 @@ const TypeSpecimen = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, left, maps, navigation, path, route, sign, traffic, u-turn
  *
- * popularity: 1276
+ * popularity: 1280
  */
 const UTurnLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="u_turn_left" {...props} />
@@ -25635,7 +25635,7 @@ const UTurnLeft = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, direction, directions, maps, navigation, path, right, route, sign, traffic, u-turn
  *
- * popularity: 936
+ * popularity: 941
  */
 const UTurnRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="u_turn_right" {...props} />
@@ -25648,7 +25648,7 @@ const UTurnRight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beach, protection, rain, sun, sunny, umbrella
  *
- * popularity: 2598
+ * popularity: 2602
  */
 const Umbrella = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="umbrella" {...props} />
@@ -25661,7 +25661,7 @@ const Umbrella = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: archive, arrow, inbox, mail, store, unarchive, undo, up
  *
- * popularity: 7833
+ * popularity: 7843
  */
 const Unarchive = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unarchive" {...props} />
@@ -25674,7 +25674,7 @@ const Unarchive = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, backward, mail, previous, redo, repeat, rotate, undo
  *
- * popularity: 34085
+ * popularity: 34116
  */
 const Undo = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="undo" {...props} />
@@ -25687,7 +25687,7 @@ const Undo = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, expand, expandable, inward, less, list, navigation, unfold, up
  *
- * popularity: 12469
+ * popularity: 12488
  */
 const UnfoldLess = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unfold_less" {...props} />
@@ -25700,7 +25700,7 @@ const UnfoldLess = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, double, expand, expandable, inward, less, list, navigation, unfold, up
  *
- * popularity: 815
+ * popularity: 820
  */
 const UnfoldLessDouble = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unfold_less_double" {...props} />
@@ -25713,7 +25713,7 @@ const UnfoldLessDouble = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, down, expand, expandable, list, more, navigation, unfold
  *
- * popularity: 32741
+ * popularity: 32765
  */
 const UnfoldMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unfold_more" {...props} />
@@ -25726,7 +25726,7 @@ const UnfoldMore = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, chevron, collapse, direction, double, down, expand, expandable, list, more, navigation, unfold
  *
- * popularity: 1146
+ * popularity: 1155
  */
 const UnfoldMoreDouble = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unfold_more_double" {...props} />
@@ -25739,7 +25739,7 @@ const UnfoldMoreDouble = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, check, circle, complete, disabled, done, enabled, mark, off, ok, on, select, slash, tick, unpublished, validate, verified, yes
  *
- * popularity: 10576
+ * popularity: 10584
  */
 const Unpublished = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unpublished" {...props} />
@@ -25752,7 +25752,7 @@ const Unpublished = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, close, email, envelop, letter, mail, message, newsletter, off, remove, send, subscribe, unsubscribe
  *
- * popularity: 5504
+ * popularity: 5509
  */
 const Unsubscribe = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="unsubscribe" {...props} />
@@ -25765,7 +25765,7 @@ const Unsubscribe = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alarm, calendar, mail, message, notification, upcoming
  *
- * popularity: 5707
+ * popularity: 5708
  */
 const Upcoming = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="upcoming" {...props} />
@@ -25778,7 +25778,7 @@ const Upcoming = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, clock, forward, history, load, refresh, reverse, schedule, time, update
  *
- * popularity: 56768
+ * popularity: 56806
  */
 const Update = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="update" {...props} />
@@ -25791,7 +25791,7 @@ const Update = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, clock, date, disabled, enabled, forward, history, load, off, on, refresh, reverse, rotate, schedule, slash, time, update
  *
- * popularity: 3164
+ * popularity: 3170
  */
 const UpdateDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="update_disabled" {...props} />
@@ -25804,7 +25804,7 @@ const UpdateDisabled = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, export, instal, line, replace, up, update, upgrade
  *
- * popularity: 14301
+ * popularity: 14311
  */
 const Upgrade = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="upgrade" {...props} />
@@ -25817,7 +25817,7 @@ const Upgrade = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, download, drive, up, upload
  *
- * popularity: 22786
+ * popularity: 22802
  */
 const Upload = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="upload" {...props} />
@@ -25830,7 +25830,7 @@ const Upload = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, data, doc, document, download, drive, file, folder, folders, page, paper, sheet, slide, up, upload, writing
  *
- * popularity: 43974
+ * popularity: 44017
  */
 const UploadFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="upload_file" {...props} />
@@ -25843,7 +25843,7 @@ const UploadFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cable, connection, device, usb, wire
  *
- * popularity: 4527
+ * popularity: 4534
  */
 const Usb = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="usb" {...props} />
@@ -25856,7 +25856,7 @@ const Usb = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cable, connection, device, off, usb, wire
  *
- * popularity: 1050
+ * popularity: 1052
  */
 const UsbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="usb_off" {...props} />
@@ -25869,7 +25869,7 @@ const UsbOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aid, covid, doctor, drug, emergency, hospital, immunity, injection, medical, medication, medicine, needle, pharmacy, sick, syringe, vaccination, vaccines, vial
  *
- * popularity: 9377
+ * popularity: 9391
  */
 const Vaccines = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vaccines" {...props} />
@@ -25882,7 +25882,7 @@ const Vaccines = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, e-cigarette, enabled, free, never, no, off, on, places, prohibited, slash, smoke, smoking, tobacco, vape, vaping, vapor, warning, zone
  *
- * popularity: 491
+ * popularity: 493
  */
 const VapeFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vape_free" {...props} />
@@ -25895,7 +25895,7 @@ const VapeFree = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: allowed, e-cigarette, never, no, places, prohibited, smoke, smoking, tobacco, vape, vaping, vapor, warning, zone
  *
- * popularity: 631
+ * popularity: 632
  */
 const VapingRooms = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vaping_rooms" {...props} />
@@ -25908,7 +25908,7 @@ const VapingRooms = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, badge, burst, check, complete, done, mark, ok, select, star, tick, validate, verified, yes
  *
- * popularity: 143417
+ * popularity: 143606
  */
 const Verified = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="verified" {...props} />
@@ -25921,7 +25921,7 @@ const Verified = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, certified, check, complete, done, mark, ok, privacy, private, protect, protection, security, select, shield, tick, user, validate, verified, yes
  *
- * popularity: 79255
+ * popularity: 79338
  */
 const VerifiedUser = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="verified_user" {...props} />
@@ -25934,7 +25934,7 @@ const VerifiedUser = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, arrow, bottom, doc, down, edit, editing, editor, sheet, spreadsheet, text, type, vertical, writing
  *
- * popularity: 7454
+ * popularity: 7459
  */
 const VerticalAlignBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_align_bottom" {...props} />
@@ -25947,7 +25947,7 @@ const VerticalAlignBottom = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, arrow, center, doc, down, edit, editing, editor, sheet, spreadsheet, text, type, up, vertical, writing
  *
- * popularity: 3170
+ * popularity: 3172
  */
 const VerticalAlignCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_align_center" {...props} />
@@ -25960,7 +25960,7 @@ const VerticalAlignCenter = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: align, alignment, arrow, doc, edit, editing, editor, sheet, spreadsheet, text, top, type, up, vertical, writing
  *
- * popularity: 6968
+ * popularity: 6975
  */
 const VerticalAlignTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_align_top" {...props} />
@@ -25973,7 +25973,7 @@ const VerticalAlignTop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alignment, distribute, format, layout, lines, paragraph, rule, rules, style, text, vertical
  *
- * popularity: 1971
+ * popularity: 1972
  */
 const VerticalDistribute = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_distribute" {...props} />
@@ -25986,7 +25986,7 @@ const VerticalDistribute = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, cover, curtains, nest, open, shade, shutter, sunshade, vertical
  *
- * popularity: 557
+ * popularity: 561
  */
 const VerticalShades = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_shades" {...props} />
@@ -25999,7 +25999,7 @@ const VerticalShades = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: blinds, closed, cover, curtains, nest, roller, shade, shutter, sunshade
  *
- * popularity: 544
+ * popularity: 549
  */
 const VerticalShadesClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_shades_closed" {...props} />
@@ -26012,7 +26012,7 @@ const VerticalShadesClosed = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, paragraph, split, text, vertical, website, writing
  *
- * popularity: 7325
+ * popularity: 7338
  */
 const VerticalSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vertical_split" {...props} />
@@ -26025,7 +26025,7 @@ const VerticalSplit = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, alert, cell, device, hardware, iOS, mobile, mode, motion, notification, phone, silence, silent, tablet, vibrate, vibration
  *
- * popularity: 3681
+ * popularity: 3692
  */
 const Vibration = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vibration" {...props} />
@@ -26038,7 +26038,7 @@ const Vibration = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: +, add, call, camera, chat, conference, film, filming, hardware, image, motion, new, picture, plus, symbol, video, videography
  *
- * popularity: 13739
+ * popularity: 13744
  */
 const VideoCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_call" {...props} />
@@ -26051,7 +26051,7 @@ const VideoCall = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, camera, image, landscape, mountain, mountains, photo, photography, picture, rear, video
  *
- * popularity: 3437
+ * popularity: 3443
  */
 const VideoCameraBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_camera_back" {...props} />
@@ -26064,7 +26064,7 @@ const VideoCameraBack = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, camera, face, front, human, image, people, person, photo, photography, picture, profile, user, video
  *
- * popularity: 10083
+ * popularity: 10089
  */
 const VideoCameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_camera_front" {...props} />
@@ -26077,7 +26077,7 @@ const VideoCameraFront = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, cam, camera, chat, comment, communicate, facetime, feedback, message, speech, video, voice
  *
- * popularity: 522
+ * popularity: 523
  */
 const VideoChat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_chat" {...props} />
@@ -26090,7 +26090,7 @@ const VideoChat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: camera, doc, document, film, filming, hardware, image, motion, picture, video, videography
  *
- * popularity: 2153
+ * popularity: 2157
  */
 const VideoFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_file" {...props} />
@@ -26103,7 +26103,7 @@ const VideoFile = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: label, screen, video, window
  *
- * popularity: 1821
+ * popularity: 1826
  */
 const VideoLabel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_label" {...props} />
@@ -26116,7 +26116,7 @@ const VideoLabel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, collection, library, play, video
  *
- * popularity: 16408
+ * popularity: 16430
  */
 const VideoLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_library" {...props} />
@@ -26129,7 +26129,7 @@ const VideoLibrary = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: change, details, gear, info, information, options, play, screen, service, setting, settings, video, window
  *
- * popularity: 4907
+ * popularity: 4911
  */
 const VideoSettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_settings" {...props} />
@@ -26142,7 +26142,7 @@ const VideoSettings = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: film, filming, recording, setting, stability, stable, taping, video
  *
- * popularity: 1151
+ * popularity: 1153
  */
 const VideoStable = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="video_stable" {...props} />
@@ -26155,7 +26155,7 @@ const VideoStable = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cam, camera, conference, film, filming, hardware, image, motion, picture, video, videography
  *
- * popularity: 64837
+ * popularity: 64873
  */
 const Videocam = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="videocam" {...props} />
@@ -26168,7 +26168,7 @@ const Videocam = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cam, camera, conference, disabled, enabled, film, filming, hardware, image, motion, off, offline, on, picture, slash, video, videography
  *
- * popularity: 9139
+ * popularity: 9148
  */
 const VideocamOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="videocam_off" {...props} />
@@ -26181,7 +26181,7 @@ const VideocamOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: asset, console, controller, device, game, gamepad, gaming, playstation, video
  *
- * popularity: 8776
+ * popularity: 8783
  */
 const VideogameAsset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="videogame_asset" {...props} />
@@ -26194,7 +26194,7 @@ const VideogameAsset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: asset, console, controller, device, disabled, enabled, game, gamepad, gaming, off, on, playstation, slash, video, videogame
  *
- * popularity: 970
+ * popularity: 971
  */
 const VideogameAssetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="videogame_asset_off" {...props} />
@@ -26207,7 +26207,7 @@ const VideogameAssetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: agenda, cards, design, format, grid, layout, stacked, view, website
  *
- * popularity: 11169
+ * popularity: 11180
  */
 const ViewAgenda = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_agenda" {...props} />
@@ -26220,7 +26220,7 @@ const ViewAgenda = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: array, design, format, grid, layout, view, website
  *
- * popularity: 2700
+ * popularity: 2702
  */
 const ViewArray = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_array" {...props} />
@@ -26233,7 +26233,7 @@ const ViewArray = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cards, carousel, design, format, grid, layout, view, website
  *
- * popularity: 8261
+ * popularity: 8265
  */
 const ViewCarousel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_carousel" {...props} />
@@ -26246,7 +26246,7 @@ const ViewCarousel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: column, design, format, grid, layout, vertical, view, website
  *
- * popularity: 12452
+ * popularity: 12460
  */
 const ViewColumn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_column" {...props} />
@@ -26259,7 +26259,7 @@ const ViewColumn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: comfy, grid, layout, pattern, squares, view
  *
- * popularity: 4662
+ * popularity: 4663
  */
 const ViewComfy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_comfy" {...props} />
@@ -26272,7 +26272,7 @@ const ViewComfy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, comfy, cozy, design, format, layout, view, web
  *
- * popularity: 1451
+ * popularity: 1454
  */
 const ViewComfyAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_comfy_alt" {...props} />
@@ -26285,7 +26285,7 @@ const ViewComfyAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: compact, grid, layout, pattern, squares, view
  *
- * popularity: 3578
+ * popularity: 3581
  */
 const ViewCompact = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_compact" {...props} />
@@ -26298,7 +26298,7 @@ const ViewCompact = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alt, compact, design, format, layout dense, view, web
  *
- * popularity: 1358
+ * popularity: 1361
  */
 const ViewCompactAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_compact_alt" {...props} />
@@ -26311,7 +26311,7 @@ const ViewCompactAlt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: comfy, cozy, design, format, layout, view, web
  *
- * popularity: 1769
+ * popularity: 1773
  */
 const ViewCozy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_cozy" {...props} />
@@ -26324,7 +26324,7 @@ const ViewCozy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cards, carousel, day, design, format, grid, layout, view, website
  *
- * popularity: 4834
+ * popularity: 4836
  */
 const ViewDay = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_day" {...props} />
@@ -26337,7 +26337,7 @@ const ViewDay = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, headline, layout, paragraph, text, view, website
  *
- * popularity: 21131
+ * popularity: 21147
  */
 const ViewHeadline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_headline" {...props} />
@@ -26350,7 +26350,7 @@ const ViewHeadline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3d, ar, augmented, cube, daydream, headset, in, reality, square, view, vr
  *
- * popularity: 34044
+ * popularity: 34074
  */
 const ViewInAr = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_in_ar" {...props} />
@@ -26363,7 +26363,7 @@ const ViewInAr = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: grid, kanban, layout, pattern, squares, view
  *
- * popularity: 2136
+ * popularity: 2141
  */
 const ViewKanban = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_kanban" {...props} />
@@ -26376,7 +26376,7 @@ const ViewKanban = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, lines, list, stacked, view, website
  *
- * popularity: 65449
+ * popularity: 65516
  */
 const ViewList = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_list" {...props} />
@@ -26389,7 +26389,7 @@ const ViewList = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, module, square, squares, stacked, view, website
  *
- * popularity: 17379
+ * popularity: 17398
  */
 const ViewModule = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_module" {...props} />
@@ -26402,7 +26402,7 @@ const ViewModule = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, quilt, square, squares, stacked, view, website
  *
- * popularity: 8224
+ * popularity: 8228
  */
 const ViewQuilt = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_quilt" {...props} />
@@ -26415,7 +26415,7 @@ const ViewQuilt = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, sidebar, view, web
  *
- * popularity: 7461
+ * popularity: 7465
  */
 const ViewSidebar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_sidebar" {...props} />
@@ -26428,7 +26428,7 @@ const ViewSidebar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: design, format, grid, layout, lines, list, stacked, stream, view, website
  *
- * popularity: 6834
+ * popularity: 6838
  */
 const ViewStream = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_stream" {...props} />
@@ -26441,7 +26441,7 @@ const ViewStream = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: grid, layout, pattern, squares, timeline, view
  *
- * popularity: 4815
+ * popularity: 4820
  */
 const ViewTimeline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_timeline" {...props} />
@@ -26454,7 +26454,7 @@ const ViewTimeline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bars, columns, design, format, grid, layout, view, website, week
  *
- * popularity: 9924
+ * popularity: 9929
  */
 const ViewWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="view_week" {...props} />
@@ -26467,7 +26467,7 @@ const ViewWeek = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: border, edit, editing, filter, gradient, image, photo, photography, setting, vignette
  *
- * popularity: 1058
+ * popularity: 1059
  */
 const Vignette = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vignette" {...props} />
@@ -26480,7 +26480,7 @@ const Vignette = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, beach, estate, home, house, maps, place, real, residence, residential, traveling, vacation stay, villa
  *
- * popularity: 4991
+ * popularity: 4995
  */
 const Villa = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="villa" {...props} />
@@ -26493,7 +26493,7 @@ const Villa = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: eye, on, reveal, see, show, view, visibility
  *
- * popularity: 302561
+ * popularity: 302838
  */
 const Visibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="visibility" {...props} />
@@ -26506,7 +26506,7 @@ const Visibility = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: disabled, enabled, eye, off, on, reveal, see, show, slash, view, visibility
  *
- * popularity: 122989
+ * popularity: 123112
  */
 const VisibilityOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="visibility_off" {...props} />
@@ -26519,7 +26519,7 @@ const VisibilityOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bubble, cam, camera, chat, comment, communicate, facetime, feedback, message, speech, video, voice
  *
- * popularity: 3830
+ * popularity: 3833
  */
 const VoiceChat = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="voice_chat" {...props} />
@@ -26532,7 +26532,7 @@ const VoiceChat = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: account, disabled, enabled, face, human, off, on, over, people, person, profile, recording, slash, speak, speaking, speech, transcript, user, voice
  *
- * popularity: 3006
+ * popularity: 3008
  */
 const VoiceOverOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="voice_over_off" {...props} />
@@ -26545,7 +26545,7 @@ const VoiceOverOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, device, message, missed, mobile, phone, recording, voice, voicemail
  *
- * popularity: 3119
+ * popularity: 3121
  */
 const Voicemail = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="voicemail" {...props} />
@@ -26558,7 +26558,7 @@ const Voicemail = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: crisis, disaster, eruption, lava, magma, natural, volcano
  *
- * popularity: 632
+ * popularity: 634
  */
 const Volcano = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volcano" {...props} />
@@ -26571,7 +26571,7 @@ const Volcano = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, control, down, music, sound, speaker, tv, volume
  *
- * popularity: 9162
+ * popularity: 9175
  */
 const VolumeDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volume_down" {...props} />
@@ -26584,7 +26584,7 @@ const VolumeDown = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, control, music, mute, sound, speaker, tv, volume
  *
- * popularity: 13677
+ * popularity: 13691
  */
 const VolumeMute = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volume_mute" {...props} />
@@ -26597,7 +26597,7 @@ const VolumeMute = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, control, disabled, enabled, low, music, off, on, slash, sound, speaker, tv, volume
  *
- * popularity: 31723
+ * popularity: 31746
  */
 const VolumeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volume_off" {...props} />
@@ -26610,7 +26610,7 @@ const VolumeOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: audio, control, music, sound, speaker, tv, up, volume
  *
- * popularity: 57756
+ * popularity: 57811
  */
 const VolumeUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volume_up" {...props} />
@@ -26623,7 +26623,7 @@ const VolumeUp = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: activism, donation, fingers, gesture, giving, hand, hands, heart, love, sharing, volunteer
  *
- * popularity: 35244
+ * popularity: 35273
  */
 const VolunteerActivism = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="volunteer_activism" {...props} />
@@ -26636,7 +26636,7 @@ const VolunteerActivism = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, code, door, entry, key, lock, network, passcode, password, unlock, vpn
  *
- * popularity: 46374
+ * popularity: 46419
  */
 const VpnKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vpn_key" {...props} />
@@ -26649,7 +26649,7 @@ const VpnKey = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: access, code, disabled, door, enabled, entry, key, lock, network, off, offline, on, passcode, password, slash, unlock, vpn
  *
- * popularity: 1006
+ * popularity: 1013
  */
 const VpnKeyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vpn_key_off" {...props} />
@@ -26662,7 +26662,7 @@ const VpnKeyOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: earth, globe, lock, locked, network, password, privacy, private, protection, safety, secure, security, virtual, vpn, world
  *
- * popularity: 6671
+ * popularity: 6677
  */
 const VpnLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vpn_lock" {...props} />
@@ -26675,7 +26675,7 @@ const VpnLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: angle, image, landscape, mountain, mountains, panorama, photo, photography, picture, view, vrpano, wide
  *
- * popularity: 2452
+ * popularity: 2453
  */
 const Vrpano = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="vrpano" {...props} />
@@ -26688,7 +26688,7 @@ const Vrpano = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 5049
+ * popularity: 5066
  */
 const Wallet = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wallet" {...props} />
@@ -26701,7 +26701,7 @@ const Wallet = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: background, dash, dashed, image, landscape, photo, photography, picture, wallpaper
  *
- * popularity: 7225
+ * popularity: 7227
  */
 const Wallpaper = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wallpaper" {...props} />
@@ -26714,7 +26714,7 @@ const Wallpaper = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: garage, industry, manufacturing, storage, warehouse
  *
- * popularity: 8777
+ * popularity: 8793
  */
 const Warehouse = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="warehouse" {...props} />
@@ -26727,7 +26727,7 @@ const Warehouse = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, danger, error, exclamation, important, mark, notification, symbol, triangle, warning
  *
- * popularity: 116907
+ * popularity: 116994
  */
 const Warning = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="warning" {...props} />
@@ -26740,7 +26740,7 @@ const Warning = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, amber, attention, caution, danger, error, exclamation, important, mark, notification, symbol, triangle, warning
  *
- * popularity: 51156
+ * popularity: 51194
  */
 const WarningAmber = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="warning_amber" {...props} />
@@ -26753,7 +26753,7 @@ const WarningAmber = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bathroom, clean, fingers, gesture, hand, wash, wc
  *
- * popularity: 3312
+ * popularity: 3316
  */
 const Wash = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wash" {...props} />
@@ -26766,7 +26766,7 @@ const Wash = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, ar, clock, gadget, iOS, time, vr, watch, wearables, web, wristwatch
  *
- * popularity: 6516
+ * popularity: 6522
  */
 const Watch = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="watch" {...props} />
@@ -26779,7 +26779,7 @@ const Watch = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: clock, date, later, schedule, time, watch
  *
- * popularity: 57676
+ * popularity: 57736
  */
 const WatchLater = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="watch_later" {...props} />
@@ -26792,7 +26792,7 @@ const WatchLater = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: Android, OS, ar, clock, close, gadget, iOS, off, shut, time, vr, watch, wearables, web, wristwatch
  *
- * popularity: 629
+ * popularity: 631
  */
 const WatchOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="watch_off" {...props} />
@@ -26805,7 +26805,7 @@ const WatchOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: aqua, beach, lake, ocean, river, water, waves, weather
  *
- * popularity: 9037
+ * popularity: 9046
  */
 const Water = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="water" {...props} />
@@ -26818,7 +26818,7 @@ const Water = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: architecture, building, damage, drop, droplet, estate, house, leak, plumbing, real, residence, residential, shelter, water
  *
- * popularity: 2969
+ * popularity: 2972
  */
 const WaterDamage = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="water_damage" {...props} />
@@ -26831,7 +26831,7 @@ const WaterDamage = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: drink, drop, droplet, eco, liquid, nature, ocean, rain, social, water
  *
- * popularity: 31817
+ * popularity: 31873
  */
 const WaterDrop = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="water_drop" {...props} />
@@ -26844,7 +26844,7 @@ const WaterDrop = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: analytics, bar, chart, data, diagram, graph, infographic, measure, metrics, statistics, tracking, waterfall
  *
- * popularity: 4953
+ * popularity: 4958
  */
 const WaterfallChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="waterfall_chart" {...props} />
@@ -26857,7 +26857,7 @@ const WaterfallChart = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: beach, lake, ocean, pool, river, sea, swim, water, wave, waves
  *
- * popularity: 8332
+ * popularity: 8335
  */
 const Waves = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="waves" {...props} />
@@ -26870,7 +26870,7 @@ const Waves = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bye, fingers, gesture, goodbye, greetings, hand, hello, palm, wave, waving
  *
- * popularity: 10755
+ * popularity: 10765
  */
 const WavingHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="waving_hand" {...props} />
@@ -26883,7 +26883,7 @@ const WavingHand = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: A, W, alphabet, auto, automatic, balance, character, edit, editing, font, image, letter, photo, photography, symbol, text, type, white, wp
  *
- * popularity: 774
+ * popularity: 775
  */
 const WbAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_auto" {...props} />
@@ -26896,7 +26896,7 @@ const WbAuto = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, cloud, cloudy, edit, editing, white, wp
  *
- * popularity: 6282
+ * popularity: 6288
  */
 const WbCloudy = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_cloudy" {...props} />
@@ -26909,7 +26909,7 @@ const WbCloudy = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, bright, edit, editing, incandescent, light, lighting, setting, settings, white, wp
  *
- * popularity: 6718
+ * popularity: 6727
  */
 const WbIncandescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_incandescent" {...props} />
@@ -26922,7 +26922,7 @@ const WbIncandescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, bright, edit, editing, iridescent, light, lighting, setting, settings, white, wp
  *
- * popularity: 1435
+ * popularity: 1438
  */
 const WbIridescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_iridescent" {...props} />
@@ -26935,7 +26935,7 @@ const WbIridescent = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, house, light, lighting, shade, wb, white
  *
- * popularity: 1120
+ * popularity: 1122
  */
 const WbShade = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_shade" {...props} />
@@ -26948,7 +26948,7 @@ const WbShade = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, bright, light, lighting, sun, sunny, wb, white
  *
- * popularity: 22416
+ * popularity: 22434
  */
 const WbSunny = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_sunny" {...props} />
@@ -26961,7 +26961,7 @@ const WbSunny = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: balance, light, lighting, noon, sun, sunset, twilight, wb, white
  *
- * popularity: 2887
+ * popularity: 2895
  */
 const WbTwilight = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wb_twilight" {...props} />
@@ -26974,7 +26974,7 @@ const WbTwilight = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bathroom, closet, female, male, man, restroom, room, wash, water, wc, women
  *
- * popularity: 10754
+ * popularity: 10768
  */
 const Wc = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wc" {...props} />
@@ -26987,7 +26987,7 @@ const Wc = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: browser, internet, page, screen, site, web, website, www
  *
- * popularity: 16748
+ * popularity: 16755
  */
 const Web = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="web" {...props} />
@@ -27000,7 +27000,7 @@ const Web = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: -website, app, application desktop, asset, browser, design, download, image, interface, internet, layout, screen, site, ui, ux, video, web, website, window, www
  *
- * popularity: 8278
+ * popularity: 8289
  */
 const WebAsset = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="web_asset" {...props} />
@@ -27013,7 +27013,7 @@ const WebAsset = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: asset, browser, disabled, enabled, internet, off, on, page, screen, slash, web, webpage, website, windows, www
  *
- * popularity: 1402
+ * popularity: 1405
  */
 const WebAssetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="web_asset_off" {...props} />
@@ -27026,7 +27026,7 @@ const WebAssetOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: google, images, logo, stories, web
  *
- * popularity: 2151
+ * popularity: 2161
  */
 const WebStories = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="web_stories" {...props} />
@@ -27039,7 +27039,7 @@ const WebStories = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: api, developer, development, enterprise, software, webhook
  *
- * popularity: 4587
+ * popularity: 4594
  */
 const Webhook = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="webhook" {...props} />
@@ -27052,7 +27052,7 @@ const Webhook = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: chair, couch, furniture, home, living, lounge, relax, room, weekend
  *
- * popularity: 6021
+ * popularity: 6023
  */
 const Weekend = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="weekend" {...props} />
@@ -27065,7 +27065,7 @@ const Weekend = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, directional, left, maps, navigation, west
  *
- * popularity: 25855
+ * popularity: 25866
  */
 const West = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="west" {...props} />
@@ -27078,7 +27078,7 @@ const West = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, circle, direction, fire, frames, hot, round, whatshot
  *
- * popularity: 15204
+ * popularity: 15217
  */
 const Whatshot = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="whatshot" {...props} />
@@ -27091,7 +27091,7 @@ const Whatshot = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: accessibility, accessible, body, handicap, help, human, person, pickup, wheelchair
  *
- * popularity: 2103
+ * popularity: 2106
  */
 const WheelchairPickup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wheelchair_pickup" {...props} />
@@ -27104,7 +27104,7 @@ const WheelchairPickup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: approve, ballot, check, complete, destination, direction, done, location, maps, mark, ok, pin, place, poll, select, stop, tick, to, validate election, verified, vote, where, yes
  *
- * popularity: 8883
+ * popularity: 8897
  */
 const WhereToVote = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="where_to_vote" {...props} />
@@ -27117,7 +27117,7 @@ const WhereToVote = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: app, box, menu, setting, squares, ui, widgets
  *
- * popularity: 27453
+ * popularity: 27473
  */
 const Widgets = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="widgets" {...props} />
@@ -27130,7 +27130,7 @@ const Widgets = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 837
+ * popularity: 841
  */
 const WidthFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="width_full" {...props} />
@@ -27143,7 +27143,7 @@ const WidthFull = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 737
+ * popularity: 743
  */
 const WidthNormal = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="width_normal" {...props} />
@@ -27156,7 +27156,7 @@ const WidthNormal = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags:
  *
- * popularity: 686
+ * popularity: 689
  */
 const WidthWide = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="width_wide" {...props} />
@@ -27169,7 +27169,7 @@ const WidthWide = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, data, internet, network, scan, service, signal, wifi, wireless
  *
- * popularity: 50062
+ * popularity: 50099
  */
 const Wifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi" {...props} />
@@ -27182,7 +27182,7 @@ const Wifi = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 1, bar, cell, cellular, connection, data, internet, mobile, network, phone, scan, service, signal, wifi, wireless
  *
- * popularity: 824
+ * popularity: 827
  */
 const Wifi1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_1_bar" {...props} />
@@ -27195,7 +27195,7 @@ const Wifi1Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 2, bar, cell, cellular, connection, data, internet, mobile, network, phone, scan, service, signal, wifi, wireless
  *
- * popularity: 939
+ * popularity: 943
  */
 const Wifi2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_2_bar" {...props} />
@@ -27208,7 +27208,7 @@ const Wifi2Bar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: call, calling, cell, connect, connection, connectivity, contact, device, hardware, mobile, phone, signal, telephone, wifi, wireless
  *
- * popularity: 1696
+ * popularity: 1697
  */
 const WifiCalling = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_calling" {...props} />
@@ -27221,7 +27221,7 @@ const WifiCalling = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: 3, calling, cell, cellular, data, internet, mobile, network, phone, speed, wifi, wireless
  *
- * popularity: 2602
+ * popularity: 2607
  */
 const WifiCalling3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_calling_3" {...props} />
@@ -27234,7 +27234,7 @@ const WifiCalling3 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cellular, channel, connection, data, internet, mobile, network, scan, service, signal, wifi, wireless
  *
- * popularity: 810
+ * popularity: 811
  */
 const WifiChannel = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_channel" {...props} />
@@ -27247,7 +27247,7 @@ const WifiChannel = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cellular, connection, data, detect, discover, find, internet, look, magnifying glass, mobile, network, notice, scan, search, service, signal, wifi, wireless
  *
- * popularity: 1156
+ * popularity: 1159
  */
 const WifiFind = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_find" {...props} />
@@ -27260,7 +27260,7 @@ const WifiFind = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cellular, connection, data, internet, lock, locked, mobile, network, password, privacy, private, protection, safety, secure, security, service, signal, wifi, wireless
  *
- * popularity: 1747
+ * popularity: 1748
  */
 const WifiLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_lock" {...props} />
@@ -27273,7 +27273,7 @@ const WifiLock = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: connection, data, disabled, enabled, internet, network, off, offline, on, scan, service, signal, slash, wifi, wireless
  *
- * popularity: 13457
+ * popularity: 13473
  */
 const WifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_off" {...props} />
@@ -27286,7 +27286,7 @@ const WifiOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cellular, connection, data, internet, lock, mobile, network, password, scan, secure, service, signal, wifi, wireless
  *
- * popularity: 1466
+ * popularity: 1470
  */
 const WifiPassword = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_password" {...props} />
@@ -27299,7 +27299,7 @@ const WifiPassword = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: around, arrow, arrows, protected, rotate, setup, wifi
  *
- * popularity: 5392
+ * popularity: 5395
  */
 const WifiProtectedSetup = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_protected_setup" {...props} />
@@ -27312,7 +27312,7 @@ const WifiProtectedSetup = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, connection, data, internet, mobile, network, phone, scan, service, signal, speed, tethering, wifi, wireless
  *
- * popularity: 6162
+ * popularity: 6163
  */
 const WifiTethering = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_tethering" {...props} />
@@ -27325,7 +27325,7 @@ const WifiTethering = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: !, alert, attention, caution, cell, cellular, connection, danger, data, error, exclamation, important, internet, mark, mobile, network, notification, phone, rounded, scan, service, signal, speed, symbol, tethering, warning, wifi, wireless
  *
- * popularity: 898
+ * popularity: 900
  */
 const WifiTetheringError = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_tethering_error" {...props} />
@@ -27338,7 +27338,7 @@ const WifiTetheringError = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cell, cellular, connection, data, disabled, enabled, internet, mobile, network, off, offline, on, phone, scan, service, signal, slash, speed, tethering, wifi, wireless
  *
- * popularity: 1393
+ * popularity: 1396
  */
 const WifiTetheringOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wifi_tethering_off" {...props} />
@@ -27351,7 +27351,7 @@ const WifiTetheringOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: eco, energy, nest, power, wind, windy
  *
- * popularity: 1916
+ * popularity: 1922
  */
 const WindPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wind_power" {...props} />
@@ -27364,7 +27364,7 @@ const WindPower = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: close, glass, grid, home, house, interior, layout, outside, window
  *
- * popularity: 7307
+ * popularity: 7310
  */
 const Window = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="window" {...props} />
@@ -27377,7 +27377,7 @@ const Window = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: alcohol, bar, cocktail, cup, drink, glass, liquor, wine
  *
- * popularity: 5681
+ * popularity: 5685
  */
 const WineBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wine_bar" {...props} />
@@ -27390,7 +27390,7 @@ const WineBar = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: female, gender, girl, lady, social, symbol, woman, women
  *
- * popularity: 5400
+ * popularity: 5412
  */
 const Woman = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="woman" {...props} />
@@ -27403,7 +27403,7 @@ const Woman = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: female, gender, girl, lady, social, symbol, woman, women
  *
- * popularity: 685
+ * popularity: 688
  */
 const Woman2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="woman_2" {...props} />
@@ -27416,7 +27416,7 @@ const Woman2 = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, briefcase, business, case, job, suitcase, work
  *
- * popularity: 64378
+ * popularity: 64420
  */
 const Work = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="work" {...props} />
@@ -27429,7 +27429,7 @@ const Work = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: back, backwards, bag, baggage, briefcase, business, case, clock, date, history, job, pending, recent, schedule, suitcase, time, updates, work
  *
- * popularity: 5339
+ * popularity: 5354
  */
 const WorkHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="work_history" {...props} />
@@ -27442,7 +27442,7 @@ const WorkHistory = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, briefcase, business, case, disabled, enabled, job, off, on, slash, suitcase, work
  *
- * popularity: 3431
+ * popularity: 3432
  */
 const WorkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="work_off" {...props} />
@@ -27455,7 +27455,7 @@ const WorkOff = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: bag, baggage, briefcase, business, case, job, suitcase, work
  *
- * popularity: 32448
+ * popularity: 32461
  */
 const WorkOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="work_outline" {...props} />
@@ -27468,7 +27468,7 @@ const WorkOutline = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: certification, degree, ecommerce, guarantee, medal, permit, premium, ribbon, verification, workspace
  *
- * popularity: 26329
+ * popularity: 26406
  */
 const WorkspacePremium = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="workspace_premium" {...props} />
@@ -27481,7 +27481,7 @@ const WorkspacePremium = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: circles, collaboration, dot, filled, group, outline, space, team, work, workspaces
  *
- * popularity: 10221
+ * popularity: 10232
  */
 const Workspaces = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="workspaces" {...props} />
@@ -27494,7 +27494,7 @@ const Workspaces = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow writing, doc, edit, editing, editor, sheet, spreadsheet, text, type, wrap, write, writing
  *
- * popularity: 1605
+ * popularity: 1607
  */
 const WrapText = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wrap_text" {...props} />
@@ -27507,7 +27507,7 @@ const WrapText = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: cancel, clear, close, destination, direction, exit, location, maps, no, pin, place, quit, remove, stop, wrong, x
  *
- * popularity: 3388
+ * popularity: 3394
  */
 const WrongLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wrong_location" {...props} />
@@ -27520,7 +27520,7 @@ const WrongLocation = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: composer, mode, screen, site, software, system, text, view, visibility, web, website, window, wysiwyg
  *
- * popularity: 15316
+ * popularity: 15334
  */
 const Wysiwyg = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="wysiwyg" {...props} />
@@ -27533,7 +27533,7 @@ const Wysiwyg = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: backyard, flower, garden, home, house, nature, pettle, plants, yard
  *
- * popularity: 9602
+ * popularity: 9610
  */
 const Yard = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="yard" {...props} />
@@ -27546,7 +27546,7 @@ const Yard = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, back, backwards, find, glass, history, inprogress, load, loading, look, magnify, magnifying, refresh, renew, restore, reverse, rotate, search, see, youtube
  *
- * popularity: 9752
+ * popularity: 9759
  */
 const YoutubeSearchedFor = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="youtube_searched_for" {...props} />
@@ -27559,7 +27559,7 @@ const YoutubeSearchedFor = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: big, bigger, find, glass, grow, in, look, magnify, magnifying, plus, scale, search, see, size, zoom
  *
- * popularity: 40426
+ * popularity: 40469
  */
 const ZoomIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="zoom_in" {...props} />
@@ -27572,7 +27572,7 @@ const ZoomIn = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, destination, in, location, maps, move, place, stop, zoom
  *
- * popularity: 3841
+ * popularity: 3846
  */
 const ZoomInMap = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="zoom_in_map" {...props} />
@@ -27585,7 +27585,7 @@ const ZoomInMap = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: find, glass, look, magnify, magnifying, minus, negative, out, scale, search, see, size, small, smaller, zoom
  *
- * popularity: 16306
+ * popularity: 16318
  */
 const ZoomOut = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="zoom_out" {...props} />
@@ -27598,7 +27598,7 @@ const ZoomOut = (props: React.HTMLAttributes<HTMLDivElement>) => (
  *
  * tags: arrow, arrows, destination, location, maps, move, out, place, stop, zoom
  *
- * popularity: 13776
+ * popularity: 13782
  */
 const ZoomOutMap = (props: React.HTMLAttributes<HTMLDivElement>) => (
   <IconComponent iconName="zoom_out_map" {...props} />
