@@ -15,7 +15,7 @@ type Icon = {
 
 let indexHeader = `
 import React from "react";
-import IconComponent from "./IconComponent";
+import IconComponent from "../IconComponent";
 `;
 
 function toCamelCase(str: string): string {
@@ -43,6 +43,8 @@ function nameToComponentName(str: string): string {
 function generateComponent(icon: Icon): string {
   const name = nameToComponentName(icon.name);
   return `
+  ${indexHeader}
+  
   /**
    * icon name: ${icon.name}
    *
@@ -54,7 +56,10 @@ function generateComponent(icon: Icon): string {
   */
   const ${name} = (props: React.HTMLAttributes<HTMLDivElement>) => <IconComponent iconName="${
     icon.name
-  }" {...props} />;\n`;
+  }" {...props} />;
+
+  export default ${name}
+  `;
 }
 
 async function main() {
@@ -62,21 +67,29 @@ async function main() {
   const response = await fetch("https://fonts.google.com/metadata/icons");
   const data = JSON.parse((await response.text()).replace(")]}'", ""));
   let icons: Icon[] = data.icons;
-  let indexContent = indexHeader;
 
-  icons.forEach((icon) => {
-    indexContent += generateComponent(icon);
-  });
+  for (const icon of icons) {
+    await fs.promises.writeFile(
+      `src/components/${icon.name}.tsx`,
+      await prettier.format(generateComponent(icon), { parser: "typescript" }),
+      "utf8"
+    );
+  }
 
-  indexContent += `
-  export {
-    ${icons.map((icon) => nameToComponentName(icon.name)).join(",\n")}
-  };
-    `;
-
+  // generate index.ts
   await fs.promises.writeFile(
-    "src/index.tsx",
-    await prettier.format(indexContent, { parser: "typescript" }),
+    `src/components/index.ts`,
+    await prettier.format(
+      icons
+        .map(
+          (icon) =>
+            `export { default as ${nameToComponentName(icon.name)} }  from "./${
+              icon.name
+            }";`
+        )
+        .join("\n"),
+      { parser: "typescript" }
+    ),
     "utf8"
   );
 }

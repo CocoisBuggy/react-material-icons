@@ -9,7 +9,7 @@ export default defineConfig({
   build: {
     lib: {
       // Specifies the entry point for building the library.
-      entry: "./src/index.tsx",
+      entry: "./src/index.ts",
       name: "react-material-icons",
       fileName: (format) => `index.${format}.js`,
       // We're going to need CJS and ES formats for bundling.

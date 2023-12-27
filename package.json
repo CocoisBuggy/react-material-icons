@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "generator": "cd ./scripts && tsc && cd .. && node ./scripts/generateIconComponents.js && rm ./scripts/generateIconComponents.js",
-    "build": "rm -R ./dist ; npm run generator && tsc && vite build"
+    "build": "rm ./src/components/* ; npm run generator && rm -R ./dist ; tsc && vite build"
   },
   "keywords": [
     "google icons",
