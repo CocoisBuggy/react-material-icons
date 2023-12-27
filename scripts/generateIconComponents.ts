@@ -1,6 +1,6 @@
 import fs from "fs";
-var converter = require("number-to-words");
 import prettier from "prettier";
+import converter from "number-to-words";
 
 type Icon = {
   name: string;

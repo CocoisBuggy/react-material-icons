@@ -2,15 +2,16 @@
   "name": "@cocobugs/react-material-icons",
   "version": "1.0.4",
   "description": "An expression of all material icons in React components without the need for the MUI baggage",
-  "main": "dist/index.js",
+  "type": "module",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
-    "generator": "ts-node ./scripts/generateIconComponents.ts",
-    "build:tsc": "rm -R ./dist ; npm run generator && tsc",
-    "babel": "babel src --out-dir dist --extensions \".js,.jsx\"",
-    "build": "npm run build:tsc && npm run build:esm && npm run build:cjs",
-    "build:esm": "BABEL_ENV=esm babel src --out-dir dist/esm --extensions '.ts,.tsx' --source-maps inline",
-    "build:cjs": "BABEL_ENV=cjs babel src --out-dir dist/cjs --extensions '.ts,.tsx' --source-maps inline"
+    "generator": "cd ./scripts && tsc && cd .. && node ./scripts/generateIconComponents.js && rm ./scripts/generateIconComponents.js",
+    "build": "rm -R ./dist ; npm run generator && tsc && vite build"
   },
   "keywords": [
     "google icons",
@@ -28,17 +29,16 @@
   "homepage": "https://github.com/CocoisBuggy/react-material-icons",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.23.4",
-    "@babel/core": "^7.23.6",
-    "@babel/preset-env": "^7.23.6",
-    "@babel/preset-react": "^7.23.3",
+    "@types/number-to-words": "^1.2.3",
     "@types/react": "^18.2.45",
     "number-to-words": "^1.2.4",
     "prettier": "^3.1.1",
     "react": "^17.0.0 || ^18.2.0",
     "react-dom": "^17.0.0 || ^18.2.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vite-plugin-dts": "^3.7.0"
   },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.2.0",

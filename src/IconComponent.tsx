@@ -1,4 +1,4 @@
-import React, { ReactElement, ReactNode } from "react";
+import React, { ReactElement } from "react";
 
 interface IconComponentProps extends React.HTMLAttributes<HTMLDivElement> {
   iconName: string;
